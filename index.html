@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Estratos</title>
+  <meta name="description" content="Feed de artigos e descobertas acadêmicas sobre a Bíblia e o cristianismo: arqueologia, manuscritos, história e teologia.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%2324408E'/><path d='M7 10h18M7 16h18M7 22h18' stroke='%23F3F3EF' stroke-width='2.5'/></svg>">
+</head>
+<body>
+
+<header class="site-head">
+  <a class="wordmark" href="./">Estratos</a>
+  <p class="tagline">O que a pesquisa acadêmica está descobrindo sobre a Bíblia e o cristianismo, reunido em um só lugar.</p>
+  <p class="status" id="status">Carregando o feed…</p>
+</header>
+
+<nav class="controls" aria-label="Filtros">
+  <div class="topics" id="topics" role="tablist">
+    <button role="tab" data-topic="" aria-selected="true">Tudo</button>
+    <button role="tab" data-topic="arqueologia">Arqueologia</button>
+    <button role="tab" data-topic="manuscritos">Manuscritos</button>
+    <button role="tab" data-topic="historia">História</button>
+    <button role="tab" data-topic="teologia">Teologia</button>
+    <button role="tab" data-topic="ciencia">Ciência</button>
+  </div>
+  <div class="tools">
+    <label class="peer-toggle"><input type="checkbox" id="peer"> Só revisados por pares</label>
+    <input class="search" id="search" type="search" placeholder="Buscar no feed" aria-label="Buscar no feed">
+  </div>
+</nav>
+
+<main class="feed" id="feed" aria-live="polite"></main>
+
+<p class="more-wrap"><button class="more" id="more" hidden>Mostrar mais</button></p>
+
+<footer class="site-foot">
+  <details>
+    <summary>Fontes</summary>
+    <p class="sources" id="sources"></p>
+  </details>
+  <p>Atualizado automaticamente a cada seis horas. Os artigos pertencem a seus autores e editoras; aqui ficam apenas o título, o resumo e o link.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3433 @@
+{
+ "updated": "2026-09-08T23:38+00:00",
+ "sources": [
+  "'Atiqot",
+  "ACTS Theological Journal",
+  "ASOR",
+  "African Journal of Religious and Theological Studies",
+  "Al-Adyan: Journal of Religious Studies",
+  "Ancient Jew Review",
+  "Annals of Social Sciences & Management Studies",
+  "Arte & Ensaios",
+  "Asian Theatre Journal",
+  "Athens Journal of History",
+  "Athens Journal of Mediterranean Studies",
+  "Australian Energy Producers Journal",
+  "Babcock University Journal of History and International Studies (BUJOHIS)",
+  "Bible & Interpretation",
+  "Biblica et Patristica Thoruniensia",
+  "Biblical Archaeology Society",
+  "Biblical Interpretation",
+  "Biblical Theology Bulletin: Journal of Bible and Culture",
+  "Bio-grafía",
+  "Bulletin for Biblical Research",
+  "COMMUNIO VIATORUM",
+  "Canon&Culture",
+  "Christianity in the Middle East",
+  "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
+  "Currents in Biblical Research",
+  "Dead Sea Discoveries",
+  "Digital Scholarship in the Humanities",
+  "Evangelical Textual Criticism",
+  "FRONTIERS OF LAW JOURNAL",
+  "Filozoficzne Aspekty Genezy",
+  "Frontiers in Environmental Archaeology",
+  "Gnosis",
+  "Heródoto: Revista do Grupo de Estudos e Pesquisas sobre a Antiguidade Clássica e suas Conexões Afro-asiáticas",
+  "Hyperboreus",
+  "International Islamic Sciences Journal",
+  "International Journal For Multidisciplinary Research",
+  "International Journal Of History And Political Sciences",
+  "International Journal of African Innovation and Multidisciplinary Research",
+  "International Journal of Historical Archaeology",
+  "International Journal of Science and Research (IJSR)",
+  "International Journal of Science and Research Archive",
+  "International Journal of Systematic Theology",
+  "Israel Affairs",
+  "Ivy Enber Scientific Journal",
+  "JURNAL ILUMINASI",
+  "JURNALISTRENDI : JURNAL LINGUISTIK, SASTRA, DAN PENDIDIKAN",
+  "Journal for the Study of Judaism",
+  "Journal for the Study of the Historical Jesus",
+  "Journal for the Study of the New Testament",
+  "Journal for the Study of the Old Testament",
+  "Journal of Ancient Judaism",
+  "Journal of Archaeological Science",
+  "Journal of Bible & classical languages and literature",
+  "Journal of Early Christian Studies",
+  "Journal of Early Modern Christianity",
+  "Journal of Early Modern History",
+  "Journal of Eastern Christian Studies",
+  "Journal of Field Archaeology",
+  "Journal of History Research",
+  "Journal of Jewish Studies",
+  "Journal of Language, Culture, and Religion",
+  "Journal of Mediterranean Archaeology",
+  "Jurnal Iluminasi",
+  "Khoa Học Công Giáo và Đời Sống",
+  "Levant",
+  "Live Science",
+  "Logos et Praxis",
+  "Madang: Journal of Contextual Theology",
+  "Mediterranea, International Journal on the Transfer of Knowledge",
+  "Modern Believing",
+  "Modern Theology",
+  "Multitudes",
+  "Near Eastern Archaeology",
+  "New Blackfriars",
+  "Nouvelle revue théologique",
+  "Novum Testamentum",
+  "PaleoJudaica",
+  "Perspectiva",
+  "Pharos Journal of Theology",
+  "Philippine Journal of Otolaryngology Head and Neck Surgery",
+  "Phys.org - Arqueologia",
+  "Qadum: Journal of Excavation Reports from Israel",
+  "Raisons politiques",
+  "Reading Acts",
+  "Religion Compass",
+  "Religions",
+  "Religious Studies Review",
+  "Review of Ecumenical Studies",
+  "Review of Rabbinic Judaism",
+  "Revue Sens",
+  "Revue des deux Mondes",
+  "ScienceDaily - Arqueologia",
+  "St. Tikhons' University Review",
+  "Studi Slavistici",
+  "Studia Biblica Slovaca",
+  "Studia Universitatis Babeș-Bolyai Sacra Scripta",
+  "Studia theologica",
+  "TELEIOS: Jurnal Teologi dan Pendidikan Agama Kristen",
+  "Tel Aviv",
+  "Text & Canon Institute",
+  "Textus",
+  "The Bart Ehrman Blog",
+  "The Bible Translator",
+  "The Catholic Biblical Quarterly",
+  "The Expository Times",
+  "The French Review",
+  "The Institute of Humanities",
+  "The Institute of Mind Humanities",
+  "The Journal of Hebrew Scriptures",
+  "The Journal of Theological Studies",
+  "The Southern Journal of Philosophy",
+  "Theological Studies",
+  "Theology",
+  "Theology in Scotland",
+  "Trio",
+  "Tyndale House",
+  "Verbum Vitae",
+  "Verbum et Ecclesia",
+  "Women in Judaism: A Multidisciplinary e-Journal",
+  "Zeitschrift für Antikes Christentum / Journal of Ancient Christianity",
+  "Богословский сборник Тамбовской духовной семинарии"
+ ],
+ "articles": [
+  {
+   "title": "Deciphered Dead Sea Scroll Reveals 364-Day Calendar",
+   "url": "https://www.biblicalarchaeology.org/daily/news/qumran-community-364-day-calendar/",
+   "summary": "Researchers recently deciphered one of the last two remaining Dead Sea Scrolls. Written in code, the scroll describes a 364-day calendar used by the Qumran community that lived in the Judean Desert.",
+   "date": "2026-09-08",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "The Temple on Mount Gerizim—In the Bible and Archaeology",
+   "url": "https://www.biblicalarchaeology.org/daily/the-temple-on-mount-gerizim-in-the-bible-and-archaeology/",
+   "summary": "Temples have been found throughout the ancient Near East. What went on at these sites? Along with reconstructing architectural remains, can scholars piece together ancient worship practices?",
+   "date": "2026-09-08",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Did wildfires help spark the invention of pottery?",
+   "url": "https://phys.org/news/2026-09-wildfires-pottery.html",
+   "summary": "A new study suggests that a period of intense fires and landscape upheaval in the ancient southern Levant may have helped create the conditions that led Neolithic communities to discover how fire could transform clay.",
+   "date": "2026-09-08",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Extracanonical Traditions and the Holy Land (Mohr Siebeck)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/extracanonical-traditions-and-holy-land.html",
+   "summary": "NEW BOOK FROM MOHR SIEBECK:Extracanonical Traditions and the Holy Land Texts, Rituals, and Material Culture in Late Antique Palestine Edited by Harald Buchinger, Laura S. Lieber, Andreas Merkt, and Tobias Nicklas, in collaboration with Andrea Ackermann and Charlotte von Schelling 2026. 331 pages. Studien und Texte zu…",
+   "date": "2026-09-08",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Did scribes correct the biblical text?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/did-scribes-correct-biblical-text.html",
+   "summary": "DR. JUHA PAKKALA: Scribes Edited the Bible to Omit Problematic Texts (TheTorah.com).Did Hannah stand before YHWH in the Temple? Were Israelite males to see YHWH’s face three times a year? Did Moses and the elders see God on Mount Sinai? Were there temples to YHWH at Hebron and Samaria? The evidence shows that ancient…",
+   "date": "2026-09-08",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Voices of Wing and Bone",
+   "url": "https://www.ancientjewreview.com/read/2026/9/7/voices-of-wing-and-bone",
+   "summary": "Voice makes moral and relational claims. It anchors awareness in the particular. The textualized voice and voiced text lay claim to the attention of their audiences in ways that defy apathy, demand engagement, and render the past both vivid and urgent.",
+   "date": "2026-09-08",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Modern Appearances of Jesus",
+   "url": "https://ehrmanblog.org/modern-appearances-of-jesus-2/",
+   "summary": "I sometimes get asked why the Blessed Virgin Mary (allegedly) appears to people all the time but not Jesus. As it turns, out, we may not hear about them as much, but there are appearances of Jesus that are recorded, some of them quite striking (here I'm not talking about in dreams but in waking",
+   "date": "2026-09-08",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Were the Greek Gods Actually Minoan?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/were-greek-gods-actually-minoan/",
+   "summary": "Long before the world of classical Greece, the island of Crete was home to the Minoans, one of the great civilizations of the Bronze Age Mediterranean.",
+   "date": "2026-09-07",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Jonah - the inner-biblical anti-prophet?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/jonah-inner-biblical-anti-prophet.html",
+   "summary": "PROF. JONATHAN RABINOWITZ: Jonah the Anti-Prophet (TheTorah.com).The book of Jonah is infused with allusions to earlier biblical characters: its prophet flees like Cain, wills the city overturned–unlike Abraham, collapses like Elijah, passes through a Noah-like storm, and quotes Moses’ words of compassion as a…",
+   "date": "2026-09-07",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "How did Prof. David M. Carr change his mind?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/how-did-prof-david-m-carr-change-his.html",
+   "summary": "SYMPOSIUM: I CHANGED MY MIND: The Limits of Memory and Scrolls: How the Torah Was Composed (Prof. David M. Carr, TheTorah.com).I have changed my mind so often over the last decades, on so many topics, but if pressed to focus on just one instance, I would emphasize how I have come to see the formation of the Bible as…",
+   "date": "2026-09-07",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Tenney, Administrative Reality and Scribal Apparatus in the Middle Babylonian Period ... (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/tenney-administrative-reality-and.html",
+   "summary": "NEW BOOK FROM BRILL:Administrative Reality and Scribal Apparatus in the Middle Babylonian Period, with Accompanying Texts Series: Harvard Semitic Monographs, Volume: 67 Author: Jonathan S. Tenney This book provides editions of 325 Akkadian texts, reconstructs aspects of the political recording process, and presents…",
+   "date": "2026-09-07",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "The Epistles of John: Origins, Authorship, Purpose. By Hugo Méndez",
+   "url": "https://doi.org/10.1093/jts/flag076",
+   "summary": "",
+   "date": "2026-09-07",
+   "source": "The Journal of Theological Studies",
+   "authors": "M David Litwa",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Paul and the Slave Girl in Philippi",
+   "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/paul-and-the-slave-girl-in-philippi/",
+   "summary": "Some may be surprised that a passage in the Bible has a connection to Python from Greek mythology.",
+   "date": "2026-09-06",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at Saqqara",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptian-tomb-holding-the-kings-keeper-of-secrets-unearthed-at-saqqara",
+   "summary": "The tomb of a pyramid-age official has been found at Saqqara in Egypt.",
+   "date": "2026-09-06",
+   "source": "Live Science",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Raithel, \"Auge um Auge…\" (\"An Eye for an Eye...\" (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/raithel-auge-um-auge-eye-for-eye-brill.html",
+   "summary": "NEW BOOK FROM BRILL:»Auge um Auge…« Eine Rezeptionsgeschichte der biblischen Talionsformel im Antiken Judentum Series: Ancient Judaism and Early Christianity, Volume: 124 Author: Jan Raithel Kaum ein biblisches Zitat ist so bekannt – und zugleich so missverstanden – wie »Auge um Auge, Zahn um Zahn…«. Vor allem…",
+   "date": "2026-09-06",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Committed Apologists and Serious Historians",
+   "url": "https://ehrmanblog.org/committed-apologists-and-serious-historians/",
+   "summary": "Not to be the dog across the street who won’t stop barking all night, but…. Here is another post on committed Christian apologists who insist they are doing serious history. To ward off a misunderstanding: It is absolutely possible for a Bible-believing conservative evangelical to be a university-level,…",
+   "date": "2026-09-06",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Antiochus Epiphanes—The Bible’s Most Notoriously Forgotten Villain",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/antiochus-epiphanes-the-bibles-most-notoriously-forgotten-villain/",
+   "summary": "Many names come to mind when someone mentions the great “villains” of the Bible. Some are foreign powers, like the Pharaoh of the Exodus or",
+   "date": "2026-09-05",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Stefanut, The Therapeutae as the Best Paradigm for the Contemplative Life (Mohr Siebeck)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/stefanut-therapeutae-as-best-paradigm.html",
+   "summary": "NEW BOOK FROM MOHR SIEBECK:Romulus D. Stefanut The Therapeutae as the Best Paradigm for the Contemplative Life A Contextual Reading of Philo of Alexandria's De Vita Contemplativa 2026. 235 pages. Wissenschaftliche Untersuchungen zum Neuen Testament 2. Reihe (WUNT II) 659 €79.00 including VAT sewn paper available…",
+   "date": "2026-09-05",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Two Intrigues About Noah’s Flood",
+   "url": "https://ehrmanblog.org/two-intrigues-about-noahs-flood/",
+   "summary": "The Flood of Noah is one of the most familiar stories of the Bible. But even those who know it well often don’t think about how it actually envisions the world (or rather, universe) or know about comparable stories from other (even more ancient) Near Eastern cultures (though some will know about the Epic of",
+   "date": "2026-09-05",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Lost City Found on Egypt’s Way of Horus?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/lost-city-found-on-egypts-way-of-horus/",
+   "summary": "New excavations at Tel Abu Saify, in Egypt’s eastern Delta region, are shedding light on a major site along the ancient Way of Horus, a",
+   "date": "2026-09-04",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "3,200-year-old inscription may point to a long-lost ancient Egyptian city from the time of Ramesses II",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/3-200-year-old-inscription-may-point-to-a-long-lost-ancient-egyptian-city-from-the-time-of-ramesses-ii",
+   "summary": "An inscription written in the time of Ramesses II may indicate the location of a lost ancient Egyptian city.",
+   "date": "2026-09-04",
+   "source": "Live Science",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Does the \"Pilate\" ring mention Pilate after all?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/does-pilate-ring-mention-pilate-after.html",
+   "summary": "PESKY PONTIUS PILATE RING PHILOLOGY: What’s in an ‘O’? New UCLA research may unlock mystery of ring tied to Pontius Pilate. Drawing clues from the ring’s inscription, UCLA professor Catherine Bonesho rebuts previous scholarship about the 2,000-year-old relic (Sean Brenner, UCLA Newsroom).Key takeaways One letter…",
+   "date": "2026-09-04",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Hopkins &. Fassberg (eds.), A Handbook of Neo-Aramaic (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/hopkins-fassberg-eds-handbook-of-neo.html",
+   "summary": "NEW BOOK FROM BRILL:A Handbook of Neo-Aramaic Series: Brill's Handbooks in Linguistics, Volume: 6 Editors: Simon Hopkins and Steven E. Fassberg The Handbook of Neo-Aramaic aims to provide an introduction to, and details of the complex world of Neo-Aramaic. This large family of endangered Neo-Semitic languages is (or…",
+   "date": "2026-09-04",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Review of Redfield, Plato's Seventh Letter",
+   "url": "http://paleojudaica.blogspot.com/2026/09/review-of-redfield-platos-seventh-letter.html",
+   "summary": "BRYN MAYR CLASSICAL REVIEW: Plato’s Seventh Letter. James M. Redfield, Plato's Seventh Letter. Indianapolis: Hackett, 2026. Pp. 128. ISBN 9781647922566. Review by Colin C. Smith, Creighton University. colinsmith2@creighton.edu ... The Seventh Letter is the longest and most significant of the 13 letters attributed to…",
+   "date": "2026-09-03",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "How did Prof. Emanuel Tov change his mind?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/how-did-prof-emanuel-tov-change-his-mind.html",
+   "summary": "SYMPOSIUM: I CHANGED MY MIND: Revised Editions: What Right Do I Have to Try and Convince You Again? (Prof. Emanuel Tov, TheTorah.com).On a more emotional level, I was also apprehensive about having misled a generation of readers with views that I expressed authoritatively but no longer subscribe to. With every…",
+   "date": "2026-09-03",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Journal of Greco-Roman Judaism and Christianity (JGRChJ).",
+   "url": "http://paleojudaica.blogspot.com/2026/09/journal-of-greco-roman-judaism-and.html",
+   "summary": "THE AWOL BLOG: Open Access Journal: Journal of Greco-Roman Judaism and Christianity (JGRChJ). I'm glad to see that JGRChJ is still active. Mentioned previously here and here. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-09-03",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Angels Seducing Women and the Rite of Circumcision: Two Peculiarities of Genesis",
+   "url": "https://ehrmanblog.org/angels-seducing-women-and-the-rite-of-circumcision-two-peculiarities-of-genesis/",
+   "summary": "Was Noah’s flood meant to destroy the giants born to women seduced by angelic beings? And what exactly was the point of circumcision? I continue here my discussion of Hebrew Bible points of interest by sharing two more of the side-boxes found in my book The Bible: A Historical and Literary Introduction, 2nd ed. (Oxford",
+   "date": "2026-09-03",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Exploring the Land of Abraham’s Birth",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/exploring-land-abrahams-birth/",
+   "summary": "The city of Urfa (known as Şanlıurfa in Turkish) is a living tapestry of faith. Nestled in southeastern Turkey and revered as the “city of",
+   "date": "2026-09-02",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Elder Care in Antiquity",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/elder-care-in-antiquity/",
+   "summary": "Although family members typically cared for the elderly in antiquity, the concept of places dedicated to elder care is by no means a modern invention.",
+   "date": "2026-09-02",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Friends of ASOR Tours: Tunisia 2027",
+   "url": "https://www.asor.org/news/2026/09/tour-tunisia-2027?utm_source=rss&utm_medium=rss&utm_campaign=friends-of-asor-tours-tunisia-2027",
+   "summary": "FRIENDS OF ASOR TOURS 2027 Archaeological Tour of Tunisia Discover Tunisia’s extraordinary blend of ancient cities, sacred landscapes, and desert fortresses on this new Friends of ASOR journey coming in […] The post Friends of ASOR Tours: Tunisia 2027 first appeared on American Society of Overseas Research (ASOR) .…",
+   "date": "2026-09-02",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "2026 Annual Meeting Highlights",
+   "url": "https://www.asor.org/news/2026/09/annual-meeting-highlights?utm_source=rss&utm_medium=rss&utm_campaign=2026-annual-meeting-highlights",
+   "summary": "2026 ANNUAL MEETING HIGHLIGHTS We are looking forward to seeing everyone for the Annual Meeting in November! For those coming to Chicago there are many reasons to come early and […] The post 2026 Annual Meeting Highlights first appeared on American Society of Overseas Research (ASOR) . The post 2026 Annual Meeting…",
+   "date": "2026-09-02",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Hidden DNA in medieval gospels reveals history of deadly livestock virus",
+   "url": "https://phys.org/news/2026-09-hidden-dna-medieval-gospels-reveals.html",
+   "summary": "Some of Europe's most well-known historic manuscripts, including the York Gospels, have proven to be biological time capsules for uncovering the 3,500-year history of the sheeppox virus (SPPV).",
+   "date": "2026-09-02",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "What's in an 'O'? Unusual Greek spelling may unlock mystery of ring tied to Pontius Pilate",
+   "url": "https://phys.org/news/2026-09-unusual-greek-mystery-pontius-pilate.html",
+   "summary": "It's a small, simple ring made of copper alloy and engraved with a handful of Greek letters and the image of a pottery vessel. But its unremarkable appearance belies a remarkable history: The signet was likely connected in some way to the New Testament figure Pontius Pilate, the Roman governor of Judea during the…",
+   "date": "2026-09-02",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Kanarek on Beyond Brutality",
+   "url": "http://paleojudaica.blogspot.com/2026/09/kanarek-on-beyond-brutality.html",
+   "summary": "ANCIENT JEW REVIEW: Reclaiming Female Presence in Bavli Sotah (Jane Kanarek).It may seem paradoxical to talk about noticing female presence in a tractate titled after a category of woman: the sotah, a woman accused of having sex with a man other than her husband. Yet this theoretical assumption of women's presence,…",
+   "date": "2026-09-02",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "The Yeshua Scroll in the Green Jar??",
+   "url": "http://paleojudaica.blogspot.com/2026/09/the-yeshua-scroll-in-green-jar.html",
+   "summary": "MODERN CHRISTIAN APOCRYPHA WATCH: A new modern apocryphon – Scott Wolter and the “Yeshua Scroll in the Green Jar” (Roger Pearse). Sounds fake to me. People never get tired of finding new biblical apocrypha. Of course Roger and I can be corrected any time if an actual ancient Yeshua Scroll in the Green Jar is produced…",
+   "date": "2026-09-02",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "How did Prof. Tammi J. Schneider change her mind?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/how-did-prof-tammi-j-schneider-change.html",
+   "summary": "SYMPOSIUM: I CHANGED MY MIND: Does the Bible Have Meaning Out of Context? (Prof. Tammi J. Schneider, TheTorah.com).A colleague of mine, a scholar of English literature who excavated with me for a decade, started applying the phrase “an object out of context has no meaning” to words, texts, and historical moments. For…",
+   "date": "2026-09-02",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "The Part You Don’t See",
+   "url": "https://www.ancientjewreview.com/read/2026/7/29/the-part-you-dont-see",
+   "summary": "As a made thing, a book comprises not one, but two sets of working components. There are the pieces of the book itself as you see it: the chapters, images, bibliography. But then there are the book’s prior versions, earlier iterations that were both necessary for its development at a specific moment and then ripe for…",
+   "date": "2026-09-02",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "How Old Was Jesus When He Was Baptized? And When He Died?",
+   "url": "https://ehrmanblog.org/how-old-was-jesus-when-he-was-baptized-and-when-he-died/",
+   "summary": "I have been talking about Jesus' life before he was baptized, the so-called \"Lost Years.\" But how many years was that? How old was he when he met up with John the Baptist? And beyond that, how long did his ministry last? How old was he when he died? The standard line is that Jesus",
+   "date": "2026-09-02",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Decentering Jesus: From Self-Sufficient Great Man to Multicentered Collectives of Wo/men",
+   "url": "https://doi.org/10.1163/17455197-bja10063",
+   "summary": "Elisabeth Schüssler Fiorenza’s Jesus and the Politics of Interpretation (2000) presents a thoroughgoing feminist analysis and critique of the boom in Historical-Jesus scholarship in the late 20th century. In this article, we review two interrelated themes that feature significantly in this landmark book, and which…",
+   "date": "2026-09-02",
+   "source": "Journal for the Study of the Historical Jesus",
+   "authors": "Melanie Johnson-DeBaufre, Shelly Matthews",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Spring 2026 Caption Contest Winners",
+   "url": "https://www.biblicalarchaeology.org/cartoon-captions/caption-contest-winners/spring-2026-3/",
+   "summary": "And the winner is… “Were you trying to sneak more than 3.4 fluid ounces in your carry-on?” Joseph Mitgang, Woodmere, New York Thank you to",
+   "date": "2026-09-01",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Fall 2026 Caption Contest",
+   "url": "https://www.biblicalarchaeology.org/cartoon-captions/caption-contest/fall-2026-2/",
+   "summary": "Write a caption for this cartoon, based on Acts 14:11–12, and submit it to our Caption Contest.",
+   "date": "2026-09-01",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Reading the Gospels with Eusebius",
+   "url": "https://textandcanon.org/reading-the-gospels-with-eusebius/",
+   "summary": "The symbols of the four Evangelists atop a highly decorated Eusebian canon in the Book of Kells (f. 2r). Trinity College Dublin We never read alone. Like all readers, we live within our own historical and cultural contexts. We read as part of communities and are nudged (often without realizing it) by a range of…",
+   "date": "2026-09-01",
+   "source": "Text & Canon Institute",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Using Viscous Remnant Magnetization to detect forged ceramics",
+   "url": "http://paleojudaica.blogspot.com/2026/09/using-viscous-remnant-magnetization-to.html",
+   "summary": "TECHNOLOGY WATCH: Earth's Magnetic Field Can Help Archaeologists Sniff Out Forged Antiquities (Ariel David, Haaretz).This Viscous Remnant Magnetization, or VRM, is a bit of a nuisance in most paleomagnetic experiments. Researchers treat it as noise and remove it by heating their sample in order to focus on the main…",
+   "date": "2026-09-01",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "How did Dr. Rabbi Bradley Shavit Artson change his mind?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/how-did-dr-rabbi-bradley-shavit-artson.html",
+   "summary": "SYMPOSIUM: I CHANGED MY MIND: When I Stopped Seeing the Bible Only as Good, It Got Better (Dr. Rabbi Bradley Shavit Artson, TheTorah.com).At around the middle of rabbinical school, as I dove deeper into Tanakh and rabbinic law, and I had access both to modern academia and to traditional parshanut, I kept finding…",
+   "date": "2026-09-01",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Virtus et Humanitas (Waxmann)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/virtus-et-humanitas-waxmann.html",
+   "summary": "THE AWOL BLOG: Virtus et Humanitas: Bridging Virtues and Values of Greco-Roman, Jewish, and Christian Paideia. Notice of a New Book published by Waxman Publishers:Gabriella Gelardini, Kåre S. Fuglseth, Per Jarle Bekken (Hrsg.) Virtus et Humanitas: Bridging Virtues and Values of Greco-Roman, Jewish, and Christian…",
+   "date": "2026-09-01",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "My Interview with James Carville",
+   "url": "https://ehrmanblog.org/my-interview-with-james-carville/",
+   "summary": "About a week ago, out of the blue, I was contacted by the producer of James Carville's podcast/youtube channel to do an interview. Most of you know him well -- he's one of the top political strategists of our time and an incredibly personable, affable, and funny guy. Unlike me on the blog, he is",
+   "date": "2026-09-01",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Logos Free Book of the Month: Graham A. Cole, Engaging with the Holy Spirit",
+   "url": "https://readingacts.com/2026/09/01/logos-free-book-of-the-month-graham-a-cole-engaging-with-the-holy-spirit/",
+   "summary": "How do I get free commentaries for Logos Bible Software?",
+   "date": "2026-09-01",
+   "source": "Reading Acts",
+   "category": "teologia",
+   "peer": false
+  },
+  {
+   "title": "Emotion in Early Christianity by Andrew Crislip (review)",
+   "url": "https://doi.org/10.1353/earl.2026.a997486",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal of Early Christian Studies",
+   "authors": "Michelle Freeman",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Temple as Palimpsest: Remembering the House of God in Early Christianity",
+   "url": "https://doi.org/10.1353/earl.2026.a997481",
+   "summary": "Cultural memory constitutes the way that cultures remember their past to define themselves in the present. Recent work in this area of study analyzes how a given culture’s memory is not confined to its specific cultural origin but often travels into other cultures and shapes their notions of cultural memory. This…",
+   "date": "2026-09-01",
+   "source": "Journal of Early Christian Studies",
+   "authors": "Philip Abbott",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "City of Gods: The New Jerusalem of John’s Revelation in Early Christianity by Nathan Betz (review)",
+   "url": "https://doi.org/10.1353/earl.2026.a997493",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal of Early Christian Studies",
+   "authors": "Elisa Manzo",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Ellen Scully: Human Salvation in Early Christianity: Exploring the Theology of Physicalist Soteriology , Cambridge (Cambridge University Press) 2025, x + 329 pp., ISBN: 978-1-0095-2533-6, £ 90,–.",
+   "url": "https://doi.org/10.1515/zac-2026-0004",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Zeitschrift für Antikes Christentum / Journal of Ancient Christianity",
+   "authors": "Ilya Kaplan",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "A Memory of Violence: Syriac Christianity and the Radicalization of Religious Difference in Late Antiquity by Christine Shepardson (review)",
+   "url": "https://doi.org/10.1353/earl.2026.a997489",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal of Early Christian Studies",
+   "authors": "Nathan Tilley",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Jesus Koothu (The Story of Jesus Christ Based on the Bible), a Tholpavakoothu Play by Varghese Valappat",
+   "url": "https://doi.org/10.1353/atj.2026.a998147",
+   "summary": "This translation explores Jesus Koothu , a contemporary shadow-puppet production in which tholpavakoothu practitioners, for the first time, depart from Ramayana-based storytelling to adapt the form to the life of Jesus Christ, opening new intercultural dramaturgy and modern performance possibilities. While…",
+   "date": "2026-09-01",
+   "source": "Asian Theatre Journal",
+   "authors": "",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Rethinking Christian Origins in Mesopotamia through Mani’s Epistles",
+   "url": "https://doi.org/10.1163/2451859x-01102003",
+   "summary": "Mani’s epistles offer one of the earliest sources for thinking about Christianity in Mesopotamia. This article closely analyzes four of those epistles for what they reveal about community and identity formation in the diffuse, nascent movement coalescing around the figure of Mani in the mid-third century C.E. It…",
+   "date": "2026-09-01",
+   "source": "Gnosis",
+   "authors": "Jae Hee Han",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "A.-J. Levine elected president of the Catholic Biblical Association",
+   "url": "http://paleojudaica.blogspot.com/2026/08/a-j-levine-elected-president-of.html",
+   "summary": "APPOINTMENT: Jewish woman elected president of Catholic Biblical Association of America - interview. She is also the first Jewish scholar to teach the New Testament at the Pontifical Biblical Institute in Rome in 2019 (Mathilda Heller, Jerusalem Post).Prof. Amy-Jill Levine, who was elected at the 88th annual meeting…",
+   "date": "2026-08-31",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Hendel on cultural memory",
+   "url": "http://paleojudaica.blogspot.com/2026/08/hendel-on-cultural-memory.html",
+   "summary": "THE BIBLE AND INTERPRETATION:On Cultural Memory Cultural memory offers an approach to the Hebrew Bible that examines how representations of the past are shaped, transmitted, and transformed in relation to the communities that remember them. Important antecedents in the work of Wellhausen, Halbwachs, Alt, von Rad, and…",
+   "date": "2026-08-31",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "How did Prof. Sidnie White Crawford change her mind?",
+   "url": "http://paleojudaica.blogspot.com/2026/08/how-did-prof-sidnie-white-crawford.html",
+   "summary": "SYMPOSIUM: I CHANGED MY MIND: There Were Three Torah Texts—Until We Found the Dead Sea Scrolls (Prof. Sidnie White Crawford, TheTorah.com).What I found when I looked at the manuscripts from this new perspective was a complex web of relationships, with many streams of textual tradition. Jewish scribes in the…",
+   "date": "2026-08-31",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Mummy Portraits and the White Gaze",
+   "url": "https://www.ancientjewreview.com/read/2026/7/26/mummy-portraits-and-the-white-gaze",
+   "summary": "In her latest book, Ellen Muehlberger asks us to sit in the tensive space between knowing and seeing.",
+   "date": "2026-08-31",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Thoughts on Medieval Knowing",
+   "url": "https://www.ancientjewreview.com/read/2026/6/28/thoughts-on-medieval-knowing",
+   "summary": "It is too early to know what emerita Ellen will be like, so for now, let us enjoy being in the presence of and reading the writings of medieval Ellen.",
+   "date": "2026-08-31",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Rekonstruksi Pelafalan YHWH Berdasarkan Bukti Masoretik, Transliterasi Yunani Kuno, Tradisi Qumran, dan Kajian Linguistik Ibrani Modern",
+   "url": "https://doi.org/10.55606/corammundo.v8i2.727",
+   "summary": "The pronunciation of the Tetragrammaton (יהוה, YHWH) is one of the most debated philological and theological issues in Old Testament studies. The loss of the pronunciation tradition stemming from Jewish reverence for the Divine Name has led to various proposed reconstructions, ranging from \"Yahweh\" and \"Jehovah\" to…",
+   "date": "2026-08-31",
+   "source": "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
+   "authors": "Luciana Haryanto, Kristian H. Sugiyarto, Yusep Arimatea",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "New Testament Textual Criticism for the 21st Century: A Practical Guide. By Charles L. Quarles",
+   "url": "https://doi.org/10.1093/jts/flag074",
+   "summary": "",
+   "date": "2026-08-31",
+   "source": "The Journal of Theological Studies",
+   "authors": "John C P Smith",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Ancient Egyptian princesses were buried with weapons. Their bones reveal why",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm",
+   "summary": "Weapons buried with ancient Egyptian princesses may have been more than ceremonial decorations. Researchers studying royal mummies from Dahshur found bone changes consistent with years of archery and other strenuous weapon use. Several women also showed evidence of healed injuries, suggesting surprisingly active…",
+   "date": "2026-08-30",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Launderville, Ezekiel 1–24 (SBL)",
+   "url": "http://paleojudaica.blogspot.com/2026/08/launderville-ezekiel-124-sbl.html",
+   "summary": "NEW BOOK FROM SBL PRESS:Ezekiel 1–24: Introduction and Commentary Dale F. Launderville ISBN 9781628378672 Status Available Publication Date July 2026 Hardback $100.00 Paperback $80.00 eBook $80.00 In volume 1 of his cutting-edge two-volume commentary, Dale F. Launderville relies on the Hebrew, Old Greek, Aramaic,…",
+   "date": "2026-08-30",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "More on Jesus’ Upbringing",
+   "url": "https://ehrmanblog.org/more-on-jesuss-upbringing/",
+   "summary": "I continue here with events from Jesus’ life before he started his public ministry that I think we can treat as historical. (If you need some background on how I’m claiming this information is historical, see the previous post). His Parents In all our sources Jesus’ parents are assumed to be Jewish. They, as",
+   "date": "2026-08-30",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Kanarek, ... Reclaiming Female Presence in Bavli Sotah",
+   "url": "http://paleojudaica.blogspot.com/2026/08/kanarek-reclaiming-female-presence-in.html",
+   "summary": "RECENT BOOK FROM BRANDEIS UNIVERSITY PRESS:Beyond Brutality Reclaiming Female Presence in Bavli Sotah Jane Kanarek Beyond Brutality draws on feminist analysis and gender studies to examine tractate Sotah of the Babylonian Talmud as a literary unit. By interrogating how, why, and where women are invisible within Bavli…",
+   "date": "2026-08-29",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "The Early Life of Jesus",
+   "url": "https://ehrmanblog.org/the-early-life-of-jesus/",
+   "summary": "I’ve been thinking a lot about the social/cultural/economic/historical context of Jesus lately, and reading a good bit on what we know about Galilee from the time. I’ll be saying more about all that anon, but I thought this might be a good chance to cover some of the basics on the blog – what do",
+   "date": "2026-08-29",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "The evidence for the Diaspora Revolt of 115-117 CE",
+   "url": "http://paleojudaica.blogspot.com/2026/08/the-evidence-for-diaspora-revolt-of-115.html",
+   "summary": "THE WORLD IS FULL OF HISTORY: The Forgotten Jewish Revolt That Erased a Civilization. Between the First and Second known revolts against Rome was another, by Jews outside Israel. Few sources survive but those that do describe the horror, on the Roman side (Elon Gilad, Haaretz).Two Jewish revolts against Rome have a…",
+   "date": "2026-08-28",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Review of MacDonald, Carthage: A New History",
+   "url": "http://paleojudaica.blogspot.com/2026/08/review-of-macdonald-carthage-new-history.html",
+   "summary": "PUNIC WATCH: Book Review: Carthage, A New History (Mike Markowitz, Strategy Page).by Eve MacDonald New York: W. W. Norton, 2025. Pp. vi, 363+. Illus, maps, diagr., notes, biblio., index. $39.99. ISBN: 1324123273 ... Carthage: A New History will be read with enjoyment by students of ancient history. Although this is…",
+   "date": "2026-08-28",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Platinum Lecture on October 1",
+   "url": "https://ehrmanblog.org/platinum-lecture-on-october-1/",
+   "summary": "Platinum members, we've got our next quarterly lecture on the calendar. It's an opportunity for Bart and just Platinum blog members get together on Zoom. Our topic for this quarter is: Matthew and the Rise of Anti-Judaism As always, there will be time at the end for questions…be prepared! Can't make it live? Don't…",
+   "date": "2026-08-28",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Fieldwork Report: Leticia Rodriguez",
+   "url": "https://www.asor.org/news/2026/06/fieldwork-report-rodriguez?utm_source=rss&utm_medium=rss&utm_campaign=fieldwork-report-leticia-rodriguez-2",
+   "summary": "Fieldwork Report: Leticia Rodriguez Leticia Rodriguez, 2025 Strange/Midkiff Families Scholarship Recipient In 2005, excavations began at the site of Antiochia ad Cragum, a city founded in the mid-first century CE […] The post Fieldwork Report: Leticia Rodriguez first appeared on American Society of Overseas Research…",
+   "date": "2026-08-27",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "peer": false
+  },
+  {
+   "title": "Surprising ingredients suggest ancient Egyptian paint was far more complex than previously assumed",
+   "url": "https://phys.org/news/2026-08-ingredients-ancient-egyptian-complex-previously.html",
+   "summary": "Ancient Egypt has left us a wealth of artistic treasures, including wall paintings, wooden coffins and limestone reliefs. Many retain their vibrant colors despite the passage of time, a testament to the ingredients used to make the paint mixtures. A new study published in the journal Science Advances has taken a…",
+   "date": "2026-08-27",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Ḥesed in the Hebrew Bible",
+   "url": "https://bibleinterp.arizona.edu/articles/hesed-hebrew-bible",
+   "summary": "Ḥesed in the Hebrew Bible melliott1 Thu, 08/27/2026 - 10:15 Ḥesed is a central theological term in the Hebrew Bible that is fundamentally relational, resistant to reduction to a single-word equivalent, and semantically multivalent. While earlier scholarship often treated this ambiguity as a lexical problem, recent…",
+   "date": "2026-08-27",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "My Odd Situation, Writing this Book…",
+   "url": "https://ehrmanblog.org/my-odd-situation-writing-this-book/",
+   "summary": "For the first time in my life, I’m not really sure what I'm going to be arguing in the book I’m working on.. As I’ve said before, some months ago my publisher suggested I change course for the next book. Instead of what I had been focusing on for some months (a book on the",
+   "date": "2026-08-27",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "How the World Was Created in 4004 BCE",
+   "url": "https://ehrmanblog.org/how-the-world-was-created-in-4004-bce/",
+   "summary": "Now that I've started talking about the Hebrew Bible on the blog, I think maybe I'll keep talking about it for a bit. Let's start at the beginning. As in \"In the Beginning...\" Lots of people know that (some) fundamentalist Christians insist the beginning was when the world was created \"6000 years ago.\" But most",
+   "date": "2026-08-26",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "From Enigma to Enoch",
+   "url": "https://doi.org/10.1163/15685179-bja10083",
+   "summary": "This article will explore the manner and method by which J.T. Milik created Enoch manuscripts from discrete fragments, identifying and contextualizing his editorial decisions made in the earliest decades of research on the Dead Sea Scrolls. I will bring together archival material from Milik’s personal archives…",
+   "date": "2026-08-26",
+   "source": "Dead Sea Discoveries",
+   "authors": "Elena Dugan",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Milik’s Five Books of Enoch Fifty Years Later",
+   "url": "https://doi.org/10.1163/15685179-bja10084",
+   "summary": "With his book “The Books of Enoch,” Józef T. Milik paved the way for a perception of 1 Enoch as a collection of originally independent compositions, which were only compiled later. This title was based on his theory of an Enochic Pentateuch, which was hardly adopted in the further course of research. Nevertheless,…",
+   "date": "2026-08-26",
+   "source": "Dead Sea Discoveries",
+   "authors": "Mirjam Judith Bokhorst",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Rare medieval manuscript fragments reveal Guernsey's lost literary history",
+   "url": "https://phys.org/news/2026-08-rare-medieval-manuscript-fragments-reveal.html",
+   "summary": "Seventeen medieval manuscript fragments have been identified in Guernsey with support from Kent manuscript expert Dr. David Rundle, offering an unprecedented insight into the island's literary and intellectual life during a period from which almost no such evidence has survived.",
+   "date": "2026-08-25",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Expert pieces together puzzle from fragments of 1,600-year-old Roman text",
+   "url": "https://phys.org/news/2026-08-expert-pieces-puzzle-fragments-year.html",
+   "summary": "A Roman law expert at the University of Cincinnati edited and translated a Latin legal text he pieced together from fragments that surprisingly survived in the Egyptian sands for more than 1,600 years. What's less surprising? It's about taxes.",
+   "date": "2026-08-25",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Hebrew Bible/English Old Testament: Charting Their Differences",
+   "url": "https://ehrmanblog.org/hebrew-bible-english-old-testament-charting-their-differences/",
+   "summary": "Some blog readers have requested more posts on the Hebrew Bible/Old Testament. I'm happy to comply! We begin with the foundational issue of which books are in each, in which order, and why are they so very different but also in some senses just the same. In my textbook The Bible: A Literary and Historical Introduction",
+   "date": "2026-08-25",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Social Distancing in the Septuagint as Ancient Medical Practice and Its Implications in the Gospel of Luke and Public Health",
+   "url": "https://doi.org/10.46222/pharosjot.107.3038",
+   "summary": "The Septuagint (LXX), as one of the ancient texts, is marked by many intriguing aspects that prompted the society of the time to adopt certain practices centred on protecting the well-being and functionality of their society. One such intrigue was the development of a medical procedure to help separate people from…",
+   "date": "2026-08-24",
+   "source": "Pharos Journal of Theology",
+   "authors": "Godwin A. Etukumana",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Unseen Metaphysics versus Institutional Bureaucracy: Retelling the Story of the Fifth Ecumenical Council",
+   "url": "https://www.ancientjewreview.com/read/2026/6/28/unseen-metaphysics-versus-institutional-bureaucracy-retelling-the-story-of-the-fifth-ecumenical-council",
+   "summary": "Like the rest of the book, the third chapter examines ‘things unseen’ in late antiquity, but the nature of the unseen object differs from those in earlier chapters.",
+   "date": "2026-08-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Paper Dolls of Late Antiquity",
+   "url": "https://www.ancientjewreview.com/read/2026/7/28/paper-dolls-of-late-antiquity",
+   "summary": "This essay was part of a 2026 NAPS Conference Book Review Panel devoted to Things Unseen: Essays on Evidence, Knowledge, and the Late Ancient World by Ellen Muehlberger. Read the full forum here . Let’s begin where Ellen Muehlberger does. In the very first chapter, she introduces a scene that is deceptively ordinary:…",
+   "date": "2026-08-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Things Unseen Forum",
+   "url": "https://www.ancientjewreview.com/read/2026/8/23/things-unseen-forum",
+   "summary": "A forum devoted to Ellen Meuhlberger’s recent book Things Unseen: Essays on Evidence, Knowledge, and the Late Ancient World, featuring Bradley K. Storin, Young Richard Kim, Jennifer Barry, Matthew Crawford, and Christine Luckritz Marquis.",
+   "date": "2026-08-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Known Knowns and Known Unknowns: Ellen Muehlberger’s Things Unseen: Essays on Evidence, Knowledge, and the Late Ancient World",
+   "url": "https://www.ancientjewreview.com/read/2026/6/25/known-knowns-and-known-unknowns-ellen-muehlbergers-things-unseen-essays-on-evidence-knowledge-and-the-late-ancient-world",
+   "summary": "In Things Unseen, Muehlberger stands before the late ancient Knowledge Machine and takes in its vastness, evaluating what it produces and how it works.",
+   "date": "2026-08-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "The Moral Benefits of Capitalism",
+   "url": "https://ehrmanblog.org/the-moral-benefits-of-capitalism/",
+   "summary": "In my previous post I began to argue that an economic system is not inherently good or evil. Like other things (wine, automobiles, guns, computer games), systems can be used in ways the produce very good consequences and truly awful ones. It’s a point I want to emphasize because most people I know outside of",
+   "date": "2026-08-23",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Is Capitalism Anti-Christian?",
+   "url": "https://ehrmanblog.org/is-capitalism-anti-christian/",
+   "summary": "It is dead easy to attack the fundamental principles and historical practices of capitalism on religious, and particularly Christian, grounds. A system that thrives on self-interest and personal gain, that leads to massive exploitation, to the subjection of entire indigenous populations to colonial powers, to…",
+   "date": "2026-08-22",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Reclaiming Female Presence in Bavli Sotah",
+   "url": "https://www.ancientjewreview.com/read/2026/8/16/reclaiming-female-presence-in-bavli-sotah",
+   "summary": "Beyond Brutality: Reclaiming Female Presence in Bavli Sotah reflects my scholarly journey over these many years of returning to a stance of assuming female presence. Rather than emphasizing absence, marginality, or invisibility, I choose to assume women's presence within rabbinic culture of late antiquity.",
+   "date": "2026-08-21",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "September 2026 Gold Q&A",
+   "url": "https://ehrmanblog.org/september-2026-gold-qa/",
+   "summary": "Gold and Platinum Members, our September Q&A is coming up. Join Bart live on Tuesday September 8th at 7pm Eastern as he answers your questions. Bart will spend the first half of our Zoom session answering your pre-submitted questions. Send yours to ehrmanblog@gmail.com no later than Monday September 6th so we can add…",
+   "date": "2026-08-21",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Defining the Use of Cultic Space in the Early Iron Age",
+   "url": "https://doi.org/10.1558/jma.35760",
+   "summary": "Numerous studies on the Late Bronze Age to Iron Age (IA) transition in the southern Levant have underscored how IA I (1190–980 BC) society displays evidence of both cultural continuity and discontinuity. This article investigates the role of cult in this process of transition, utilizing evidence revealed at Tel Abel…",
+   "date": "2026-08-21",
+   "source": "Journal of Mediterranean Archaeology",
+   "authors": "Matthew Susnow, Nava Panitz-Cohen, Theo Kassebaum",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Martyrs, Forgers, and Textual Scholars: Intriguing Questions From Readers",
+   "url": "https://ehrmanblog.org/martyrs-forgers-and-textual-scholars-intriguing-questions-for-readers/",
+   "summary": "Here are some spot-on questions from readers with (spotty?) attempts to answer from me.... QUESTION: (Note: this is a question about my views on how early Christians appealed to their martyrs as evidence of the truth of the Christian message in order to convert outsiders. The question is specifically based on the…",
+   "date": "2026-08-20",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
+   "summary": "A tomb in Egypt’s Theban Necropolis reveals a surprisingly organized story of burial, reuse, and changing beliefs spanning hundreds of years. Researchers found 16 mummified people, the remains of at least four more, and a mummified dog, with burials ranging from wealthy individuals laid in coffins with amulets and…",
+   "date": "2026-08-19",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "On Cultural Memory",
+   "url": "https://bibleinterp.arizona.edu/articles/cultural-memory",
+   "summary": "On Cultural Memory melliott1 Wed, 08/19/2026 - 10:53 Cultural memory offers an approach to the Hebrew Bible that examines how representations of the past are shaped, transmitted, and transformed in relation to the communities that remember them. Important antecedents in the work of Wellhausen, Halbwachs, Alt, von…",
+   "date": "2026-08-19",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Flipping a Coin. Cephas and Peter: One Person or Two?",
+   "url": "https://ehrmanblog.org/flipping-a-coin-cephas-and-peter-one-person-or-two/",
+   "summary": "I have recently finished republishing a series of posts from years ago that explored the tradition that Peter and Cephas were in fact two different people. Anyone who is not interested in the Bible would not care, of course, but then again, no one like that would be on the blog! For those who are",
+   "date": "2026-08-19",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Lynneth Miller Renberg and Adam R. Renberg, Candles in the Darkness: Experiencing Advent with the Early and Medieval Church",
+   "url": "https://readingacts.com/2026/08/19/lynneth-miller-renberg-and-adam-r-renberg-candles-in-the-darkness-experiencing-advent-with-the-early-and-medieval-church/",
+   "summary": "How do I find Scripture interpreted rabbinic literature?",
+   "date": "2026-08-19",
+   "source": "Reading Acts",
+   "category": "teologia",
+   "peer": false
+  },
+  {
+   "title": "Other Suggestions That Peter and Cephas Were Two Different People",
+   "url": "https://ehrmanblog.org/other-suggestions-that-peter-and-cephas-were-two-different-people/",
+   "summary": "I have been reposting a thread from years ago about whether Peter and Cephas, almost universally \"known\" to be the same person (Peter is his Greek name; Cephas is the Aramaic equivalent) may in fact have been two different people with the same name. I pulled all this from an article I wrote over back",
+   "date": "2026-08-18",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Some Biblical Stories Demand a Poem, Not a Research Paper",
+   "url": "https://www.ancientjewreview.com/read/2026/8/16/some-biblical-stories-demand-a-poem-not-a-research-paper",
+   "summary": "Out of my deep desire to leave my students with positive lasting memories for the ancient texts that I love, I have permitted my students to present their research in forms outside of the traditional research paper.",
+   "date": "2026-08-17",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "RECLAIMING AFRICA’S LOST GLORY IN NEW TESTAMENT TEXTUAL CRITICISM WITH IMPLICATIONS FOR NIGERIAN UNIVERSITIES",
+   "url": "https://doi.org/10.70382/mejaimr.v13i2.0117",
+   "summary": "This work argues that Africa was and is still the home for textual criticism and textual centres, even though the Western and European worlds happened to relocate textual materials. The need for textual criticism and textual centres in Africa is timely and thought-provoking in the minds of many Africans in view of…",
+   "date": "2026-08-17",
+   "source": "International Journal of African Innovation and Multidisciplinary Research",
+   "authors": "GIDEON Y. TAMBIYI",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Shepherding According to God: An Interdisciplinary Approach to Pauline Pastoral Theology in Witness Lee’s Reading",
+   "url": "https://doi.org/10.3390/rel17080974",
+   "summary": "Contemporary pastoral theology has increasingly absorbed the categories and methods of counseling psychology, yet this turn often leaves unexplained the theological ontology of the pastoral caregiver. This article develops a constructive interdisciplinary dialogue between Pauline theology, counseling psychology, and…",
+   "date": "2026-08-17",
+   "source": "Religions",
+   "authors": "Brian Siu Kit Chiu",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Did Paul Know that Peter and Cephas were Two Different People?",
+   "url": "https://ehrmanblog.org/did-paul-know-that-peter-and-cephas-were-two-different-people/",
+   "summary": "Very few readers have ever noticed that even though almost everyone (including the Gospel writers) assumes that Peter and Cephas are simply names for the same person (Simon Peter, Jesus's disciple), Paul -- our only author from antiquity who knew Peter indicates he was not the same person as Cephas. WHAT? In my…",
+   "date": "2026-08-16",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Paying Your Religious Dues: The Studied Indifference of Jesus",
+   "url": "https://ehrmanblog.org/paying-your-religious-dues-the-studied-indifference-of-jesus/",
+   "summary": "I have been arguing that that are many political and social issues that many of us care deeply about that, surprisingly, Jesus apparently did not. Another passage that illustrates Jesus relative indifference to governmental policies and economic systems is his discussion with Simon Peter about paying the “temple…",
+   "date": "2026-08-15",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Challenges in Rescue Excavation and Long-Term Conservation: The Case of the Oranjemund (Bom Jesus) Shipwreck, Namibia",
+   "url": "https://doi.org/10.1007/s10761-026-00830-z",
+   "summary": "The discovery of the Oranjemund Shipwreck ( Bom Jesus ) in 2008 on the Namibian coast represents one of sub-Saharan Africa’s most significant maritime archaeological finds. This early sixteenth-century Portuguese merchantman yielded a remarkably diverse cargo, including copper ingots, ivory tusks, gold coins, and…",
+   "date": "2026-08-14",
+   "source": "International Journal of Historical Archaeology",
+   "authors": "Eliot Sibungo Mowa, Jamien LR Engelbrecht",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Luke Used Sources for His Story of Paul, but Not the Ones You Think",
+   "url": "https://bibleinterp.arizona.edu/articles/luke-used-sources-his-story-paul-not-ones-you-think",
+   "summary": "Luke Used Sources for His Story of Paul, but Not the Ones You Think melliott1 Wed, 08/12/2026 - 09:34 Luke’s account of Paul in Acts is best understood as drawing on multiple eyewitness sources within the Pauline circle rather than on Paul’s letters or Luke’s constant companionship with Paul. Barnabas, Silas, and…",
+   "date": "2026-08-12",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "The secret hidden in these ancient manuscripts isn’t written in ink",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260810015723.htm",
+   "summary": "Researchers can now recover DNA from centuries-old parchment without damaging the manuscripts, turning historic documents into unexpected genetic time capsules. The hidden clues could reveal ancient trade routes, livestock history, manuscript origins, and details of everyday life stretching back more than a thousand…",
+   "date": "2026-08-11",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Virtuous Worldviews and Bottom-up Deliberation: Origins of Liberal Democracy in the \"Iliad\" and the Hebrew Bible",
+   "url": "https://doi.org/10.53763/fag.2026.23.1.259",
+   "summary": "The paper aims to trace hermeneutically some ideas that today are fundamental to the moral and political ethos of Western culture. This is done with a focus on the Iliad and on the Hebrew Bible, and its exegesis by the Talmudic rabbis. It is argued that combining ideas from both texts is key to overcoming the…",
+   "date": "2026-08-11",
+   "source": "Filozoficzne Aspekty Genezy",
+   "authors": "Yechiel Michael Barilan",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "The Ideal of Authenticity in Quests for the Historical Jesus",
+   "url": "https://doi.org/10.1163/17455197-bja10062",
+   "summary": "Seeking ‘authenticity’ in historical Jesus research is enmeshed in wider cultural shifts whereby authenticity became a prized aspect of human identity in Europe and North America over recent centuries. On the one hand, authenticity can refer to historical accuracy; on the other hand, it can refer to a moral ideal. In…",
+   "date": "2026-08-11",
+   "source": "Journal for the Study of the Historical Jesus",
+   "authors": "Ross Kane",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Historical Inquiry in Sacred Texts: The Kings of Israel and the Question of Jesus Christ as the Son of God, King of the Jews, and Messiah",
+   "url": "https://doi.org/10.17265/2159-550x/2026.08.003",
+   "summary": "The history of the kings of Israel is closely connected not only with the history of ancient Israel and the Jewish people but also with broader questions of religious memory, political legitimacy, and the transmission of sacred narratives. Larysa Karaliova devoted several chapters of her unpublished manuscript to the…",
+   "date": "2026-08-10",
+   "source": "Journal of History Research",
+   "authors": "Larysa Karaliova, Ilia Brondz",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The problem of textual variants: Textual criticism undermines religious belief",
+   "url": "https://doi.org/10.1111/sjp.70058",
+   "summary": "I argue that textual variants pose a problem for religious belief. Specifically, the existence of hundreds of thousands of textual variants in the New Testament's manuscript tradition, many of them large and ideologically motivated, should reduce a believer's confidence in the Bible as a source of information. This…",
+   "date": "2026-08-07",
+   "source": "The Southern Journal of Philosophy",
+   "authors": "Douglas R. Campbell",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "S10E8 ‘And the LORD shut him in’ Genesis 7 | Deep Dive into Genesis 1-9",
+   "url": "https://tyndalehouse.com/2026/08/06/s10e8-and-the-lord-shut-him-in-genesis-7-deep-dive-into-genesis-1-9/",
+   "summary": "In this episode, we explore Genesis 7 and the flood narrative in depth. Far from being a simple story of divine judgment, Genesis 7 presents a richly structured account that echoes the themes and patterns of Genesis 1, revealing God’s purposes of renewal, recreation, and the restoration of order in a world…",
+   "date": "2026-08-06",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
+   "summary": "A massive crocodilian capable of attacking dinosaurs has been brought back to life as the first scientifically accurate mounted skeleton of Deinosuchus schwimmeri. The 31-foot replica at Georgia’s Tellus Science Museum was built from detailed fossil scans and more than 40 years of research by paleontologist Dr. David…",
+   "date": "2026-08-05",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "On the Possibility that GA 1506 May Not Have Omitted Romans 16:1–24 after All",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/08/on-possibility-that-ga-1506-may-not.html",
+   "summary": "The placement of the Romans doxology in GA 1506 has long created a good deal of confusion. This manuscript is a copy of John of Damascus’s edited collection of extracts from John Chrysostom’s Homilies on Romans. The biblical text is written in red ink, often very faint, especially in the microfilm images, while the…",
+   "date": "2026-08-05",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Who Are the “False Prophets” in the Book of Jeremiah?",
+   "url": "https://bibleinterp.arizona.edu/articles/who-are-false-prophets-book-jeremiah",
+   "summary": "Who Are the “False Prophets” in the Book of Jeremiah? melliott1 Wed, 08/05/2026 - 09:35 The book of Jeremiah brims with scathing denunciations of what it casts as “false prophecy.” Scholars have long sought to reconstruct the historical realities presumed to stand behind Jeremianic discourse about prophetic conflict.…",
+   "date": "2026-08-05",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Longacre on the larger differences between the Great Isaiah Scroll and the MT",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/08/longacre-on-larger-differences-between.html",
+   "summary": "Thanks to the still-humming ETC blogroll, I noticed that Drew Longacre just posted a short blog post at his OTTC site on the similarity of the Great Isaiah Scroll (1QIsa-a) and the MT. This question became something of the flashpoint over the last year after the now famous Wes Huff interview on Joe Rogan’s podcast…",
+   "date": "2026-08-04",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "The Incredible Complutensian Polyglot Bible",
+   "url": "https://textandcanon.org/the-incredible-complutensian-polyglot-bible/",
+   "summary": "The text of Genesis 1:1 in the Complutensian Polyglot. Image source Mainz, Germany, 1455. Soncino, Italy, 1488. Basel, Switzerland, 1516. These cities and dates mark pivotal moments in the history of biblical philology—the study of Scripture’s linguistic and textual history. Specifically, they mark the first printing…",
+   "date": "2026-08-04",
+   "source": "Text & Canon Institute",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Contributors",
+   "url": "https://doi.org/10.1177/0142064x261462466",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "1. New Testament General and Topics Words Are Not Enough: Paratexts, Manuscripts, and the Real New TestamentAllenGarrick V.Grand Rapids, MI: Eerdmans, 2024.",
+   "url": "https://doi.org/10.1177/0142064x261462473",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Index of Publishers",
+   "url": "https://doi.org/10.1177/0142064x261474379",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Index of Titles",
+   "url": "https://doi.org/10.1177/0142064x261474374",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Index of Authors",
+   "url": "https://doi.org/10.1177/0142064x261474380",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Editorial",
+   "url": "https://doi.org/10.1177/0142064x261462469",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "J. Andrew Doole, Kyu Seop Kim",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Enigmatic Hebrew Word rkbh in Nahum 2:14",
+   "url": "https://doi.org/10.1177/01461079261474529",
+   "summary": "The Hebrew term rkbh found in Nahum 2:14 poses exhibit variations in their rendering of rkbh in ancient texts. Consequently, this article aims to clarify the ambiguous Hebrew word rkbh in Nahum 2:14 by employing textual criticism as its main approach. It will analyze manuscript evidence, assess the likelihood of…",
+   "date": "2026-08-01",
+   "source": "Biblical Theology Bulletin: Journal of Bible and Culture",
+   "authors": "Philip Suciadi Chia",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Methodological Developments in Recent New Testament Textual Criticism: From the Nestle-Aland Editions to the Editio Critica Maior, from Text-Types to Textual Relationships",
+   "url": "https://doi.org/10.64482/jbcll.2026.2.1.3",
+   "summary": "",
+   "date": "2026-07-31",
+   "source": "Journal of Bible & classical languages and literature",
+   "authors": "Jeung Un Cho",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The present and the future of the study for New Testament manuscripts and Textual Criticism",
+   "url": "https://doi.org/10.64482/jbcll.2026.2.1.1",
+   "summary": "",
+   "date": "2026-07-31",
+   "source": "Journal of Bible & classical languages and literature",
+   "authors": "Hyung Dae Park",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Diversity of Old Testament Manuscripts in the Second Temple Period and the Recent Direction of Old Testament Textual Criticism",
+   "url": "https://doi.org/10.64482/jbcll.2026.2.1.2",
+   "summary": "",
+   "date": "2026-07-31",
+   "source": "Journal of Bible & classical languages and literature",
+   "authors": "Minsu Oh",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Historical development of the Church of Jesus Christ of Latter-day Saints in Camarines Norte",
+   "url": "https://doi.org/10.30574/ijsra.2026.20.1.1455",
+   "summary": "This study documented and analyzed the historical development of The Church of Jesus Christ of Latter-day Saints in Camarines Norte and examined its perceived contributions to the lives of its members. Using a qualitative historical-descriptive research design, the study drew data from structured interviews,…",
+   "date": "2026-07-31",
+   "source": "International Journal of Science and Research Archive",
+   "authors": "Maricris D. Aloc, Daryl I. Quinito",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "New Perspectives on Court Tales in the Hebrew Bible and Early Jewish Literature",
+   "url": "https://bibleinterp.arizona.edu/articles/new-perspectives-court-tales-hebrew-bible-and-early-jewish-literature",
+   "summary": "New Perspectives on Court Tales in the Hebrew Bible and Early Jewish Literature melliott1 Wed, 07/29/2026 - 09:39 Evidence from the Dead Sea Scrolls substantially expands the extant corpus of early Jewish court tales and provides an opportunity for a major reassessment of this important literary form. Incorporating…",
+   "date": "2026-07-29",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Dead Sea Bitumen in Egyptian Mummification and the Toponym ‘Djahy’ in Papyrus Boulaq III",
+   "url": "https://doi.org/10.1080/03344355.2026.2609319",
+   "summary": "",
+   "date": "2026-07-29",
+   "source": "Tel Aviv",
+   "authors": "Ella Karev",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Images of Jesus in Contemporary US Political Discourse",
+   "url": "https://doi.org/10.1163/17455197-bja10061",
+   "summary": "In this article, I provide a retrospective on Elisabeth Schüssler Fiorenza’s classic book Jesus and the Politics of Interpretation (2000). I focus on Schüssler Fiorenza’s argument that depictions of Jesus reveal more about the political and theological concerns of the person advocating for such portrayals than they…",
+   "date": "2026-07-29",
+   "source": "Journal for the Study of the Historical Jesus",
+   "authors": "Christy Cobb",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The Historical Anatomization of the Sacred Heart of Jesus: Transformation of A Devotional Image",
+   "url": "https://doi.org/10.19080/asm.2026.13.555868",
+   "summary": "",
+   "date": "2026-07-27",
+   "source": "Annals of Social Sciences & Management Studies",
+   "authors": "García Palomeque Jesus Carlos, Javier Ramirez Muñoz, Soledad Cabezon Ruiz",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Reassessing Biblical Archaeology through an Afrocentric Perspective",
+   "url": "https://doi.org/10.62154/ajrts.2026.07.013",
+   "summary": "This study aims to critically reassess the archaeological discoveries at Qumran Caves, Israel, and selected West African rock shelters with an Afrocentric perspective. It highlights the value of caves/rock shelters as ancient cultural spaces. Previous studies have shown the significance of the Qumran caves, but none…",
+   "date": "2026-07-25",
+   "source": "African Journal of Religious and Theological Studies",
+   "authors": "Paul-Kolade Tubi, Ibrahim Joel, Zankawon Mercy Dauji-Ekpu",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Tel Iẓṭabba: The Flint Assemblage",
+   "url": "https://doi.org/10.70967/3078-8528.1084",
+   "summary": "Analysis of the flint assemblage from the single-period Intermediate Bronze Age/Early Bronze Age IV site of Tel Iẓṭabba indicates the coexistence of locally produced ad hoc debitage and tools alongside Canaanean blade products, the latter apparently imported as finished implements from specialized production centers.…",
+   "date": "2026-07-25",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Alla Yaroshevich",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Ancient ape fossil in Egypt challenges the story of human origins",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
+   "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape…",
+   "date": "2026-07-24",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "S10E7 Noah, the ark, and the wickedness of the human heart Genesis 6 | Genesis 1-9 Deep Dive",
+   "url": "https://tyndalehouse.com/2026/07/23/s10e7-noah-the-ark-and-the-wickedness-of-the-human-heart-genesis-6-genesis-1-9-deep-dive/",
+   "summary": "In this episode of our Genesis 1-9 Deep Dive, we reach a pivotal and complex turning point. Genesis 6 isn’t just a story about build an ark; it’s a detailed look at what happens when the very order of the world begins to fall apart. The chapter gives us a picture of creation unravelling humanity ...",
+   "date": "2026-07-23",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Why We Keep Getting the Curse of Canaan Wrong",
+   "url": "https://bibleinterp.arizona.edu/articles/why-we-keep-getting-curse-canaan-wrong",
+   "summary": "Why We Keep Getting the Curse of Canaan Wrong melliott1 Thu, 07/23/2026 - 09:48 Most interpreters of Genesis 9:18–29 read with a presumption that Noah’s curse must be justified and that Ham, Canaan, or the Canaanites therefore deserve punishment. Examining problems with this pervasive “presumption of Canaanite guilt”…",
+   "date": "2026-07-23",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "‘Daughter, Your Faith Has Saved You’: The Salvation of St. Veronica",
+   "url": "https://doi.org/10.1177/0142064x261465041",
+   "summary": "The themes of faith and salvation are evident in the literary, historical, and grammatical context of Mk 5.25–34. St. Veronica, or ‘the woman with the issue of blood’, was not seeking physical healing, but holistic salvation, salvation that she received through faith in Jesus. Her story is a classic story of…",
+   "date": "2026-07-21",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "Abigail Rose Thompson",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "From Septuagint Connection to Masoretic Rejection",
+   "url": "https://doi.org/10.30965/21967954-bja10095",
+   "summary": "This article reassesses the Greek tale of Susanna, transmitted as an addition to Daniel, by comparing the Old Greek ( OG ) and Theodotion ( θ ′) against a hypothetical Semitic Vorlage . I show that θ ′ largely revises OG – intensifying rhetoric and regularizing syntax – except where his base text diverged. I argue…",
+   "date": "2026-07-21",
+   "source": "Journal of Ancient Judaism",
+   "authors": "Olivier Munnich",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Vindicating Converso Religiosity: Alonso de Oropesa on the Pauline Conversion as a Jewish–Christian Transformation",
+   "url": "https://doi.org/10.3390/rel17070862",
+   "summary": "This article offers a fresh reading of Alonso de Oropesa’s Lumen ad revelationem gentium (1465) and of the pro-converso theology of this Hieronymite friar, through a close reading of a specific and largely neglected section of the treatise. This reading complicates the prevailing scholarly view that the Lumen…",
+   "date": "2026-07-21",
+   "source": "Religions",
+   "authors": "Yosi Yisraeli",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Jerusalem, City of David Visitor Center: The Late Roman and Byzantine Pottery",
+   "url": "https://doi.org/10.70967/3078-8528.1081",
+   "summary": "This article analyzes two pottery assemblages excavated at the entrance of the City of David Visitor Center in Jerusalem, providing important evidence for the occupation and development of the city during the Late Roman and Byzantine periods. The first assemblage, recovered from above the floors of the Stratum VI…",
+   "date": "2026-07-18",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Debora Sandhaus",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Jerusalem, City of David Visitor Center: Remains from the Late Roman–Late Ottoman Periods",
+   "url": "https://doi.org/10.70967/3078-8528.1080",
+   "summary": "The following report presents the results of an excavation conducted on the summit of the City of David, Jerusalem, which exposed remains of six strata, spanning the Late Roman to the Medieval–late Ottoman period. Although the excavation area was quite narrow, important remains were exposed, contributing to our…",
+   "date": "2026-07-18",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Joe Uziel",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Jerusalem, City of David Visitor Center: The Early Islamic, Medieval and Late Ottoman Pottery",
+   "url": "https://doi.org/10.70967/3078-8528.1082",
+   "summary": "The excavation at the entrance to the Visitor Center in the City of David uncovered a small but significant assemblage of ceramics, all from stratified contexts, including bowls, basins, storage jars, jugs, a cooking pot and a clay tobacco pipe. The pottery dates from the Abbasid period (ninth–tenth centuries CE),…",
+   "date": "2026-07-18",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Benjamin J. Dolinka",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "F.F. Bruce on 'Kept Pure in All Ages'",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/07/ff-bruce-on-kept-pure-in-all-ages.html",
+   "summary": "Yesterday, I was looking for one of F.F. Bruce's more obscure writings , and thankfully, I found that Rob Bradshaw had digitized it. While I was there, I stumbled across something more interesting though. In 1953, Bruce wrote a short overview-type article on textual criticism for The Christian Graduate [6.4 (Dec.…",
+   "date": "2026-07-17",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Archaeologists found Homer's Iliad inside a 1,600-year-old Egyptian mummy",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
+   "summary": "A 1,600-year-old mummy discovered in Egypt has revealed something archaeologists had never seen before: a fragment of Homer’s Iliad used during embalming. The papyrus was identified as part of the famous \"Catalogue of Ships,\" one of the best-known sections of the ancient epic. Researchers say it is the first…",
+   "date": "2026-07-15",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Scientists discover what kept ancient campfires burning for generations",
+   "url": "https://www.sciencedaily.com/releases/2026/06/260624025502.htm",
+   "summary": "Nearly 800,000 years ago, early humans living beside a lake in what is now Israel may have chosen the location for one surprisingly practical reason: firewood. Researchers discovered that these ancient people regularly gathered driftwood washed up along the shoreline, giving them an easy, reliable fuel source for…",
+   "date": "2026-07-15",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "peer": false
+  },
+  {
+   "title": "Jesus and the Politics of Interpretation, 25 Years On",
+   "url": "https://doi.org/10.1163/17455197-bja10064",
+   "summary": "",
+   "date": "2026-07-15",
+   "source": "Journal for the Study of the Historical Jesus",
+   "authors": "Sarah E. Rollens",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The Pauline Imprint on Ignatius of Antioch’s Use of ‘Flesh’ and ‘Spirit’",
+   "url": "https://doi.org/10.1093/jts/flag033",
+   "summary": "ABSTRACT The article demonstrates that Ignatius of Antioch’s expression of a ‘flesh’ (σάρξ) and ‘spirit’ (πνεῦμα) polarity is, contrary to the current majority view, dependent upon Pauline usage of these terms. First, a significant weakness in many previous treatments is exposed: they compare Ignatius with Pauline…",
+   "date": "2026-07-15",
+   "source": "The Journal of Theological Studies",
+   "authors": "J Tyler Brown",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Znaczenie teologiczne pojęcia filein w literaturze mądrościowej na podstawie tekstów z Septuaginty The theological significance of the concept of filein in wisdom literature, based on texts from the Septuagint",
+   "url": "https://doi.org/10.67168/p.142",
+   "summary": "Zakres tematyczny opracowania dotyczy pojęcia filia w kontekście kultury hellenistycznej, Septuaginty oraz ksiąg mądrościowych. Philia to słowo, które nie ma jednego znaczenia. W kulturze hellenistycznej za najwyższą z cnót uważano przyjaźń. Mogła ona być zawierana tylko między osobami o takim samym statusie…",
+   "date": "2026-07-14",
+   "source": "Perspectiva",
+   "authors": "Krzysztof Wojciech Batóg",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "A Longue Durée Perspective of Household Sustainability in the Early Bronze Age Southern Levant: Groundstone Recycling at Tell eṣ-Ṣâfi/Gath, Israel",
+   "url": "https://doi.org/10.1080/00934690.2026.2696687",
+   "summary": "",
+   "date": "2026-07-14",
+   "source": "Journal of Field Archaeology",
+   "authors": "Jeremy A. Beller, Haskel J. Greenfield, Sarah J. Richardson",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Representations of Mary Magdalene in the Narrative of Jesus Christ's Marriage: A Study of Religious and Historical Manuscripts",
+   "url": "https://doi.org/10.15548/al-adyan.v7i1.14544",
+   "summary": "",
+   "date": "2026-07-13",
+   "source": "Al-Adyan: Journal of Religious Studies",
+   "authors": "Alda Malik, Arifinsyah Arifinsyah",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Historical Trajectory of Bible Translation: From Septuagint to Modern Indian Translations",
+   "url": "https://doi.org/10.21275/sr26707173849",
+   "summary": "",
+   "date": "2026-07-10",
+   "source": "International Journal of Science and Research (IJSR)",
+   "authors": "Korra Samuel",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Two Arabic Orders of Mass: The Liturgical Inflection of Morisco Christianity, 1493–1596",
+   "url": "https://doi.org/10.1163/15700658-bja10117",
+   "summary": "In early modern global Catholicism, both Catholic evangelists and native intermediaries regularly made attempts to translate between local cultural practices and Catholicism. This article proposes that the Arabic Mass was a locus of this correlative process as implemented in post-1492 Granada. More thoroughly than in…",
+   "date": "2026-07-10",
+   "source": "Journal of Early Modern History",
+   "authors": "Zachary Young",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Jésus, le Nouveau Testament et le judaïsme du Second Temple",
+   "url": "https://doi.org/10.3917/sens.466.0041",
+   "summary": "",
+   "date": "2026-07-10",
+   "source": "Revue Sens",
+   "authors": "Amy–Jill Levine",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "S10E6 The line of Adam | Genesis 1-9 Deep Dive, Genesis 5",
+   "url": "https://tyndalehouse.com/2026/07/09/s10e6-the-line-of-adam-genesis-1-9-deep-dive-genesis-5/",
+   "summary": "This is the book of the generations… A genealogy that tells a story. Genesis 5 becomes a portrait of humanity after Eden: still bearing God’s likeness, living long, dying, and carrying the promise forward one generation at a time. This week we move beyond the Garden of Eden as we continue our first video series ...",
+   "date": "2026-07-09",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Canonical reading on Lazarus Saturday: “Our Lord Jesus Christ makes His way across the earth ...”: historical and theological analysis and modern interpretation",
+   "url": "https://doi.org/10.51216/2687-072x_2026_2_195-220",
+   "summary": "This article examines the canonical readings for Lazarus Saturday, specifically the commentary on the Gospel reading proposed for proclamation from the “Teaching Gospel” (a translation of the “Patriarchal Homilial,” attributed to Patriarch John IX Agapitus). This study is relevant for reconstructing the practices of…",
+   "date": "2026-07-09",
+   "source": "Богословский сборник Тамбовской духовной семинарии",
+   "authors": "Daniil V. Lopukhov, Elena V. Grudinina",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Jude 24: The Byzantine Text vs. the KJV",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/07/jude-24-byzantine-text-vs-kjv.html",
+   "summary": "My interest is always piqued when a reading in the Byzantine text is not what’s translated in the KJV. Famous examples where the former lacks text the latter includes are Acts 8.37 and 1 John 5.7-8. In these cases, the bulk of Greek MSS is decidedly on the side of the Byz text against the KJV. But there are other,…",
+   "date": "2026-07-08",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Shared Symbols and Religious Boundaries in Late Antiquity: A View from Personal Experience and Late Antique Magic",
+   "url": "https://bibleinterp.arizona.edu/articles/shared-symbols-and-religious-boundaries-late-antiquity-view-personal-experience-and-late",
+   "summary": "Shared Symbols and Religious Boundaries in Late Antiquity: A View from Personal Experience and Late Antique Magic melliott1 Wed, 07/08/2026 - 10:02 Shared religious symbols do not necessarily mean weak or blurred religious boundaries. Christian ritual texts that combine anti-Jewish rhetoric with names for God often…",
+   "date": "2026-07-08",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "LEADERSHIP LESSONS FROM JESUS’ TEACHING METHODS: APPLICATIONS IN THE CONTEMPORARY EDUCATION",
+   "url": "https://doi.org/10.61955/uyfaff",
+   "summary": "",
+   "date": "2026-07-08",
+   "source": "Babcock University Journal of History and International Studies (BUJOHIS)",
+   "authors": "Okezie, Okezie,",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Mark 8.24—An Apocalyptic Vision?",
+   "url": "https://doi.org/10.1177/0142064x261457663",
+   "summary": "The article offers a new interpretation of the healing of the blind man of Bethsaida in Mark 8.22–26, and especially his vision of walking trees in verse 24. The argument begins with a survey of premodern reception and critical scholarship on the episode, revealing the lack of engagement with the blind man’s vision…",
+   "date": "2026-07-07",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "Mateusz Kusio",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Khirbat Jābir: The Sculptured Decorations from the Bathhouse",
+   "url": "https://doi.org/10.70967/3078-8528.1079",
+   "summary": "The excavation of the bathhouse at Khirbat Jābir yielded twelve marble items: a female head and eleven architectural members; among them a small Corinthian capital, a bracket ornamented with a lion head, a richly decorated small pediment and a champlevé revetment plaque. All twelve items were found out of their…",
+   "date": "2026-07-07",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Rivka Gersht",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Khirbat Jābir: The Pottery Finds / ח'ירבת ג'אבר: ממצא כלי החרס",
+   "url": "https://doi.org/10.70967/3078-8528.1078",
+   "summary": "The excavation at Khirbat Jābir yielded pottery dating from the Byzantine period through the Early Islamic period, indicating continuous activity at the site during these periods. Most of the pottery was characteristic of the Byzantine period, including local wares typical of both northern and southern Israel, as…",
+   "date": "2026-07-07",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Aviva Bouchenino",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Searching for Music, Finding Ratios: The Brethren of Purity’s Epistles On Music and On Proportions in the Judeo-Arabic Medical Tradition",
+   "url": "https://doi.org/10.21071/mijtk.v11i.18763",
+   "summary": "This study examines the inclusion of the Ikhwān al-Ṣafāʾ’s epistles On Music and On Proportions (Epistles 5 and 6) under a single title, Kitāb al-mūsīqā (Book of Music), in the Berlin composite manuscript Or. Oct. 350, a fifteenth-century Judeo-Arabic compilation from the Iberian Peninsula devoted to medicine. The…",
+   "date": "2026-07-07",
+   "source": "Mediterranea, International Journal on the Transfer of Knowledge",
+   "authors": "Laura Tribuzio",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Hebrews’ Heterotopias and the Shaping of the Colonial Christian Mind",
+   "url": "https://doi.org/10.1163/15685152-bja10081",
+   "summary": "Interpreters have traditionally understood the ideal spaces described in the book of Hebrews, and particularly that of God’s “rest” (Heb. 3-4), in either “spiritual-imminent” (Platonic) terms or “physical-eschatological” (apocalyptic) terms, though many Christian scholars ultimately conflate these concepts, landing…",
+   "date": "2026-07-02",
+   "source": "Biblical Interpretation",
+   "authors": "Jolyon G. R. Pruszinski",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "The Bible’s Influence on the American Founding",
+   "url": "https://textandcanon.org/the-bibles-influence-on-the-american-founding/",
+   "summary": "A depiction of the prayer at the first Continental Congress. The Bible figured prominently in the political thought and practices of the patriotic Americans who, in the last third of the eighteenth century, fought for and secured independence from Great Britain and established new constitutional republics in their…",
+   "date": "2026-07-01",
+   "source": "Text & Canon Institute",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Artefact in Focus: The Taylor Prism",
+   "url": "https://tyndalehouse.com/2026/07/01/artefact-in-focus-the-taylor-prism/",
+   "summary": "The ‘Taylor Prism’ has stood on display in the British Museum for 170 years. Named after Colonel R. Taylor, the British diplomat who purchased it in the 1830s, it is a masterful example of ancient Assyrian cuneiform and craftsmanship, with its six tightly-inscribed columns standing almost 40 cm tall. Remarkable to…",
+   "date": "2026-07-01",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
+   "url": "https://bibleinterp.arizona.edu/articles/cosmic-order-saving-love-transformation-divine-providence-antiquity",
+   "summary": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity melliott1 Wed, 07/01/2026 - 10:09 Ancient divine providence arose from the search for cosmic order. Greek thinkers from Homer to the Stoics linked human purpose and justice to a rationally governed universe, yet saw divine care as…",
+   "date": "2026-07-01",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Book Review: Grounding Theology in the Hebrew Bible BackfishElizabethShafer-ElliottCynthia, Grounded Theology in the Hebrew Bible: Exploring the Cultural Context That Formed Ancient Israel (Grand Rapids, Michigan, 2025, $29.99 pp. xx +…",
+   "url": "https://doi.org/10.1177/00145246261456441",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "The Expository Times",
+   "authors": "Anja Klein",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Bruce W. Longenecker, ed. Greco-Roman Associations, Deities, and Early Christianity",
+   "url": "https://doi.org/10.5325/bullbiblrese.35.4.0541",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Bulletin for Biblical Research",
+   "authors": "Bohye Kim",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Temple, Body, and Space: Approaching Temple‐Car Cultures in South Asia",
+   "url": "https://doi.org/10.1111/rec3.70066",
+   "summary": "ABSTRACT In religious festivals celebrated at many sites across South Asia, colossal wooden vehicles known as “temple‐cars” convey images of deities and saints in a rapturous procession. Temple‐cars have garnered a disciplinarily fragmented body of scholarship that has treated them primarily as mobile temples by…",
+   "date": "2026-07-01",
+   "source": "Religion Compass",
+   "authors": "Srishti Sankaranarayanan",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Đức Giê-Su, Đấng Kiện Toàn Lề Luật (Mt 5,17-48): Phân Tích và Đối Chiếu Giữa Luật Cựu Ước và Luật Đức Giê-Su Jesus, the Fulfiller of the Law (Mt 5:17–48): An Analysis and Comparison Between the Law of the Old Testament and the Law of Jesus",
+   "url": "https://doi.org/10.54855/csl.26623",
+   "summary": "Khi nói về mối tương quan giữa Ngài với Luật Cựu Ước, Đức Giê-su khẳng định: “Anh em đừng tưởng Thầy đến để bãi bỏ Luật Mô-sê hoặc lời các ngôn sứ. Thầy đến không phải để bãi bỏ nhưng là để kiện toàn” (Mt 5,17). Ở đây, không phải vì Luật Cựu Ước có những khiếm khuyết và giới hạn, nên Đức Giê-su đến để kiện toàn bằng…",
+   "date": "2026-07-01",
+   "source": "Khoa Học Công Giáo và Đời Sống",
+   "authors": "Văn Biển Nguyễn",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Ensino investigativo de biologia: conhecimento e desafios docentes em Bom Jesus, Piauí Inquiry-Based Biology Teaching: Teacher Knowledge and Challenges in Bom Jesus, Piauí Enseñanza Investigativa de la Biología: conocimiento y retos…",
+   "url": "https://doi.org/10.17227/bio-grafia.vol.19.num37-24732",
+   "summary": "Os avanços científicos e tecnológicos evidenciam a necessidade de preparar os indivíduos para atuarem na sociedade de forma crítica, reflexiva e participativa. Nesse cenário, o ensino busca adaptar-se a tais mudanças para superar o modelo tradicional e bancário de educação e para promover uma formação integral que…",
+   "date": "2026-07-01",
+   "source": "Bio-grafía",
+   "authors": "Clívia Alves da Silva, Zenóbia Fialho dos Santos, Maraysa Cristina Ribeiro Albuquerque",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Osvaldo Padilla. The Pastoral Epistles: An Introduction and Commentary",
+   "url": "https://doi.org/10.5325/bullbiblrese.35.4.0533",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Bulletin for Biblical Research",
+   "authors": "Chris Gibson",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "The History of Israel in the Perspective of the Qumran Community’s Texts",
+   "url": "https://doi.org/10.12775/bpth.2026.010",
+   "summary": "Historia Izraela w perspektywie tekstów wspólnoty z Qumran Artykuł zawiera przegląd elementów historiograficznych w manuskryptach wspólnoty z Qumran w celu uchwycenia perspektywy wspólnoty na historię Izraela. Ponieważ w tekstach wspólnoty historia jest podporządkowana parenezie, w artykule przyjęto klucz…",
+   "date": "2026-06-30",
+   "source": "Biblica et Patristica Thoruniensia",
+   "authors": "Michał Klukowski",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Jehu or Hazael? The Mysterious Deaths of Kings Joram and Ahaziah in Light of the Hebrew Bible and the Tel Dan Stele",
+   "url": "https://doi.org/10.12775/bpth.2026.013",
+   "summary": "Jehu czy Chazael? Zagadkowa śmierć królów Jorama i Ochozjasza w świetle Biblii Hebrajskiej i Steli z Tel-Dan Kwestia śmierci królów Jorama i Ochozjasza opisana została odmiennie w Biblii hebrajskiej i Steli z Tel-Dan, co jest obecnie zarzewiem sporu wśród historyków-biblistów. Celem niniejszego artykułu jest…",
+   "date": "2026-06-30",
+   "source": "Biblica et Patristica Thoruniensia",
+   "authors": "Mateusz Wesołowski",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "A Review of Unparalleled Poetry: A Cognitive Approach to the Free-Rhythm Verse of the Hebrew Bible",
+   "url": "https://doi.org/10.64830/001c.161785",
+   "summary": "",
+   "date": "2026-06-30",
+   "source": "Journal of Language, Culture, and Religion",
+   "authors": "Terrance R. Wardlaw",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Reception of the Song of Songs in the Second Temple Literature",
+   "url": "https://doi.org/10.46334/ts.2026.06.88.7",
+   "summary": "",
+   "date": "2026-06-30",
+   "source": "Theological Studies",
+   "authors": "Sue-youn Lee",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Resistência, ancestralidade e espaço público Em quarto de despejo, de Carolina Maria De Jesus Resistance, ancestrality, and public space in quarto de despejo, by Carolina Maria De Jesus Resistencia, ancestralidad y espacio público en…",
+   "url": "https://doi.org/10.70579/rfd.v2i3.227",
+   "summary": "O presente artigo analisa a obra Quarto de Despejo, de Carolina Maria de Jesus, a partir das categorias de resistência, ancestralidade e espaço público, considerando a escrita da autora como prática de enfrentamento às estruturas históricas de exclusão social, racial e simbólica presentes na sociedade brasileira. A…",
+   "date": "2026-06-30",
+   "source": "FRONTIERS OF LAW JOURNAL",
+   "authors": "Ana Paula Rody Pereira",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The Korean Face of Jesus: A Study on the ‘Precursive Indigenization Theology’ in Kim Ki-chang’s The Life of Jesus",
+   "url": "https://doi.org/10.58302/madang.2026.45.8",
+   "summary": "This study investigates Kim Ki-chang’s The Life of Jesus series (1952–1953) as a pioneering manifestation of the indigenization of Korean Christianity, analyzed through socio-cultural, historical-existential, and theological layers. Created amidst the devastation of the Korean War, the series reimagines the biblical…",
+   "date": "2026-06-30",
+   "source": "Madang: Journal of Contextual Theology",
+   "authors": "Sunyoung Cho",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "A Review of Photo Companion to the Bible: Genesis, Ecclesiastes, Song of Songs, Ezra, Daniel, Hebrews and General Epistles",
+   "url": "https://doi.org/10.64830/001c.161783",
+   "summary": "",
+   "date": "2026-06-30",
+   "source": "Journal of Language, Culture, and Religion",
+   "authors": "Volodymyr Lavrushko",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "The Resurrection of Jesus as a Historical Claim: A Theological-Legal Analysis of the Evidence and a Critical Examination of the Christian Faith",
+   "url": "https://doi.org/10.53674/teleios.v6i1.387",
+   "summary": "The resurrection of Jesus remains one of the most debated events in Christian theology, with various objections questioning its historical credibility and evidential basis. This study examines the historical evidence for Jesus' resurrection through an interdisciplinary theological-juridical approach by employing the…",
+   "date": "2026-06-28",
+   "source": "TELEIOS: Jurnal Teologi dan Pendidikan Agama Kristen",
+   "authors": "John Abraham Christiaan",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Beyond the Alleged Contradictions: A Historical and Linguistic Harmonization of the Birth Narratives of Jesus in the Gospel of Matthew and Luke",
+   "url": "https://doi.org/10.53674/teleios.v6i1.314",
+   "summary": "The birth of Jesus Christ is a cornerstone of Christian teaching, serving as historical evidence and a solid foundation for theology, particularly regarding the chronological discrepancy between the reign of Herod the Great in the Gospel of Matthew and that of Quirinius in the Gospel of Luke. This article aims to…",
+   "date": "2026-06-27",
+   "source": "TELEIOS: Jurnal Teologi dan Pendidikan Agama Kristen",
+   "authors": "Agus Arda Setiawan Telaumbanua, Yonatan Alex Arifianto",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Vulgate Manuscripts Missing the Last Two Chapters of Romans?",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/06/vulgate-manuscripts-missing-last-two.html",
+   "summary": "I’m attempting to work on a paper on the doxology in Romans, found as 16:25–27 in the THGNT and (in brackets) in the NA28. As part of my literature review, I spent some time surveying the treatment of this question in a number of commentaries. While reading Cranfield’s classic ICC, I was very surprised to come across…",
+   "date": "2026-06-26",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "S10E5 ‘Am I My Brother’s Keeper?’ Genesis 4 | Deep Dive into Genesis 1-9",
+   "url": "https://tyndalehouse.com/2026/06/26/s10e5-am-i-my-brothers-keeper-genesis-4-deep-dive-into-genesis-1-9/",
+   "summary": "This week we step outside the Garden of Eden and into the first narrative set in a post‑fall world, continuing our video series from Tyndale House, Cambridge, exploring Genesis (The Creation Story). Although this series is also available on podcast platforms, it is designed to be watched, with visual explanations…",
+   "date": "2026-06-26",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "The Use of the Septuagint in the BHQ Edition of Samuel",
+   "url": "https://doi.org/10.1163/2589255x-bja10053",
+   "summary": "The article discusses the challenges posed by the LXX to the edition of 1–2 Samuel in the Biblia Hebraica Quinta project. The principles for the use of the LXX in the BHQ are presented, with a special focus on their application in the preparation of the volumes on 1–2 Samuel. These principles are challenged by the…",
+   "date": "2026-06-25",
+   "source": "Textus",
+   "authors": "Leonardo Pessoa da Silva Pinto",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Biblical World in Translation",
+   "url": "https://doi.org/10.1163/2589255x-bja10056",
+   "summary": "This paper explores how the translation process shapes and reframes geographical perceptions, especially when texts traverse linguistic and cultural borders, as is the case with the Septuagint. In the ancient biblical translation, the depiction of the biblical world often transforms to reflect the translator’s…",
+   "date": "2026-06-25",
+   "source": "Textus",
+   "authors": "Camilla Recalcati",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Susannah M. Larry, The Daughter’s Resistance : Lamentations and Theodicy (Hebrew Bible Monographs 119. Sheffield: Sheffield Phoenix Press 2025)",
+   "url": "https://doi.org/10.31743/vv.20103",
+   "summary": "Recenzja książki: Susannah M. Larry, The Daughter’s Resistance: Lamentations and Theodicy (Hebrew Bible Monographs 119; Sheffield: Sheffield Phoenix Press 2025). Ss. 220. ISBN 978-1-914490-62-0.",
+   "date": "2026-06-25",
+   "source": "Verbum Vitae",
+   "authors": "Cezary Korzec",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Jesus, the Son of Panthera: The Christian Invention of a “Jewish” Slander",
+   "url": "https://bibleinterp.arizona.edu/articles/jesus-son-panthera-christian-invention-jewish-slander",
+   "summary": "Jesus, the Son of Panthera: The Christian Invention of a “Jewish” Slander melliott1 Wed, 06/24/2026 - 09:33 The Panthera legend is often treated as an early Jewish slander against Jesus and Mary, but the evidence points instead to a Christian anti-Jewish construction. Early Christian writers placed the accusation in…",
+   "date": "2026-06-24",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Φρόνημα in Romans 8: A Pauline Ethical Key",
+   "url": "https://doi.org/10.3390/rel17070760",
+   "summary": "Romans 8 contains Paul’s most concentrated reflection on the human person transformed by the Spirit, and at its center stands the rare term φρόνημα. Appearing only four times in the New Testament, all in Romans 8 (6 [x2], 7, 27), φρόνημα is commonly translated as “mindset”, “disposition”, or “attitude”. These…",
+   "date": "2026-06-24",
+   "source": "Religions",
+   "authors": "Dolly Elias Chaaya",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Death of the Desert Forum | The Author's Response",
+   "url": "https://www.ancientjewreview.com/read/2026/6/23/death-of-the-desert-forum-the-authors-response",
+   "summary": "AJR is honored to host this review panel for Christine Luckritz Marquis’s Death of the Desert: Monastic Memory and the Loss of Egypt’s Golden Age (Philadelphia: University of Pennsylvania Press, 2022). You may find all the responses and the author’s response here . As anyone who has written a book knows, it is truly…",
+   "date": "2026-06-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Teachings from a Lost World",
+   "url": "https://www.ancientjewreview.com/read/2026/3/30/teachings-from-a-lost-world",
+   "summary": "A key feature of Luckritz Marquis’s work in the book is her choice to discuss the violent acts, imagery, and discourse in early Christian monastic culture without varnish.",
+   "date": "2026-06-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Death of the Desert Review Forum",
+   "url": "https://www.ancientjewreview.com/read/2026/3/24/death-of-the-desert-review-forum",
+   "summary": "This AJR Forum, organized and guest edited by Candace Buckner, features responses from Ellen Muehlberger, Rebecca Stephens Falcasantos, and Ciara Mulcahy to Christine Luckritz Marquis’s book, Death of the Desert: Monastic Memory and the Loss of Egypt's Golden Age (University of Pennsylvania Press, 2022). The forum…",
+   "date": "2026-06-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Monastic Memory and the Loss of Egypt’s Golden Age",
+   "url": "https://www.ancientjewreview.com/read/2026/3/30/monastic-memory-and-the-loss-of-egypts-golden-age",
+   "summary": "Luckritz Marquis masterfully weaves together multi-layered narratives while simultaneously engaging with the lenses of memory, nostalgia, and race.",
+   "date": "2026-06-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Remembering Broken Promises and Shattered Voices",
+   "url": "https://www.ancientjewreview.com/read/2026/3/30/remembering-broken-promises-and-shattered-voices",
+   "summary": "In the wake of collective trauma, memory practices can be protective strategies that channel grief while also shielding the community from continuing harm.",
+   "date": "2026-06-23",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "The Hexapla Institute Relaunched",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/06/the-hexapla-institute-relaunched.html",
+   "summary": "The Hexapla Institute was founded in 2001 to publish a “ Field for the Twenty-First Century.” Over the past 25 years, the Institute has made certain but limited progress, publishing only one of its volumes ( Job 22–42 ) during this time, even though several dissertations were completed on Genesis, Numbers,…",
+   "date": "2026-06-22",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Before Brutus and Judas: Kissing, Betrayal, and Ekphrasis in the Hebrew Bible",
+   "url": "https://doi.org/10.1163/15685152-bja10080",
+   "summary": "Building on previous studies of kissing, this article explores kisses of betrayal in Gilgamesh and Huwawa A, the Succession Narrative (2 Sam. 14–15, 20), and Proverbs 7. These cases illustrate how kissing, generally associated with pro-social dispositions and involving physical proximity to the other, can function as…",
+   "date": "2026-06-22",
+   "source": "Biblical Interpretation",
+   "authors": "Ekaterina E. Kozlova",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Brian E.Daley, Biblical Interpretation and Doctrine in Early Christianity . Edited by AndrewHofer. Grand Rapids, MI: William B. Eerdmans, 2025, x + 503pp. £65.99 |Brian E.Daley, Christology in Early Christianity . Collected Essays. Edited…",
+   "url": "https://doi.org/10.1111/ijst.70030",
+   "summary": "",
+   "date": "2026-06-22",
+   "source": "International Journal of Systematic Theology",
+   "authors": "Andrew Louth",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "A Villa and a Hiding Underground Compound from the Late Second Temple Period in the Judean Lowlands",
+   "url": "https://doi.org/10.30958/ajhis.12-3-4",
+   "summary": "Horvat Duwayma (Arabic:Khirbet ed-Duwayma) is situated on a slope near a hilltop (elevation 390 m above sea level) in the southern Judean Shephelah, approximately 7 km southeast of Tel Lachish and adjacent to the modern settlement of Amatziya. The hilltop rises about 60 m above a nearby tributary of Nahal Lachish.…",
+   "date": "2026-06-22",
+   "source": "Athens Journal of History",
+   "authors": "Daniel Varga",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Plenary Address: Senator Pauline Hanson",
+   "url": "https://doi.org/10.1071/ep26587",
+   "summary": "One Nation Leader Senator Pauline Hanson delivers a keynote address outlining One Nation’s policy priorities for Australia's oil and gas industry. Senator Pauline Hanson – Leader, One Nation",
+   "date": "2026-06-18",
+   "source": "Australian Energy Producers Journal",
+   "authors": "Pauline Hanson",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "In Conversation with Senator Pauline Hanson",
+   "url": "https://doi.org/10.1071/ep26588",
+   "summary": "One Nation Leader Senator Pauline Hanson joins Chris Uhlmann for this 'In Conversation' discussion. Senator Pauline Hanson – Leader, One Nation Facilitated by Chris Uhlmann – Sky News",
+   "date": "2026-06-18",
+   "source": "Australian Energy Producers Journal",
+   "authors": "Pauline Hanson, Chris Uhlmann",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "New Review of ECM Revelation",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/06/new-review-of-ecm-revelation.html",
+   "summary": "My review of the ECM Revelation volumes is out today in Religious Studies Review . Per the format, it is short, so don’t expect a deep dive. Instead I tried to hit the high points. You should be able to read it without the paywall using this gift link . Here are the last few lines: The entire team is to be warmly…",
+   "date": "2026-06-17",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "The score as catalyst: curating collaboration in Pauline Oliveros’ <i>Thirteen Changes</i> The score as catalyst: curating collaboration in Pauline Oliveros’ <i>Thirteen Changes</i>",
+   "url": "https://doi.org/10.37453/tj.180362",
+   "summary": "This article investigates how a verbal notation score, Pauline Oliveros’ Thirteen Changes (1986), can facilitate creativity, collaboration, and intercultural dialogue in contemporary art music. The study explores how everyday language, used as notation, can open inclusive and interdisciplinary spaces. Based on a…",
+   "date": "2026-06-17",
+   "source": "Trio",
+   "authors": "Livia Schweizer",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Reading Conflict in the Babylonian Talmud: Behind The Fragility of the Mind",
+   "url": "https://www.ancientjewreview.com/read/2026/6/16/reading-conflict-in-the-babylonian-talmud-behind-the-fragility-of-the-mind",
+   "summary": "Rather than portraying the sage as a mere conduit for divine truth, these stories present Torah as emerging from the sage’s individual identity and as deeply bound up with his personality. Consequently, an injury to a sage’s honor is not merely an injury to the person himself, but also to the world of Torah learning…",
+   "date": "2026-06-16",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Summer 2026 Update",
+   "url": "https://textandcanon.org/summer-2026-update/",
+   "summary": "Dr. Meade explains features of the Complutensian Polyglot to Tony Evans on location in Spain. The last twelve months have been full of changes for us as founders of the Text & Canon Institute. Last June, we moved our families from Phoenix to Kansas City where we took up new teaching positions at Midwestern Baptist…",
+   "date": "2026-06-15",
+   "source": "Text & Canon Institute",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Lessons Learned from the Magi",
+   "url": "https://www.ancientjewreview.com/read/2025/12/12/lessons-learned-from-the-magi",
+   "summary": "The twelve verses about the Magi in Matthew do not invite final answers; they invite attention, patience, and the persistence to keep digging.",
+   "date": "2026-06-15",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "S10E4 ‘Did God really say?’ Navigating the First Doubts in Genesis 3 | Genesis 1-9 Deep Dive",
+   "url": "https://tyndalehouse.com/2026/06/11/s10e4-did-god-really-say-navigating-the-first-doubts-in-genesis-3-genesis-1-9-deep-dive/",
+   "summary": "This week we step into the Garden of Eden as we continue our first video series from Tyndale House, Cambridge, exploring Genesis (The Creation Story). Although this series is also available on podcast platforms, it is designed to be watched, with visual explanations that complement the text well. Episode 4 examines…",
+   "date": "2026-06-11",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "William Tyndale: The most important Englishman in history?",
+   "url": "https://tyndalehouse.com/2026/06/11/william-tyndale-the-most-important-englishman-in-history/",
+   "summary": "William Tyndale was the first person to translate the New Testament (NT) into English from Greek, and this was the first NT printed in English. It had an immense impact on the English-speaking world, which reverberates down into our own time. Jerome translating for the people Tyndale stands in a long tradition of…",
+   "date": "2026-06-11",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "How do we choose which Bible translation to read?",
+   "url": "https://tyndalehouse.com/2026/06/11/bible-translations/",
+   "summary": "How do we know which translation of the Bible is the best one to read? Tony Watkins looks at the two main approaches used to translate the Bible to help answer this question.",
+   "date": "2026-06-11",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Edwin A. Judge and the Study of Early Christianity within the Roman Empire",
+   "url": "https://doi.org/10.1163/15685365-12341760",
+   "summary": "The ancient historian Edwin A. Judge of Macquarie University (Sydney) exerted a major influence on the study of early Christianity within the Roman Empire. After a short academic biography, this article focuses on two elements of his scholarship. First, the often-overlooked relevance of Judge as a Roman historian for…",
+   "date": "2026-06-11",
+   "source": "Novum Testamentum",
+   "authors": "James R. Harrison",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "City of Gods: The New Jerusalem of John’s Revelation in Early Christianity, written by Nathan Betz",
+   "url": "https://doi.org/10.1163/15685365-12341764",
+   "summary": "",
+   "date": "2026-06-11",
+   "source": "Novum Testamentum",
+   "authors": "Martin Karrer",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Spécimen de Pauline Clavière, Grasset, 416 p., 24 €",
+   "url": "https://doi.org/10.3917/rd2m.2607.0164",
+   "summary": "",
+   "date": "2026-06-11",
+   "source": "Revue des deux Mondes",
+   "authors": "Isabelle Lortholary",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "How we got the Bible: The story of Scripture",
+   "url": "https://tyndalehouse.com/2026/06/10/how-we-got-the-bible/",
+   "summary": "Dirk Jongkind takes a long look at the story of how the Bible came to us.",
+   "date": "2026-06-10",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Author Response: Moulie Vidas on the Rise of Talmud",
+   "url": "https://www.ancientjewreview.com/read/2026/5/28/author-response-moulie-vidas-on-the-rise-of-talmud",
+   "summary": "“The Rise of Talmud concludes with the argument that Talmud was distinctive because it centered humans reading other humans, as opposed to humans reading God; let this piece conclude with an argument for humans reading other humans as opposed to machines.”",
+   "date": "2026-06-10",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Vidas’ Yerushalmi and the Reputation of the Tannaim",
+   "url": "https://www.ancientjewreview.com/read/2026/6/1/vidas-yerushalmi-and-the-reputation-of-the-tannaim",
+   "summary": "“Moulie uncovers a new world of distinctions between the Yerushalmi and the Tannaitic literature. “",
+   "date": "2026-06-08",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "The Dead Sea Scrolls: New Insights on Ancient Texts, by Alex P. Jassen and Lawrence H. Schiffman (eds.)",
+   "url": "https://doi.org/10.1163/15685179-03302007",
+   "summary": "",
+   "date": "2026-06-08",
+   "source": "Dead Sea Discoveries",
+   "authors": "Gareth J. Wearne",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Textual History of the Bible from the Dead Sea Scrolls to the Biblical Manuscripts of the Vienna Papyrus Collection. Proceedings of the Fifteenth International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and…",
+   "url": "https://doi.org/10.1163/15685179-03302004",
+   "summary": "",
+   "date": "2026-06-08",
+   "source": "Dead Sea Discoveries",
+   "authors": "Arie van der Kooij",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Comments on the Lanier Theological Library Amos Fragments",
+   "url": "https://doi.org/10.1163/15685179-bja10082",
+   "summary": "This note comments on earlier assessments of authenticity of the Lanier Theological Library Amos fragments and compares the scribal features of these fragments to those of genuine Dead Sea Scrolls fragments and those of other post-2002 fragments of doubtful authenticity.",
+   "date": "2026-06-08",
+   "source": "Dead Sea Discoveries",
+   "authors": "Eibert Tigchelaar",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Exploring Uncharted Territory",
+   "url": "https://doi.org/10.1163/15685179-bja10081",
+   "summary": "The article examines how the Aramaic manuscripts of the Books of Enoch came to light and how they have been interpreted, focusing on 4Q208–4Q211. Recovered from Qumran Cave 4, the fragments shed light on Enochic astronomy—covering the coordination of lunar and solar calendars and the detailed modeling of lunar…",
+   "date": "2026-06-08",
+   "source": "Dead Sea Discoveries",
+   "authors": "Henryk Drawnel",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Serek ha-Yahad (1QS) in Dialogue with Mimetic Theory: Scapegoat Mechanisms Unveiled, by Kamilla Skarström Hinojosa",
+   "url": "https://doi.org/10.1163/15685179-03302005",
+   "summary": "",
+   "date": "2026-06-08",
+   "source": "Dead Sea Discoveries",
+   "authors": "Melissa Sayyad Bach",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Work of the πνευματικὸς ἄνθρωπος as a Transformation Called to Endure: A Vision from Pauline Thought",
+   "url": "https://doi.org/10.3390/rel17060679",
+   "summary": "Work and transformation are undeniably linked. However, both terms can be understood in diverse ways. We live in a world where many activities that were recently performed by people are now carried out by machines. The question is: if we call this “work,” can we speak of a work that is properly human? And, if so, how…",
+   "date": "2026-06-05",
+   "source": "Religions",
+   "authors": "Juan-Luis Caballero",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "How the Hebrew Bible Became a Christian Book",
+   "url": "https://bibleinterp.arizona.edu/articles/how-hebrew-bible-became-christian-book",
+   "summary": "How the Hebrew Bible Became a Christian Book melliott1 Thu, 06/04/2026 - 09:35 Medieval and early Christian biblical traditions developed through centuries of copying, translation, correction, and interpretation. The Bible’s history is less like one tree branching outward and more like rivers flowing together, as…",
+   "date": "2026-06-04",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "BAPTISM AND TRANSGRESSION IN EARLY CHRISTIANITY",
+   "url": "https://doi.org/10.15688/lp.jvolsu.2026.1.11",
+   "summary": "The sacrament of baptism was crucial to the formation of religious identity in the early centuries of Christianity. The act of baptism has profound symbolic significance and is perceived in the culture of early Christianity as a symbol of salvation from a soteriological perspective. The aim of this article is to…",
+   "date": "2026-06-04",
+   "source": "Logos et Praxis",
+   "authors": "Zoe Tsiami",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Intellectual Profiles in both Talmud and Midrash",
+   "url": "https://www.ancientjewreview.com/read/2026/6/1/intellectual-profiles-in-both-talmud-and-midrash",
+   "summary": "I will argue that in the Amoraic period, the Jerusalem Talmud may not have been quite so unique and innovative in a way that differs from all other rabbinic compilations. Rather the Talmud and the Amoraic Midrash may rather have participated in similar debates, often taking different stands on the same issues.",
+   "date": "2026-06-03",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "peer": false
+  },
+  {
+   "title": "Randall L. McKinion and Jason K. Lee, Joshua (Kerux)",
+   "url": "https://readingacts.com/2026/06/03/randall-l-mckinion-and-jason-k-lee-joshua-kerux/",
+   "summary": "How do I find Scripture interpreted rabbinic literature?",
+   "date": "2026-06-03",
+   "source": "Reading Acts",
+   "category": "teologia",
+   "peer": false
+  },
+  {
+   "title": "Tel Shor: The Glass Vessels",
+   "url": "https://doi.org/10.70967/3078-8528.1075",
+   "summary": "Among the glass vessels from Tel Shor is a cast bowl adorned with beaded decoration, dated to the late Hellenistic period, which contributes to the currently meager data on the distribution of this quite rare type. A third-century CE bottle, unearthed alongside a Roman-period clay bottle, supports the attribution of…",
+   "date": "2026-06-03",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Tamar Winter",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Tel Shor: Stamped Amphora Handles",
+   "url": "https://doi.org/10.70967/3078-8528.1074",
+   "summary": "The excavation at Tel Shor yielded three closely dated stamped amphora handles: two Rhodian, dating to 158–137 BCE, and one Knidian, dating to the third quarter of the second century BCE.",
+   "date": "2026-06-03",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Donald T. Ariel, Tania Panagou",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Tel Shor: Jewelry, Dress and Cosmetic Articles from Three Persian Burials",
+   "url": "https://doi.org/10.70967/3078-8528.1076",
+   "summary": "The excavation northwest of Tel Shor exposed the partial remains of a Persian-period cemetery. Within the burial site were three intact tombs, two belonging to adult females and one to a child of undetermined sex. The burial goods include a rich corpus of jewelry, comprising earrings and finger rings, pendants, beads…",
+   "date": "2026-06-03",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Amir Golani, Eli Yannai",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "S uriano A., Narrative Paths Through Mamre and Sodom. The Oak and the Gate, coll. The Library of Hebrew Bible/Old Testament Studies 745, Londres, T&T Clark, 2025, 198 p., 85,00 £. ISBN 9780567718655.",
+   "url": "https://doi.org/10.3917/nrt.483.0125a",
+   "summary": "",
+   "date": "2026-06-03",
+   "source": "Nouvelle revue théologique",
+   "authors": "D. Manens",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "“Animal Rights and the Hebrew Bible” by Saul M. Olyan",
+   "url": "https://doi.org/10.15664/tis.v33i1.3185",
+   "summary": "Review ofSaul M. Olyan, Animal Rights and the Hebrew Bible (New York: Oxford University Press, 2023) pp. 160, ISBN 978-0197609385. £65.55",
+   "date": "2026-06-02",
+   "source": "Theology in Scotland",
+   "authors": "Edmund Jessop",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "9. Early Jewish Texts (Including the Dead Sea Scrolls)",
+   "url": "https://doi.org/10.1177/03090892261438575",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal for the Study of the Old Testament",
+   "authors": "Joseph Scales",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "THE ARAMAIC BOOKS OF ENOCH AND RELATED LITERATURE FROM QUMRAN: PROCEEDINGS OF THE INTERNATIONAL ONLINE CONFERENCE ORGANIZED BY THE CENTER FOR THE STUDY OF SECOND TEMPLE JUDAISM OF THE JOHN PAUL II CATHOLIC UNIVERSITY OF LUBLIN, IN…",
+   "url": "https://doi.org/10.1111/rsr.70446",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Religious Studies Review",
+   "authors": "Thomas M. Miller",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "New Testament Theology for Real Life GuptaNijay K., 15 New Testament Words of Life: A New Testament Theology for Real Life (Grand Rapids: Zondervan Academic, 2022. $25.99. pp. 240. ISBN: 978-0-3101-4493-9).",
+   "url": "https://doi.org/10.1177/00145246261451943",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "The Expository Times",
+   "authors": "Chungyeol Lim",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "THE AUTHORITY OF THE SEPTUAGINT: BIBLICAL, HISTORICAL, AND THEOLOGICAL APPROACHES. Edited by Gregory R.Lanier and William A.Ross. InterVarsity, 2025. Pp. xii + 282. N.p.",
+   "url": "https://doi.org/10.1111/rsr.70360",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Religious Studies Review",
+   "authors": "James Frohlich",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Hermeneutics of Trauma: Influences of Trauma Studies on Biblical Scholarship",
+   "url": "https://doi.org/10.1177/1476993x261419165",
+   "summary": "Over the past two decades, there has been an increased interest in the influence of trauma on many biblical texts. In pursuing this interest, scholars have turned to the broad field of trauma studies. The increased influence of trauma on biblical scholarship necessitates an understanding of how scholars discuss…",
+   "date": "2026-06-01",
+   "source": "Currents in Biblical Research",
+   "authors": "Jacob Christiaan Faul",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Abbreviations",
+   "url": "https://doi.org/10.1177/1476993x261460526",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Currents in Biblical Research",
+   "authors": "",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "“Strange Fire” Indeed (Lev 10:1–11): Psychotropic Substances in the Religions of Israel and Judah in the Iron Age II in Light of Incense Traditions in the Hebrew Bible and Recent Archaeological Discoveries",
+   "url": "https://doi.org/10.3390/rel17060664",
+   "summary": "The cultic violation of the “strange fire” offered to Yahweh by Nadab and Abihu in Leviticus 10:1–11 has long puzzled commentators. Similarly perplexing has been the apparently related prohibition of imbibing intoxicating liquids (v. 8) prescribed for all officiating priests following the debacle. This paper…",
+   "date": "2026-06-01",
+   "source": "Religions",
+   "authors": "Jonathan S. Greer",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Egyptianizing Female Figurines in Late Bronze Age Cyprus",
+   "url": "https://doi.org/10.1086/741248",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Near Eastern Archaeology",
+   "authors": "Stephanie Lynn Budin",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Towards a New Understanding of the Image of God in Genesis 1:26-27: An Analysis of the Constructions of the Verb ברא in the Hebrew Bible",
+   "url": "https://doi.org/10.5508/jhs29692",
+   "summary": "The article counters the common assumption that ברא (Qal) with the subject God means “to create” and the common rendering of humanity being “created in God’s image” in Gen 1:26-27. A number of scholars have expressed doubts about understanding ברא as “to create,” and concluded that ברא might be better understood in…",
+   "date": "2026-06-01",
+   "source": "The Journal of Hebrew Scriptures",
+   "authors": "Ellen Van Wolde",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Taming the Evil Eye: Ironic Reframing of ʿayin rāʿāh in the Hebrew Bible",
+   "url": "https://doi.org/10.64438/sbslror9837",
+   "summary": "Despite the widespread ancient Near Eastern belief in the evil eye as an envy-driven, projective force of harm, scholarship has often regarded explicit references to ʿayin rāʿāh (“evil eye”) in the Hebrew Bible as marginal or absent. This article examines the idiom’s occurrences in Proverbs 23:6; 28:22 and…",
+   "date": "2026-06-01",
+   "source": "Studia Biblica Slovaca",
+   "authors": "Zacharias Kotzé",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Introduction",
+   "url": "https://doi.org/10.1515/jemc-2026-3002",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Marta Quatrale",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "From Heretic to Prophet: Two Milestones in the Early Modern Re-evaluation of John Hus (16th – Early 18th Century)",
+   "url": "https://doi.org/10.1515/jemc-2026-3010",
+   "summary": "The article examines the early modern reinterpretation of John Hus, which was carried out in several stages by Luther and his followers. Originally condemned as a heretic and burned at the stake in 1415, Hus’ legacy underwent a significant reinterpretation during the Reformation. As a result, Hus was stylised from a…",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Eike Hinrich Thomsen",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The Devil as Perdix: The Origin and Development of the Satanic Partridge in Early Christianity",
+   "url": "https://doi.org/10.1353/earl.2026.a989232",
+   "summary": "This article is the first to trace the classical, scriptural, and interpretive origins of the partridge-devil motif and its development in early Christian literature up to the fifth century c.e. It argues that while Hippolytus of Rome first associated the partridge with a counter-messianic figure, the antichrist, it…",
+   "date": "2026-06-01",
+   "source": "Journal of Early Christian Studies",
+   "authors": "Isaac T. Soon",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Image, Religion and Rebellion: Use and Absence of Combative Art in Early Modern Catalonia",
+   "url": "https://doi.org/10.1515/jemc-2026-3011",
+   "summary": "The essential role played by art in the confessional conflicts of early modern Europe has been widely acknowledged in historiography. In this context, the propagandistic nature of images and their critical function vis-à-vis opposing factions have been the subject of extensive scholarly attention. However, in…",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Cristina Fontcuberta Famadas, Quintí Vinyes i Bassols",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Eschatology and Prophetic Exegesis in Andreas Osiander’s Early Writings: From the Nürnberger Ratschlag (1524–1525) to the Wunderliche Weissagung (1527)",
+   "url": "https://doi.org/10.1515/jemc-2026-3004",
+   "summary": "The article examines Andreas Osiander’s eschatological and apocalyptic thought in the 1520s by analyzing the extensive Antichrist section of the Nürnberger Ratschlag (1524/1525), a lengthy theological survey that paved the way for the formal adoption of Lutheranism by the city of Nuremberg. Particular attention is…",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Marco Giardini",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Diognetus, Paul, and John: The Pauline-Johannine Expression of Christianity in Diognetus",
+   "url": "https://doi.org/10.1353/earl.2026.a989230",
+   "summary": "The Epistle to Diognetus contains extensive allusions and echoes to the Pauline Epistles, John, and 1 John. This article analyzes the letter's creative combination of Pauline and Johannine terminology and theology into a cohesive expression of Christianity, focusing on the linguistic and thematic parallels between…",
+   "date": "2026-06-01",
+   "source": "Journal of Early Christian Studies",
+   "authors": "John D. Doss",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Historicising the Mass: Protestant Narratives on the Liturgy in Polish Vernacular Works (ca. 1560)",
+   "url": "https://doi.org/10.1515/jemc-2026-3007",
+   "summary": "This paper investigates how Protestant writers in sixteenth-century Poland–Lithuania and Prussia employed historiographical and literary strategies to challenge the legitimacy of the Roman Catholic Mass and promote liturgical reform. Focusing on three works published in Polish – Marcin Krowicki’s Obrona nauki…",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Wojciech Kordyzon",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Requiescente Verbo : Melanchthon’s Patristic Reframing of the Communicatio idiomatum (1530–1560)",
+   "url": "https://doi.org/10.1515/jemc-2026-3006",
+   "summary": "This article reconstructs the divergent configurations of the christological concept of the communicatio idiomatum in Martin Luther and Philipp Melanchthon, and traces their transformation within the fractured landscape of pre-Concordistic Lutheran theology. Luther binds predication directly to the soteriological…",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Marta Quatrale",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Reading Paul‐within‐Judaism within Judaism",
+   "url": "https://doi.org/10.1111/rsr.70379",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Religious Studies Review",
+   "authors": "Ethan Schwartz",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Book Review: Biblical Metaphors: Explaining Biblical Metaphors Obscured in Translation , Kenneth McElhanon McElhanonKenneth, Biblical Metaphors: Explaining Biblical Metaphors Obscured in Translation. Published by the author, 2025. xix +…",
+   "url": "https://doi.org/10.1177/20516770261448072",
+   "summary": "",
+   "date": "2026-05-30",
+   "source": "The Bible Translator",
+   "authors": "Bronwen Cleaver",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "S10E3 In the image of God – Genesis chapter 2 (Genesis chapter 1-9 Deep Dive, Part Three)",
+   "url": "https://tyndalehouse.com/2026/05/29/s10e3-in-the-image-of-god-genesis-chapter-3-genesis-chapter-1-9-deep-dive-part-three/",
+   "summary": "Welcome back to the Tyndale House podcast series on Genesis 1 – 9. In episodes 1 and 2, we opened the series by exploring the full depth of Genesis chapter 1 in which God created the heavens and the earth, and how it stands apart from ancient Near Eastern creation myths. In this third episode, ...",
+   "date": "2026-05-29",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "A unique mother-of-pearl stamp seal from Late Iron Age Tel Ḥadid, Israel",
+   "url": "https://doi.org/10.1080/00758914.2026.2663758",
+   "summary": "",
+   "date": "2026-05-29",
+   "source": "Levant",
+   "authors": "Ido Koch, Daria Leibin-Graiver, Daniella E. Bar-Yosef Mayer",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Book Review: Allison Jr., Dale C.: Interpreting Jesus Interpreting Jesus. By AllisonDale C.Jr. Eerdmans, 2025. Pp. ix + 521. $49.99 (hb).",
+   "url": "https://doi.org/10.1177/00405639261441420a",
+   "summary": "",
+   "date": "2026-05-26",
+   "source": "Theological Studies",
+   "authors": "Alberto Solano",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The ecological–theological implications of the narrative of creation in the Pauline tradition",
+   "url": "https://doi.org/10.4102/ve.v47i1.3879",
+   "summary": "This study investigates the theological significance of creation across the Pauline corpus, examining key passages in which creation, life, and created beings are explicitly addressed (e.g. Rm 1:20; 8:19–22; 11:36; 14; 1 Cor 8:6; 10:26; 15:20–28, 35–49; Col 1:15–20; Eph 1:20–23; 3:9; 4:6). It argues that, although…",
+   "date": "2026-05-22",
+   "source": "Verbum et Ecclesia",
+   "authors": "Seo-Jun Kim",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "New book: Scribal Habits in Greek New Testament Manuscripts",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/05/new-book-scribal-habits-in-greek-new.html",
+   "summary": "Andrew Wilson has a new book coming out in SBL’s Text-Criticism Studies series. It’s a major study of scribal habits and is something Andrew’s been working on for some 20 years! (I remember reading his chapter on the subject in MAR’s Festschrift during my PhD.) Publisher's Description Singular readings (textual…",
+   "date": "2026-05-21",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Paul D. Weaver, Faith-Affirming Findings",
+   "url": "https://readingacts.com/2026/05/21/paul-d-weaver-faith-affirming-findings/",
+   "summary": "How do I find Scripture interpreted rabbinic literature?",
+   "date": "2026-05-21",
+   "source": "Reading Acts",
+   "category": "teologia",
+   "peer": false
+  },
+  {
+   "title": "Reading Jeremiah 29:4–7 with Multiplaced Bodies",
+   "url": "https://doi.org/10.1163/15685152-bja10075",
+   "summary": "Reading Jeremiah 29:4–7 dialogically, this study situates the passage at the crossroads of the book’s textual–historical multivocality, intertextual conversations, and contemporary experiences of multiplaced belonging. It contends that common exile–return templates—presuming one homeland and linear restoration—are…",
+   "date": "2026-05-20",
+   "source": "Biblical Interpretation",
+   "authors": "Eliana Ah-Rum Ku",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Comparing Pauline christology in the disputed and undisputed letters",
+   "url": "https://doi.org/10.4102/ve.v47i1.3871",
+   "summary": "One of the main issues in debates about the authenticity of the letters to the Colossians and Ephesians is their high christology in comparison with the undisputed Pauline letters, especially as portrayed in Colossians 1:15–20 and Ephesians 1:20–23. In this contribution, the main question that is asked is whether the…",
+   "date": "2026-05-20",
+   "source": "Verbum et Ecclesia",
+   "authors": "Philip La G. Du Toit",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Jason Borges, Christian Life in the Greco-Roman City",
+   "url": "https://readingacts.com/2026/05/19/jason-borges-christian-life-in-the-greco-roman-city/",
+   "summary": "What is a good book for studying Paul's missionary journeys? A review of Journeys of the Apostle Paul (Lexham 2019).",
+   "date": "2026-05-19",
+   "source": "Reading Acts",
+   "category": "teologia",
+   "peer": false
+  },
+  {
+   "title": "Two Second-Temple-Period Burial Caves in Abu Ṭor, Jerusalem",
+   "url": "https://doi.org/10.70967/2948-040x.2480",
+   "summary": "",
+   "date": "2026-05-16",
+   "source": "'Atiqot",
+   "authors": "Amit Re’em",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Situating Biblical anger: Embodied Realism and the Cognitive Constraints Shaping Emotion Metaphors in the Hebrew Bible",
+   "url": "https://doi.org/10.1163/15685152-bja10071",
+   "summary": "This study critically examines the conceptualization of anger in the Hebrew Bible through the lens of embodied realism and cognitive constraints. It reviews existing research on anger metaphors and metonymies, highlighting the influence of cultural, environmental, and experiential factors on emotional expressions.…",
+   "date": "2026-05-15",
+   "source": "Biblical Interpretation",
+   "authors": "Javier E. Díaz-Vera",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "factor, creator, conditor — Observations on the Impact of the Septuagint on the Vocabulary of Creation in the Latin Bible",
+   "url": "https://doi.org/10.24193/sacrascripta.2024.03",
+   "summary": "The aim of this article is to study the Latin terminology of creation used in the Vulgate and in Jerome’s commentary on the biblical writings. The following questions will be addressed: 1o Which words or word groups are Jerome’s favourite terms when it comes to speaking of God as the creator and the creation? 2o To…",
+   "date": "2026-05-14",
+   "source": "Studia Universitatis Babeș-Bolyai Sacra Scripta",
+   "authors": "Eberhard BONS",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Contested Kingship in Late Hellenistic Judea",
+   "url": "https://doi.org/10.1163/15700631-bja10117",
+   "summary": "This article explores local conceptions of kingship in Judea during the late Hellenistic period through a poetic text found at Qumran that refers to “King Jonathan” (4Q448). While scholars generally identify this figure as a Hasmonean ruler, the text’s stance toward the dynasty and its royal office remains debated.…",
+   "date": "2026-05-13",
+   "source": "Journal for the Study of Judaism",
+   "authors": "Rotem Avneri Meir",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Wilson, Lucas F. W. At Home with the Holocaust: Postmemory, Domestic Space, and Second-Generation Holocaust Narratives. New Brunswick: Rutgers University Press, 2025.",
+   "url": "https://doi.org/10.33137/wij.v21i2.47563",
+   "summary": "Book Review",
+   "date": "2026-05-13",
+   "source": "Women in Judaism: A Multidisciplinary e-Journal",
+   "authors": "Anna Marie Anderson",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "A formação do caráter ético na antiguidade: Qumran, Jesus e a dinâmica psicológica da virtude",
+   "url": "https://doi.org/10.57108/iesj.2026.6-1.11",
+   "summary": "O artigo analisa a formação do caráter ético ao comparar os Manuscritos do Mar Morto com as Bem-aventuranças de Jesus, focando especialmente na psicologia da virtude. Sob a ótica psicológica, as Bem-aventuranças funcionam como um guia para a autorregulação emocional e a integração da personalidade, onde virtudes como…",
+   "date": "2026-05-12",
+   "source": "Ivy Enber Scientific Journal",
+   "authors": "Richarde Barbosa Guerra",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Dangerous Business of Biblical Interpretation",
+   "url": "https://doi.org/10.1163/17455197-bja10060",
+   "summary": "A personal account of a coming to feminist consciousness as a biblical scholar and the impact of the work of Elisabeth Schüssler Fiorenza. In dialogue with Jesus and the Politics of Interpretation , the article deals with questions such as the contextual nature of biblical interpretation, the inadequacy of…",
+   "date": "2026-05-12",
+   "source": "Journal for the Study of the Historical Jesus",
+   "authors": "Barbara E. Reid",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "A imagem insiste: Carolina Maria de Jesus como gesto curatorial The image insists: Carolina Maria de Jesus as a curatorial gesture",
+   "url": "https://doi.org/10.60001/ae.n50.3",
+   "summary": "A imagem de Carolina Maria de Jesus vem sendo revisitada nas últimas décadas, ultrapassando o campo literário e adentrando o universo das artes, da curadoria e das narrativas gráficas. Partindo desse contexto, este artigo tem como eixo a figura de Carolina Maria de Jesus, investigando como a imagem de uma mulher…",
+   "date": "2026-05-11",
+   "source": "Arte & Ensaios",
+   "authors": "Ana Carolina Oliveira",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The Historical Jesus and the Politics of Interpretation: Continuing to Learn from Elisabeth Schüssler Fiorenza",
+   "url": "https://doi.org/10.1163/17455197-bja10057",
+   "summary": "The article first summarizes and embellishes Schüssler Fiorenza’s criticism of scientific and social-scientific constructions of the historical Jesus that surged in the 1990s. It then summarizes earlier investigations of popular movements contemporary with Jesus’ mission and movement and investigations of the…",
+   "date": "2026-05-07",
+   "source": "Journal for the Study of the Historical Jesus",
+   "authors": "Richard Horsley",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Winnowing Words to an Unreceptive Judge",
+   "url": "https://doi.org/10.1163/15685179-bja10080",
+   "summary": "This article examines how cognitive metaphor theory can illuminate the interplay between conventionality and creativity in the Dead Sea Scrolls, focusing on a striking metaphor in 4Q424 that conceptualizes speaking to an unreceptive judge as winnowing words in the wrong wind. Although cognitive metaphor studies have…",
+   "date": "2026-05-06",
+   "source": "Dead Sea Discoveries",
+   "authors": "Danilo Verde",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Kafr Kama: The Marble Finds",
+   "url": "https://doi.org/10.70967/3078-8528.1071",
+   "summary": "The study of 127 marble fragments from the excavation of the Umayyad building at Kafr Kama revealed that most of the samples are made of Proconnesian marble and originally belonged to panels that likely decorated a church demolished by the earthquake of 749 CE. The collapse of the building caused the breakage of the…",
+   "date": "2026-05-05",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Anastasia Shapiro",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Kafr Kama: The Coins",
+   "url": "https://doi.org/10.70967/3078-8528.1070",
+   "summary": "The excavation at Kafr Kama yielded five coins. One coin, minted in Rome, dates to the reign of Constantius II, while the others are from the Early Islamic period. Among these are a gold dinar and two silver dirhams from the early Abbasid period, including a rare dirham minted in al-Haruniya during the brief reign of…",
+   "date": "2026-05-05",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Robert Kool",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "‘The Most Beautiful and Glorious Task of Learned Men’",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/05/the-most-beautiful-and-glorious-task-of.html",
+   "summary": "“The most beautiful and glorious task of learned men” — that may be the best description of textual criticism I’ve ever come across. It’s from the sixth-century Roman senator, Christian writer, and monk Cassiodorus. In his book Institutions of Divine and Secular Learning , he has an entire section on the importance…",
+   "date": "2026-05-04",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Andreas Juckel and Inetje Parlevliet-Flesseman, The New Testament in Syriac: Peshitṭa Version, vol. iii, The Pauline Epistles. Piscataway, NJ: Gorgias Press, 2023, clxviii–349 pp. isbn 978-1-4632-4479-8 (hb).",
+   "url": "https://doi.org/10.1163/17831520-2026xx03",
+   "summary": "",
+   "date": "2026-05-04",
+   "source": "Journal of Eastern Christian Studies",
+   "authors": "Piotr Jutkiewicz",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Sociotechnical Assemblages and Biblical Affects: A Response to Scripture and Secularism in Modern Scandinavia and Beyond",
+   "url": "https://doi.org/10.1163/15685152-20262007",
+   "summary": "Building on the articles in this special issue and Hannah M. Strømmen’s biblical assemblages framework, this article suggests two key directions for future research on cultural and reception histories of Bible. First, it advocates for deeper investigation into socio-technical dimensions. Within the framework of…",
+   "date": "2026-05-01",
+   "source": "Biblical Interpretation",
+   "authors": "Timothy Beal",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Digging for Roots: Perceptions of Secularity and Biblical Assemblages in the 1957–58 Public Debate on Women’s Ordination in Sweden",
+   "url": "https://doi.org/10.1163/15685152-20262002",
+   "summary": "This article aims to ‘dig for the roots’ of the entanglement between secularity and the Bible in Sweden. By employing the concepts “religionization” and “biblical assemblages,” this study identifies and analyzes the interplay between perceptions of secularity and the Bible in the public debate on women’s ordination…",
+   "date": "2026-05-01",
+   "source": "Biblical Interpretation",
+   "authors": "Frida Mannerfelt",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Cornelis Bennema, Imitation in Early Christianity: Mimesis and Religious-Ethical Formation BennemaCornelis, Imitation in Early Christianity: Mimesis and Religious-Ethical Formation (Grand Rapids MI: Eerdmans, 2025); xviii + 446 pp.:…",
+   "url": "https://doi.org/10.1177/0040571x261448089c",
+   "summary": "",
+   "date": "2026-05-01",
+   "source": "Theology",
+   "authors": "Stephen C. Barton",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Un pont sur la Seine par Pauline Dreyfus (review)",
+   "url": "https://doi.org/10.1353/tfr.2026.a990142",
+   "summary": "",
+   "date": "2026-05-01",
+   "source": "The French Review",
+   "authors": "",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Daniel 7. 13 in the Septuagint translation compared to the aramaic text and Theodotion’s version: textual and theological issues",
+   "url": "https://doi.org/10.15382/sturi2026124.11-28",
+   "summary": "The article is devoted to the analysis of textual discrepancies in Daniel 7:13 across various manuscript traditions of the Septuagint, the Aramaic version of the Masoretic Text, and the Greek translation of Theodotion. The key textual issue revolves around why the original Greek translation states that “one like a…",
+   "date": "2026-04-30",
+   "source": "St. Tikhons' University Review",
+   "authors": "Alexey Andreyev",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Meaning of “His Staff” in Hebrews 11:21 and the Septuagint Genesis 47:31: Jewish Translations and Commentaries",
+   "url": "https://doi.org/10.61420/mp.2026.7.1.37",
+   "summary": "Hebrews 11 emphasizes faith in God’s promises through the actions of the patriarchs. However, Hebrews 11:21, which cites Genesis 47:31, describes Jacob’s action of “worshiping while leaning on the top of his staff,” raises the question of how this scene relates to the chapter’s theme of faith. Traditionally, this…",
+   "date": "2026-04-30",
+   "source": "The Institute of Mind Humanities",
+   "authors": ", Moonseok Kwak, Sangwoo Kang",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Between Wisdom and Cunning: Women in texts from the Ancient Near East and the Hebrew Bible",
+   "url": "https://doi.org/10.31280/cc.2026.04.20.1.5",
+   "summary": "",
+   "date": "2026-04-30",
+   "source": "Canon&Culture",
+   "authors": "Ada Taggar-Cohen",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Vicarious Atonement in the Hebrew Bible: From the Atonement Rituals of Leviticus to the Suffering Servant in Isaiah",
+   "url": "https://doi.org/10.31280/cc.2026.04.20.1.77",
+   "summary": "",
+   "date": "2026-04-30",
+   "source": "Canon&Culture",
+   "authors": "Sun-Jong Kim",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Gentile Conversion and Impurity in Second Temple Judaism: The Case of the Book of Jubilees",
+   "url": "https://doi.org/10.31280/cc.2026.04.20.1.133",
+   "summary": "",
+   "date": "2026-04-30",
+   "source": "Canon&Culture",
+   "authors": "Geon-Soo Kim",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "A Rock-Cut Burial Cave from the Second Temple, Period at Ḥorbat Ẓefiyya, Judean Shephelah,",
+   "url": "https://doi.org/10.70967/2948-040x.2432",
+   "summary": "",
+   "date": "2026-04-30",
+   "source": "'Atiqot",
+   "authors": "Pirhiya Nahshoni, Boas Zissu, Nitzan Sarig",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Judaism, Philo, and Hegel's Theology",
+   "url": "https://doi.org/10.1111/moth.70102",
+   "summary": "Hegel displays consistent interest in Judaism, but his presentation seems to differ widely between his earlier and later writings. Contemporary scholarly interpretations of this apparent change also differ widely. In this article, I present the interpretive problem as one of continuity‐discontinuity, and place the…",
+   "date": "2026-04-30",
+   "source": "Modern Theology",
+   "authors": "Reed Frey, C.O.",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "An Integrative Reinterpretation of the Concept of ἐπιθυμία in the Pauline Epistles: Focusing on a Model of Desire Reconfiguration",
+   "url": "https://doi.org/10.19114/atj.67.2",
+   "summary": "",
+   "date": "2026-04-30",
+   "source": "ACTS Theological Journal",
+   "authors": "Young Namgung",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Stitching in the Tefillin Cases from the Judean Desert",
+   "url": "https://doi.org/10.1163/15685179-bja10078",
+   "summary": "This study presents the first comprehensive examination of the stitching materials and techniques used in tefillin cases from the Judean Desert. It reports the results of microscopic and spectroscopic analyses of all twelve Judean Desert specimens with surviving threads, examining materials, thread construction,…",
+   "date": "2026-04-29",
+   "source": "Dead Sea Discoveries",
+   "authors": "Yonatan Adler, Theresa Emmerich Kamper, Ilit Cohen-Ofri",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Review of UBS6 in Themelios",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/review-of-ubs6-in-themelios.html",
+   "summary": "The latest issue of Themelios is a special issue dedicated to D.A. Carson and the influential NSBT series he edited for three decades. The bulk of the issue is taken up by key authors from the series who summarize and reflect on their volumes. If you’ve never heard of the NSBT series, this would be a great way into…",
+   "date": "2026-04-28",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "From the Editor",
+   "url": "https://doi.org/10.1177/0142064x261436245",
+   "summary": "",
+   "date": "2026-04-27",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "Olegs Andrejevs",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Karme Qatif: A Villa from the Second Temple Period in the Judean Shephelah / כרמי קטיף: וילה משלהי ימי בית שני בשפלת יהודה",
+   "url": "https://doi.org/10.70967/3078-8528.1068",
+   "summary": "Three seasons of salvage excavations conducted at Karme Qatif uncovered a villa from the Second Temple period. The villa comprised four wings: a central courtyard; a western residential wing; an eastern wing containing a bathhouse; and a northern wing, which probably included the entrance to the villa. Finds from the…",
+   "date": "2026-04-27",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Daniel Varga, Yigal Israel",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The Use of πυρόω in the Septuagint, and its Value for <i>Esther</i>, Addition D 5",
+   "url": "https://doi.org/10.36950/hyperboreus.v32p1a05",
+   "summary": "A careful analysis of the semantics and syntax of the verb πυρόω in the Septuagint helps to identify a hitherto unrecognised element of linguistic similarity between Addition D to Esther and 3 Maccabees (books originally written in Greek ab initio, that is, without a semitic Vorlage). This similarity, namely the…",
+   "date": "2026-04-26",
+   "source": "Hyperboreus",
+   "authors": "Lucia Prauscello",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "What Is 4QNarrative and Poetic Composition (2Q22; 4Q371–373a) About?",
+   "url": "https://doi.org/10.1163/15685179-bja10079",
+   "summary": "4QNarrative and Poetic Composition (2Q22; 4Q371–373a) is difficult to characterize. It is attested in five manuscripts with only a few overlaps, it contains a mixture of prose and poetry, and the largest fragments do not seem to be united by an overarching theme. The best-preserved fragment, 4Q372 1, is about Joseph…",
+   "date": "2026-04-24",
+   "source": "Dead Sea Discoveries",
+   "authors": "James Nati",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Eyes to the East: Round Watchtowers Overlooking the Roads Leading from the Jordan Valley to the Kingdom of Israel in Iron Age II",
+   "url": "https://doi.org/10.70967/2948-040x.2409",
+   "summary": "A small, isolated round tower, dating from the Iron Age, was unearthed near the settlement of Poriyya, overlooking the Jordan Valley. This tower is discussed below together with other, similar Iron Age structures exposed in eastern Samaria, which were built along main roads in the Kingdom of Israel under the…",
+   "date": "2026-04-22",
+   "source": "'Atiqot",
+   "authors": "Ron Be’eri, Avishay Oz, Аlexander Wiegmann",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "The Stepped Podium : A Landmark on Jerusalem’s Main Thoroughfare in the Second Temple Period",
+   "url": "https://doi.org/10.70967/2948-040x.2412",
+   "summary": "This article presents a small, stepped pyramidal structure that was built upon the eastern side of the Stepped Street in Jerusalem under the rule of the Roman procurators. It considers the structure’s archaeological context, architectural and functional uniqueness in light of comparable finds and sources, both…",
+   "date": "2026-04-22",
+   "source": "'Atiqot",
+   "authors": "Nahshon Szanton",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Manuel A. De Jesus, MD (1965 - 2026)",
+   "url": "https://doi.org/10.32412/pjohns.v41i1.2883",
+   "summary": "“A Life of Service and Quiet Love” Born on November of 1965, he was the 5th of 7 siblings to a former soldier and a strong willed housewife/storekeeper, both hailing from Cavite. He took his primary education in Fort Bonifacio Elementary School and secondary education in Pateros Catholic School. Growing up, he was…",
+   "date": "2026-04-21",
+   "source": "Philippine Journal of Otolaryngology Head and Neck Surgery",
+   "authors": "Karen Mae De Jesus",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Lanier on UBS6",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/lanier-on-ubs6.html",
+   "summary": "Over on his new YouTube channel , Greg Lanier has posted a long, 45-minute review of UBS6. I haven’t watched it all yet, but what I did watch was in-depth and thorough. Overall, he seems to like it but recognizes that it will not supplement the NA edition the way it has in the past given the reduction in the…",
+   "date": "2026-04-20",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Diachronic Semantic Shifts of Major Hebrew Theological Terms in Hosea: A Comparative Study of English and Indonesian Bible Translations",
+   "url": "https://doi.org/10.51673/jurnalistrendi.v11i1.2820",
+   "summary": "This study examines diachronic semantic change in selected Hebrew theological terms in the Book of Hosea which are written in English and Indonesian Bible translations across different time periods. Though existing literature often examines semantic change within single linguistic traditions, comparative research…",
+   "date": "2026-04-20",
+   "source": "JURNALISTRENDI : JURNAL LINGUISTIK, SASTRA, DAN PENDIDIKAN",
+   "authors": "Joshua Octavianus, Agustinus Hary Setyawan",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: The Iron Age Pottery",
+   "url": "https://doi.org/10.70967/3078-8528.1059",
+   "summary": "The excavations along Highway 3 yielded pottery from the Iron Age. The finds were retrieved from fills without clear stratigraphic context, and no architectural remains from the Iron Age were identified. The vessels are therefore presented chronologically, dating from the Iron Age IIA and IIB (tenth–eighth centuries…",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Svetlana Talis",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: Modern Ammunition",
+   "url": "https://doi.org/10.70967/3078-8528.1066",
+   "summary": "This article presents an analysis of modern ammunition artifacts connected to World War I military operations, uncovered during excavations along Highway 3 near es-Sawafir el-Gharbiya. The finds include British and Ottoman cartridges and spent cartridges and an Ottoman hand grenade, linked to troop movements and…",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Assaf Peretz",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: The Glass Finds",
+   "url": "https://doi.org/10.70967/3078-8528.1062",
+   "summary": "The glass finds from the excavation along Highway 3 include a single cast bowl of the late Hellenistic–Early Roman periods and vessels dated to the Late Roman−early Byzantine, Byzantine and late Byzantine–Early Islamic periods. Additionally, the excavation yielded Late Islamic–Ottoman-period glass bracelets, as well…",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Tamar Winter",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: The Coins",
+   "url": "https://doi.org/10.70967/3078-8528.1063",
+   "summary": "This is a modest group of coins that span interruptedly a period from the first century CE to the first half of the sixth century CE. The earliest coin, dated to Antiochus IV, is a residual find, and the latest coin is an Abbasid fals. Most coin types are conventional. The fact that four chi-rho pentanummia…",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Gabriela Bijovsky",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: Mollusks from Byzantine–Early Islamic Contexts",
+   "url": "https://doi.org/10.70967/3078-8528.1065",
+   "summary": "This report discusses 24 bivalve remains retrieved from various fills. Most of the assemblage (twenty specimens) is comprised of the Nilotic bivalve Chambardia rubens, followed by two valves of the Mediterranean bivalve Mytilus galloprovincialis, one local freshwater bivalve Unio mancus and one Scaphopoda Antalis…",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Inbar Ktalav",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: Late Persian, Hellenistic and Roman Pottery",
+   "url": "https://doi.org/10.70967/3078-8528.1060",
+   "summary": "The pottery in this report was recovered from the salvage excavation along Highway 3, at the former Ottoman villages of es-Sawafir el-Gharbiya and es-Sawafir esh-Sharqiya. The finds presented here date from the late Persian, Hellenistic and Roman period. The Roman pottery is attributed to the late first–second…",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Ilan Peretz",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: The Late Ottoman Ceramics",
+   "url": "https://doi.org/10.70967/3078-8528.1061",
+   "summary": "A small, ceramic vessel assemblage dated to the late Ottoman period is presented here. The assemblage consists of household ceramics, including a variety of Black Gaza Ware vessels and handmade cooking pots. A rather large number of probably locally made ceramic smoking pipes are also part of this assemblage.",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Anna de Vincenz",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Highway 3: Faunal Remains from Byzantine, Byzantine–Early Islamic and Ottoman Contexts",
+   "url": "https://doi.org/10.70967/3078-8528.1064",
+   "summary": "A faunal assemblage of 174 identified animal bones was recovered from excavations along Highway 3, mainly from Byzantine and Byzantine–Early Islamic and Ottoman contexts, with a small contribution from Late Roman strata. The remains originate primarily from refuse pits and from industrial-agricultural installations,…",
+   "date": "2026-04-19",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Lee Perry-Gal",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Butchering technology and metal adoption in the Bronze Age southern Levant: SEM evidence from Tell Aphek, Israel",
+   "url": "https://doi.org/10.3389/fearc.2026.1770900",
+   "summary": "Recent zooarchaeological research suggests that the transition from stone to metal butchering tools in the southern Levant occurred during or after the Middle Bronze Age and was accompanied by changes in butchering practices. However, few large and well-dated zooarchaeological assemblages that span the Bronze Ages…",
+   "date": "2026-04-15",
+   "source": "Frontiers in Environmental Archaeology",
+   "authors": "Jeremy A. Beller, Haskel J. Greenfield",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Specifying πορνεία in Matthew 5.32 and 19.9 via Overlooked Contextualization",
+   "url": "https://doi.org/10.1177/0142064x261432678",
+   "summary": "Matthew’s divorce clause remains one of the most vexed questions in NT studies. The generality of the keyword πορνεία stumps commentators, while little help appears forthcoming from the clause’s immediate context, the wider statements of Mt. 5.32 and 19.9. Against the widespread view that πορνεία per the divorce…",
+   "date": "2026-04-14",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "Thomas Finegan",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Book Review: The Septuagint of Ruth: Translation Technique, Textual History, and Theological Issues by Beatrice Bonanno",
+   "url": "https://doi.org/10.14712/30296374.2026.6",
+   "summary": "Book review on Beatrice Bonanno, The Septuagint of Ruth: Translation Technique, Textual History, and Theological Issues. Turnhout: Brepols Publishers, 2024, 293 p.",
+   "date": "2026-04-14",
+   "source": "COMMUNIO VIATORUM",
+   "authors": "Barbora Landová",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Marguerite’s Socrates: Clarté de Dieu and Ancient Theology in Marguerite of Navarre’s Les Prisons",
+   "url": "https://doi.org/10.1515/jemc-2026-2001",
+   "summary": "At the dawn of the Renaissance, the role of classical antiquity in the economy of salvation was a topic of intense discussion. Marguerite of Navarre’s Les Prisons provides a unique vantage point for understanding the use of the past during this period. In the poem, Socrates is depicted as a figure enlightened by the…",
+   "date": "2026-04-14",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Maria Fallica",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Kitab Henokh (4QEN) Di Qumran",
+   "url": "https://doi.org/10.71401/jil.v4i1.80",
+   "summary": "This study examines the Aramaic fragments of the Book of Enoch (4QEn; 4Q201–4Q212) from Qumran Cave 4 and their significance for Second Temple Judaism. It argues that 4QEn functioned not merely as apocalyptic literature but as a foundational theological framework shaping the Qumran community. Using an…",
+   "date": "2026-04-10",
+   "source": "JURNAL ILUMINASI",
+   "authors": "Daud Daud, Martinus Bonggili",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "<b>Kitab Henokh (4QEN) Di Qumran</b><b></b>",
+   "url": "https://doi.org/10.71401/jil/003",
+   "summary": "This study examines the Aramaic fragments of the Book of Enoch (4QEn; 4Q201–4Q212) from Qumran Cave 4 and their significance for Second Temple Judaism. It argues that 4QEn functioned not merely as apocalyptic literature but as a foundational theological framework shaping the Qumran community. Using an…",
+   "date": "2026-04-10",
+   "source": "Jurnal Iluminasi",
+   "authors": "Daud Daud, Martinus Bonggili",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Ongoing Influence of Milik’s The Books of Enoch: Aramaic Fragments of Qumrân Cave 4",
+   "url": "https://doi.org/10.1163/15685179-bja10077",
+   "summary": "The essay first surveys some charges made by reviewers against Milik’s procedures and conclusions as found in his The Books of Enoch before documenting the enduring influence of his book in four areas: the eleven manuscripts of Aramaic Enoch that he identified; the fragments that he assigned to each of these…",
+   "date": "2026-04-09",
+   "source": "Dead Sea Discoveries",
+   "authors": "James C. VanderKam",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Coptic Church in the Aftermath of the Second Vatican Council: Theological or Tactical Anti‐Judaism?",
+   "url": "https://doi.org/10.1111/moth.70099",
+   "summary": "Vatican II's declaration on the Jews, absolving them from collective guilt of deicide, marked a significant turning point in Catholic theology. Arab governments tended to perceive this development as evidence that Catholics (or Christians generally) were taking the side of Zionist Jews in the Arab‐Israeli conflict.…",
+   "date": "2026-04-09",
+   "source": "Modern Theology",
+   "authors": "Amir Krispel",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Menahem Kister, Dynamics of Midrashic Traditions in Second Temple and Rabbinic Literature",
+   "url": "https://doi.org/10.3828/jjs.2026.77.1.212",
+   "summary": "",
+   "date": "2026-04-07",
+   "source": "Journal of Jewish Studies",
+   "authors": "Stefan C. Reif",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Responsibly Presenting Biblical History and Biblical Archaeology to Undergraduates",
+   "url": "https://doi.org/10.3390/rel17040454",
+   "summary": "Teaching biblical history and biblical archaeology to undergraduates presents distinctive pedagogical challenges. Unlike graduate students, undergraduates often enroll with limited historical literacy, minimal exposure to ancient Near Eastern history, and religiously shaped assumptions about the Bible that have not…",
+   "date": "2026-04-06",
+   "source": "Religions",
+   "authors": "Rachel Hallote",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Translation and Interpretation of Selected Verses of Psalm 91 with Regard to Its Qumran Variant in Scroll 11Q11",
+   "url": "https://doi.org/10.5507/sth.2025.015",
+   "summary": "",
+   "date": "2026-04-03",
+   "source": "Studia theologica",
+   "authors": "Karol Miroslav Švarc",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "New Blog on NT Critical Texts",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/new-blog-on-nt-critical-texts.html",
+   "summary": "Greg Paulson and Katie Leggett have a new website that ETC readers will be interested in. It’s called Critical Texts and is described as “the personal academic blog of Dr. Gregory S. Paulson and Dr. Katie Leggett, offering a creative space for reflection on critical texts in the field of Greek New Testament textual…",
+   "date": "2026-04-02",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Was Romans Partly “Performed” by Phoebe – Not Just Written by Paul?",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/was-romans-partly-performed-by-phoebe.html",
+   "summary": "UPDATE: Happy April Fool's Day! It is best to indicate here that it is a joke (since on of our previous jokes written by P.J. Willliams some years ago, that archaeologists have found Q, has spread like a fire). At the same time, it is true that Phoebe likely delivered Romans and that she may have read it and been…",
+   "date": "2026-04-01",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "peer": false
+  },
+  {
+   "title": "Corrigendum to ‘Distinguishing biogenic from geogenic anhydrites in ash: a case study of Iron Age Qumran’ [J. Archaeol. Sci. 186 (2026) 106477]",
+   "url": "https://doi.org/10.1016/j.jas.2026.106517",
+   "summary": "",
+   "date": "2026-04-01",
+   "source": "Journal of Archaeological Science",
+   "authors": "Ilana Peters, Elisabetta Boaretto, Mark Cavanagh",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Biblical Interpretation Reading List",
+   "url": "https://doi.org/10.1163/15685152-20263402",
+   "summary": "",
+   "date": "2026-04-01",
+   "source": "Biblical Interpretation",
+   "authors": "",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "The Biblical Hebrew Verb: A Linguistic Introduction by John A. Cook (review)",
+   "url": "https://doi.org/10.1353/cbq.2026.a990704",
+   "summary": "",
+   "date": "2026-04-01",
+   "source": "The Catholic Biblical Quarterly",
+   "authors": "",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Trends in Hebrew Bible Scholarship",
+   "url": "https://doi.org/10.3828/mb.2026.12",
+   "summary": "The contrast between ‘Hebrew Bible’ and ‘Old Testament’ as alternative ways of naming the collection of ancient Jewish writings accepted by both Jews and Christians as authoritative scripture can be seen as a shorthand signal of diametrically opposed attitudes to their interpretation. On the one hand there are many…",
+   "date": "2026-04-01",
+   "source": "Modern Believing",
+   "authors": "John Barton",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Divine Corporeality in the Hebrew Bible",
+   "url": "https://doi.org/10.3828/mb.2026.14",
+   "summary": "Throughout the Hebrew Bible, divine corporeality is simply assumed. God not only has a body, but occasionally deigns to reveal his body or its parts to various high-profile figures. In this article, I explore some of the biblical traditions dealing with the divine body and argue that divine corporeality is essential…",
+   "date": "2026-04-01",
+   "source": "Modern Believing",
+   "authors": "Francesca Stavrakopoulou",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Masculinities, Violence and Hebrew Bible Studies",
+   "url": "https://doi.org/10.3828/mb.2026.13",
+   "summary": "This article explores masculinities studies as a sub-field of gender studies. Both emerged in the 1990s, alongside and cross-fertilised by queer studies. Both draw on feminist criticism and frequently examine violence. Within Hebrew Bible studies, diverse explorations of masculinities by now span most of the…",
+   "date": "2026-04-01",
+   "source": "Modern Believing",
+   "authors": "Johanna Stiebert",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "What’s New in Hebrew Bible Scholarship: Some Hints",
+   "url": "https://doi.org/10.3828/mb.2026.11",
+   "summary": "",
+   "date": "2026-04-01",
+   "source": "Modern Believing",
+   "authors": "Adrian Thatcher",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "The Cambridge Companion to Law in the Hebrew Bible ed. by Bruce Wells (review)",
+   "url": "https://doi.org/10.1353/cbq.2026.a990717",
+   "summary": "",
+   "date": "2026-04-01",
+   "source": "The Catholic Biblical Quarterly",
+   "authors": "",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Book Reviews: Pekka Lindqvist and Lotta Valve (eds.), Herald of Good Tidings. Essays on the Bible, Prophecy, and the Hope of Israel in Honour of Antti Laato , Hebrew Bible Monographs 97, Sheffield Phoenix Press 2021, XXIII+413 p., ISBN:…",
+   "url": "https://doi.org/10.2478/ress-2026-0011",
+   "summary": "",
+   "date": "2026-04-01",
+   "source": "Review of Ecumenical Studies",
+   "authors": "Piotr Zygulski",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "A methodological Foundation for scholarly Critical Edition and Commentary of the War Scroll from Qumran",
+   "url": "https://doi.org/10.46270/ssw.57.7",
+   "summary": "",
+   "date": "2026-03-31",
+   "source": "The Institute of Humanities",
+   "authors": "Chang-hyun Song",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Daphne Barak-Erez, Biblical Judgments. New Legal Readings in the Hebrew Bible (University of Michigan Press, 2024)",
+   "url": "https://doi.org/10.3917/rai.101.0097",
+   "summary": "",
+   "date": "2026-03-31",
+   "source": "Raisons politiques",
+   "authors": "Lino Castex",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "When Entropy Reigns: Why Jesus Still Cleansed the Temple - Rethinking Practical Theology Through the Temple Event",
+   "url": "https://doi.org/10.36948/ijfmr.2026.v08i02.72766",
+   "summary": "This article seeks to use “entropy” not as a scientific principle but as a structured metaphor for assessing spiritual and institutional decline. This practical-theological approach integrates a meticulous examination of the Temple-disruption narratives with constructive theological reflection and interdisciplinary…",
+   "date": "2026-03-31",
+   "source": "International Journal For Multidisciplinary Research",
+   "authors": "Pinaki Burman",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The politics of names: rethinking the significance of naming a discipline from biblical archaeology to the archaeology of the Near East",
+   "url": "https://doi.org/10.31669/herodoto.v2i2.313",
+   "summary": "This paper examines the trends in terminology for the archaeological practice in Israel and Palestine through time. The adoption of terms from 'Biblical Archaeology' to the archaeology of a specific age in a determined geographical area appears to reflect not only the research scope but also its political agenda.…",
+   "date": "2026-03-30",
+   "source": "Heródoto: Revista do Grupo de Estudos e Pesquisas sobre a Antiguidade Clássica e suas Conexões Afro-asiáticas",
+   "authors": "Gabriella Rodrigues",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "The Influence of Jewish Doctrine on the Formation of the Concept of the Messiah in Early Christianity",
+   "url": "https://doi.org/10.63226/iisj.v10i1.5890",
+   "summary": "",
+   "date": "2026-03-30",
+   "source": "International Islamic Sciences Journal",
+   "authors": "Anas Abdelrahiem A M Tahhan",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "The Divine Nod: from the Uppermost Summit of Mount Olympus to the Innermost Sanctum on the Temple Mount",
+   "url": "https://doi.org/10.1163/15700704-20260024",
+   "summary": "Why did the rabbis of antiquity ( Hazal ) choose to refer to Homeric literature when they could have readily used a biblical alternative? A Baraita in Babylonian Talmud Berakhot 7a records a remarkable dialogue between Rabbi Ishmael ben Elisha and Akatriel in the innermost sanctum. The dialogue concludes with…",
+   "date": "2026-03-30",
+   "source": "Review of Rabbinic Judaism",
+   "authors": "Moshe Pinchuk",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Decoding Mark’s Messianic Secret with Georg Simmel",
+   "url": "https://doi.org/10.1177/0142064x261428105",
+   "summary": "This article examines the messianic secret in the Gospel of Mark, considering the paradigm shift within New Testament Studies, according to which the New Testament is to be regarded as part of Second Temple Judaism’s textual corpus, while viewing it against the backdrop of the First Jewish-Roman war. It draws on…",
+   "date": "2026-03-29",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "Gabriella Gelardini",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Resilience of the Feminine in the Hebrew Bible",
+   "url": "https://doi.org/10.30958/ajms.12-2-3",
+   "summary": "From women in ordinary life to clan leaders and judges and onward to goddesses and their worship---this essay attempts to study the position of the feminine in the patriarchal, patrilinear society depicted in the Hebrew Bible. Though women were subjugated, enjoyed few privileges beyond the home, were systematically…",
+   "date": "2026-03-27",
+   "source": "Athens Journal of Mediterranean Studies",
+   "authors": "Saumitra Chakravarty",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Comparative computational textual criticism of the Gospel of Mark and the paradigm of textual clusters",
+   "url": "https://doi.org/10.1093/llc/fqag031",
+   "summary": "In New Testament textual criticism, the paradigm of textual clusters has become a controversial subject. Within this paradigm, the traditional practice of classifying textual witnesses (including manuscripts, translations, and church fathers who quoted the text) into families and larger groups facilitates the task of…",
+   "date": "2026-03-25",
+   "source": "Digital Scholarship in the Humanities",
+   "authors": "Pasi Hyytiäinen, Joey McCollum, Timothy J Finney",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "John Barton (editor) Understanding the Hebrew Bible: Essays by Members of the Society for Old Testament Study. Oxford: Oxford University Press, 2025. Pp. vii+430. Hbk. £119.",
+   "url": "https://doi.org/10.1017/nbf.2026.10148",
+   "summary": "",
+   "date": "2026-03-24",
+   "source": "New Blackfriars",
+   "authors": "Molly Ellen Drake",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Simon Peter’s Wife in (and out of) Early Christian Writings",
+   "url": "https://doi.org/10.1177/0142064x261421251",
+   "summary": "How is the apostle Peter’s wife portrayed in early Christian writings? Within the first century CE, texts like 1 Corinthians and the Synoptic Gospels seemingly take for granted that Peter was married, but do not explicitly mention his wife. In the second to fourth centuries, however, we see a variety of depictions,…",
+   "date": "2026-03-23",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "Noel Cheong",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "Nationalism and military policies in an age of increasing risks – a comparative analysis of Japan and Israel",
+   "url": "https://doi.org/10.1080/13537121.2026.2635529",
+   "summary": "",
+   "date": "2026-03-23",
+   "source": "Israel Affairs",
+   "authors": "Eyal Lahav, Shosh Shahrabani, Mosi Rosenboim",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Approaches Old and New in Twenty-First Century New Testament Textual Criticism",
+   "url": "https://doi.org/10.3390/rel17030400",
+   "summary": "New Testament textual criticism in the twenty-first century continues to refine principles and approaches that have been part of this scholarly discipline since the development of the modern era of textual criticism. At the same time, even as New Testament textual criticism remains connected to its roots in pursuing…",
+   "date": "2026-03-21",
+   "source": "Religions",
+   "authors": "Dieter T. Roth",
+   "category": "manuscritos",
+   "peer": true
+  },
+  {
+   "title": "The Attitude of Muslim Religious Authorities towards Marking Christian Sacred Spaces in Early Ottoman Egypt",
+   "url": "https://doi.org/10.65324/cme016",
+   "summary": "The article is dedicated to the attitude of Muslim theologians in early Ottoman Egypt (16–17th centuries) towards visible and audible manifestations of Christianity and its sacred space under Islamic rule. The study concerns visual manifestations, such as candles, crosses, palm branches and other symbolic objects in…",
+   "date": "2026-03-21",
+   "source": "Christianity in the Middle East",
+   "authors": "Vladimir Rozov",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Corrigendum to “Filipino American Biblical Interpretation: Nascent Hermeneutics”",
+   "url": "https://doi.org/10.1177/1476993x261436473",
+   "summary": "",
+   "date": "2026-03-19",
+   "source": "Currents in Biblical Research",
+   "authors": "",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Voices from the older generation: Druze perspectives in the third age on the phenomenon of femicide",
+   "url": "https://doi.org/10.1080/13537121.2026.2636927",
+   "summary": "",
+   "date": "2026-03-16",
+   "source": "Israel Affairs",
+   "authors": "Janan Faraj Falah",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Échange avec Alexis Pauline Gumbs et Soizic Pineau, Mabeuko Oberty, Emma Bigé, Myriam Rabah Konaté et Maya Mihindou",
+   "url": "https://doi.org/10.3917/mult.102.0131",
+   "summary": "",
+   "date": "2026-03-16",
+   "source": "Multitudes",
+   "authors": "",
+   "category": "teologia",
+   "peer": true
+  },
+  {
+   "title": "Sheikh Ḥilu: A Crusader Structure and Additional Remains from the Iron Age and Late Ottoman Period",
+   "url": "https://doi.org/10.70967/3078-8528.1055",
+   "summary": "Excavations at the site of Sheikh Ḥilu in Ḥadera revealed the remains of a possible manor house or farm dating from the Crusader period. The partially exposed two-phase complex is a rare example of a settlement from this period in the Sharon plain. Careful planning and relatively high construction quality attest to…",
+   "date": "2026-03-15",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Yoav Arbel, ‘Abed a-Salam Sa‘id",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Sheikh Ḥilu: The Medieval Pottery Assemblage",
+   "url": "https://doi.org/10.70967/3078-8528.1056",
+   "summary": "This article examines the pottery assemblage unearthed during the excavations at Sheikh Ḥilu. It comprises a variety of local and imported vessels, including unglazed and glazed bowls, frying pans, cooking pots and jugs. These vessels range in date from the twelfth century to the early Mamluk period but converge…",
+   "date": "2026-03-15",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Elisabeth Yehuda",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "Sheikh Ḥilu: The Late Ottoman Ceramic Assemblage",
+   "url": "https://doi.org/10.70967/3078-8528.1057",
+   "summary": "A small assemblage of ceramic artifacts, dating to the late Ottoman period, was recovered from excavations at Sheikh Ḥilu. The assemblage is typical of the period, including locally produced vessels made of Black Gaza Ware and other coarse wares, as well as a few items of imported glazed tableware. The ceramic…",
+   "date": "2026-03-15",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Anna de Vincenz",
+   "category": "arqueologia",
+   "peer": true
+  },
+  {
+   "title": "The Political and Theological Significance of Gondar in Early Modern Global Christianity, 1636–1769",
+   "url": "https://doi.org/10.37547/ijhps/volume06issue03-02",
+   "summary": "This article examines Gondar during the Classical Gondarine period (1636–1769) as a political-theological center within early modern global Christianity. Drawing on royal chronicles, Jesuit missionary writings especially those of Manuel de Almeida and Pedro Páez and Ethiopian ecclesiastical sources, it analyzes how…",
+   "date": "2026-03-13",
+   "source": "International Journal Of History And Political Sciences",
+   "authors": "Bitwoded Admasu Dagnaw",
+   "category": "historia",
+   "peer": true
+  },
+  {
+   "title": "Catenae on the Catholic Epistles in Apostolus Christinopolitanus from the 12th Century",
+   "url": "https://doi.org/10.36253/studi_slavis-18179",
+   "summary": "This paper presents a study and partial edition of the Slavonic translation of the catenae on the Catholic Epistles preserved in the Apostolus Christinopolitanus (twelfth century). This manuscript constitutes the oldest and most complete Slavic Apostolos with commentaries and contains two distinct series of catenae,…",
+   "date": "2026-03-12",
+   "source": "Studi Slavistici",
+   "authors": "Marina Bobrik-Froemke",
+   "category": "teologia",
+   "peer": true
+  }
+ ]
+}

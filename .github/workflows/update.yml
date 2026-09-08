@@ -1,0 +1,41 @@
+name: Atualizar feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # a cada 6 horas
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python fetch.py
+      - name: Commit dos dados
+        run: |
+          git config user.name "estratos-bot"
+          git config user.email "actions@github.com"
+          git add data/articles.json
+          git diff --cached --quiet || git commit -m "Atualiza feed"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
