@@ -7,14 +7,11 @@ const TOPIC_NAMES = {
   teologia: "Teologia",
   ciencia: "Ciência",
 };
-const PAGE = 60;
+const PAGE = 50;
 
-const $feed = document.getElementById("feed");
-const $status = document.getElementById("status");
-const $more = document.getElementById("more");
-const $search = document.getElementById("search");
-const $peer = document.getElementById("peer");
-const $topics = document.getElementById("topics");
+const $ = (id) => document.getElementById(id);
+const $feed = $("feed"), $lead = $("lead"), $status = $("status"), $more = $("more");
+const $search = $("search"), $peer = $("peer"), $topics = $("topics"), $theme = $("theme");
 
 let articles = [];
 let shown = PAGE;
@@ -22,14 +19,20 @@ let topic = decodeURIComponent(location.hash.slice(1)) || "";
 
 const dayFmt = new Intl.DateTimeFormat("pt-BR", { day: "numeric" });
 const monthFmt = new Intl.DateTimeFormat("pt-BR", { month: "short", year: "numeric" });
-const updatedFmt = new Intl.DateTimeFormat("pt-BR", { dateStyle: "long", timeStyle: "short" });
+const longFmt = new Intl.DateTimeFormat("pt-BR", { day: "numeric", month: "long" });
+const updatedFmt = new Intl.DateTimeFormat("pt-BR", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
 
-function esc(s) {
-  return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-}
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const normalize = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const localDate = (iso) => new Date(iso + "T12:00:00");
 
-function normalize(s) {
-  return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+function relativeDay(iso) {
+  const today = new Date(); today.setHours(12, 0, 0, 0);
+  const diff = Math.round((today - localDate(iso)) / 86400000);
+  if (diff === 0) return "hoje";
+  if (diff === 1) return "ontem";
+  if (diff < 7) return `há ${diff} dias`;
+  return "";
 }
 
 function filtered() {
@@ -41,18 +44,43 @@ function filtered() {
   );
 }
 
+function meta(a) {
+  return `<p class="meta">
+    <i class="dot ${esc(a.category)}" title="${TOPIC_NAMES[a.category] || ""}"></i><span class="src">${esc(a.source)}</span>${a.peer ? '<span class="peer">revisado por pares</span>' : ""}${a.authors ? `<span class="authors">${esc(a.authors)}</span>` : ""}
+  </p>`;
+}
+
 function entry(a) {
   return `<li><article class="entry">
     <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h3>
-    <p class="meta"><span class="src">${esc(a.source)}</span>${a.peer ? '<span class="peer">revisado por pares</span>' : ""}${a.authors ? `<span class="authors">${esc(a.authors)}</span>` : ""}${topic ? "" : `<span class="topic">${TOPIC_NAMES[a.category] || ""}</span>`}</p>
-    ${a.summary ? `<p class="summary">${esc(a.summary)}</p>` : ""}
+    ${meta(a)}
+    ${a.summary ? `<p class="summary" title="Clique para ler o resumo completo">${esc(a.summary)}</p>` : ""}
   </article></li>`;
+}
+
+function renderLead(list) {
+  // Destaque: a descoberta mais recente com resumo, preferindo arqueologia e manuscritos.
+  const top = list.slice(0, 40);
+  const pick = top.find((a) => a.summary.length > 120 && ["arqueologia", "manuscritos"].includes(a.category))
+    || top.find((a) => a.summary.length > 120);
+  if (!pick || $search.value.trim()) { $lead.hidden = true; return null; }
+  const d = localDate(pick.date);
+  const rel = relativeDay(pick.date);
+  $lead.hidden = false;
+  $lead.innerHTML = `
+    <p class="kicker"><b>Em destaque</b>, ${longFmt.format(d)}${rel ? `, ${rel}` : ""}</p>
+    <h2><a href="${esc(pick.url)}" target="_blank" rel="noopener">${esc(pick.title)}</a></h2>
+    <p class="summary">${esc(pick.summary)}</p>
+    ${meta(pick)}`;
+  return pick;
 }
 
 function render() {
   const list = filtered();
-  const visible = list.slice(0, shown);
-  $more.hidden = shown >= list.length;
+  const lead = renderLead(list);
+  const rest = lead ? list.filter((a) => a !== lead) : list;
+  const visible = rest.slice(0, shown);
+  $more.hidden = shown >= rest.length;
 
   if (!list.length) {
     $feed.innerHTML = `<p class="empty">Nenhum artigo corresponde a essa busca. Tente outra palavra ou volte para “Tudo”.</p>`;
@@ -66,22 +94,40 @@ function render() {
   }
 
   $feed.innerHTML = [...days].map(([date, items]) => {
-    const d = new Date(date + "T12:00:00");
+    const d = localDate(date);
+    const rel = relativeDay(date);
     return `<section class="day">
-      <h2 class="day-label">${dayFmt.format(d)}<small>${monthFmt.format(d).replace(". de ", " ")}</small></h2>
+      <h2 class="day-label">${dayFmt.format(d)}<small>${monthFmt.format(d).replace(". de ", " ")}${rel ? `<br>${rel}` : ""}</small></h2>
       <ol>${items.map(entry).join("")}</ol>
     </section>`;
   }).join("");
+}
+
+function updateCounts() {
+  const base = articles.filter((a) => !$peer.checked || a.peer);
+  for (const el of $topics.querySelectorAll("[data-count]")) {
+    const t = el.dataset.count;
+    el.textContent = t ? base.filter((a) => a.category === t).length : base.length;
+  }
 }
 
 function setTopic(t) {
   topic = t;
   shown = PAGE;
   for (const b of $topics.querySelectorAll("button")) {
-    b.setAttribute("aria-selected", b.dataset.topic === t ? "true" : "false");
+    if (b.dataset.topic === t) b.setAttribute("aria-current", "true");
+    else b.removeAttribute("aria-current");
   }
   history.replaceState(null, "", t ? `#${t}` : location.pathname);
   render();
+}
+
+function setTheme(mode) {
+  if (mode) document.documentElement.dataset.theme = mode;
+  else delete document.documentElement.dataset.theme;
+  try { mode ? localStorage.setItem("theme", mode) : localStorage.removeItem("theme"); } catch (e) {}
+  const dark = mode ? mode === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  $theme.textContent = dark ? "Tema claro" : "Tema escuro";
 }
 
 $topics.addEventListener("click", (e) => {
@@ -89,18 +135,28 @@ $topics.addEventListener("click", (e) => {
   if (b) setTopic(b.dataset.topic);
 });
 $search.addEventListener("input", () => { shown = PAGE; render(); });
-$peer.addEventListener("change", () => { shown = PAGE; render(); });
+$peer.addEventListener("change", () => { shown = PAGE; updateCounts(); render(); });
 $more.addEventListener("click", () => { shown += PAGE; render(); });
+$feed.addEventListener("click", (e) => {
+  const s = e.target.closest(".summary");
+  if (s) s.classList.toggle("open");
+});
+$theme.addEventListener("click", () => {
+  const dark = document.documentElement.dataset.theme
+    ? document.documentElement.dataset.theme === "dark"
+    : matchMedia("(prefers-color-scheme: dark)").matches;
+  setTheme(dark ? "light" : "dark");
+});
+setTheme(document.documentElement.dataset.theme || "");
 
 fetch("data/articles.json")
   .then((r) => r.json())
   .then((data) => {
     articles = data.articles;
     const peers = articles.filter((a) => a.peer).length;
-    $status.textContent =
-      `${articles.length} artigos de ${data.sources.length} fontes, ${peers} deles revisados por pares. ` +
-      `Atualizado em ${updatedFmt.format(new Date(data.updated))}.`;
-    document.getElementById("sources").textContent = data.sources.join("; ");
+    $status.textContent = `${articles.length} artigos de ${data.sources.length} fontes, ${peers} revisados por pares. Atualizado em ${updatedFmt.format(new Date(data.updated))}.`;
+    $("sources").textContent = data.sources.join("; ");
+    updateCounts();
     setTopic(TOPIC_NAMES[topic] ? topic : "");
   })
   .catch(() => {

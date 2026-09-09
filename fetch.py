@@ -86,7 +86,7 @@ TRAILER_RE = re.compile(r"(\[…\]|\[\.\.\.\]|The post .*? appeared first on .*$
 UA = {"User-Agent": "Mozilla/5.0 (compatible; Estratos feed reader)"}
 
 
-def clean(text, limit=320):
+def clean(text, limit=700):
     text = html.unescape(TAG_RE.sub(" ", text or ""))
     text = WS_RE.sub(" ", text).strip()
     text = TRAILER_RE.sub("", text).strip()
