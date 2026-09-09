@@ -10,7 +10,7 @@ Feed de artigos e descobertas acadêmicas sobre a Bíblia e o cristianismo, com 
 | --- | --- |
 | `fetch.py` | Coleta feeds RSS/Atom e a API da CrossRef, filtra por relevância, atribui assuntos, traduz título e resumo e grava `data/articles.json` |
 | `index.html`, `style.css`, `app.js` | O site: índice com filtros por período, tema, tipo de fonte, assunto, fonte e revisão por pares; busca; agrupamento por dia |
-| `.github/workflows/update.yml` | Roda o script a cada 6 horas e publica no GitHub Pages |
+| `.github/workflows/update.yml` | Roda o script a cada 6 horas e faz commit dos dados; o push dispara a publicação no Netlify |
 
 ## Rodar localmente
 
@@ -26,9 +26,9 @@ A primeira coleta traduz todos os artigos e leva alguns minutos. As próximas s�
 
 ## Publicar
 
-1. Crie um repositório no GitHub e envie estes arquivos para a branch `main`.
-2. Em *Settings → Pages*, escolha *Source: GitHub Actions*.
-3. O workflow roda no primeiro push e depois a cada 6 horas.
+O site fica em https://estratos-464.netlify.app e o código em https://github.com/MatheusCrivellaro/estratos.
+
+O Netlify está ligado ao repositório por chave de deploy e webhook: todo push na branch `main` publica o site. A cada 6 horas o GitHub Actions roda `fetch.py`, faz commit de `data/articles.json` e dá push, o que republica o site com os artigos novos. Para forçar uma atualização, rode o workflow "Atualizar feed" na aba Actions.
 
 ## Assuntos
 
