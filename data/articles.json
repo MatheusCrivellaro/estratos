@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T03:09+00:00",
+ "updated": "2026-09-09T10:36+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -76,6 +76,7 @@
   "Near Eastern Archaeology",
   "New Blackfriars",
   "Nouvelle revue théologique",
+  "Nova Religio",
   "Novum Testamentum",
   "PaleoJudaica",
   "Perspectiva",
@@ -1865,6 +1866,21 @@
     "Novo Testamento",
     "Livros e eventos"
    ]
+  },
+  {
+   "title": "The Oxford Handbook of Digital Religion ed. by Heidi A. Campbell and Pauline Hope Cheong (review)",
+   "url": "https://doi.org/10.1353/nvr.2026.a997163",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Nova Religio",
+   "authors": "John Mauger",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Paulo e as epístolas"
+   ],
+   "title_pt": "O Manual Oxford de Religião Digital ed. por Heidi A. Campbell e Pauline Hope Cheong (revisão)"
   },
   {
    "title_pt": "A enigmática palavra hebraica rkbh em Naum 2:14",
