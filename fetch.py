@@ -1,4 +1,4 @@
-"""Coleta artigos de fontes acadêmicas sobre Bíblia e cristianismo e grava data/articles.json.
+"""Coleta artigos acadêmicos sobre Bíblia e cristianismo, traduz as chamadas e grava data/articles.json.
 
 Uso: python fetch.py
 """
@@ -6,39 +6,40 @@ import html
 import json
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
 import requests
+from deep_translator import GoogleTranslator
 
 OUT = Path(__file__).parent / "data" / "articles.json"
 MAX_AGE_DAYS = 180
 CONTACT = "estratos-feed@example.com"  # usado no "polite pool" da CrossRef
 
-# Fontes RSS/Atom. category: arqueologia | manuscritos | historia | teologia | ciencia
-# peer: True para periódicos revisados por pares. filter: True exige palavra-chave bíblica.
+# Fontes RSS/Atom.
+#   category: arqueologia | manuscritos | historia | teologia | ciencia
+#   kind:     revista | instituicao | blog | noticia  (periódicos revisados por pares recebem "periodico")
+#   filter:   True exige palavra-chave bíblica no texto (para feeds gerais de ciência)
 FEEDS = [
-    # Arqueologia
-    {"name": "Biblical Archaeology Society", "url": "https://www.biblicalarchaeology.org/feed/", "category": "arqueologia"},
-    {"name": "ASOR", "url": "https://www.asor.org/feed/", "category": "arqueologia"},
-    {"name": "Israel Hayom - Arqueologia", "url": "https://www.israelhayom.com/tag/archaeology/feed/", "category": "arqueologia"},
-    {"name": "Archaeology Magazine", "url": "https://archaeology.org/feed/", "category": "ciencia", "filter": True},
-    {"name": "ScienceDaily - Arqueologia", "url": "https://www.sciencedaily.com/rss/fossils_ruins/archaeology.xml", "category": "ciencia", "filter": True},
-    {"name": "Phys.org - Arqueologia", "url": "https://phys.org/rss-feed/science-news/archaeology-fossils/", "category": "ciencia", "filter": True},
-    {"name": "Live Science", "url": "https://www.livescience.com/feeds/all", "category": "ciencia", "filter": True},
-    # Manuscritos e crítica textual
-    {"name": "Evangelical Textual Criticism", "url": "https://evangelicaltextualcriticism.blogspot.com/feeds/posts/default", "category": "manuscritos"},
-    {"name": "Text & Canon Institute", "url": "https://textandcanon.org/feed/", "category": "manuscritos"},
-    {"name": "PaleoJudaica", "url": "https://paleojudaica.blogspot.com/feeds/posts/default", "category": "manuscritos"},
-    {"name": "Tyndale House", "url": "https://tyndalehouse.com/feed/", "category": "manuscritos"},
-    # História e estudos bíblicos
-    {"name": "Ancient Jew Review", "url": "https://www.ancientjewreview.com/read?format=rss", "category": "historia"},
-    {"name": "Bible & Interpretation", "url": "https://bibleinterp.arizona.edu/rss.xml", "category": "historia"},
-    {"name": "TheTorah.com", "url": "https://www.thetorah.com/rss", "category": "historia"},
-    {"name": "The Bart Ehrman Blog", "url": "https://www.ehrmanblog.org/feed/", "category": "historia"},
-    {"name": "Reading Acts", "url": "https://readingacts.com/feed/", "category": "teologia"},
-    {"name": "Larry Hurtado's Blog", "url": "https://larryhurtado.wordpress.com/feed/", "category": "historia"},
+    {"name": "Biblical Archaeology Society", "url": "https://www.biblicalarchaeology.org/feed/", "category": "arqueologia", "kind": "revista"},
+    {"name": "ASOR", "url": "https://www.asor.org/feed/", "category": "arqueologia", "kind": "instituicao"},
+    {"name": "Israel Hayom - Arqueologia", "url": "https://www.israelhayom.com/tag/archaeology/feed/", "category": "arqueologia", "kind": "noticia"},
+    {"name": "Archaeology Magazine", "url": "https://archaeology.org/feed/", "category": "ciencia", "kind": "revista", "filter": True},
+    {"name": "ScienceDaily - Arqueologia", "url": "https://www.sciencedaily.com/rss/fossils_ruins/archaeology.xml", "category": "ciencia", "kind": "noticia", "filter": True},
+    {"name": "Phys.org - Arqueologia", "url": "https://phys.org/rss-feed/science-news/archaeology-fossils/", "category": "ciencia", "kind": "noticia", "filter": True},
+    {"name": "Live Science", "url": "https://www.livescience.com/feeds/all", "category": "ciencia", "kind": "noticia", "filter": True},
+    {"name": "Evangelical Textual Criticism", "url": "https://evangelicaltextualcriticism.blogspot.com/feeds/posts/default", "category": "manuscritos", "kind": "blog"},
+    {"name": "Text & Canon Institute", "url": "https://textandcanon.org/feed/", "category": "manuscritos", "kind": "instituicao"},
+    {"name": "PaleoJudaica", "url": "https://paleojudaica.blogspot.com/feeds/posts/default", "category": "manuscritos", "kind": "blog"},
+    {"name": "Tyndale House", "url": "https://tyndalehouse.com/feed/", "category": "manuscritos", "kind": "instituicao"},
+    {"name": "Ancient Jew Review", "url": "https://www.ancientjewreview.com/read?format=rss", "category": "historia", "kind": "revista"},
+    {"name": "Bible & Interpretation", "url": "https://bibleinterp.arizona.edu/rss.xml", "category": "historia", "kind": "revista"},
+    {"name": "TheTorah.com", "url": "https://www.thetorah.com/rss", "category": "historia", "kind": "revista"},
+    {"name": "The Bart Ehrman Blog", "url": "https://www.ehrmanblog.org/feed/", "category": "historia", "kind": "blog"},
+    {"name": "Reading Acts", "url": "https://readingacts.com/feed/", "category": "teologia", "kind": "blog"},
+    {"name": "Larry Hurtado's Blog", "url": "https://larryhurtado.wordpress.com/feed/", "category": "historia", "kind": "blog"},
 ]
 
 # Consultas na CrossRef (artigos revisados por pares de qualquer editora).
@@ -80,6 +81,29 @@ JOURNAL_RE = re.compile(
     re.I,
 )
 
+# Índice de assuntos: cada artigo recebe as etiquetas cujo padrão aparece no título ou no resumo.
+TAGS = [
+    ("Manuscritos do Mar Morto", r"dead sea scroll|qumran|\b[14]q\d|\b11q"),
+    ("Jerusalém", r"jerusalem|temple mount|city of david|siloam|ophel|kidron"),
+    ("Antigo Testamento", r"old testament|hebrew bible|pentateuch|torah|genesis|exodus|leviticus|deuteronomy|isaiah|jeremiah|ezekiel|psalm|proverbs|\bjob\b|daniel|kings\b|samuel|chronicles|prophet"),
+    ("Novo Testamento", r"new testament|gospel|synoptic|\bmatthew\b|\bmark\b|\bluke\b|\bjohn\b|acts of the apostles|epistle|apocalypse|revelation"),
+    ("Jesus histórico", r"historical jesus|\bjesus\b|nazareth|galilee|capernaum"),
+    ("Paulo e as epístolas", r"\bpaul\b|pauline|romans|corinthians|galatians|thessalonians|philippians|ephesians|colossians"),
+    ("Crítica textual", r"textual criticism|textual variant|\bvariant|codex|codices|papyr|scribe|scribal|critical edition|nestle|byzantine text|masoretic|manuscript"),
+    ("Septuaginta", r"septuagint|\blxx\b|greek bible|old greek"),
+    ("Judaísmo do Segundo Templo", r"second temple|hasmonean|maccabe|josephus|philo|essene|pharisee|sadducee|jubilees|enoch"),
+    ("Cristianismo primitivo", r"early christian|early church|patristic|church father|origen|augustine|irenaeus|tertullian|apostolic father|gnostic|nag hammadi|apocryph|syriac|coptic"),
+    ("Epigrafia e inscrições", r"inscription|epigraph|ostrac|\bseal|bulla|stele|stela|graffit|\bcoin|numismat"),
+    ("Escavações", r"excavat|dig season|\btel\b|\btell\b|stratum|strata|survey|unearth"),
+    ("Israel antigo", r"iron age|israelite|judah|kingdom of|davidic|solomon|omri|hezekiah|lachish|megiddo|hazor|samaria|philistine|canaan"),
+    ("Egito e Mesopotâmia", r"egypt|pharaoh|mesopotam|babylon|assyria|sumer|akkad|persia|ugarit|hittite|cuneiform|hieroglyph"),
+    ("Línguas antigas", r"\bhebrew\b|aramaic|\bgreek\b|\blatin\b|akkadian|philolog|lexic|grammar|semitic|linguistic"),
+    ("Liturgia e cânon", r"\bcanon|liturg|lectionar|synagogue|worship|prayer|psalter|hymn"),
+    ("Interpretação e teologia", r"theolog|christolog|soteriolog|eschatolog|doctrine|exeges|hermeneut|reception"),
+    ("Livros e eventos", r"book review|review of|new book|forthcoming|published by|mohr siebeck|eerdmans|\bsbl\b|conference|call for papers|lecture|podcast|interview"),
+]
+TAGS = [(name, re.compile(pat, re.I)) for name, pat in TAGS]
+
 TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
 TRAILER_RE = re.compile(r"(\[…\]|\[\.\.\.\]|The post .*? appeared first on .*$|Continue reading.*$|Read more.*$)", re.I)
@@ -98,6 +122,10 @@ def clean(text, limit=700):
 
 def norm_key(title):
     return re.sub(r"[^a-z0-9]+", "", title.lower())[:80]
+
+
+def tags_for(text):
+    return [name for name, rx in TAGS if rx.search(text)][:4]
 
 
 def parse_feed(src):
@@ -123,7 +151,8 @@ def parse_feed(src):
             continue
         items.append({
             "title": title, "url": link, "summary": summary, "date": date,
-            "source": src["name"], "category": src["category"], "peer": bool(src.get("peer")),
+            "source": src["name"], "category": src["category"], "kind": src["kind"], "peer": False,
+            "tags": tags_for(f"{title} {summary}"),
         })
     print(f"  {src['name']}: {len(items)}")
     return items
@@ -164,10 +193,43 @@ def crossref(query, category, since):
         items.append({
             "title": title, "url": w.get("URL") or f"https://doi.org/{w.get('DOI')}",
             "summary": summary, "date": date,
-            "source": journal, "authors": authors, "category": category, "peer": True,
+            "source": journal, "authors": authors, "category": category, "kind": "periodico", "peer": True,
+            "tags": tags_for(f"{title} {summary}"),
         })
     print(f"  CrossRef '{query}': {len(items)}")
     return items
+
+
+def translate_missing(articles):
+    """Traduz título e resumo dos artigos que ainda não têm versão em português."""
+    todo = [a for a in articles if "title_pt" not in a or ("summary_pt" not in a and a["summary"])]
+    if not todo:
+        print("Tradução: nada novo.")
+        return
+    print(f"Tradução: {len(todo)} artigos…")
+    def tr(text):
+        # Uma instância por chamada: o GoogleTranslator guarda estado interno e não é seguro entre threads.
+        for attempt in range(3):
+            try:
+                return GoogleTranslator(source="auto", target="pt").translate(text) or text
+            except Exception:
+                time.sleep(2 * (attempt + 1))
+        return None
+
+    def work(a):
+        if "title_pt" not in a:
+            t = tr(a["title"])
+            if t:
+                a["title_pt"] = t
+        if "summary_pt" not in a and a["summary"]:
+            s = tr(a["summary"])
+            if s:
+                a["summary_pt"] = s
+
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        list(pool.map(work, todo))
+    missing = sum(1 for a in todo if "title_pt" not in a)
+    print(f"Tradução concluída ({missing} sem tradução).")
 
 
 def main():
@@ -187,11 +249,29 @@ def main():
         new += crossref(q, cat, since)
         time.sleep(0.5)
 
+    # Itens novos sobrescrevem os antigos, mas herdam as traduções já feitas.
     merged = {}
-    for a in old + new:  # itens novos sobrescrevem os antigos com o mesmo título
+    for a in old:
         if since <= a["date"] <= today:
             merged[norm_key(a["title"])] = a
-    articles = sorted(merged.values(), key=lambda a: a["date"], reverse=True)
+    for a in new:
+        if not (since <= a["date"] <= today):
+            continue
+        key = norm_key(a["title"])
+        prev = merged.get(key, {})
+        keep = {k: prev[k] for k in ("title_pt", "summary_pt") if k in prev}
+        if prev.get("summary") != a["summary"]:
+            keep.pop("summary_pt", None)
+        merged[key] = {**keep, **a}
+
+    # Remove repetições pelo link (o mesmo texto republicado com título ligeiramente diferente).
+    seen, articles = set(), []
+    for a in sorted(merged.values(), key=lambda a: (a["date"], a["title"]), reverse=True):
+        if a["url"] in seen:
+            continue
+        seen.add(a["url"])
+        articles.append(a)
+    translate_missing(articles)
 
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps({

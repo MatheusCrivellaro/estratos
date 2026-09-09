@@ -4,60 +4,96 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Estratos</title>
-  <meta name="description" content="Feed de artigos e descobertas acadêmicas sobre a Bíblia e o cristianismo: arqueologia, manuscritos, história e teologia.">
+  <meta name="description" content="Descobertas acadêmicas sobre a Bíblia e o cristianismo, em português: arqueologia, manuscritos, história e teologia, atualizadas a cada seis horas.">
   <script>try{const t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Libre+Franklin:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%2324408E'/><path d='M7 10h18M7 16h18M7 22h18' stroke='%23F3F3EF' stroke-width='2.5'/></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%239B2D20'/><path d='M7 10h18M7 16h18M7 22h18' stroke='%23EDEDE8' stroke-width='2.5'/></svg>">
 </head>
 <body>
 
-<div class="page">
-
-<aside class="side">
-  <a class="wordmark" href="./">Estratos</a>
-  <svg class="strata" viewBox="0 0 240 36" aria-hidden="true" preserveAspectRatio="none">
-    <path d="M0 5 C60 1 120 10 240 5" />
-    <path d="M0 14 C80 19 160 9 240 15" />
-    <path d="M0 23 C50 18 130 28 240 22" class="accent" />
-    <path d="M0 31 C90 35 170 27 240 32" />
-  </svg>
-  <p class="tagline">O que a pesquisa acadêmica está descobrindo sobre a Bíblia e o cristianismo, reunido em um só lugar.</p>
-
-  <nav aria-label="Temas">
-    <ul class="topics" id="topics">
-      <li><button data-topic="" aria-current="true"><span>Tudo</span><span class="n" data-count=""></span></button></li>
-      <li><button data-topic="arqueologia"><span><i class="dot arqueologia"></i>Arqueologia</span><span class="n" data-count="arqueologia"></span></button></li>
-      <li><button data-topic="manuscritos"><span><i class="dot manuscritos"></i>Manuscritos</span><span class="n" data-count="manuscritos"></span></button></li>
-      <li><button data-topic="historia"><span><i class="dot historia"></i>História</span><span class="n" data-count="historia"></span></button></li>
-      <li><button data-topic="teologia"><span><i class="dot teologia"></i>Teologia</span><span class="n" data-count="teologia"></span></button></li>
-      <li><button data-topic="ciencia"><span><i class="dot ciencia"></i>Ciência</span><span class="n" data-count="ciencia"></span></button></li>
-    </ul>
-  </nav>
-
-  <div class="tools">
-    <input class="search" id="search" type="search" placeholder="Buscar título, autor ou fonte" aria-label="Buscar no feed">
-    <label class="peer-toggle"><input type="checkbox" id="peer"><span>Só revisados por pares</span></label>
+<header class="mast">
+  <div class="mast-in">
+    <div class="brand">
+      <a class="wordmark" href="./">Estratos</a>
+      <p class="brand-line">Descobertas acadêmicas sobre a Bíblia e o cristianismo, em português.</p>
+    </div>
+    <div class="edition">
+      <p class="edition-date" id="edition-date"></p>
+      <p class="edition-meta" id="edition-meta">Carregando o feed…</p>
+      <button class="theme" id="theme" type="button">Tema escuro</button>
+    </div>
   </div>
+</header>
 
-  <div class="side-foot">
-    <p class="status" id="status">Carregando o feed…</p>
-    <details>
-      <summary>Fontes</summary>
-      <p class="sources" id="sources"></p>
-    </details>
-    <button class="theme" id="theme" type="button">Tema escuro</button>
-  </div>
+<div class="body">
+
+<aside class="index">
+  <details class="index-box" id="index-box" open>
+    <summary class="index-title"><span>Índice</span><span class="active-count" id="active-count"></span></summary>
+
+    <div class="index-in">
+      <input class="search" id="search" type="search" placeholder="Buscar título, autor, fonte" aria-label="Buscar no feed">
+
+      <section class="facet">
+        <h2>Período</h2>
+        <div class="seg" id="period">
+          <button data-v="">Tudo</button>
+          <button data-v="1">Hoje</button>
+          <button data-v="7">7 dias</button>
+          <button data-v="30">30 dias</button>
+        </div>
+      </section>
+
+      <section class="facet">
+        <h2>Tema</h2>
+        <ul class="rows" id="topic">
+          <li><button data-v=""><span>Todos os temas</span><span class="n"></span></button></li>
+          <li><button data-v="arqueologia"><span>Arqueologia</span><span class="n"></span></button></li>
+          <li><button data-v="manuscritos"><span>Manuscritos</span><span class="n"></span></button></li>
+          <li><button data-v="historia"><span>História</span><span class="n"></span></button></li>
+          <li><button data-v="teologia"><span>Teologia</span><span class="n"></span></button></li>
+          <li><button data-v="ciencia"><span>Ciência</span><span class="n"></span></button></li>
+        </ul>
+      </section>
+
+      <section class="facet">
+        <h2>Tipo de fonte</h2>
+        <ul class="rows" id="kind">
+          <li><button data-v=""><span>Todos os tipos</span><span class="n"></span></button></li>
+          <li><button data-v="periodico"><span>Periódico acadêmico</span><span class="n"></span></button></li>
+          <li><button data-v="revista"><span>Revista especializada</span><span class="n"></span></button></li>
+          <li><button data-v="instituicao"><span>Instituição de pesquisa</span><span class="n"></span></button></li>
+          <li><button data-v="blog"><span>Blog acadêmico</span><span class="n"></span></button></li>
+          <li><button data-v="noticia"><span>Notícia de ciência</span><span class="n"></span></button></li>
+        </ul>
+      </section>
+
+      <section class="facet">
+        <h2>Assunto</h2>
+        <p class="inline-index" id="tag"></p>
+      </section>
+
+      <section class="facet">
+        <h2>Fonte</h2>
+        <select class="select" id="source" aria-label="Filtrar por fonte"></select>
+      </section>
+
+      <label class="check"><input type="checkbox" id="peer"><span>Só artigos revisados por pares</span></label>
+
+      <button class="clear" id="clear" type="button" hidden>Limpar filtros</button>
+    </div>
+  </details>
 </aside>
 
 <main class="main">
   <section class="lead" id="lead" hidden></section>
   <div class="feed" id="feed" aria-live="polite"></div>
-  <p class="more-wrap"><button class="more" id="more" hidden>Mostrar mais</button></p>
+  <button class="more" id="more" hidden>Mostrar mais</button>
   <footer class="foot">
-    <p>Atualizado automaticamente. Os artigos pertencem a seus autores e editoras; aqui ficam apenas o título, o resumo e o link.</p>
+    <p>Os textos são traduzidos automaticamente; o título original aparece ao abrir cada artigo. Os artigos pertencem a seus autores e editoras; aqui ficam apenas título, resumo e link.</p>
   </footer>
 </main>
 
