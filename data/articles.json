@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T20:17+00:00",
+ "updated": "2026-09-10T02:37+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -37,7 +37,6 @@
   "Hyperboreus",
   "International Islamic Sciences Journal",
   "International Journal For Multidisciplinary Research",
-  "International Journal Of History And Political Sciences",
   "International Journal of African Innovation and Multidisciplinary Research",
   "International Journal of Historical Archaeology",
   "International Journal of Science and Research (IJSR)",
@@ -99,6 +98,7 @@
   "Studia Biblica Slovaca",
   "Studia Universitatis Babeș-Bolyai Sacra Scripta",
   "Studia theologica",
+  "Studies in World Christianity",
   "TELEIOS: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Tel Aviv",
   "Text & Canon Institute",
@@ -170,6 +170,8 @@
    "tags": []
   },
   {
+   "title_pt": "Passado Perfeito? As Arqueologias do Mandato da Palestina 1917-1948",
+   "summary_pt": "Passado Perfeito? As Arqueologias do Mandato da Palestina 1917–1948 melliott1 Qua, 09/09/2026 - 09:28 Histórias das arqueologias de uma pequena terra, prometida pelo maior Império do século XX na Terra a dois povos. Eles falam da arqueologia dos governantes, ocidentais e coloniais, e das três arqueologias “locais”, religiosa e nacionalista, que se formaram ao lado dela. Veja também Passado Perfeito? As Arqueologias do Mandato da Palestina 1917–1948 (Peeters Publishers, 2026). Por Raz Kletter Presidente do Antigo Testamento e Estudos Semíticos e Pesquisador Visitante Escola de Teologia e Estudos Religiosos da Universidade de Tartu Setembro de 2026 Clique aqui para ver o artigo Kletter-2.pdf 25,18 MB Adicionar novo…",
    "title": "Past Perfect? The Archaeologies of Mandate Palestine 1917–1948",
    "url": "https://bibleinterp.arizona.edu/articles/past-perfect-archaeologies-mandate-palestine-1917-1948",
    "summary": "Past Perfect? The Archaeologies of Mandate Palestine 1917–1948 melliott1 Wed, 09/09/2026 - 09:28 Stories of the archaeologies of one small land, promised by the greatest twentieth-century Empire on earth to two peoples. They tell of the archaeology of the rulers, western and colonial, and of the three ‘local’ archaeologies, religious and nationalistic, which formed beside it. See also Past Perfect? The Archaeologies of Mandate Palestine 1917–1948 (Peeters Publishers, 2026). By Raz Kletter Chair of the Old Testament and Semitic Studies & Visiting Research Fellow University of Tartu School of Theology and Religious Studies September 2026 Click here for article Kletter-2.pdf 25.18 MB Add new…",
@@ -183,9 +185,7 @@
     "Escavações",
     "Línguas antigas",
     "Interpretação e teologia"
-   ],
-   "title_pt": "Passado Perfeito? As Arqueologias do Mandato da Palestina 1917-1948",
-   "summary_pt": "Passado Perfeito? As Arqueologias do Mandato da Palestina 1917–1948 melliott1 Qua, 09/09/2026 - 09:28 Histórias das arqueologias de uma pequena terra, prometida pelo maior Império do século XX na Terra a dois povos. Eles falam da arqueologia dos governantes, ocidentais e coloniais, e das três arqueologias “locais”, religiosa e nacionalista, que se formaram ao lado dela. Veja também Passado Perfeito? As Arqueologias do Mandato da Palestina 1917–1948 (Peeters Publishers, 2026). Por Raz Kletter Presidente do Antigo Testamento e Estudos Semíticos e Pesquisador Visitante Escola de Teologia e Estudos Religiosos da Universidade de Tartu Setembro de 2026 Clique aqui para ver o artigo Kletter-2.pdf 25,18 MB Adicionar novo…"
+   ]
   },
   {
    "title_pt": "Sobre Metáforas de Corpos e Arqueologia",
@@ -2876,6 +2876,19 @@
    ]
   },
   {
+   "title_pt": "Matéria inicial",
+   "title": "Front matter",
+   "url": "https://doi.org/10.3366/swc.2026.0549",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Studies in World Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -4074,19 +4087,6 @@
    "tags": [
     "Interpretação e teologia"
    ]
-  },
-  {
-   "title_pt": "Matéria inicial",
-   "title": "Frontmatter",
-   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
@@ -5784,23 +5784,6 @@
    "peer": true,
    "tags": [
     "Escavações"
-   ]
-  },
-  {
-   "title_pt": "O significado político e teológico de Gondar no cristianismo global moderno, 1636-1769",
-   "summary_pt": "Este artigo examina Gondar durante o período Gondarino Clássico (1636-1769) como um centro político-teológico dentro do cristianismo global moderno. Baseando-se nas crónicas reais, nos escritos missionários jesuítas, especialmente os de Manuel de Almeida e Pedro Páez, e em fontes eclesiásticas etíopes, analisa como o debate doutrinário e a autoridade imperial eram mutuamente constitutivos. Em vez de interpretar o envolvimento dos Jesuítas apenas como uma intrusão política ou um conflito teológico, o estudo argumenta que o encontro forçou os governantes e clérigos etíopes a redefinir a relação entre ortodoxia e soberania. Controvérsias cristológicas, intervenções missionárias e sinodais…",
-   "title": "The Political and Theological Significance of Gondar in Early Modern Global Christianity, 1636–1769",
-   "url": "https://doi.org/10.37547/ijhps/volume06issue03-02",
-   "summary": "This article examines Gondar during the Classical Gondarine period (1636–1769) as a political-theological center within early modern global Christianity. Drawing on royal chronicles, Jesuit missionary writings especially those of Manuel de Almeida and Pedro Páez and Ethiopian ecclesiastical sources, it analyzes how doctrinal debate and imperial authority were mutually constitutive. Rather than interpreting Jesuit involvement solely as political intrusion or theological conflict, the study argues that the encounter compelled Ethiopian rulers and clerics to redefine the relationship between orthodoxy and sovereignty. Christological controversies, missionary interventions, and synodal…",
-   "date": "2026-03-13",
-   "source": "International Journal Of History And Political Sciences",
-   "authors": "Bitwoded Admasu Dagnaw",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Interpretação e teologia"
    ]
   }
  ]
