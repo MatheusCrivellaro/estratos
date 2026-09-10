@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T02:37+00:00",
+ "updated": "2026-09-10T10:24+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -125,6 +125,71 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "On the Herculaneum scrolls",
+   "url": "http://paleojudaica.blogspot.com/2026/09/on-herculaneum-scrolls.html",
+   "summary": "HERCULANEUM WATCH: Eighteenth-century scholars destroyed hundreds of Herculaneum scrolls trying to prise them open, because the eruption that buried the library had carbonised the papyrus shut — and in June a crowdsourced team that started as amateur contestants read an entire one, still rolled, without touching the inside. A machine-learning competition finally cracked a puzzle that had stumped",
+   "date": "2026-09-10",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ],
+   "title_pt": "Nos pergaminhos de Herculano",
+   "summary_pt": "RELÓGIO DE HERCULANO: Estudiosos do século XVIII destruíram centenas de pergaminhos de Herculano tentando abri-los, porque a erupção que enterrou a biblioteca carbonizou o papiro - e em junho uma equipe de crowdsourcing que começou quando competidores amadores leram um manuscrito inteiro, ainda enrolado, sem tocar no interior. Uma competição de aprendizado de máquina finalmente resolveu um quebra-cabeça que havia confundido"
+  },
+  {
+   "title": "Interview with Schmidt on, Josephus and Jesus",
+   "url": "http://paleojudaica.blogspot.com/2026/09/interview-with-schmidt-on-josephus-and.html",
+   "summary": "BIBLE HISTORY DAILY: Josephus and Jesus. Evaluating the earliest non-Christian source about Jesus.In this interview, BAR Editor-in-Chief Glenn Corbett speaks with Schmidt about his new book Josephus & Jesus: New Evidence for the One Called Christ. After examining how ancient translators rendered Josephus’s words, how early Christian writers understood them, and who may have supplied Josephus with",
+   "date": "2026-09-10",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Judaísmo do Segundo Templo",
+    "Cristianismo primitivo",
+    "Livros e eventos"
+   ],
+   "title_pt": "Entrevista com Schmidt sobre, Josefo e Jesus",
+   "summary_pt": "HISTÓRIA BÍBLICA DIÁRIA: Josefo e Jesus. Avaliando a fonte não-cristã mais antiga sobre Jesus. Nesta entrevista, o editor-chefe da BAR, Glenn Corbett, fala com Schmidt sobre seu novo livro Josephus & Jesus: New Evidence for the One Called Christ. Depois de examinar como os antigos tradutores traduziram as palavras de Josefo, como os primeiros escritores cristãos as entenderam e quem pode ter fornecido informações a Josefo."
+  },
+  {
+   "title": "How did Prof. Peter Enns change his mind?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/how-did-prof-peter-enns-change-his-mind.html",
+   "summary": "SYMPOSIUM: HOW I CHANGED MY MIND: Christianity’s Origins: They Are Jewish! (Prof. Peter Enns, TheTorah.com).To realize that Paul was actually Jewish now seems too obvious to mention, but at the time it changed everything. I walked out of class stunned with the realization that I didn’t really get Paul at all—not because I hadn’t tried, but because I hadn’t known his world. I began asking",
+   "date": "2026-09-10",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Paulo e as epístolas"
+   ],
+   "title_pt": "Como o Prof. Peter Enns mudou de ideia?",
+   "summary_pt": "SIMPÓSIO: COMO MUDEI MINHA IDEIA: As origens do cristianismo: elas são judaicas! (Prof. Peter Enns, TheTorah.com). Perceber que Paulo era realmente judeu agora parece óbvio demais para ser mencionado, mas na época isso mudou tudo. Saí da aula atordoado ao perceber que realmente não entendi Paul - não porque não tivesse tentado, mas porque não conhecia o mundo dele. comecei a perguntar"
+  },
+  {
+   "title": "God’s Actual Name and Another Account of the Flood",
+   "url": "https://ehrmanblog.org/the-personal-name-of-god-and-the-various-accounts-of-the-flood/",
+   "summary": "Was “Yahweh” actually the personal name of the God of Israel? And how do we explain that the world-destroying flood of Genesis 6-9 (the story of Noah) comes in so many other versions from antiquity written long before the book of Genesis appeared? I have been doing a thread on interesting features of the Hebrew",
+   "date": "2026-09-10",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
+   ],
+   "title_pt": "O verdadeiro nome de Deus e outro relato do dilúvio",
+   "summary_pt": "“Yahweh” era realmente o nome pessoal do Deus de Israel? E como explicamos que o dilúvio destruidor do mundo de Gênesis 6-9 (a história de Noé) aparece em tantas outras versões da antiguidade, escritas muito antes do aparecimento do livro de Gênesis? Eu tenho feito um tópico sobre características interessantes do hebraico"
+  },
   {
    "title_pt": "Ziemba e Poulsen (eds.), Judeus na Terra do Nilo (Zaphon)",
    "summary_pt": "NOVO LIVRO DA ZAPHON PRESS: Judeus na Terra do Nilo. Artigos sobre o Egito Aquemênida, Elefantina e a Bíblia Hebraica apresentados em Copenhague, 19 a 20 de agosto de 2024 Editado por Kacper Ziemba e Frederik Poulsen Ägypten und Altes Testament 136 75,00 € 2026 VI + 181 pp. (livro) ISBN 978-3-96327-351-3 (e-book, via ProQuest,",
@@ -2011,6 +2076,7 @@
    ]
   },
   {
+   "title_pt": "O Manual Oxford de Religião Digital ed. por Heidi A. Campbell e Pauline Hope Cheong (revisão)",
    "title": "The Oxford Handbook of Digital Religion ed. by Heidi A. Campbell and Pauline Hope Cheong (review)",
    "url": "https://doi.org/10.1353/nvr.2026.a997163",
    "summary": "",
@@ -2022,8 +2088,7 @@
    "peer": true,
    "tags": [
     "Paulo e as epístolas"
-   ],
-   "title_pt": "O Manual Oxford de Religião Digital ed. por Heidi A. Campbell e Pauline Hope Cheong (revisão)"
+   ]
   },
   {
    "title_pt": "A enigmática palavra hebraica rkbh em Naum 2:14",
