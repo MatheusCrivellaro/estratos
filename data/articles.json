@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T10:26+00:00",
+ "updated": "2026-09-11T15:42+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -126,6 +126,37 @@
  ],
  "articles": [
   {
+   "title": "Who Was Cornelius the Centurion?",
+   "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/who-was-cornelius-centurion/",
+   "summary": "Luke, the traditionally accepted author of Acts and the gospel bearing his name, often expanded and further developed theology through the story of a named",
+   "date": "2026-09-11",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Interpretação e teologia"
+   ],
+   "title_pt": "Quem foi Cornélio, o Centurião?",
+   "summary_pt": "Lucas, o autor tradicionalmente aceito de Atos e do evangelho que leva seu nome, muitas vezes expandiu e desenvolveu ainda mais a teologia através da história de um homem nomeado."
+  },
+  {
+   "title": "The Expanding World of Biblical Archaeology",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/the-expanding-world-of-biblical-archaeology/",
+   "summary": "Since the first issue of Biblical Archaeology Review was published 50 years ago, the landscape of biblical archaeology—both literal and figurative—has expanded in remarkable ways.",
+   "date": "2026-09-11",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [],
+   "title_pt": "O mundo em expansão da arqueologia bíblica",
+   "summary_pt": "Desde que a primeira edição da Biblical Archaeology Review foi publicada há 50 anos, o panorama da arqueologia bíblica – tanto literal como figurativa – expandiu-se de forma notável."
+  },
+  {
+   "title_pt": "As versões duplas do divã do sultão Walad: uma crítica textual",
+   "summary_pt": "O sultão Bahaʾ al-Din Muhammad-i Walad (623–712 AH/1226–1312 dC), filho mais velho de Mawlana Jalal al-Din Muhammad-i Balkhi (Rumi), é autor de poesia mística que contribui significativamente para a literatura persa e oferece insights únicos sobre o desenvolvimento da ordem Mevlevi. Baseado na crítica textual abrangente do Divan do Sultão Walad (aproximadamente 13.000 linhas), este artigo revela, através da análise do manuscrito, a existência de duas versões autênticas distintas. A descoberta de um manuscrito único de Nizam al-Din Katib, cunhado do sultão Walad, contendo ambas as versões com revisões autorais, fornece evidências cruciais para a compreensão do processo criativo do poeta. Esta descoberta…",
    "title": "The Dual Versions of Sultan Walad’s Divan: A Textual Criticism",
    "url": "https://doi.org/10.1017/irn.2026.10176",
    "summary": "Sultan Bahaʾ al-Din Muhammad-i Walad (623–712 AH/1226–1312 CE), eldest son of Mawlana Jalal al-Din Muhammad-i Balkhi (Rumi), authored mystical poetry that significantly contributes to Persian literature and offers unique insights into the Mevlevi order’s development. Based on comprehensive textual criticism of Sultan Walad’s Divan (approximately 13,000 lines), this article reveals through manuscript analysis the existence of two distinct authentic versions. The discovery of a unique manuscript by Nizam al-Din Katib, Sultan Walad’s brother-in-law, containing both versions with authorial revisions, provides crucial evidence for understanding the poet’s creative process. This finding…",
@@ -138,11 +169,40 @@
    "tags": [
     "Crítica textual",
     "Egito e Mesopotâmia"
-   ],
-   "title_pt": "As versões duplas do divã do sultão Walad: uma crítica textual",
-   "summary_pt": "O sultão Bahaʾ al-Din Muhammad-i Walad (623–712 AH/1226–1312 dC), filho mais velho de Mawlana Jalal al-Din Muhammad-i Balkhi (Rumi), é autor de poesia mística que contribui significativamente para a literatura persa e oferece insights únicos sobre o desenvolvimento da ordem Mevlevi. Baseado na crítica textual abrangente do Divan do Sultão Walad (aproximadamente 13.000 linhas), este artigo revela, através da análise do manuscrito, a existência de duas versões autênticas distintas. A descoberta de um manuscrito único de Nizam al-Din Katib, cunhado do sultão Walad, contendo ambas as versões com revisões autorais, fornece evidências cruciais para a compreensão do processo criativo do poeta. Esta descoberta…"
+   ]
   },
   {
+   "title": "Rosh HaShanah and the Akedah",
+   "url": "http://paleojudaica.blogspot.com/2026/09/rosh-hashanah-and-akedah.html",
+   "summary": "FOR ROSH HASHANAH: The Ram Caught in the Thicket by Its Horns—Rosh Hashanah’s Shofar (Prof.Rivka Ulmer, The Torah.com).At the climax of the binding of Isaac, Abraham sees אַיִל אַחַר “a ram behind” (MT)... or does he see אַיִל אֶחָד “one ram” (SP, LXX, etc.)? Both readings are developed in midrash: aḥar into Israel’s future redemption through the shofar, eḥad into the primordial ram created for",
+   "date": "2026-09-11",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Septuaginta"
+   ],
+   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+   "title": "Rosh HaShanah 2026",
+   "url": "http://paleojudaica.blogspot.com/2026/09/rosh-hashanah-2026.html",
+   "summary": "HAPPY NEW YEAR (ROSH HASHANAH - Jewish New Year 5787) to all those celebrating. The New Year begins tonight at sundown. Last year's Rosh HaShanah post is here. For biblical background, see here. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-09-11",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [],
+   "title_pt": "Rosh Hashaná 2026",
+   "summary_pt": "FELIZ ANO NOVO (ROSH HASHANAH - Ano Novo Judaico 5787) a todos os que comemoram. O Ano Novo começa hoje à noite ao pôr do sol. A postagem de Rosh HaShanah do ano passado está aqui. Para informações bíblicas, veja aqui. Visite PaleoJudaica diariamente para obter as últimas notícias sobre o Judaísmo antigo e o mundo bíblico."
+  },
+  {
+   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
    "title": "October 2026 Gold Q&A Announcement",
    "url": "https://ehrmanblog.org/october-2026-gold-qa-announcement/",
    "summary": "Gold and Platinum members, we've set the date and time for our next monthly Gold Q&A. It's happening on Monday October 12th at 7pm Eastern. As usual, Bart will take the first 30 minutes to answer presubmitted questions. You are invited to submit your questions ahead of time to ehrmanblog@gmail.com. For the second half of",
@@ -151,7 +211,20 @@
    "category": "historia",
    "kind": "blog",
    "peer": false,
-   "tags": [],
+   "tags": []
+  },
+  {
+   "title": "How did Prof. Rabbi Phil Lieberman change his mind?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/how-did-prof-rabbi-phil-lieberman.html",
+   "summary": "SYMPOSIUM: I CHANGED MY MIND: De-anthropomorphizing God: Did It Really Begin with Onkelos? (Prof. Rabbi Phil Lieberman, TheTorah.com).Onkelos’ choice, then, to dissolve the metaphor “fat of the land” in favor of “goodness of the land,” then, may be evidence of a broader, deliberate program eschewing metaphor more generally. That might imply that when Targum Onkelos dissolves metaphors, even about",
+   "date": "2026-09-11",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
+   ],
    "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
    "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
   },
@@ -252,6 +325,21 @@
     "Antigo Testamento",
     "Línguas antigas"
    ]
+  },
+  {
+   "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+   "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding poses a growing threat to these fragile remains.",
+   "date": "2026-09-10",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ],
+   "title_pt": "Arqueólogos encontram uma tumba egípcia de 3.000 anos antes que seja tarde demais",
+   "summary_pt": "Enquanto limpavam os escombros para proteger as tumbas egípcias antigas das enchentes, pesquisadores perto de Luxor tropeçaram em uma tumba desconhecida de 3.000 anos de idade. Suas pinturas notavelmente preservadas retratam um oficial chamado Paser, sua esposa, cenas religiosas e oferendas de alimentos e flores. A descoberta surge num momento em que as inundações causadas pelo clima representam uma ameaça crescente para estes restos frágeis."
   },
   {
    "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
