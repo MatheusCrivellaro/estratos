@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T02:31+00:00",
+ "updated": "2026-09-11T10:26+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -42,6 +42,7 @@
   "International Journal of Science and Research (IJSR)",
   "International Journal of Science and Research Archive",
   "International Journal of Systematic Theology",
+  "Iranian Studies",
   "Israel Affairs",
   "Ivy Enber Scientific Journal",
   "JURNAL ILUMINASI",
@@ -125,6 +126,38 @@
  ],
  "articles": [
   {
+   "title": "The Dual Versions of Sultan Walad’s Divan: A Textual Criticism",
+   "url": "https://doi.org/10.1017/irn.2026.10176",
+   "summary": "Sultan Bahaʾ al-Din Muhammad-i Walad (623–712 AH/1226–1312 CE), eldest son of Mawlana Jalal al-Din Muhammad-i Balkhi (Rumi), authored mystical poetry that significantly contributes to Persian literature and offers unique insights into the Mevlevi order’s development. Based on comprehensive textual criticism of Sultan Walad’s Divan (approximately 13,000 lines), this article reveals through manuscript analysis the existence of two distinct authentic versions. The discovery of a unique manuscript by Nizam al-Din Katib, Sultan Walad’s brother-in-law, containing both versions with authorial revisions, provides crucial evidence for understanding the poet’s creative process. This finding…",
+   "date": "2026-09-11",
+   "source": "Iranian Studies",
+   "authors": "Mina Raminsabet",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Crítica textual",
+    "Egito e Mesopotâmia"
+   ],
+   "title_pt": "As versões duplas do divã do sultão Walad: uma crítica textual",
+   "summary_pt": "O sultão Bahaʾ al-Din Muhammad-i Walad (623–712 AH/1226–1312 dC), filho mais velho de Mawlana Jalal al-Din Muhammad-i Balkhi (Rumi), é autor de poesia mística que contribui significativamente para a literatura persa e oferece insights únicos sobre o desenvolvimento da ordem Mevlevi. Baseado na crítica textual abrangente do Divan do Sultão Walad (aproximadamente 13.000 linhas), este artigo revela, através da análise do manuscrito, a existência de duas versões autênticas distintas. A descoberta de um manuscrito único de Nizam al-Din Katib, cunhado do sultão Walad, contendo ambas as versões com revisões autorais, fornece evidências cruciais para a compreensão do processo criativo do poeta. Esta descoberta…"
+  },
+  {
+   "title": "October 2026 Gold Q&A Announcement",
+   "url": "https://ehrmanblog.org/october-2026-gold-qa-announcement/",
+   "summary": "Gold and Platinum members, we've set the date and time for our next monthly Gold Q&A. It's happening on Monday October 12th at 7pm Eastern. As usual, Bart will take the first 30 minutes to answer presubmitted questions. You are invited to submit your questions ahead of time to ehrmanblog@gmail.com. For the second half of",
+   "date": "2026-09-11",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [],
+   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  {
+   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
    "title": "Speech, Efficacy, and Prophecy",
    "url": "https://www.ancientjewreview.com/read/2026/9/7/nathan-review",
    "summary": "These ideas about representation are nearly everywhere assumed but rarely taken up for examination. But as Vayntrub points out, a glance outside the Hebrew Bible suggests the possibilities of different ontologies of representation at play in ancient West Asia.",
@@ -136,9 +169,7 @@
    "tags": [
     "Antigo Testamento",
     "Línguas antigas"
-   ],
-   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+   ]
   },
   {
    "title_pt": "Nos pergaminhos de Herculano",
