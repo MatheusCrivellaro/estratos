@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T02:39+00:00",
+ "updated": "2026-09-12T09:55+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -128,6 +128,21 @@
  ],
  "articles": [
   {
+   "title": "Jesus the Carpenter?",
+   "url": "https://ehrmanblog.org/jesus-the-carpenter/",
+   "summary": "It seems to be virtually impossible for modern people to imagine what it was like for someone to live in radically different contexts – say, Jesus, in rural Galilee 2000 years ago. It’s very difficult even for scholars who know a bit about his world. Lots of things never occur to us though. At least",
+   "date": "2026-09-12",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ],
+   "title_pt": "Jesus, o Carpinteiro?",
+   "summary_pt": "Parece ser virtualmente impossível para as pessoas modernas imaginar como era para alguém viver em contextos radicalmente diferentes – digamos, Jesus, na zona rural da Galileia, há 2000 anos. É muito difícil mesmo para estudiosos que conhecem um pouco sobre o mundo dele. Muitas coisas nunca nos ocorrem. Pelo menos"
+  },
+  {
    "title_pt": "Quem foi Cornélio, o Centurião?",
    "summary_pt": "Lucas, o autor tradicionalmente aceito de Atos e do evangelho que leva seu nome, muitas vezes expandiu e desenvolveu ainda mais a teologia através da história de um homem nomeado.",
    "title": "Who Was Cornelius the Centurion?",
@@ -174,6 +189,8 @@
    ]
   },
   {
+   "title_pt": "Testes de Estudo “Hipótese do Forno Natural”",
+   "summary_pt": "JERUSALÉM, ISRAEL — Os incêndios florestais podem ter inspirado as comunidades neolíticas no sul do Levante a fazer cerâmica, de acordo com",
    "title": "Study Tests “Natural Kiln Hypothesis”",
    "url": "https://archaeology.org/news/2026/09/11/study-tests-natural-kiln-hypothesis/",
    "summary": "JERUSALEM, ISRAEL—Wildfires may have inspired Neolithic communities in the southern Levant to make pottery, according",
@@ -184,9 +201,7 @@
    "peer": false,
    "tags": [
     "Jerusalém"
-   ],
-   "title_pt": "Testes de Estudo “Hipótese do Forno Natural”",
-   "summary_pt": "JERUSALÉM, ISRAEL — Os incêndios florestais podem ter inspirado as comunidades neolíticas no sul do Levante a fazer cerâmica, de acordo com"
+   ]
   },
   {
    "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1250,7 +1265,7 @@
    "kind": "periodico",
    "peer": true,
    "tags": [],
-   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+   "summary_pt": "De 20 a 22 de maio de 2025, o projeto de pesquisa ‘Trials and Transmissions: Mapping the Legacy of the German Refugee Rabinate’ da LMU München e do Jüdisches Museum Franken em Fürth convidou um grupo de especialistas para um workshop para obter uma perspectiva global e comparativa mais ampla sobre as transferências culturais, as discussões, construções, desconstruções e usos de sua ‘herança judaica’ por rabinos refugiados que deixaram a Alemanha durante o período nazista e além. O evento foi generosamente apoiado pela Hanns-Seidel-Stiftung em Munique, pela Münchner Universitätsgesellschaft, pela Academia Bávaro-Americana e pelo Wissenschaftliche Arbeitsgemeinschaft der Leo-Baeck-Institute na Alemanha e foi…"
   },
   {
    "title_pt": "Como o Dr. Rabino Bradley Shavit Artson mudou de ideia?",
@@ -5348,6 +5363,8 @@
    ]
   },
   {
+   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
    "title": "Highway 3: Microscopic and Elemental Analyses of Plaster from the Byzantine Levigation Pool Complex",
    "url": "https://doi.org/10.70967/3078-8528.1067",
    "summary": "Microscopic and elemental analyses were employed on two plaster samples from the Byzantine levigation pools uncovered in the Highway 3 excavations. While the mineral composition of the samples was broadly similar, differences in flakiness and aggregate content imply variations in materials and techniques, indicating different construction or repair phases.",
@@ -5359,9 +5376,7 @@
    "peer": true,
    "tags": [
     "Escavações"
-   ],
-   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+   ]
   },
   {
    "title_pt": "Rodovia 3: Cerâmica Persa Tardia, Helenística e Romana",
