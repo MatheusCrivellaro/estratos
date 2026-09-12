@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T09:55+00:00",
+ "updated": "2026-09-12T14:49+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -128,6 +128,8 @@
  ],
  "articles": [
   {
+   "title_pt": "Jesus, o Carpinteiro?",
+   "summary_pt": "Parece ser virtualmente impossível para as pessoas modernas imaginar como era para alguém viver em contextos radicalmente diferentes – digamos, Jesus, na zona rural da Galileia, há 2000 anos. É muito difícil mesmo para estudiosos que conhecem um pouco sobre o mundo dele. Muitas coisas nunca nos ocorrem. Pelo menos",
    "title": "Jesus the Carpenter?",
    "url": "https://ehrmanblog.org/jesus-the-carpenter/",
    "summary": "It seems to be virtually impossible for modern people to imagine what it was like for someone to live in radically different contexts – say, Jesus, in rural Galilee 2000 years ago. It’s very difficult even for scholars who know a bit about his world. Lots of things never occur to us though. At least",
@@ -138,9 +140,23 @@
    "peer": false,
    "tags": [
     "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Congress Volume Zurich 2022 (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/congress-volume-zurich-2022-brill.html",
+   "summary": "NEW(ISH) BOOK FROM BRILL:Congress Volume Zurich 2022 Proceedings of the 24th Congress of the IOSOT Series: Vetus Testamentum, Supplements, Volume: 201 Volume Editors: Samuel Arnet, Konrad Schmid, and Lena-Sofia Tiemeyer This volume presents the main lectures of the 24th Congress of the International Organization for the Study of the Old Testament (IOSOT) held in Zurich, Switzerland, in",
+   "date": "2026-09-12",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Livros e eventos"
    ],
-   "title_pt": "Jesus, o Carpinteiro?",
-   "summary_pt": "Parece ser virtualmente impossível para as pessoas modernas imaginar como era para alguém viver em contextos radicalmente diferentes – digamos, Jesus, na zona rural da Galileia, há 2000 anos. É muito difícil mesmo para estudiosos que conhecem um pouco sobre o mundo dele. Muitas coisas nunca nos ocorrem. Pelo menos"
+   "title_pt": "Volume do Congresso Zurique 2022 (brilhante)",
+   "summary_pt": "NOVO (ISH) LIVRO DE BRILL: Volume do Congresso Zurique 2022 Anais do 24º Congresso da Série IOSOT: Vetus Testamentum, Suplementos, Volume: 201 Volume Editores: Samuel Arnet, Konrad Schmid e Lena-Sofia Tiemeyer Este volume apresenta as principais palestras do 24º Congresso da Organização Internacional para o Estudo do Antigo Testamento (IOSOT) realizado em Zurique, Suíça, em"
   },
   {
    "title_pt": "Quem foi Cornélio, o Centurião?",
