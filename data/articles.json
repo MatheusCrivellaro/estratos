@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T02:38+00:00",
+ "updated": "2026-09-13T10:56+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -126,6 +126,20 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "The Perpetual Virginity of Mary (and related topics)",
+   "url": "https://ehrmanblog.org/50567-2/",
+   "summary": "In my post yesterday I made an off-the-cuff reference to the Catholic doctrine that Mary was a \"perpetual virgin,\" and indicated I'd explain more about that and related issues in a later post. This is the post! When talking about the births of both Mary and Jesus (and related topics involving sex and conception) there",
+   "date": "2026-09-13",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Interpretação e teologia"
+   ]
+  },
   {
    "title_pt": "Jesus, o Carpinteiro?",
    "summary_pt": "Parece ser virtualmente impossível para as pessoas modernas imaginar como era para alguém viver em contextos radicalmente diferentes – digamos, Jesus, na zona rural da Galileia, há 2000 anos. É muito difícil mesmo para estudiosos que conhecem um pouco sobre o mundo dele. Muitas coisas nunca nos ocorrem. Pelo menos",
@@ -1279,8 +1293,7 @@
    "category": "historia",
    "kind": "periodico",
    "peer": true,
-   "tags": [],
-   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+   "tags": []
   },
   {
    "title_pt": "Como o Dr. Rabino Bradley Shavit Artson mudou de ideia?",
@@ -1354,8 +1367,7 @@
    "peer": true,
    "tags": [
     "Livros e eventos"
-   ],
-   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+   ]
   },
   {
    "title_pt": "Cidade dos Deuses: A Nova Jerusalém da Revelação de João no Cristianismo Primitivo, por Nathan Betz (revisão)",
