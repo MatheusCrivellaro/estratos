@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T11:31+00:00",
+ "updated": "2026-09-14T17:28+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -40,6 +40,7 @@
   "International Islamic Sciences Journal",
   "International Journal For Multidisciplinary Research",
   "International Journal of African Innovation and Multidisciplinary Research",
+  "International Journal of Constitutional Law",
   "International Journal of Historical Archaeology",
   "International Journal of Science and Research (IJSR)",
   "International Journal of Science and Research Archive",
@@ -127,6 +128,33 @@
  ],
  "articles": [
   {
+   "title": "Uncovering the UAE’s Early Christian Community",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/uncovering-uae-early-christian-community/",
+   "summary": "During renewed excavations at the monastery of Sir Bani Yas Island in the United Arab Emirates, archaeologists made a remarkable find: a plaster plaque of",
+   "date": "2026-09-14",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Cristianismo primitivo",
+    "Escavações"
+   ]
+  },
+  {
+   "title": "Roman Sanctuary Hidden in “Cave of the Women”",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/roman-sanctuary-hidden-in-cave-of-women/",
+   "summary": "Recent discoveries at Cova Dones, in Spain’s province of Valencia, offer a fascinating glimpse into Roman religious practice, and potentially women-centered worship. Archaeologists have identified",
+   "date": "2026-09-14",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Liturgia e cânon"
+   ]
+  },
+  {
    "title": "Reading with a Hermeneutics of Presence and Embodiment",
    "url": "https://www.ancientjewreview.com/read/2026/9/7/dorothea-review",
    "summary": "We share with ancient readers the condition of embodied and vulnerable human existence.",
@@ -156,6 +184,17 @@
    ]
   },
   {
+   "title": "Lebanon: 400,000 years of climate and landscape history rediscovered",
+   "url": "https://phys.org/news/2026-09-lebanon-years-climate-landscape-history.html",
+   "summary": "An international research team led by Dr. Gabriele Russo of the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen has re-examined historical fossil collections from Lebanon using modern methodology. The results, published today in two complementary studies in the journal Communications Earth & Environment, show that the Levant served as an important corridor for animals and various human lineages during the Pleistocene and that environmental conditions in the central part of the region differed significantly from those in the south.",
+   "date": "2026-09-14",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "How did ancient Israelites actually live?",
    "url": "http://paleojudaica.blogspot.com/2026/09/how-did-ancient-israelites-actually-live.html",
    "summary": "DOMESTIC ARCHAEOLOGY: How People Actually Lived in Ancient Israel According to Archaeology. Excavated four-room houses, ancient grains, and domestic tools reveal the daily struggles, diets, and routines of everyday life in ancient Israel (Eljoh Hartzer, The Collector).While paging through the Bible, one can find it hard to truly see the daily life of ancient Israelites. What did they eat? Where",
@@ -167,6 +206,21 @@
    "tags": [
     "Escavações",
     "Israel antigo"
+   ]
+  },
+  {
+   "title": "Daphne Barak-Erez. Biblical Judgments: New Legal Readings in the Hebrew Bible",
+   "url": "https://doi.org/10.1093/icon/moag103",
+   "summary": "",
+   "date": "2026-09-14",
+   "source": "International Journal of Constitutional Law",
+   "authors": "Dana Schmalz",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
    ]
   },
   {
@@ -195,6 +249,19 @@
    ]
   },
   {
+   "title": "The Cyrus Cylinder",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-cyrus-cylinder/",
+   "summary": "The Cyrus Cylinder is one of the best-known surviving texts from the Achaemenid Persian Empire (c. 550–332 BCE), due almost entirely to its proposed connection",
+   "date": "2026-09-13",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
    "title": "Gadot, A Historical Archaeology of Jerusalem: Bronze and Iron Ages (SBL)",
    "url": "http://paleojudaica.blogspot.com/2026/09/gadot-historical-archaeology-of.html",
    "summary": "NEW BOOK FROM SBL PRESS:A Historical Archaeology of Jerusalem: Bronze and Iron Ages Yuval Gadot ISBN 9781628377910 Volume ABS 35 Status Available Price $62.00 Publication Date March 2026 Paperback $62.00 Hardback $82.00 eBook $62.00 In the first book to examine Jerusalem’s archaeological remains in detail since Kathleen M. Kenyon’s Digging Up Jerusalem (1974), Yuval Gadot reexamines the",
@@ -207,6 +274,20 @@
     "Jerusalém",
     "Israel antigo",
     "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Pharaoh’s Brick Makers",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/pharaohs-brick-makers/",
+   "summary": "What does the Bibleclaim about the Israelites’ forced labor for the Pharaoh? Looking for the most plausible match in ancient Egyptian architecture.",
+   "date": "2026-09-12",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Israel antigo",
+    "Egito e Mesopotâmia"
    ]
   },
   {
@@ -385,6 +466,19 @@
    "tags": [
     "Antigo Testamento",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "S9E5 Lost in Translation? Jerome, Erasmus, and the Road to Tyndale",
+   "url": "https://tyndalehouse.com/2026/09/10/lost-in-translation-jerome-erasmus-and-the-road-to-tyndale/",
+   "summary": "This week, our podcast turns to part two of our campaign exploring the life, work, and legacy of William Tyndale. In this opening episode, Tony Watkins, our Fellow for Public Engagement, speaks with Bruce Gordon, Titus Street Professor of Ecclesiastical History at Yale Divinity School and author of The Bible: A Global History. Their conversation ...",
+   "date": "2026-09-10",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
    ]
   },
   {
