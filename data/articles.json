@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T02:54+00:00",
+ "updated": "2026-09-14T11:31+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -126,6 +126,60 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Reading with a Hermeneutics of Presence and Embodiment",
+   "url": "https://www.ancientjewreview.com/read/2026/9/7/dorothea-review",
+   "summary": "We share with ancient readers the condition of embodied and vulnerable human existence.",
+   "date": "2026-09-14",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "Longacre's Psalms book is forthcoming",
+   "url": "http://paleojudaica.blogspot.com/2026/09/longacres-psalms-book-is-forthcoming.html",
+   "summary": "THE OTTC BLOG: Psalms Monograph Submitted (Drew Longacre). That's good news! For more on Dr. Longacre's work on the text of the Hebrew Psalter, see here and links. And for updates on the related lawsuit, see the Critical Edition of the Hebrew Psalter Blog here. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-09-14",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Crítica textual",
+    "Línguas antigas",
+    "Liturgia e cânon"
+   ]
+  },
+  {
+   "title": "How did ancient Israelites actually live?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/how-did-ancient-israelites-actually-live.html",
+   "summary": "DOMESTIC ARCHAEOLOGY: How People Actually Lived in Ancient Israel According to Archaeology. Excavated four-room houses, ancient grains, and domestic tools reveal the daily struggles, diets, and routines of everyday life in ancient Israel (Eljoh Hartzer, The Collector).While paging through the Bible, one can find it hard to truly see the daily life of ancient Israelites. What did they eat? Where",
+   "date": "2026-09-14",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Escavações",
+    "Israel antigo"
+   ]
+  },
+  {
+   "title": "\"Cursed! The Power of Magic in the Ancient World\" coming to ISAW (NYU)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/cursed-power-of-magic-in-ancient-world.html",
+   "summary": "EXHIBITION: ISAW presents: Cursed! The Power of Magic in the Ancient World. Exhibition explores the central role of magic in ancient societies; opens September 17 (NYU News).The Institute for the Study of the Ancient World at New York University presents Cursed! The Power of Magic in the Ancient World (September 17 to December 13, 2026), an exhibition that examines the central role of magic in",
+   "date": "2026-09-14",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "The Perpetual Virginity of Mary (and related topics)",
    "url": "https://ehrmanblog.org/50567-2/",
@@ -922,6 +976,19 @@
    "tags": [
     "Epigrafia e inscrições",
     "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "S10E10 God’s Covenant with Noah, Genesis 9 | Genesis 1-9 Deep Dive",
+   "url": "https://tyndalehouse.com/2026/09/03/s10e10-genesis-chapter-9/",
+   "summary": "The Flood may be over, but the story is far from finished. Genesis 9 marks a pivotal moment in the biblical narrative, as Noah steps into a renewed world and God establishes a covenant that will shape the rest of Scripture. In this final episode of our Genesis series, join Dr Peter Wiliams, Dr Caleb ...",
+   "date": "2026-09-03",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
    ]
   },
   {
@@ -1981,6 +2048,19 @@
    "tags": [
     "Escavações",
     "Israel antigo"
+   ]
+  },
+  {
+   "title": "S10E9: Where Did the Ark Land? And Other Mysteries of Genesis 8",
+   "url": "https://tyndalehouse.com/2026/08/20/s10e9-where-did-the-ark-land-and-other-mysteries-of-genesis-8/",
+   "summary": "The flood narrative is one of the most familiar stories in the Bible, yet Genesis invites us to see far more than a children’s tale. Beneath the surface are questions about God’s justice, mercy, human nature, and his purposes for the world. Join Dr Peter Williams, Dr Caleb Howard, and Dr James Bejon as they ...",
+   "date": "2026-08-20",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
    ]
   },
   {
