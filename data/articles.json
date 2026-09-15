@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T10:53+00:00",
+ "updated": "2026-09-15T16:06+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -128,6 +128,31 @@
  ],
  "articles": [
   {
+   "title": "Vice President’s Report to ASOR Members",
+   "url": "https://www.asor.org/news/2026/09/vp-report?utm_source=rss&utm_medium=rss&utm_campaign=vice-presidents-report-to-asor-members",
+   "summary": "Vice President’s Report to ASOR Members September 2026 Dear ASOR Friends, I hope you all had a wonderful summer, perhaps having had the opportunity to get into the field, and",
+   "date": "2026-09-15",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "The Church of Laodicea in the Bible and Archaeology",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/church-of-laodicea-in-the-bible-and-archaeology/",
+   "summary": "Laodicea was a wealthy city in western Turkey that flourished for centuries. Why does the author of the Book of Revelation call the church of Laodicea “lukewarm”—neither hot nor cold? Recent excavations at the site might provide the answer.",
+   "date": "2026-09-15",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Escavações"
+   ]
+  },
+  {
    "title": "Scripta Classica Israelica again",
    "url": "http://paleojudaica.blogspot.com/2026/09/scripta-classica-israelica-again.html",
    "summary": "THE AWOL BLOG: Open Access Journal: Scripta Classica Israelica. It's been a while since I noted this journal, so this is a good chance to mention it again. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
@@ -146,6 +171,19 @@
    "source": "The Bart Ehrman Blog",
    "category": "historia",
    "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Jesus Holding a Magic Wand?",
+   "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-holding-a-magic-wand/",
+   "summary": "Did Jesus use a magic wand when performing his miracles? It seems so—if we are to judge by some of the earliest depictions of Jesus",
+   "date": "2026-09-15",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
    "peer": false,
    "tags": [
     "Jesus histórico"
@@ -178,6 +216,20 @@
    "tags": [
     "Egito e Mesopotâmia",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "A 5,000-year-old royal mystery: Digital clues point to Meretneith as Egypt's female king",
+   "url": "https://phys.org/news/2026-09-year-royal-mystery-digital-clues.html",
+   "summary": "More than 5,000 years ago, a royal woman named Meretneith (also written as Merneith) lived in ancient Egypt. She was possibly the daughter of Djer, the third king of the First Dynasty, a period when the first kings ruled over a unified Egypt.",
+   "date": "2026-09-15",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Egito e Mesopotâmia"
    ]
   },
   {
