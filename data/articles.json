@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T02:55+00:00",
+ "updated": "2026-09-16T10:43+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -127,6 +127,20 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Caught Red-Handed! An Unrepentant Christian Forger",
+   "url": "https://ehrmanblog.org/caught-red-handed-an-unrepentant-christian-forger/",
+   "summary": "I have long argued that contrary to what you may hear a lot of people say (especially New Testament scholars!), the act of writing a book in someone else's name (e.g., claiming to be Paul, or Peter, or John, knowing full well you weren't [!]) was NOT regarded as an acceptable practice in the ancient",
+   "date": "2026-09-16",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Paulo e as epístolas"
+   ]
+  },
   {
    "title": "Vice President’s Report to ASOR Members",
    "url": "https://www.asor.org/news/2026/09/vp-report?utm_source=rss&utm_medium=rss&utm_campaign=vice-presidents-report-to-asor-members",
@@ -4053,6 +4067,7 @@
    ]
   },
   {
+   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
    "title": "Sophia and Christ: The Connection in Pauline Theology?",
    "url": "https://doi.org/10.5507/sth.2026.009",
    "summary": "",
@@ -4065,8 +4080,7 @@
    "tags": [
     "Paulo e as epístolas",
     "Interpretação e teologia"
-   ],
-   "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+   ]
   },
   {
    "title_pt": "Discurso Plenário: Senadora Pauline Hanson",
