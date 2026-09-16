@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T16:00+00:00",
+ "updated": "2026-09-16T20:50+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -128,6 +128,17 @@
  ],
  "articles": [
   {
+   "title": "We may soon be able to read long-lost ancient scrolls damaged by the eruption of Mount Vesuvius",
+   "url": "https://phys.org/news/2026-09-lost-ancient-scrolls-eruption-mount.html",
+   "summary": "X-ray technology and artificial intelligence—along with the discovery of lead in the ink of fragments from a collection of ancient Roman scrolls—could soon help scientists read long-lost texts buried by the eruption of Mount Vesuvius in 79 CE, according to a study published Sept. 16, 2026, in the journal PLOS One by Douglas Seiler, an affiliate of the University of California, Berkeley, U.S.; Jacob Michael LaManna of the National Institute of Standards and Technology, U.S.; David Kreimer of the University of California, Berkeley, U.S.; and colleagues.",
+   "date": "2026-09-16",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "Sheridan, Sogdian Christians (Brepols)",
    "url": "http://paleojudaica.blogspot.com/2026/09/sheridan-sogdian-christians-brepols.html",
    "summary": "BIBLIOGRAPHIA IRANICA: Sogdian Christians. Notice of a New Book: Sheridan, Daniel . 2026. Sogdian Christians. Networks, Books, Homilies, and Medicine. Turnhout: Brepols. PaleoJudaica has considerable interest in the Sogdian Manicheans, who preserved much of our surviving material from and on the Book of Giants. More on them, it, and the ancient Sogdian language is here and links. The",
@@ -140,6 +151,57 @@
     "Antigo Testamento",
     "Livros e eventos"
    ]
+  },
+  {
+   "title": "Phoenicians Brought First Cultivated Grapevines to Iberia",
+   "url": "https://archaeology.org/news/2026/09/16/phoenicians-brought-first-cultivated-grapevines-to-iberia/",
+   "summary": "VALENCIA, SPAIN—Researchers had long suspected that Iberia’s thriving wine industry had its historical roots in",
+   "date": "2026-09-16",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Paul’s Relationship with the Corinthians",
+   "url": "https://bibleinterp.arizona.edu/articles/pauls-relationship-corinthians",
+   "summary": "Paul’s Relationship with the Corinthians melliott1 Wed, 09/16/2026 - 09:09 Paul’s relationship with the Corinthians developed through a series of letters and visits marked by factional rivalry, disputes over his authority, and suspicions surrounding his collection for Jerusalem. A critical reading of Acts and a reconstruction of five letters within canonical 2 Corinthians trace this relationship from Paul’s initial activity in Corinth through conflict and eventual reconciliation. See also Paul and the Corinthians: Reconstructing the Relationship and the Letters (Eerdmans, 2026). By Paul B. Duff Professor Emeritus The George Washington University Department of World Religions September 2026…",
+   "date": "2026-09-16",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Paulo e as epístolas",
+    "Liturgia e cânon",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Oldest North African Defensive Structure Outside Egypt Identified",
+   "url": "https://archaeology.org/news/2026/09/16/oldest-north-african-defensive-structure-outside-egypt-identified/",
+   "summary": "ROME, ITALY—According to a statement released by the National Research Council of Italy (CNR), an",
+   "date": "2026-09-16",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "New trick could reveal text on 2,000-year-old scrolls charred by eruption of Mount Vesuvius",
+   "url": "https://www.livescience.com/archaeology/romans/new-trick-could-reveal-text-on-2-000-year-old-scrolls-charred-by-eruption-of-mount-vesuvius",
+   "summary": "Using X-ray technologies and custom-made software, researchers were able to read text they wrote on a fake ancient scroll designed to mimic those destroyed at Herculaneum in A.D. 79.",
+   "date": "2026-09-16",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": []
   },
   {
    "title": "Medusa in an Etruscan Tomb",
