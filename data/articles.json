@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T10:53+00:00",
+ "updated": "2026-09-17T16:08+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -127,6 +127,54 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "The Epic of Gilgamesh",
+   "url": "https://www.biblicalarchaeology.org/daily/the-epic-of-gilgamesh/",
+   "summary": "The Epic of Gilgamesh is an ancient Mesopotamian literary work that tells a fantastic story of King Gilgamesh’s failed quest for immortality. Set in early",
+   "date": "2026-09-17",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "How to Justify a Lie",
+   "url": "https://ehrmanblog.org/how-to-justify-a-lie/",
+   "summary": "Yesterday I began to discuss the one Christian forger who got caught red handed who then tried to get off the hook. Well, bend over backwards to make himself look innocent. We've been seeing a lot of that these days. It goes way back. Humans are humans. Here is my assessment of the situation, highlighting",
+   "date": "2026-09-17",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "First Person: Misogyny in the Bible",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/first-person-misogyny-in-the-bible/",
+   "summary": "According to scholar Christopher Rollston, there are many examples of the marginalization of women in the Bible.",
+   "date": "2026-09-17",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "1,000-year-old 'snake amulet' featuring a Christian saint and 'Medusa' discovered in Russia",
+   "url": "https://www.livescience.com/archaeology/1-000-year-old-snake-amulet-featuring-a-christian-saint-and-medusa-discovered-in-russia",
+   "summary": "Archaeologists discovered the two-sided pendant, which features a snake-slaying saint and a snake-haired woman, during an excavation in northwestern Russia.",
+   "date": "2026-09-17",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Escavações"
+   ]
+  },
   {
    "title": "We may soon be able to read long-lost ancient scrolls damaged by the eruption of Mount Vesuvius",
    "url": "https://phys.org/news/2026-09-lost-ancient-scrolls-eruption-mount.html",
@@ -295,6 +343,20 @@
    "tags": [
     "Novo Testamento",
     "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "1,700-year-old fragment of the 'Odyssey' discovered in Dutch library",
+   "url": "https://www.livescience.com/archaeology/1-700-year-old-fragment-of-the-odyssey-discovered-between-pages-of-dutch-library-book",
+   "summary": "An expert in ancient Greek literature identified a fragment of the \"Odyssey\" among a collection of manuscripts in a Dutch university library.",
+   "date": "2026-09-16",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Línguas antigas"
    ]
   },
   {
