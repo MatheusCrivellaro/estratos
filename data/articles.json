@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T10:30+00:00",
+ "updated": "2026-09-18T15:44+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -129,6 +129,20 @@
  ],
  "articles": [
   {
+   "title": "Snakes and Lizards as Food and Foe",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/snakes-and-lizards-as-food-and-foe/",
+   "summary": "The Bible has a complicated relationship with snakes and lizards. The serpent tempts Eve in Genesis 3. Fiery serpents afflict the Israelites in Numbers 21.",
+   "date": "2026-09-18",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Israel antigo"
+   ]
+  },
+  {
    "title": "Massive mikveh moved intact from Kiryat Gat",
    "url": "http://paleojudaica.blogspot.com/2026/09/massive-mikveh-moved-intact-from-kiryat.html",
    "summary": "ANCIENT ARCHITECTURE RELOCATED: Discovery of Mikveh Reveals Unknown Ancient Jewish Settlement in Southern Israel (Ruth Schuster, Haaretz).There you are, all set to build a new neighborhood in southern Israel, but a 2,000-year-old ritual bath gets in the way. You don't want to damage a precious artifact, but you do want to expand the gritty city of Kiryat Gat. What to do? Dig the mivkeh up and",
@@ -138,6 +152,21 @@
    "kind": "blog",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Jewish Pilgrimage in Second Temple Jerusalem",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/jewish-pilgrimage-second-temple-jerusalem/",
+   "summary": "The biblical command to appear before God on the three major festivals every year (Deuteronomy 16:16) meant that Jerusalem received thousands of pilgrims at Passover",
+   "date": "2026-09-18",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo"
+   ]
   },
   {
    "title": "Grape-stomping archaeology",
@@ -151,6 +180,22 @@
    "tags": [
     "Judaísmo do Segundo Templo",
     "Israel antigo"
+   ]
+  },
+  {
+   "title": "Five More Likely Copies of Printed Editions in the Liste",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/09/five-more-likely-copies-of-printed.html",
+   "summary": "I’ve recently been doing some work on the ending of Romans that necessitated re-examining the data from the Teststellen in Romans. In doing so, I’ve identified five additional manuscripts that most likely derive, in whole or in part, from an early printed edition of the Greek New Testament, but that I had missed in my previous survey. Each of them has the doxology as found in Erasmus, with the Byzantine verse 24 followed by 16:25–27. While this is (apart from the presence of verse 24) the placement found in the earliest manuscripts, these manuscripts contain no other early non-majority text readings, making it very unlikely that their doxology placement is the result of influence from…",
+   "date": "2026-09-18",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Paulo e as epístolas",
+    "Crítica textual",
+    "Escavações"
    ]
   },
   {
@@ -909,10 +954,9 @@
   },
   {
    "title_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-   "summary_pt": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
    "title": "FOA Webinar Panel: 𝑇ℎ𝑒 𝑂𝑑𝑦𝑠𝑠𝑒𝑦",
    "url": "https://www.asor.org/news/2026/09/webinar-odyssey?utm_source=rss&utm_medium=rss&utm_campaign=foa-webinar-panel-the-odyssey",
-   "summary": "FRIENDS OF ASOR WEBINARS Digging into The Odyssey: An Epic Reimagined or a Misinterpretation of Epic Proportions? Friends of ASOR present the first webinar of the 2026-2027 season on September",
+   "summary": "FRIENDS OF ASOR WEBINARS Digging into The Odyssey: An Epic Reimagined or a Misinterpretation of Epic Proportions? Friends of ASOR presents the first webinar of the 2026-2027 season on September",
    "date": "2026-09-11",
    "source": "ASOR",
    "category": "arqueologia",
