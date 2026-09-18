@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T20:56+00:00",
+ "updated": "2026-09-18T02:48+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -24,7 +24,6 @@
   "Bulletin for Biblical Research",
   "COMMUNIO VIATORUM",
   "Canon&Culture",
-  "Christianity in the Middle East",
   "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Currents in Biblical Research",
   "Dead Sea Discoveries",
@@ -37,6 +36,7 @@
   "Gnosis",
   "Heródoto: Revista do Grupo de Estudos e Pesquisas sobre a Antiguidade Clássica e suas Conexões Afro-asiáticas",
   "Hyperboreus",
+  "Infectious Diseases Now",
   "International Islamic Sciences Journal",
   "International Journal For Multidisciplinary Research",
   "International Journal of African Innovation and Multidisciplinary Research",
@@ -101,6 +101,7 @@
   "Studia Biblica Slovaca",
   "Studia Universitatis Babeș-Bolyai Sacra Scripta",
   "Studia theologica",
+  "Studies in World Christianity",
   "TELEIOS: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Tel Aviv",
   "Text & Canon Institute",
@@ -127,6 +128,17 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "An Echo Across the Room: Re-encountering Body Language",
+   "url": "https://www.ancientjewreview.com/read/2026/9/17/an-echo-across-the-room-re-encountering-body-language",
+   "summary": "These reviews have shown me not only what I was looking at when writing Body Language, but where I was standing when I looked.",
+   "date": "2026-09-18",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "The Epic of Gilgamesh",
    "url": "https://www.biblicalarchaeology.org/daily/the-epic-of-gilgamesh/",
@@ -1831,6 +1843,20 @@
    "peer": false,
    "tags": [
     "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Meningeal inflammation (Serpens endocrania) and intrathoracic chronic disease in 1st century A.D. Roman Palestine (Qumran): From paleopathology to clinical practice",
+   "url": "https://doi.org/10.1016/j.idnow.2026.105352",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Infectious Diseases Now",
+   "authors": "Emma Conlon, Philippe Charlier, Isabelle Huynh",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Manuscritos do Mar Morto"
    ]
   },
   {
@@ -3833,6 +3859,19 @@
    ]
   },
   {
+   "title_pt": "Matéria inicial",
+   "title": "Front matter",
+   "url": "https://doi.org/10.3366/swc.2026.0549",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Studies in World Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -5034,19 +5073,6 @@
    "tags": [
     "Interpretação e teologia"
    ]
-  },
-  {
-   "title_pt": "Matéria inicial",
-   "title": "Frontmatter",
-   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
@@ -6647,40 +6673,6 @@
    "kind": "periodico",
    "peer": true,
    "tags": []
-  },
-  {
-   "title_pt": "A atitude das autoridades religiosas muçulmanas em relação à marcação de espaços sagrados cristãos no antigo Egito otomano",
-   "summary_pt": "O artigo é dedicado à atitude dos teólogos muçulmanos no início do Egito otomano (séculos XVI-XVII) em relação às manifestações visíveis e audíveis do cristianismo e ao seu espaço sagrado sob o domínio islâmico. O estudo diz respeito às manifestações visuais, como velas, cruzes, ramos de palmeiras e outros objetos simbólicos em igrejas ou festas e procissões religiosas. Também trata de símbolos auditivos, como cantos, som de badalos de madeira e toque de sinos de igreja, demarcando o tempo e o espaço sagrado cristão. É dada especial atenção à atitude de al-Shaʻrānī (falecido em 1565), um dos maiores líderes sufis e autoridades religiosas do período, porque as suas obras contêm profundas…",
-   "title": "The Attitude of Muslim Religious Authorities towards Marking Christian Sacred Spaces in Early Ottoman Egypt",
-   "url": "https://doi.org/10.65324/cme016",
-   "summary": "The article is dedicated to the attitude of Muslim theologians in early Ottoman Egypt (16–17th centuries) towards visible and audible manifestations of Christianity and its sacred space under Islamic rule. The study concerns visual manifestations, such as candles, crosses, palm branches and other symbolic objects in churches or religious festivals and processions. It also deals with auditory symbols, like chanting, sound of wooden clappers, and the ringing of church bells, demarcating Christian sacral time and space. Special attention is paid to the attitude of al-Shaʻrānī (d. 1565), one of the biggest Sufi leaders and religious authorities of the period, because his works contain deep…",
-   "date": "2026-03-21",
-   "source": "Christianity in the Middle East",
-   "authors": "Vladimir Rozov",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Egito e Mesopotâmia",
-    "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "Aborda o antigo e o novo na crítica textual do Novo Testamento do século XXI",
-   "summary_pt": "A crítica textual do Novo Testamento no século XXI continua a refinar princípios e abordagens que têm feito parte desta disciplina acadêmica desde o desenvolvimento da era moderna da crítica textual. Ao mesmo tempo, embora a crítica textual do Novo Testamento permaneça ligada às suas raízes na busca pela (re)construção de um texto crítico do Novo Testamento, abordagens mais recentes expandiram o conjunto de questões colocadas pelos críticos textuais para incluir muito mais do que simplesmente as palavras de um texto do Novo Testamento. Em todos estes desenvolvimentos, há tanto “Velho” no “Novo” como “Novo” no “Antigo”, resultando na crítica textual do Novo Testamento no século XXI…",
-   "title": "Approaches Old and New in Twenty-First Century New Testament Textual Criticism",
-   "url": "https://doi.org/10.3390/rel17030400",
-   "summary": "New Testament textual criticism in the twenty-first century continues to refine principles and approaches that have been part of this scholarly discipline since the development of the modern era of textual criticism. At the same time, even as New Testament textual criticism remains connected to its roots in pursuing the (re)construction of a critical text of the New Testament, more recent approaches have expanded the set of questions being asked by textual critics to include far more than simply the words of a New Testament text. In all of these developments, there is both “Old” in the “New” and “New” in the “Old,” resulting in New Testament textual criticism in the twenty-first century…",
-   "date": "2026-03-21",
-   "source": "Religions",
-   "authors": "Dieter T. Roth",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Crítica textual"
-   ]
   }
  ]
 }
