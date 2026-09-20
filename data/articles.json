@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T20:01+00:00",
+ "updated": "2026-09-20T03:00+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -46,7 +46,6 @@
   "International Journal of Science and Research Archive",
   "International Journal of Systematic Theology",
   "Iranian Studies",
-  "Israel Affairs",
   "Ivy Enber Scientific Journal",
   "JURNAL ILUMINASI",
   "JURNALISTRENDI : JURNAL LINGUISTIK, SASTRA, DAN PENDIDIKAN",
@@ -6790,38 +6789,6 @@
     "Novo Testamento",
     "Línguas antigas"
    ]
-  },
-  {
-   "title_pt": "A esposa de Simão Pedro dentro (e fora) dos primeiros escritos cristãos",
-   "summary_pt": "Como é retratada a esposa do apóstolo Pedro nos primeiros escritos cristãos? No primeiro século EC, textos como 1 Coríntios e os Evangelhos Sinópticos aparentemente tomam como certo que Pedro era casado, mas não mencionam explicitamente a sua esposa. No entanto, entre os séculos II e IV, vemos uma variedade de representações, desde a anedota de Clemente de Alexandria sobre o seu martírio até à sugestão de Jerónimo de que Pedro abandonou o ofício do casamento depois de seguir Jesus. Demonstro que estas opiniões são muitas vezes moldadas por controvérsias teológicas como o Encratismo ou o Jovinianismo, com a idealização do celibato influenciando significativamente a representação da esposa de Pedro no final do século IV.",
-   "title": "Simon Peter’s Wife in (and out of) Early Christian Writings",
-   "url": "https://doi.org/10.1177/0142064x261421251",
-   "summary": "How is the apostle Peter’s wife portrayed in early Christian writings? Within the first century CE, texts like 1 Corinthians and the Synoptic Gospels seemingly take for granted that Peter was married, but do not explicitly mention his wife. In the second to fourth centuries, however, we see a variety of depictions, from Clement of Alexandria’s anecdote concerning her martyrdom to Jerome’s suggestion that Peter forsook the office of marriage after following Jesus. I demonstrate that these views are often shaped by theological controversies such as Encratism or Jovinianism, with the idealisation of celibacy significantly influencing the portrayal of Peter’s wife by the late fourth century.",
-   "date": "2026-03-23",
-   "source": "Journal for the Study of the New Testament",
-   "authors": "Noel Cheong",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Jesus histórico",
-    "Paulo e as epístolas",
-    "Cristianismo primitivo"
-   ]
-  },
-  {
-   "title_pt": "Nacionalismo e políticas militares numa era de riscos crescentes – uma análise comparativa do Japão e de Israel",
-   "title": "Nationalism and military policies in an age of increasing risks – a comparative analysis of Japan and Israel",
-   "url": "https://doi.org/10.1080/13537121.2026.2635529",
-   "summary": "",
-   "date": "2026-03-23",
-   "source": "Israel Affairs",
-   "authors": "Eyal Lahav, Shosh Shahrabani, Mosi Rosenboim",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   }
  ]
 }
