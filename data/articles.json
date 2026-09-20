@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T03:00+00:00",
+ "updated": "2026-09-20T10:33+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -127,6 +127,37 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Venturini, A Syriac Patristic Florilegium against Julian of Halicarnassus (Brill, open access)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/venturini-syriac-patristic-florilegium.html",
+   "summary": "NEW BOOK FROM BRILL:A Syriac Patristic Florilegium against Julian of Halicarnassus Critical Edition, Translation, and Study Series: Eastern Christian Texts, Volume: 3 Author: Guido Venturini How is a florilegium constructed, and why does this peculiar type of literary work deserve to be studied? The huge anti-Julianist florilegium preserved in the Catenae Patrum of the British",
+   "date": "2026-09-20",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Cristianismo primitivo",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Important Questions About Jesus, Paul, and the Gospels",
+   "url": "https://ehrmanblog.org/important-questions-about-jesus-paul-and-the-gospels/",
+   "summary": "I continue to receive significant questions from readers on key issues connected with the study of the New Testament. Here are three of them with my responses: QUESTION: Wouldn’t you agree that Jesus’ teaching is deeply rooted in Israel’s prophetic tradition, where judgment and restoration regularly unfold in stages rather than as a single,",
+   "date": "2026-09-20",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Novo Testamento",
+    "Jesus histórico",
+    "Paulo e as epístolas"
+   ]
+  },
   {
    "title": "Health, Wealth, and the Prosperity Gospel",
    "url": "https://ehrmanblog.org/health-wealth-and-the-prosperity-gospel/",
@@ -4007,19 +4038,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Front matter",
-   "url": "https://doi.org/10.3366/swc.2026.0549",
-   "summary": "",
-   "date": "2026-07-01",
-   "source": "Studies in World Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -4082,6 +4100,18 @@
     "Interpretação e teologia",
     "Livros e eventos"
    ]
+  },
+  {
+   "title": "Back matter",
+   "url": "https://doi.org/10.3366/swc.2026.0561",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Studies in World Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Artefato em foco: o prisma de Taylor",
@@ -5221,6 +5251,19 @@
    "tags": [
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Matéria inicial",
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
