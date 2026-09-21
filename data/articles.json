@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T11:51+00:00",
+ "updated": "2026-09-21T17:48+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -138,6 +138,17 @@
    "tags": []
   },
   {
+   "title": "Understanding the Jewish Calendar",
+   "url": "https://www.biblicalarchaeology.org/daily/understanding-the-jewish-calendar/",
+   "summary": "Ever wondered why the days for holidays like Hanukkah and Passover seem to shift around from year to year? The simple answer is that these",
+   "date": "2026-09-21",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "The Origins of God’s Personal Name and of the Feast of Passover",
    "url": "https://ehrmanblog.org/the-origins-of-gods-personal-name-and-of-the-feast-of-passover/",
    "summary": "In the current thread (threading in and out of other posts on other things) I have been discussing some of the most interesting features of the Hebrew Bible by (re-)presenting side boxes found in my book The Bible: A Historical and Literary Introduction, 2nd ed. (Oxford University Press). I continue the thread here with discussions",
@@ -179,6 +190,19 @@
    ]
   },
   {
+   "title": "Does Tutankhamen's tomb hold his stepmother Queen Nefertiti's remains? New study offers tantalizing clues",
+   "url": "https://phys.org/news/2026-09-tutankhamen-tomb-stepmother-queen-nefertiti.html",
+   "summary": "When Tutankhamun's tomb was discovered over a century ago, it became an immediate worldwide sensation, revealing a wealth of treasures from ancient Egypt. In the decades that followed, the tomb was meticulously cleared, cataloged and studied, leading many to believe that KV 62, as it is officially known, had given up all its secrets. Yet long after its opening, the boy king's final resting place may still hold mysteries.",
+   "date": "2026-09-21",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
    "title": "Complaints about West Bank police action",
    "url": "http://paleojudaica.blogspot.com/2026/09/complaints-about-west-bank-police-action.html",
    "summary": "ALLEGATIONS: Police Officer Tied to Illegal West Bank Antiquities Thefts Also Visited Area B Cave. Meir Rotter, head of the police's ultra-Orthodox unit, entered a cave in a Palestinian Authority-administered area with soldiers, lacking authorization, months after he was accused of unlawfully seizing an ancient artifact elsewhere in the West Bank (Nir Hasson, Haaretz). Duly noted. There's a",
@@ -205,6 +229,17 @@
    ]
   },
   {
+   "title": "The History of the Tetragrammaton",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/the-history-of-the-tetragrammaton/",
+   "summary": "There is a famous movie scene in which the world’s most notorious archaeologist, Indiana Jones, must pass a series of harrowing trials in order",
+   "date": "2026-09-20",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "Important Questions About Jesus, Paul, and the Gospels",
    "url": "https://ehrmanblog.org/important-questions-about-jesus-paul-and-the-gospels/",
    "summary": "I continue to receive significant questions from readers on key issues connected with the study of the New Testament. Here are three of them with my responses: QUESTION: Wouldn’t you agree that Jesus’ teaching is deeply rooted in Israel’s prophetic tradition, where judgment and restoration regularly unfold in stages rather than as a single,",
@@ -218,6 +253,21 @@
     "Novo Testamento",
     "Jesus histórico",
     "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "The Aleppo Codex",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/the-aleppo-codex/",
+   "summary": "The world’s oldest Hebrew Bible, the Aleppo Codex, is missing pages—and not just a couple leaves, but four of the Five Books of Moses! What happened to them?",
+   "date": "2026-09-19",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Crítica textual",
+    "Línguas antigas"
    ]
   },
   {
@@ -6355,6 +6405,20 @@
    "tags": [
     "Cristianismo primitivo",
     "Escavações"
+   ]
+  },
+  {
+   "title": "Scripture and Secularism in Modern Scandinavia and Beyond",
+   "url": "https://doi.org/10.1163/15685152-20262001",
+   "summary": "The aim of this special issue is to advance research on biblical reception in Scandinavian contexts and to offer new insights into the intricate relationship between religiosity and secularity more broadly. This is done by engaging with theoretical questions concerning religion, secularity, and biblical reception in the modern world. In this introduction, we contextualize the special issue in relation to previous biblical scholarship on the relationship between “the Bible” and “the secular” as well as research on the Scandinavian conditions. In addition to contextualizing the special issue, we introduce its content and contributors. Ultimately, the introduction argues that the Scandinavian…",
+   "date": "2026-04-17",
+   "source": "Biblical Interpretation",
+   "authors": "Hanna Liljefors, Frida Mannerfelt",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Interpretação e teologia"
    ]
   },
   {
