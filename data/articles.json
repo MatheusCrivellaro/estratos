@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T10:55+00:00",
+ "updated": "2026-09-22T16:15+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -69,6 +69,7 @@
   "Levant",
   "Live Science",
   "Logos et Praxis",
+  "MELUS: Multi-Ethnic Literature of the United States",
   "Madang: Journal of Contextual Theology",
   "Mediterranea, International Journal on the Transfer of Knowledge",
   "Modern Believing",
@@ -127,6 +128,19 @@
  ],
  "articles": [
   {
+   "title": "Was Jesus a Jew?",
+   "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/was-jesus-a-jew/",
+   "summary": "Was Jesus a Jew? Some people claim that Jesus was a Christian. Some have claimed that he was an Aryan Christian. But in recent decades scholars have been returning to ancient historical settings and discovering the Jewish Jesus.",
+   "date": "2026-09-22",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
+  },
+  {
    "title": "The Ten (more or less?) Commandments and the Code of Hammurabi",
    "url": "https://ehrmanblog.org/the-ten-more-or-less-commandments-and-the-code-of-hammurabi/",
    "summary": "Here I continue my thread on interesting aspects of the Hebrew Bible not known to most people I meet at a cocktail party. (OK, I never talk about the Hebrew Bible at a cocktail party. But if I did, I’m pretty sure this would never come up.) Everyone knows about the “Ten Commandments.” Even Christians",
@@ -138,6 +152,47 @@
    "tags": [
     "Antigo Testamento",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Tanit's Information Office?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/tanits-information-office.html",
+   "summary": "PUNIC WATCH: Tanit Sanctuary in Ibiza to Get a New Information Office (Diario de Ibiza).Sant Joan has put the construction of a new visitor facility next to the Cova des Culleram out to tender, including an information point, storage area, covered porch and toilets. ... The Cova des Culleram is a natural cave formed in limestone rock where numerous archaeological remains were discovered,",
+   "date": "2026-09-22",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Spectral Worldmaking: Black Feminist Haunting in Pauline Hopkins’s Of One Blood",
+   "url": "https://doi.org/10.1093/melus/mlag052",
+   "summary": "",
+   "date": "2026-09-22",
+   "source": "MELUS: Multi-Ethnic Literature of the United States",
+   "authors": "Sarah Buckner",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "Prostrating to God, the king, and ... Jesus?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/prostrating-to-god-king-and-jesus.html",
+   "summary": "DR. JAMES F. MCGRATH: Exalting Jesus—Did Early Christians Abandon Monotheism? (TheTorah.com).Paul’s (ca. 5-67 C.E.) portrayal of Jesus as an exalted ruler may seem to challenge Jewish monotheism. Yet the idea of a human king ruling on God’s behalf is already found in the Bible. Reading Paul alongside Jewish traditions of divine kingship shows how his claims about Jesus remain consistent with",
+   "date": "2026-09-22",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Jesus histórico",
+    "Paulo e as epístolas",
+    "Cristianismo primitivo"
    ]
   },
   {
@@ -155,6 +210,47 @@
     "Jesus histórico",
     "Liturgia e cânon",
     "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "Jesus and the Cross",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/jesus-and-the-cross/",
+   "summary": "Most scholars believe that early Christians did not use the cross as an image of their religion. So how did the cross become modern Christianity’s most popular symbol?",
+   "date": "2026-09-22",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Cristianismo primitivo"
+   ]
+  },
+  {
+   "title": "Burning homemade scrolls to help read incinerated Herculaneum papyri",
+   "url": "http://paleojudaica.blogspot.com/2026/09/burning-homemade-scrolls-to-help-read.html",
+   "summary": "EVERYONE NEEDS A HOBBY: A Retired Inventor Burned Homemade Scrolls to Help Read 2,000-Year-Old Texts Buried by Mount Vesuvius. Learn how experiments with homemade scrolls could help reveal lost writing in the Herculaneum library buried by Mount Vesuvius (Anastasia Scott, Discover Magazine).In his home lab, Douglas Seiler put a roll of papyrus that students had written on inside a steel container",
+   "date": "2026-09-22",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "A tiny chariot fitting reveals Egyptian glass reached Iron Age Britain",
+   "url": "https://phys.org/news/2026-09-tiny-chariot-reveals-egyptian-glass.html",
+   "summary": "At the end of last year, curators from the Ashmolean Museum in Oxford came to Diamond to learn more about a 2,000-year-old prehistoric artifact. Using the microfocus beamline at I18, researchers unlocked new insights into Iron Age craft techniques and were able to redetermine the item's date.",
+   "date": "2026-09-22",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Israel antigo",
+    "Egito e Mesopotâmia"
    ]
   },
   {
