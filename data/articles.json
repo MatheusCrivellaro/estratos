@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T03:00+00:00",
+ "updated": "2026-09-22T10:55+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -77,6 +77,7 @@
   "Nouvelle revue théologique",
   "Nova Religio",
   "Novum Testamentum",
+  "Open Journal of Science, Philosophy & Theology (ISSN: 3105-3041)",
   "PaleoJudaica",
   "Perspectiva",
   "Pharos Journal of Theology",
@@ -125,6 +126,37 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "The Ten (more or less?) Commandments and the Code of Hammurabi",
+   "url": "https://ehrmanblog.org/the-ten-more-or-less-commandments-and-the-code-of-hammurabi/",
+   "summary": "Here I continue my thread on interesting aspects of the Hebrew Bible not known to most people I meet at a cocktail party. (OK, I never talk about the Hebrew Bible at a cocktail party. But if I did, I’m pretty sure this would never come up.) Everyone knows about the “Ten Commandments.” Even Christians",
+   "date": "2026-09-22",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Jesus, Mary Magdalene, and the Hidden-Bloodline Myth: A Biblical and Historical Examination of the Rewritten Gospel",
+   "url": "https://doi.org/10.65655/ocp.ojspt.163",
+   "summary": "Claims that Jesus of Nazareth married Mary Magdalene, fathered biological descendants, and left a bloodline later suppressed by ecclesiastical authorities have moved repeatedly from esoteric literature into popular culture and alternative religious teaching. This article evaluates those claims through a hybrid theological-historical design that distinguishes canonical-normative judgment from historical-evidentiary inference. Scripture functions as the controlling theological norm, while historical claims are independently tested by provenance, chronology, textual context, semantic range, source independence, corroboration, and explanatory power. A PRISMA 2020-informed, PRISMA-S-guided…",
+   "date": "2026-09-22",
+   "source": "Open Journal of Science, Philosophy & Theology (ISSN: 3105-3041)",
+   "authors": "Sixbert SANGWA",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico",
+    "Liturgia e cânon",
+    "Interpretação e teologia"
+   ]
+  },
   {
    "title": "Yom Kippur 2026",
    "url": "http://paleojudaica.blogspot.com/2026/09/yom-kippur-2026.html",
