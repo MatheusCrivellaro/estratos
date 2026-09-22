@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T21:43+00:00",
+ "updated": "2026-09-22T03:00+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -27,7 +27,6 @@
   "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Currents in Biblical Research",
   "Dead Sea Discoveries",
-  "Digital Scholarship in the Humanities",
   "European Judaism",
   "Evangelical Textual Criticism",
   "FRONTIERS OF LAW JOURNAL",
@@ -6936,24 +6935,6 @@
     "Israel antigo",
     "Línguas antigas",
     "Liturgia e cânon"
-   ]
-  },
-  {
-   "title_pt": "Crítica textual computacional comparativa do Evangelho de Marcos e o paradigma dos agrupamentos textuais",
-   "summary_pt": "Na crítica textual do Novo Testamento, o paradigma dos agrupamentos textuais tornou-se um assunto controverso. Dentro deste paradigma, a prática tradicional de classificar testemunhas textuais (incluindo manuscritos, traduções e pais da igreja que citaram o texto) em famílias e grupos maiores facilita a tarefa de pesar o seu apoio a leituras variantes concorrentes. Mas recentemente, os críticos textuais levantaram objecções a este paradigma. Um ponto de discórdia em particular tem sido a quantidade de acordo e desacordo entre testemunhas para definir um grupo e distinguir entre grupos. Para investigar o assunto, aplicamos cinco abordagens digitais a um subconjunto da Edição…",
-   "title": "Comparative computational textual criticism of the Gospel of Mark and the paradigm of textual clusters",
-   "url": "https://doi.org/10.1093/llc/fqag031",
-   "summary": "In New Testament textual criticism, the paradigm of textual clusters has become a controversial subject. Within this paradigm, the traditional practice of classifying textual witnesses (including manuscripts, translations, and church fathers who quoted the text) into families and larger groups facilitates the task of weighing their support for competing variant readings. But recently, textual critics have raised objections to this paradigm. One point of contention in particular has been how much agreement and disagreement between witnesses is required to define a group and distinguish between groups. To investigate the matter, we apply five digital approaches to a subset of the Editio…",
-   "date": "2026-03-25",
-   "source": "Digital Scholarship in the Humanities",
-   "authors": "Pasi Hyytiäinen, Joey McCollum, Timothy J Finney",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Crítica textual",
-    "Cristianismo primitivo"
    ]
   }
  ]
