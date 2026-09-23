@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T10:47+00:00",
+ "updated": "2026-09-23T16:06+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -128,6 +128,21 @@
  ],
  "articles": [
   {
+   "title": "The Galilee and the Last Great Jewish Revolt",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/galilee-last-great-jewish-revolt/",
+   "summary": "Excavations in an underground complex at the site of Huqoq in the Galilee revealed a surprising find: a bronze coin hoard dating to the Gallus",
+   "date": "2026-09-23",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Epigrafia e inscrições",
+    "Escavações"
+   ]
+  },
+  {
    "title": "Samaritan Yom Kippur and Sukkot",
    "url": "http://paleojudaica.blogspot.com/2026/09/samaritan-yom-kippur-and-sukkot.html",
    "summary": "SAMARITAN WATCH: Ancient faith, modern lives: Samaritans prepare for Yom Kippur and Sukkot. From fruit-laden sukkot to a digital prayer book app, a community divided between Holon in central Israel and Mount Gerizim in Samaria combines ancient Israelite traditions with modern Israeli life (Tania Shalom Michaelian, Jewish News Syndicate).(Sept. 22, 2026 / JNS) While most Israelis begin building",
@@ -139,6 +154,20 @@
    "tags": [
     "Israel antigo",
     "Liturgia e cânon"
+   ]
+  },
+  {
+   "title": "Mind the Gap!",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/dead-sea-scrolls/mind-gap/",
+   "summary": "If one were to open a modern printed edition of the Hebrew Bible to a random page, one would encounter a complex layering of information.",
+   "date": "2026-09-23",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
    ]
   },
   {
@@ -164,6 +193,20 @@
    "kind": "blog",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "3,000-year-old burial of ancient Egyptian horse found — and a nearby stone carving depicts a captured prisoner",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/3-000-year-old-burial-of-ancient-egyptian-horse-found-and-a-nearby-stone-carving-depicts-a-captured-prisoner",
+   "summary": "Archaeologists unearthed a horse burial dating back more than three millennia in an ancient Egyptian fortress.",
+   "date": "2026-09-23",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Escavações",
+    "Egito e Mesopotâmia"
+   ]
   },
   {
    "title": "Was Jesus a Jew?",
