@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T02:52+00:00",
+ "updated": "2026-09-24T11:07+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -127,6 +127,17 @@
  ],
  "articles": [
   {
+   "title": "Do You Really Mean That? Consciousness and Socialism",
+   "url": "https://ehrmanblog.org/do-you-really-mean-that-consciousness-and-socialism/",
+   "summary": "I’m not a professional linguist, but it does seem to me that language tends to get more casual, sloppy, and imprecise over time, that words that once had a very specific meaning often become more generalized and widely applied to things that are similar but not actually the same. On one level that’s probably fine",
+   "date": "2026-09-24",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "Who Conquered Samaria? Reconstructing the Northern Kingdom’s Final Years",
    "url": "https://bibleinterp.arizona.edu/articles/who-conquered-samaria-reconstructing-northern-kingdoms-final-years",
    "summary": "Who Conquered Samaria? Reconstructing the Northern Kingdom’s Final Years melliott1 Wed, 09/23/2026 - 09:39 The final years of the northern kingdom of Israel have long been debated, especially the date of Samaria’s fall and the identity of its conqueror. Related questions concern Shalmaneser V’s siege of Samaria, Hoshea’s imprisonment, the extent of the city’s destruction, Sargon II’s claims regarding its conquest, and the regnal synchronisms in Kings. A reevaluation of the relevant biblical and Assyrian evidence supports the argument that Shalmaneser V captured Samaria in 723 BCE after a three-year siege and that Sargon II’s later claims reflect his suppression of a renewed western revolt…",
@@ -157,6 +168,22 @@
    ]
   },
   {
+   "title": "The Chronicler as a Proto-nationalist",
+   "url": "https://doi.org/10.1163/15700631-bja10127",
+   "summary": "This article argues that Chronicles responds to the loss of Israelite sovereignty by reimagining how a people can exist without a state. It reads the Chronicler’s project as a form of proto-nationalism—not nationalism in the modern political sense, but the construction of enduring peoplehood through shared ancestry, memory, homeland, institutions, and boundaries. Genealogies map Israel across time and territory, Jerusalem and its temple provide a center for a dispersed people, Davidic traditions preserve the memory of sovereignty without demanding its restoration, and the rhetoric of “All Israel” imagines a community extending beyond the political boundaries of Yehud. These religious,…",
+   "date": "2026-09-23",
+   "source": "Journal for the Study of Judaism",
+   "authors": "Eran Gluska",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Jerusalém",
+    "Antigo Testamento",
+    "Israel antigo"
+   ]
+  },
+  {
    "title": "Samaritan Yom Kippur and Sukkot",
    "url": "http://paleojudaica.blogspot.com/2026/09/samaritan-yom-kippur-and-sukkot.html",
    "summary": "SAMARITAN WATCH: Ancient faith, modern lives: Samaritans prepare for Yom Kippur and Sukkot. From fruit-laden sukkot to a digital prayer book app, a community divided between Holon in central Israel and Mount Gerizim in Samaria combines ancient Israelite traditions with modern Israeli life (Tania Shalom Michaelian, Jewish News Syndicate).(Sept. 22, 2026 / JNS) While most Israelis begin building",
@@ -182,6 +209,21 @@
    "tags": [
     "Antigo Testamento",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Ezra, Esther, and Daniel",
+   "url": "https://doi.org/10.30965/21967954-bja10097",
+   "summary": "This article focuses on the texts of Ezra-Nehemiah, Esther, and Daniel. One notable commonality between them is prophecy’s virtual absence. This is curious in light of prophecy’s utility, specifically, as an epistemological tool to convey knowledge about the Deity and the Deity’s will. How did these three texts deal with the epistemological vacuum left in prophecy’s absence? Certain common beliefs and practices emerge in these texts regarding means of determining the divine will: first, a belief in Torah and its pedagogues to guide the people toward right action and therefore away from punishment; second, a belief in individual prayer as the way to interact directly with God and possibly…",
+   "date": "2026-09-23",
+   "source": "Journal of Ancient Judaism",
+   "authors": "Rachel Slutsky",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Liturgia e cânon"
    ]
   },
   {
