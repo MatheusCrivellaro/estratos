@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T11:07+00:00",
+ "updated": "2026-09-24T16:31+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -30,6 +30,7 @@
   "Evangelical Textual Criticism",
   "FRONTIERS OF LAW JOURNAL",
   "Filozoficzne Aspekty Genezy",
+  "Folia Orientalia",
   "Frontiers in Environmental Archaeology",
   "Gnosis",
   "Heródoto: Revista do Grupo de Estudos e Pesquisas sobre a Antiguidade Clássica e suas Conexões Afro-asiáticas",
@@ -127,6 +128,70 @@
  ],
  "articles": [
   {
+   "title": "When Was Jesus Born—B.C. or A.D.?",
+   "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/when-was-jesus-born-bc-or-ad/",
+   "summary": "In which year was Jesus born? While this is sometimes debated, the majority of New Testament scholars place Jesus’ birth in 4 B.C. or before.",
+   "date": "2026-09-24",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Understanding the Jewish Calendar",
+   "url": "http://paleojudaica.blogspot.com/2026/09/understanding-jewish-calendar.html",
+   "summary": "BIBLE HISTORY DAILY: Understanding the Jewish Calendar. Why Jewish holidays shift each year (Nathan Steinmeyer). This is a useful overview for reference during this calendar-heavy time in the Jewish year. For a brief overview of the ancient Jewish calendar(s) (in the context of the Antikythera mechanism), see here. For lots more on the ancient Jewish solar calendar, see here and links.",
+   "date": "2026-09-24",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Temple-pilgrimage ritual baths excavated at the Ophel",
+   "url": "http://paleojudaica.blogspot.com/2026/09/temple-pilgrimage-ritual-baths.html",
+   "summary": "TEMPLE MOUNT WATCH: Monumental Ancient Ritual Baths Unearthed at Foot of Temple Mount in Jerusalem. Pilgrims flocking to ancient Jerusalem for the holidays in the Second Temple period may have not only purified but had opportunity to clean up before ascending to the holy site (Ruth Schuster, Haaretz).Now archaeologists have revealed a previously unknown complex in the Ophel, the slope descending",
+   "date": "2026-09-24",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Judaísmo do Segundo Templo",
+    "Escavações"
+   ]
+  },
+  {
+   "title": "On manuscripts of the Alexander Romance",
+   "url": "http://paleojudaica.blogspot.com/2026/09/on-manuscripts-of-alexander-romance.html",
+   "summary": "VARIANT READINGS: Manuscripts of the Alexander Romance (Brent Nongbri).The Alexander Romance (or The Life of Alexander of Macedon or the Life and Acts of Alexander, or The History of Alexander the Great, King of the Macedonians…) survives in hundreds of manuscript copies in several languages. The Romance has also sometimes been classified as an “open text,” a fluid cluster of narratives that are",
+   "date": "2026-09-24",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "First Person: Human Sacrifice to an Ammonite God?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/first-person-human-sacrifice-to-an-ammonite-god/",
+   "summary": "Were sons and daughters sacrificed in ancient times? Is there any archaeological evidence?",
+   "date": "2026-09-24",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "Do You Really Mean That? Consciousness and Socialism",
    "url": "https://ehrmanblog.org/do-you-really-mean-that-consciousness-and-socialism/",
    "summary": "I’m not a professional linguist, but it does seem to me that language tends to get more casual, sloppy, and imprecise over time, that words that once had a very specific meaning often become more generalized and widely applied to things that are similar but not actually the same. On one level that’s probably fine",
@@ -212,6 +277,17 @@
    ]
   },
   {
+   "title": "Fieldwork Report: Sydney Pickens",
+   "url": "https://www.asor.org/news/2026/09/fieldwork-report-pickens?utm_source=rss&utm_medium=rss&utm_campaign=fieldwork-report-sydney-pickens",
+   "summary": "A Day in the Life at Çadır Höyük Sydney A. Pickens, 2026 Strange/Midkiff Families Scholarship Recipient I spent the month of July in Türkiye as a member of the Çadır",
+   "date": "2026-09-23",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "Ezra, Esther, and Daniel",
    "url": "https://doi.org/10.30965/21967954-bja10097",
    "summary": "This article focuses on the texts of Ezra-Nehemiah, Esther, and Daniel. One notable commonality between them is prophecy’s virtual absence. This is curious in light of prophecy’s utility, specifically, as an epistemological tool to convey knowledge about the Deity and the Deity’s will. How did these three texts deal with the epistemological vacuum left in prophecy’s absence? Certain common beliefs and practices emerge in these texts regarding means of determining the divine will: first, a belief in Torah and its pedagogues to guide the people toward right action and therefore away from punishment; second, a belief in individual prayer as the way to interact directly with God and possibly…",
@@ -249,6 +325,23 @@
    "kind": "blog",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Alma Brodersen, The End of the Psalter. Psalms 146–150 in the Masoretic Text, the Dead Sea Scrolls, and the Septuagint (Beihefte zur Zeitschrift fürdie alttestamentliche Wissenschaft 505; Berlin: De Gruyter 2017). ISBN 978-3-11-053476-4",
+   "url": "https://doi.org/10.24425/for.2018.124696",
+   "summary": "",
+   "date": "2026-09-23",
+   "source": "Folia Orientalia",
+   "authors": "Wilfred G.E. Watson",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Manuscritos do Mar Morto",
+    "Antigo Testamento",
+    "Crítica textual",
+    "Septuaginta"
+   ]
   },
   {
    "title": "30th Anniversary Birmingham Colloquium!",
@@ -455,17 +548,6 @@
    "source": "PaleoJudaica",
    "category": "manuscritos",
    "kind": "blog",
-   "peer": false,
-   "tags": []
-  },
-  {
-   "title": "Understanding the Jewish Calendar",
-   "url": "https://www.biblicalarchaeology.org/daily/understanding-the-jewish-calendar/",
-   "summary": "Ever wondered why the days for holidays like Hanukkah and Passover seem to shift around from year to year? The simple answer is that these",
-   "date": "2026-09-21",
-   "source": "Biblical Archaeology Society",
-   "category": "arqueologia",
-   "kind": "revista",
    "peer": false,
    "tags": []
   },
