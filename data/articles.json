@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T16:31+00:00",
+ "updated": "2026-09-24T21:13+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -79,6 +79,7 @@
   "Nova Religio",
   "Novum Testamentum",
   "Open Journal of Science, Philosophy & Theology (ISSN: 3105-3041)",
+  "PLOS One",
   "PaleoJudaica",
   "Perspectiva",
   "Pharos Journal of Theology",
@@ -168,6 +169,32 @@
    ]
   },
   {
+   "title": "Seasonal and multi-functional use of industrial space at Iron Age Tel Shiqmona, Israel",
+   "url": "https://doi.org/10.1371/journal.pone.0355104",
+   "summary": "Iron Age industrial complexes in the Southern Levant are frequently perceived as static, mono-functional spaces. This study challenges such perceptions by reconstructing the dynamic life history of the 8 th -century BCE level of the industrial compound at Tel Shiqmona, the largest known Iron Age purple-dye factory in the Mediterranean and a state-controlled economic asset of the Kingdom of Israel. We conducted a high-resolution investigation of the site’s industrial complexity using micro-geoarchaeological methods, including FTIR spectroscopy, sediment micromorphology, and quantification of micro-remains. The results demonstrate that these spaces were used for a diverse, non-simultaneous…",
+   "date": "2026-09-24",
+   "source": "PLOS One",
+   "authors": "Isaac Ogloblin Ramirez, Golan Shalvi, Sonia Pinsky",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Escavações",
+    "Israel antigo"
+   ]
+  },
+  {
+   "title": "S9E7 The man who wouldn’t play Henry VIII’s game",
+   "url": "https://tyndalehouse.com/2026/09/24/s9e7-the-man-who-wouldnt-play-henry-viiis-game/",
+   "summary": "William Tyndale looms so large over the early English Reformation that it’s easy to mistake him for a typical figure of the movement. In fact, he was one of its most distinctive and uncompromising voices. In this episode, Dr Tony Watkins, our Fellow for Public Engagement, speaks with Alec Ryrie, Professor of the History of ...",
+   "date": "2026-09-24",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "On manuscripts of the Alexander Romance",
    "url": "http://paleojudaica.blogspot.com/2026/09/on-manuscripts-of-alexander-romance.html",
    "summary": "VARIANT READINGS: Manuscripts of the Alexander Romance (Brent Nongbri).The Alexander Romance (or The Life of Alexander of Macedon or the Life and Acts of Alexander, or The History of Alexander the Great, King of the Macedonians…) survives in hundreds of manuscript copies in several languages. The Romance has also sometimes been classified as an “open text,” a fluid cluster of narratives that are",
@@ -178,6 +205,20 @@
    "peer": false,
    "tags": [
     "Crítica textual"
+   ]
+  },
+  {
+   "title": "Monumental baths reveal where pilgrims may have purified themselves before entering Jerusalem's Temple",
+   "url": "https://phys.org/news/2026-09-monumental-reveal-pilgrims-purified-jerusalem.html",
+   "summary": "A monumental complex of ritual baths, most likely used by Jewish pilgrims visiting the Temple in Jerusalem, has been uncovered at the foot of the Temple Mount. Dating to the late Second Temple period (first century BCE–70 CE), the exceptionally well-preserved complex includes three large ritual baths (mikva'ot), a monumental plastered pool, a paved plaza and an extensive water system.",
+   "date": "2026-09-24",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Judaísmo do Segundo Templo"
    ]
   },
   {
