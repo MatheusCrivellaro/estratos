@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T21:08+00:00",
+ "updated": "2026-09-24T02:52+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -12,7 +12,6 @@
   "Arte & Ensaios",
   "Asian Theatre Journal",
   "Athens Journal of History",
-  "Athens Journal of Mediterranean Studies",
   "Australian Energy Producers Journal",
   "Babcock University Journal of History and International Studies (BUJOHIS)",
   "Bible & Interpretation",
@@ -208,6 +207,20 @@
    "kind": "blog",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "30th Anniversary Birmingham Colloquium!",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/09/30th-anniversary-birmingham-colloquium.html",
+   "summary": "Hugh Houghton has announced the call-for-papers for the 15th Birmingham Colloquium which will include a new format. Here is the announcement: The Fifteenth Birmingham Colloquium on the Textual Criticism of the New Testament is scheduled to take place in Birmingham from Tuesday 20th to Friday 23rd April 2027. As this biennial event was first held in 1997, next year marks thirty years of this international gathering. Accordingly, the 2027 Colloquium will offer up to thirty slots of thirty minutes (30x30) for scholars to share new research findings on the transmission and history of the New Testament text. Researchers from postgraduate students to established scholars are invited to submit…",
+   "date": "2026-09-23",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Crítica textual"
+   ]
   },
   {
    "title": "3,000-year-old burial of ancient Egyptian horse found — and a nearby stone carving depicts a captured prisoner",
@@ -812,6 +825,21 @@
    "kind": "noticia",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Translating Proverbs Using Oral Bible Translation, Local Genres, and Performance",
+   "url": "https://doi.org/10.1177/20516770261484845",
+   "summary": "A selection of biblical proverbs is being translated into Altai (Republic of Altai, Russia) using an oral method. The team researched local genres and used a poetic approach to make the translation accessible and natural for the target audience. They examined Altai folk proverbs and the setting and context of Hebrew proverbs before proceeding to translate the selection of biblical proverbs into the Altai language. Focus groups gave responses to the translated proverbs and accompanying contextualised illustrations and compared them to the same proverbs already translated using a written method. The orally translated versions of the proverbs were overwhelmingly chosen as clearer and more…",
+   "date": "2026-09-16",
+   "source": "The Bible Translator",
+   "authors": "Bronwen Cleaver",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
+   ]
   },
   {
    "title": "Sheridan, Sogdian Christians (Brepols)",
@@ -7183,25 +7211,6 @@
    "tags": [
     "Novo Testamento",
     "Judaísmo do Segundo Templo"
-   ]
-  },
-  {
-   "title_pt": "A resiliência do feminino na Bíblia Hebraica",
-   "summary_pt": "Das mulheres na vida cotidiana aos líderes de clãs e juízes e daí em diante às deusas e sua adoração – este ensaio tenta estudar a posição do feminino na sociedade patriarcal e patrilinear retratada na Bíblia Hebraica. Embora as mulheres fossem subjugadas, desfrutassem de poucos privilégios fora de casa, fossem sistematicamente estupradas e apropriadas nas populações conquistadas durante as guerras santas de Israel, forçadas a relacionamentos incestuosos e sacrificadas para autoproteção por seus patriarcas, a Bíblia Hebraica fornece exemplos de mulheres poderosas como Débora, a única mulher juíza de Israel, que derrotou o exército cananeu, da decapitação do general inimigo Holofernes por Judite e da rainha Ester...",
-   "title": "The Resilience of the Feminine in the Hebrew Bible",
-   "url": "https://doi.org/10.30958/ajms.12-2-3",
-   "summary": "From women in ordinary life to clan leaders and judges and onward to goddesses and their worship---this essay attempts to study the position of the feminine in the patriarchal, patrilinear society depicted in the Hebrew Bible. Though women were subjugated, enjoyed few privileges beyond the home, were systematically raped and appropriated in conquered populations during Israel’s holy wars, forced into incestuous relationships and sacrificed for self-protection by its patriarchs, the Hebrew Bible does provide examples of powerful women like Deborah, the only woman judge of Israel, who defeated the Canaanite army, of Judith’s decapitation of the enemy general Holofernes and of Queen Esther’s…",
-   "date": "2026-03-27",
-   "source": "Athens Journal of Mediterranean Studies",
-   "authors": "Saumitra Chakravarty",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Israel antigo",
-    "Línguas antigas",
-    "Liturgia e cânon"
    ]
   }
  ]
