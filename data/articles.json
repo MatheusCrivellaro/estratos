@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T16:31+00:00",
+ "updated": "2026-09-25T21:12+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -23,6 +23,7 @@
   "Bulletin for Biblical Research",
   "COMMUNIO VIATORUM",
   "Canon&Culture",
+  "Comenius: Acta Facultatis Iuridicae Universitatis Comenianae",
   "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Currents in Biblical Research",
   "Dead Sea Discoveries",
@@ -129,6 +130,21 @@
  ],
  "articles": [
   {
+   "title": "When did making a Sukkah become compulsory?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/when-did-making-sukkah-become-compulsory.html",
+   "summary": "RABBI STEVEN BOB: When Building a Sukkah Became a Commandment (TheTorah.com).Farmers and soldiers built sukkot as temporary shelters, as did pilgrims coming to Jerusalem for the week-long Sukkot festival. The practice of building a sukkah “each on his roof, and in their courtyards,” as described in Nehemiah (8:14–17), likely began in exile, in memory of the pilgrim booths of First Temple times.",
+   "date": "2026-09-25",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Antigo Testamento",
+    "Crítica textual"
+   ]
+  },
+  {
    "title": "The Uprising: The real medieval revolt that inspired Andrew Garfield's new film",
    "url": "https://phys.org/news/2026-09-uprising-real-medieval-revolt-andrew.html",
    "summary": "The Uprising, a medieval drama directed by Paul Greengrass and starring Andrew Garfield, is set to hit theaters this fall. The film draws its inspiration from the Peasants' Revolt of 1381 in England.",
@@ -139,6 +155,31 @@
    "peer": false,
    "tags": [
     "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "Sukkot 2026",
+   "url": "http://paleojudaica.blogspot.com/2026/09/sukkot-2026.html",
+   "summary": "THE SEVEN-DAY FESTIVAL OF SUKKOT (BOOTHS, TABERNACLES) begins tonight at sundown. Best wishes to all those observing it. Last year's Sukkot post is here. See also here and here. For the biblical background to Sukkot, see here and here. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-09-25",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Pyramid-Shaped Tomb Unearthed in Egypt’s Dakhleh Oasis",
+   "url": "https://archaeology.org/news/2026/09/25/pyramid-shaped-tomb-unearthed-in-egypts-dakhleh-oasis/",
+   "summary": "CAIRO, EGYPT—Ahram Online reports that a pyramid-shaped tomb dated to the late third or early",
+   "date": "2026-09-25",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Escavações",
+    "Egito e Mesopotâmia"
    ]
   },
   {
@@ -164,6 +205,34 @@
    "kind": "revista",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Fake and real DSS fragments isolated in the Schøyen Collection?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/fake-and-real-dss-fragments-isolated-in.html",
+   "summary": "TECHNOLOGY WATCH: Authentic Fragments Identified in Schøyen Dead Sea Scroll Collection, Among Many Fraudulent Manuscripts (The Center for the Study of New Testament Manuscripts Press Release).Dead Sea Scroll scholar Årstein Justnes of the University of Agder commented that CSNTM’s findings regarding MS 4612-1 “could have major implications for Dead Sea Scrolls research,” revealing the artifact to",
+   "date": "2026-09-25",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Manuscritos do Mar Morto",
+    "Novo Testamento",
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "Data analytics for the Sifting Project",
+   "url": "http://paleojudaica.blogspot.com/2026/09/data-analytics-for-sifting-project.html",
+   "summary": "THE TEMPLE MOUNT SIFTING PROJECT BLOG: DATA ANALYTICS AND THE DAY OF REMEMBRANCE: RECONSTRUCTING THE TEMPLE MOUNT’S HISTORY.The analytics and research applied to the vast collection of artifacts in our possession allow us to reveal another layer in the story of the most important and sacred site in the history of the Jewish people. Specifically there – at the very place from which they would",
+   "date": "2026-09-25",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém"
+   ]
   },
   {
    "title": "Ancient virus hunters: How we discovered sheeppox DNA hidden in medieval gospels",
@@ -6238,6 +6307,22 @@
    "peer": true,
    "tags": [
     "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Why is the Old Testament (and New Testament) not really a testament?",
+   "url": "https://doi.org/10.46282/afi.2026.1.06",
+   "summary": "The title New (and Old) Testament is commonly used in the English-speaking world to denote the corpus of biblical books that form the key source for the teaching of one of the most widespread religions in the world, Christianity. However, the first part of the book, as the source for the second part, is central to another world religion, Judaism, which is the cornerstone for the emergence and subsequent development of Christian teaching. The issue of terminology for the designation of these books is not relevant for the source religion (Judaism), but is somewhat crucial for the understanding and interpretation of the Scripture in the Christian theology. Just as it is not right to divide…",
+   "date": "2026-05-13",
+   "source": "Comenius: Acta Facultatis Iuridicae Universitatis Comenianae",
+   "authors": "Valéria Terézia Dančiaková",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Novo Testamento",
+    "Interpretação e teologia"
    ]
   },
   {
