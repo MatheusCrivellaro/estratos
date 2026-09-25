@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T11:10+00:00",
+ "updated": "2026-09-25T16:31+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -129,6 +129,32 @@
  ],
  "articles": [
   {
+   "title": "The Uprising: The real medieval revolt that inspired Andrew Garfield's new film",
+   "url": "https://phys.org/news/2026-09-uprising-real-medieval-revolt-andrew.html",
+   "summary": "The Uprising, a medieval drama directed by Paul Greengrass and starring Andrew Garfield, is set to hit theaters this fall. The film draws its inspiration from the Peasants' Revolt of 1381 in England.",
+   "date": "2026-09-25",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "Jerusalem Through the Ages",
+   "url": "https://www.biblicalarchaeology.org/reviews/jerusalem-through-the-ages/",
+   "summary": "Jerusalem Through the Ages: From Its Beginnings to the Crusades By Jodi Magness (New York: Oxford Univ. Press, 2024), x + 614 pp., 157 b/w",
+   "date": "2026-09-25",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém"
+   ]
+  },
+  {
    "title": "Fragment of World’s Oldest Peace Treaty Found",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/fragment-of-worlds-oldest-peace-treaty-found/",
    "summary": "On World Peace Day, the Turkish Ministry of Culture and Tourism announced a spectacular find from the world’s oldest surviving peace treaty. A portion of",
@@ -138,6 +164,19 @@
    "kind": "revista",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Ancient virus hunters: How we discovered sheeppox DNA hidden in medieval gospels",
+   "url": "https://phys.org/news/2026-09-ancient-virus-hunters-sheeppox-dna.html",
+   "summary": "Humans and domesticated animals have lived together for millennia, and this relationship has shaped their destinies in countless ways. Animals offered people food, companionship, traction (pulling plows), clothing and transportation.",
+   "date": "2026-09-25",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Novo Testamento"
+   ]
   },
   {
    "title": "A Blog Dinner in Denver, CO on November 19. Interested?",
@@ -2673,19 +2712,6 @@
    "tags": [
     "Jesus histórico"
    ]
-  },
-  {
-   "title_pt": "Introdução",
-   "title": "Introduction",
-   "url": "https://doi.org/10.3167/ej.2026.590202",
-   "summary": "From 20–22 May 2025, the research project ‘Trials and Transmissions: Mapping the Legacy of the German Refugee Rabbinate’ of LMU München and the Jüdisches Museum Franken in Fürth invited a group of experts to a workshop to gain a larger global and comparative perspective on the cultural transfers, the discussions, constructions, deconstructions and uses of their ‘Jewish heritage’ by refugee rabbis who had left Germany during the Nazi period and beyond. The event was generously supported by the Hanns-Seidel-Stiftung in Munich, the Münchner Universitätsgesellschaft , the Bavarian-American Academy and the Wissenschaftliche Arbeitsgemeinschaft der Leo-Baeck-Institute in Deutschland and was…",
-   "date": "2026-09-01",
-   "source": "European Judaism",
-   "authors": "Cornelia Wilhelm",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "Como o Dr. Rabino Bradley Shavit Artson mudou de ideia?",
@@ -5825,6 +5851,19 @@
     "Novo Testamento",
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Introdução",
+   "title": "Introduction",
+   "url": "https://doi.org/10.1515/jemc-2026-3002",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Marta Quatrale",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Imagem, Religião e Rebelião: Uso e Ausência da Arte Combativa na Catalunha Moderna",
