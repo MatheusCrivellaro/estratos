@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T03:14+00:00",
+ "updated": "2026-09-26T10:51+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -129,6 +129,17 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Do You Really Mean That? Antisemitism.",
+   "url": "https://ehrmanblog.org/do-you-really-mean-that-antisemitism/",
+   "summary": "Some really important words tend to become more vague and generalized to the point where they don’t mean what they used to. A lot of times that’s fine – doesn’t create a lot of problems. Other times, it makes it hard for us to know what each of us is talking about. Or it makes",
+   "date": "2026-09-26",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "When did making a Sukkah become compulsory?",
    "url": "http://paleojudaica.blogspot.com/2026/09/when-did-making-sukkah-become-compulsory.html",
