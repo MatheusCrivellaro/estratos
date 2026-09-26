@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T15:45+00:00",
+ "updated": "2026-09-26T20:45+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -129,6 +129,35 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "The Book of Numbers (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/09/the-book-of-numbers-brill.html",
+   "summary": "NEW BOOK FROM BRILL:The Book of Numbers Composition, Reception, and Interpretation Series: Formation and Interpretation of Old Testament Literature, Volume: 202/10 Vetus Testamentum, Supplements, Volume: 202/10 Volume Editors: Christian Frevel, Benjamin Kilchör, and Craig Evans Over the past two decades, the Book of Numbers has increasingly moved from the margins to the center of",
+   "date": "2026-09-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Interpretação e teologia",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Scientists burned their own scrolls to unlock a 2,000-year-old mystery",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260925005414.htm",
+   "summary": "Scientists discovered that tiny amounts of lead in ancient ink can make writing inside burned papyrus scrolls stand out dramatically in X-ray scans. The technique could help unlock lost Greek and Roman texts preserved by the eruption of Mount Vesuvius nearly 2,000 years ago.",
+   "date": "2026-09-26",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Línguas antigas"
+   ]
+  },
   {
    "title": "Do You Really Mean That? Antisemitism.",
    "url": "https://ehrmanblog.org/do-you-really-mean-that-antisemitism/",
@@ -2792,6 +2821,19 @@
    "tags": [
     "Jesus histórico"
    ]
+  },
+  {
+   "title_pt": "Introdução",
+   "title": "Introduction",
+   "url": "https://doi.org/10.3167/ej.2026.590202",
+   "summary": "From 20–22 May 2025, the research project ‘Trials and Transmissions: Mapping the Legacy of the German Refugee Rabbinate’ of LMU München and the Jüdisches Museum Franken in Fürth invited a group of experts to a workshop to gain a larger global and comparative perspective on the cultural transfers, the discussions, constructions, deconstructions and uses of their ‘Jewish heritage’ by refugee rabbis who had left Germany during the Nazi period and beyond. The event was generously supported by the Hanns-Seidel-Stiftung in Munich, the Münchner Universitätsgesellschaft , the Bavarian-American Academy and the Wissenschaftliche Arbeitsgemeinschaft der Leo-Baeck-Institute in Deutschland and was…",
+   "date": "2026-09-01",
+   "source": "European Judaism",
+   "authors": "Cornelia Wilhelm",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Como o Dr. Rabino Bradley Shavit Artson mudou de ideia?",
@@ -5918,19 +5960,6 @@
     "Novo Testamento",
     "Interpretação e teologia"
    ]
-  },
-  {
-   "title_pt": "Introdução",
-   "title": "Introduction",
-   "url": "https://doi.org/10.1515/jemc-2026-3002",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "Marta Quatrale",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "Imagem, Religião e Rebelião: Uso e Ausência da Arte Combativa na Catalunha Moderna",
