@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T21:12+00:00",
+ "updated": "2026-09-26T03:14+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -4740,19 +4740,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Front matter",
-   "url": "https://doi.org/10.3366/swc.2026.0549",
-   "summary": "",
-   "date": "2026-07-01",
-   "source": "Studies in World Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -5979,6 +5966,19 @@
    "tags": [
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Matéria inicial",
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
@@ -7505,23 +7505,6 @@
    "tags": [
     "Jerusalém",
     "Egito e Mesopotâmia"
-   ]
-  },
-  {
-   "title_pt": "Decodificando o segredo messiânico de Marcos com Georg Simmel",
-   "summary_pt": "Este artigo examina o segredo messiânico no Evangelho de Marcos, considerando a mudança de paradigma dentro dos Estudos do Novo Testamento, segundo a qual o Novo Testamento deve ser considerado como parte do corpus textual do Judaísmo do Segundo Templo, ao mesmo tempo que o vê no contexto da Primeira Guerra Judaico-Romana. Baseia-se na Sociologia do Sigilo de Georg Simmel, que continua a ser um texto fundamental para a teorização do segredo, e liga-se à tentativa sócio-epistémica de Gerd Theißen, de trinta anos, de uma interpretação global do segredo messiânico no Evangelho de Marcos. Este artigo mostra que um segredo (messiânico) deve ser explosivo, como certamente foi no contexto do relatório de guerra de Josefo, e procura…",
-   "title": "Decoding Mark’s Messianic Secret with Georg Simmel",
-   "url": "https://doi.org/10.1177/0142064x261428105",
-   "summary": "This article examines the messianic secret in the Gospel of Mark, considering the paradigm shift within New Testament Studies, according to which the New Testament is to be regarded as part of Second Temple Judaism’s textual corpus, while viewing it against the backdrop of the First Jewish-Roman war. It draws on Georg Simmel’s Sociology of Secrecy, which remains a cornerstone text for theorizing secrecy, and ties in with Gerd Theißen’s thirty-year-old socio-epistemic attempt at an overall interpretation of the messianic secret in the Gospel of Mark. This article shows that a (messianic) secret must be explosive, as it certainly was in the context of Josephus’s war report, and seeks to…",
-   "date": "2026-03-29",
-   "source": "Journal for the Study of the New Testament",
-   "authors": "Gabriella Gelardini",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Judaísmo do Segundo Templo"
    ]
   }
  ]
