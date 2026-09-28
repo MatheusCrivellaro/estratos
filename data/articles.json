@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T12:53+00:00",
+ "updated": "2026-09-28T23:07+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -137,6 +137,20 @@
    "tags": []
   },
   {
+   "title": "The Chariots of Israel",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/the-chariots-of-israel/",
+   "summary": "Early eighth-century BCE Megiddo is famous for two massive stable complexes, thought by early excavators to be the stables of Solomon. Covering a large portion",
+   "date": "2026-09-28",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Escavações",
+    "Israel antigo"
+   ]
+  },
+  {
    "title": "Seeking Love? A Possible Arabic Amulet Reminiscent of Ziyāra Scrolls",
    "url": "https://doi.org/10.5209/anqe.108182",
    "summary": "This article examines the Arabic manuscript inv. 1524r from the Aziz S. Atiya Collection, a fragment of paper originating from a larger scroll that contains six lines of Qurʾānic verses evoking divine love and miraculous intervention. While it can be interpreted as an amulet, the manuscript displays material features, such as traces of brown ink and decorative staining, closely resembling those found in ziyāra certificates. Comparisons with these documents reveal similarities in dimensions, layout, and folding patterns, while puncture marks along the right margin indicate a potential apotropaic function. This article provides a detailed edition, translation, and analysis of the manuscript,…",
@@ -206,6 +220,47 @@
     "Antigo Testamento",
     "Línguas antigas",
     "Livros e eventos"
+   ]
+  },
+  {
+   "title": "A 72-year-old photo is revealing new clues about 'Meretneith,' a powerful woman who may have ruled Egypt 5,000 years ago",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/a-72-year-old-photo-is-revealing-news-clues-about-meretneith-a-powerful-woman-who-may-have-ruled-egypt-5-000-years-ago",
+   "summary": "An ancient Egyptian woman named Meretneith had a lavish tomb, and on it her name was written the same way as a pharaoh.",
+   "date": "2026-09-28",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "'Listen, father!': 1,700-year-old tomb discovered in Egypt contains a poem in ancient Greek and spells to protect the dead",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/listen-father-1-700-year-old-tomb-discovered-in-egypt-contains-a-poem-in-ancient-greek-and-spells-to-protect-the-dead",
+   "summary": "A tomb dating back to the time the Romans controlled Egypt contains a funerary poem in ancient Greek.",
+   "date": "2026-09-28",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas",
+    "Egito e Mesopotâmia",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "The Origin of Christianity",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-origin-of-christianity/",
+   "summary": "Geza Vermes explores the origin of Christianity by examining the characteristics of the Jewish Jesus movement to see how it developed into a distinctly gentile religion.",
+   "date": "2026-09-27",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
    ]
   },
   {
@@ -307,6 +362,19 @@
    "kind": "blog",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Ancient Jerusalem: The Village, the Town, the City",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/ancient-jerusalem/",
+   "summary": "Archaeologist Hillel Geva says that population estimates for ancient Jerusalem are too high. His new estimates begin with people living on no more than a dozen acres.",
+   "date": "2026-09-26",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém"
+   ]
   },
   {
    "title": "When did making a Sukkah become compulsory?",
