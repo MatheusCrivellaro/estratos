@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T20:56+00:00",
+ "updated": "2026-09-28T03:17+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -9,6 +9,7 @@
   "Ancient Jew Review",
   "Annals of Social Sciences & Management Studies",
   "Archaeology Magazine",
+  "Arquivo Maaravi: Revista Digital de Estudos Judaicos da UFMG",
   "Arte & Ensaios",
   "Asian Theatre Journal",
   "Athens Journal of History",
@@ -36,7 +37,6 @@
   "Gnosis",
   "Hyperboreus",
   "Infectious Diseases Now",
-  "International Journal For Multidisciplinary Research",
   "International Journal of African Innovation and Multidisciplinary Research",
   "International Journal of Constitutional Law",
   "International Journal of Historical Archaeology",
@@ -85,7 +85,6 @@
   "Philippine Journal of Otolaryngology Head and Neck Surgery",
   "Phys.org - Arqueologia",
   "Qadum: Journal of Excavation Reports from Israel",
-  "Raisons politiques",
   "Reading Acts",
   "Religion Compass",
   "Religions",
@@ -109,7 +108,6 @@
   "The Catholic Biblical Quarterly",
   "The Expository Times",
   "The French Review",
-  "The Institute of Humanities",
   "The Institute of Mind Humanities",
   "The Journal of Hebrew Scriptures",
   "The Journal of Theological Studies",
@@ -5728,6 +5726,22 @@
    ]
   },
   {
+   "title": "Debate historiográfico e usos do passado na construção do exílio babilônico na Bíblia Hebraica Historiographical Debate and Uses of the Past in the Construction of the Babylonian Exile in the Hebrew Bible",
+   "url": "https://doi.org/10.35699/1982-3053.2026.65260",
+   "summary": "Um dos eventos mais importantes na cronologia interna da Bíblia Hebraica é o chamado “Exílio Babilônico”, no qual os habitantes de Judá teriam sido deportados para a Babilônia após o ocaso do reino judaíta, situado na primeira metade do século VI AEC. Embora a documentação bíblica e extrabíblica ateste deportações, a construção literária bíblica sobre esse tema é profundamente ideológica, refletindo a visão da elite judaíta exilada e desconsiderando ou caracterizando negativamente os grupos que permaneceram em Judá. Questiona-se, assim, em que medida tais textos contêm memórias históricas. Apresentamos dois grupos interpretativos: um que minimiza seu valor histórico e outro que admite a…",
+   "date": "2026-06-05",
+   "source": "Arquivo Maaravi: Revista Digital de Estudos Judaicos da UFMG",
+   "authors": "Matheus Da Silva Carmo",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Egito e Mesopotâmia",
+    "Línguas antigas"
+   ]
+  },
+  {
    "title_pt": "Como a Bíblia Hebraica se tornou um livro cristão",
    "summary_pt": "Como a Bíblia Hebraica se tornou um livro cristão melliott1 Qui, 04/06/2026 - 09:35 As tradições bíblicas cristãs medievais e primitivas se desenvolveram ao longo de séculos de cópia, tradução, correção e interpretação. A história da Bíblia é menos como uma árvore que se ramifica para fora e mais como rios fluindo juntos, à medida que as correntes textuais hebraicas, gregas e latinas moldaram as Escrituras cristãs através da Septuaginta, da Vulgata de Jerônimo, da Hebraica Veritas, dos debates canônicos e das tradições judaica, católica, protestante e ortodoxa oriental. Veja também Escritura Compartilhada – Fés Divididas: O Encontro Judaico-Cristão Medieval sobre a Bíblia Hebraica/Antigo Testamento (Brill, 2026). Por Frans van Liere Universidade Calvin…",
    "title": "How the Hebrew Bible Became a Christian Book",
@@ -7504,57 +7518,6 @@
    "kind": "periodico",
    "peer": true,
    "tags": []
-  },
-  {
-   "title_pt": "Quando a Entropia Reina: Por que Jesus Ainda Purificou o Templo - Repensando a Teologia Prática Através do Evento do Templo",
-   "summary_pt": "Este artigo procura usar a “entropia” não como um princípio científico, mas como uma metáfora estruturada para avaliar o declínio espiritual e institucional. Esta abordagem prático-teológica integra um exame meticuloso das narrativas da ruptura do Templo com uma reflexão teológica construtiva e um discurso interdisciplinar, recontextualizando a purificação do Templo por Jesus como uma reacção profética ao declínio sistémico, caracterizado pela distorção do culto através da exploração, da lógica de mercado e da erosão do propósito sagrado. O Templo de Jerusalém serve como um exemplo historicamente contextual de desintegração institucional, destacando a erosão progressiva da integridade, relacional…",
-   "title": "When Entropy Reigns: Why Jesus Still Cleansed the Temple - Rethinking Practical Theology Through the Temple Event",
-   "url": "https://doi.org/10.36948/ijfmr.2026.v08i02.72766",
-   "summary": "This article seeks to use “entropy” not as a scientific principle but as a structured metaphor for assessing spiritual and institutional decline. This practical-theological approach integrates a meticulous examination of the Temple-disruption narratives with constructive theological reflection and interdisciplinary discourse, recontextualising Jesus’ purification of the Temple as a prophetic reaction to systemic decline, characterised by the distortion of worship through exploitation, market logic, and the erosion of sacred purpose. The Jerusalem Temple serves as a historically contextual example of institutional disintegration, highlighting the progressive erosion of integrity, relational…",
-   "date": "2026-03-31",
-   "source": "International Journal For Multidisciplinary Research",
-   "authors": "Pinaki Burman",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Jerusalém",
-    "Antigo Testamento",
-    "Jesus histórico",
-    "Liturgia e cânon"
-   ]
-  },
-  {
-   "title_pt": "Daphne Barak-Erez, Julgamentos Bíblicos. Novas leituras jurídicas na Bíblia Hebraica (University of Michigan Press, 2024)",
-   "title": "Daphne Barak-Erez, Biblical Judgments. New Legal Readings in the Hebrew Bible (University of Michigan Press, 2024)",
-   "url": "https://doi.org/10.3917/rai.101.0097",
-   "summary": "",
-   "date": "2026-03-31",
-   "source": "Raisons politiques",
-   "authors": "Lino Castex",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Línguas antigas"
-   ]
-  },
-  {
-   "title_pt": "Uma base metodológica para a edição crítica e o comentário acadêmico do Pergaminho de Guerra de Qumran",
-   "title": "A methodological Foundation for scholarly Critical Edition and Commentary of the War Scroll from Qumran",
-   "url": "https://doi.org/10.46270/ssw.57.7",
-   "summary": "",
-   "date": "2026-03-31",
-   "source": "The Institute of Humanities",
-   "authors": "Chang-hyun Song",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Manuscritos do Mar Morto",
-    "Crítica textual"
-   ]
   }
  ]
 }
