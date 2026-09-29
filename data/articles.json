@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T23:07+00:00",
+ "updated": "2026-09-29T03:59+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -44,6 +44,7 @@
   "International Journal of Science and Research (IJSR)",
   "International Journal of Science and Research Archive",
   "International Journal of Systematic Theology",
+  "Interpretation: A Journal of Bible and Theology",
   "Iranian Studies",
   "Ivy Enber Scientific Journal",
   "JURNAL ILUMINASI",
@@ -53,7 +54,6 @@
   "Journal for the Study of the New Testament",
   "Journal for the Study of the Old Testament",
   "Journal of Ancient Judaism",
-  "Journal of Archaeological Science",
   "Journal of Bible & classical languages and literature",
   "Journal of Early Christian Studies",
   "Journal of Early Modern Christianity",
@@ -72,7 +72,6 @@
   "MELUS: Multi-Ethnic Literature of the United States",
   "Madang: Journal of Contextual Theology",
   "Mediterranea, International Journal on the Transfer of Knowledge",
-  "Modern Believing",
   "Modern Theology",
   "Near Eastern Archaeology",
   "Nouvelle revue théologique",
@@ -90,7 +89,6 @@
   "Religion Compass",
   "Religions",
   "Religious Studies Review",
-  "Review of Ecumenical Studies",
   "Revue Sens",
   "Revue des deux Mondes",
   "ScienceDaily - Arqueologia",
@@ -106,7 +104,6 @@
   "Textus",
   "The Bart Ehrman Blog",
   "The Bible Translator",
-  "The Catholic Biblical Quarterly",
   "The Expository Times",
   "The French Review",
   "The Institute of Mind Humanities",
@@ -115,6 +112,7 @@
   "The Southern Journal of Philosophy",
   "Theological Studies",
   "Theology",
+  "Theology and the World",
   "Theology in Scotland",
   "Trio",
   "Tyndale House",
@@ -190,6 +188,20 @@
    "tags": [
     "Novo Testamento",
     "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "From Text to Culture: Metonymic Chains as a Tool for Functional Equivalence in Minority Language Bible Translation",
+   "url": "https://doi.org/10.1177/20516770261486364",
+   "summary": "Old Testament texts deploy metonymic expressions anchored in ancient Near Eastern idealized cognitive models: agricultural cycles, pastoral economies, and juridical procedures, whose logic remains invisible to standard translation approaches. This paper argues that metonymic chains (coordinated sequences of metonymic vehicles within a shared idealized cognitive model) constitute a distinct unit of meaning in OT literature and offer a path toward functional equivalence in minority language Bible translation. Drawing on Kövecses and Radden (1998) and Radden and Kövecses (2007), the paper proposes a three-type taxonomy: convergent (Type A), sequential (Type B), and systemic (Type C) chains,…",
+   "date": "2026-09-28",
+   "source": "The Bible Translator",
+   "authors": "Jean Paul Gotopo M.",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento"
    ]
   },
   {
@@ -4632,6 +4644,22 @@
    ]
   },
   {
+   "title": "Sacred Text, Human Choices: An Ethics of Difference for Bible Translation",
+   "url": "https://doi.org/10.1177/20516770261456189",
+   "summary": "This article explores an ethics of difference for Bible translation, drawing on Lawrence Venuti’s work. I contrast the instrumental view, which conceptualizes translation as neutral meaning transfer, with the contextual view, which recognizes translation as interpretive and culturally embedded, involving both representation and transformation. I advocate for the contextual paradigm. Through examples from biblical texts, such as Hebrew אֱמוּנָה “faithfulness” and Greek πίστις “faith,” I demonstrate how translation choices reflect cultural and theological frameworks. I therefore propose viewing Bible translations as cultural testimonies: unique articulations of God’s revelation within…",
+   "date": "2026-07-16",
+   "source": "The Bible Translator",
+   "authors": "Matthijs de Jong",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Línguas antigas",
+    "Interpretação e teologia"
+   ]
+  },
+  {
    "title_pt": "A marca paulina no uso de “carne” e “espírito” por Inácio de Antioquia",
    "summary_pt": "RESUMO O artigo demonstra que a expressão de Inácio de Antioquia de uma polaridade de “carne” (σάρξ) e “espírito” (πνεῦμα) é, ao contrário da visão da maioria atual, dependente do uso paulino desses termos. Primeiro, uma fraqueza significativa em muitos tratamentos anteriores é exposta: eles comparam Inácio com cartas paulinas que ele aparentemente não conhecia bem (por exemplo, Romanos e Gálatas), em vez daquelas com as quais ele mostra grande familiaridade, sobretudo 1 Coríntios, mas também os controversos Efésios e 1 e 2 Timóteo. Em segundo lugar, uma comparação próxima das epístolas de Inácio (em sua ‘recensão intermediária’) com essas cartas revela considerável influência paulina na polaridade σάρξ-πνεῦμα de Inácio: ‘Paulina’ em…",
    "title": "The Pauline Imprint on Ignatius of Antioch’s Use of ‘Flesh’ and ‘Spirit’",
@@ -4818,6 +4846,20 @@
     "Novo Testamento",
     "Jesus histórico",
     "Liturgia e cânon",
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "Bible Translation and AI: Some Reflections in Response to the Contributions",
+   "url": "https://doi.org/10.1177/20516770261463706",
+   "summary": "This contribution offers reflections on the three articles in this issue on Bible translation and artificial intelligence (AI). It evaluates the arguments for and against the use of AI for major components of a Bible translation project, such as the production of a first draft. It considers both historical and theological perspectives. The former relates to the introduction of computers into biblical studies since the 1970s as well as to broader patterns in human responses to new technologies. The latter concerns the role of humans as creative agents and the interplay between academic expertise and guidance by the Spirit.",
+   "date": "2026-07-09",
+   "source": "The Bible Translator",
+   "authors": "Willem van Peursen",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
     "Interpretação e teologia"
    ]
   },
@@ -5117,6 +5159,35 @@
    "tags": [
     "Crítica textual",
     "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Acts: An Interpretation Bible Commentary Acts: An Interpretation Bible Commentary by SkinnerMatthew L. Interpretation Bible Commentary. Louisville: Westminster John Knox, 2025. xvi + 321 pp. $45.00. ISBN 978-0-664-26428-4.",
+   "url": "https://doi.org/10.1177/00209643261435568",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Interpretation: A Journal of Bible and Theology",
+   "authors": "F. Scott Spencer",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
+   "title": "What Is the Criterion for Large-Scale Divine Judgment against the Nations?: A Study on Large-Scale Judgment Based on the Covenant Concept in the Hebrew Bible",
+   "url": "https://doi.org/10.21130/tw.2026.6.110.7",
+   "summary": "",
+   "date": "2026-06-30",
+   "source": "Theology and the World",
+   "authors": "Kyoungsik Kim",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
    ]
   },
   {
@@ -6536,6 +6607,21 @@
    ]
   },
   {
+   "title": "A Hebrew Seal from Jaffa and the Hebrew Script in the Post-First Temple Period",
+   "url": "https://doi.org/10.70967/2948-040x.2470",
+   "summary": "",
+   "date": "2026-05-16",
+   "source": "'Atiqot",
+   "authors": "Martin Peilstöcker, Benjamin Sass",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Epigrafia e inscrições",
+    "Línguas antigas"
+   ]
+  },
+  {
    "title_pt": "Situando a raiva bíblica: o realismo incorporado e as restrições cognitivas que moldam as metáforas emocionais na Bíblia Hebraica",
    "summary_pt": "Este estudo examina criticamente a conceituação da raiva na Bíblia Hebraica através das lentes do realismo incorporado e das restrições cognitivas. Ele analisa pesquisas existentes sobre metáforas e metonímias de raiva, destacando a influência de fatores culturais, ambientais e experienciais nas expressões emocionais. A análise integra insights da teoria da metáfora conceitual, da cognição incorporada e da situação histórica das emoções para explorar como a raiva é representada no hebraico bíblico. As descobertas revelam que a raiva é articulada principalmente através de expressões literais e metonímicas profundamente enraizadas nas experiências fisiológicas, simbólicas e culturais dos antigos israelitas…",
    "title": "Situating Biblical anger: Embodied Realism and the Cognitive Constraints Shaping Emotion Metaphors in the Hebrew Bible",
@@ -7509,183 +7595,6 @@
     "Crítica textual",
     "Línguas antigas"
    ]
-  },
-  {
-   "title_pt": "O que há de novo na bolsa de estudos da Bíblia Hebraica: algumas dicas",
-   "title": "What’s New in Hebrew Bible Scholarship: Some Hints",
-   "url": "https://doi.org/10.3828/mb.2026.11",
-   "summary": "",
-   "date": "2026-04-01",
-   "source": "Modern Believing",
-   "authors": "Adrian Thatcher",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Línguas antigas"
-   ]
-  },
-  {
-   "title_pt": "Romanos foi parcialmente “realizado” por Febe – e não apenas escrito por Paulo?",
-   "summary_pt": "ATUALIZAÇÃO: Feliz Dia da Mentira! É melhor indicar aqui que se trata de uma piada (já que uma de nossas piadas anteriores escritas por P.J. Willliams há alguns anos atrás, que os arqueólogos encontraram Q, se espalhou como um incêndio). Ao mesmo tempo, é verdade que Febe provavelmente entregou Romanos e que ela pode tê-lo lido e conseguido esclarecer seu conteúdo. _________________________________________ A discussão recente entre os estudiosos do Novo Testamento destacou um aspecto surpreendente e quase revolucionário da entrega de cartas antigas - um aspecto que poderia mudar fundamentalmente a forma como pensamos sobre as primeiras recepções de Romanos. Com base no trabalho do estudioso de Oxford, Peter Head – particularmente em seu estudo detalhado…",
-   "title": "Was Romans Partly “Performed” by Phoebe – Not Just Written by Paul?",
-   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/was-romans-partly-performed-by-phoebe.html",
-   "summary": "UPDATE: Happy April Fool's Day! It is best to indicate here that it is a joke (since on of our previous jokes written by P.J. Willliams some years ago, that archaeologists have found Q, has spread like a fire). At the same time, it is true that Phoebe likely delivered Romans and that she may have read it and been able to clarify its contents. _________________________________________ Recent discussion among New Testament scholars has highlighted a startling and almost revolutionary aspect of ancient letter delivery — one that could fundamentally change how we think about the earliest receptions of Romans. Building on the work of Oxford scholar Peter Head — particularly his detailed study…",
-   "date": "2026-04-01",
-   "source": "Evangelical Textual Criticism",
-   "category": "manuscritos",
-   "kind": "blog",
-   "peer": false,
-   "tags": [
-    "Novo Testamento",
-    "Paulo e as epístolas",
-    "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "Tendências na bolsa de estudos da Bíblia Hebraica",
-   "summary_pt": "O contraste entre a “Bíblia Hebraica” e o “Antigo Testamento” como formas alternativas de nomear a colecção de antigos escritos judaicos aceites tanto por judeus como por cristãos como escrituras autorizadas pode ser visto como um sinal taquigráfico de atitudes diametralmente opostas à sua interpretação. Por um lado, existem muitas abordagens mais recentes que situam estes livros no contexto social e histórico do mundo antigo e colocam entre parênteses as suas reivindicações religiosas tradicionais. Dentre muitos desenvolvimentos deste tipo, o artigo discute especialmente a história da recepção, um movimento influente nas humanidades em geral e atualmente em tendência no estudo de HB/TO. Por outro lado, existe em alguns círculos,…",
-   "title": "Trends in Hebrew Bible Scholarship",
-   "url": "https://doi.org/10.3828/mb.2026.12",
-   "summary": "The contrast between ‘Hebrew Bible’ and ‘Old Testament’ as alternative ways of naming the collection of ancient Jewish writings accepted by both Jews and Christians as authoritative scripture can be seen as a shorthand signal of diametrically opposed attitudes to their interpretation. On the one hand there are many newer approaches that situate these books in the social and historical context of the ancient world and bracket out their traditional religious claims. Out of many developments of this kind, the article discusses especially reception history, an influential movement in the humanities in general and currently trending in HB/OT study. On the other hand there is in some circles,…",
-   "date": "2026-04-01",
-   "source": "Modern Believing",
-   "authors": "John Barton",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Línguas antigas",
-    "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "O Cambridge Companion to Law na Bíblia Hebraica ed. por Bruce Wells (revisão)",
-   "title": "The Cambridge Companion to Law in the Hebrew Bible ed. by Bruce Wells (review)",
-   "url": "https://doi.org/10.1353/cbq.2026.a990717",
-   "summary": "",
-   "date": "2026-04-01",
-   "source": "The Catholic Biblical Quarterly",
-   "authors": "",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Línguas antigas"
-   ]
-  },
-  {
-   "title_pt": "O Verbo Hebraico Bíblico: Uma Introdução Linguística por John A. Cook (revisão)",
-   "title": "The Biblical Hebrew Verb: A Linguistic Introduction by John A. Cook (review)",
-   "url": "https://doi.org/10.1353/cbq.2026.a990704",
-   "summary": "",
-   "date": "2026-04-01",
-   "source": "The Catholic Biblical Quarterly",
-   "authors": "",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Línguas antigas"
-   ]
-  },
-  {
-   "title_pt": "Masculinidades, Violência e Estudos da Bíblia Hebraica",
-   "summary_pt": "Este artigo explora os estudos de masculinidades como um subcampo dos estudos de gênero. Ambos surgiram na década de 1990, paralelamente e fertilizados por estudos queer. Ambos se baseiam na crítica feminista e frequentemente examinam a violência. Nos estudos da Bíblia Hebraica, diversas explorações de masculinidades já abrangem a maior parte da literatura. Alguns exemplos importantes estão resumidos aqui. Tal como a crítica feminista chamou a atenção para a diversidade da experiência feminina, bem como para a violência baseada no género perpetrada contra as mulheres, também o estudo das masculinidades iluminou diversas experiências masculinas nos textos bíblicos, ao mesmo tempo que desafiou o binarismo de género. A hipermasculinidade divina e a masculinidade hegemônica de…",
-   "title": "Masculinities, Violence and Hebrew Bible Studies",
-   "url": "https://doi.org/10.3828/mb.2026.13",
-   "summary": "This article explores masculinities studies as a sub-field of gender studies. Both emerged in the 1990s, alongside and cross-fertilised by queer studies. Both draw on feminist criticism and frequently examine violence. Within Hebrew Bible studies, diverse explorations of masculinities by now span most of the literature. Select key examples are summarised here. Just as feminist criticism drew attention to the diversity of female experience, as well as to gender-based violence perpetrated against women, so the study of masculinities has illuminated diverse male experiences in biblical texts, while also challenging gender binarism. Divine hypermasculinity and the hegemonic masculinity of…",
-   "date": "2026-04-01",
-   "source": "Modern Believing",
-   "authors": "Johanna Stiebert",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Línguas antigas"
-   ]
-  },
-  {
-   "title": "Gendered Violence in Biblical Narrative: The Devouring Metaphor by Esther Brownsmith (review)",
-   "url": "https://doi.org/10.1353/cbq.2026.a990702",
-   "summary": "",
-   "date": "2026-04-01",
-   "source": "The Catholic Biblical Quarterly",
-   "authors": "",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
-   "title_pt": "Corporeidade Divina na Bíblia Hebraica",
-   "summary_pt": "Ao longo da Bíblia Hebraica, a corporalidade divina é simplesmente assumida. Deus não apenas tem um corpo, mas ocasionalmente se digna revelar seu corpo ou suas partes a várias figuras de destaque. Neste artigo, exploro algumas das tradições bíblicas que tratam do corpo divino e argumento que a corporalidade divina é essencial para a sociabilidade divina: o corpo de Deus permite relações sociais entre a divindade e os seus adoradores. Contrariamente às interpretações posteriores, a proibição bíblica das imagens divinas não reflecte uma rejeição teológica da corporeidade divina, mas afirma, em vez disso, a importância sócio-religiosa do corpo de Deus.",
-   "title": "Divine Corporeality in the Hebrew Bible",
-   "url": "https://doi.org/10.3828/mb.2026.14",
-   "summary": "Throughout the Hebrew Bible, divine corporeality is simply assumed. God not only has a body, but occasionally deigns to reveal his body or its parts to various high-profile figures. In this article, I explore some of the biblical traditions dealing with the divine body and argue that divine corporeality is essential to divine sociality: God’s body enables social relationships between the deity and his worshippers. Contrary to later interpretations, the biblical ban on divine images does not reflect a theological rejection of divine corporeality, but affirms instead the socio-religious importance of God’s body.",
-   "date": "2026-04-01",
-   "source": "Modern Believing",
-   "authors": "Francesca Stavrakopoulou",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Línguas antigas",
-    "Liturgia e cânon",
-    "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "Corrigenda para 'Distinguir anidritas biogênicas de geogênicas em cinzas: um estudo de caso da Idade do Ferro Qumran' [J. Arqueol. Ciência. 186 (2026) 106477]",
-   "title": "Corrigendum to ‘Distinguishing biogenic from geogenic anhydrites in ash: a case study of Iron Age Qumran’ [J. Archaeol. Sci. 186 (2026) 106477]",
-   "url": "https://doi.org/10.1016/j.jas.2026.106517",
-   "summary": "",
-   "date": "2026-04-01",
-   "source": "Journal of Archaeological Science",
-   "authors": "Ilana Peters, Elisabetta Boaretto, Mark Cavanagh",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Manuscritos do Mar Morto",
-    "Israel antigo"
-   ]
-  },
-  {
-   "title_pt": "Resenhas de livros: Pekka Lindqvist e Lotta Valve (eds.), The Herald of Good Tidings. Ensaios sobre a Bíblia, Profecia e a Esperança de Israel em Honra a Antti Laato, Monografias da Bíblia Hebraica 97, Sheffield Phoenix Press 2021, XXIII+413 p., ISBN:.",
-   "title": "Book Reviews: Pekka Lindqvist and Lotta Valve (eds.), Herald of Good Tidings. Essays on the Bible, Prophecy, and the Hope of Israel in Honour of Antti Laato , Hebrew Bible Monographs 97, Sheffield Phoenix Press 2021, XXIII+413 p., ISBN:…",
-   "url": "https://doi.org/10.2478/ress-2026-0011",
-   "summary": "",
-   "date": "2026-04-01",
-   "source": "Review of Ecumenical Studies",
-   "authors": "Piotr Zygulski",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Línguas antigas",
-    "Livros e eventos"
-   ]
-  },
-  {
-   "title_pt": "Lista de Leitura de Interpretação Bíblica",
-   "title": "Biblical Interpretation Reading List",
-   "url": "https://doi.org/10.1163/15685152-20263402",
-   "summary": "",
-   "date": "2026-04-01",
-   "source": "Biblical Interpretation",
-   "authors": "",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   }
  ]
 }
