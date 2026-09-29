@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T03:59+00:00",
+ "updated": "2026-09-29T12:14+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -95,6 +95,7 @@
   "St. Tikhons' University Review",
   "Stephanos Peer reviewed multilanguage scientific journal",
   "Studia Biblica Slovaca",
+  "Studia Paedagogica Ignatiana",
   "Studia Universitatis Babeș-Bolyai Sacra Scripta",
   "Studia theologica",
   "Studies in World Christianity",
@@ -123,6 +124,62 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Who were the Samaritans and where did they come from?",
+   "url": "http://paleojudaica.blogspot.com/2026/09/who-were-samaritans-and-where-did-they.html",
+   "summary": "SAMARITAN WATCH: The Confusing Story of the Samaritans and the Jews: Who Split From Whom? Jewish tradition says the Samaritans descend from foreign settlers. The evidence says they are mostly what they claim to be: Israelites who never left (Elon Gilad, Haaretz).Even the scholars who stress the Assyrian upheaval accept that some Israelites stayed, so the Samaritans descend at least in part from",
+   "date": "2026-09-29",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Israel antigo",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Maaloula's Aramaic and architecture",
+   "url": "http://paleojudaica.blogspot.com/2026/09/maaloulas-aramaic-and-architecture.html",
+   "summary": "MODERN ARAMAIC WATCH: Maaloula preserves Syria’s ancient language and architectural heritage (N.J/ABD, SANA).A 2022 academic study titled “The Maaloula Aramaic Corpus” found that the language spoken in Maaloula belongs to the Modern Western Aramaic dialect group, which is also used in Jubb’adin and Bakh’a in Damascus countryside, as well as among some members of these communities living elsewhere",
+   "date": "2026-09-29",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Can You Explain the Tabernacle, the Ark of the Covenant, and/or the Shema?",
+   "url": "https://ehrmanblog.org/can-you-explain-the-tabernacle-the-ark-of-the-covenant-and-or-the-shema/",
+   "summary": "The Tabernacle, the Ark of the Covenant, and the Shema! Key features of the Israelite religion as portrayed in the Hebrew Bible, even if widely misunderstood or virtually unknown among the populace at large. (Can you explain them off the top of your head? If not, keep reading. If so, keep reading to see if",
+   "date": "2026-09-29",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Israel antigo",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Burning apocryphal scriptures in Renaissance India",
+   "url": "http://paleojudaica.blogspot.com/2026/09/burning-apocryphal-scriptures-in.html",
+   "summary": "THE ANXIOUS BENCH: A Renaissance Purge Of Ancient Scripture (Philip Jenkins).Renaissance thinkers were entranced by the idea of finding ancient manuscripts and texts that would illuminate the history of religion and of spiritualities broadly defined, and in many cases they invented the evidence they wished they could have found legitimately. Such activities became very intense at the turn of the",
+   "date": "2026-09-29",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Cristianismo primitivo"
+   ]
+  },
   {
    "title": "Underwater archaeology at Tyre",
    "url": "http://paleojudaica.blogspot.com/2026/10/underwater-archaeology-at-tyre.html",
@@ -174,6 +231,20 @@
    "tags": [
     "Judaísmo do Segundo Templo",
     "Escavações"
+   ]
+  },
+  {
+   "title": "Między filantropią a pedagogiką – wkład księżnej Pauline zur Lippe (1769–1820) w rozwój wychowania przedszkolnego Between Philanthropy and Pedagogy: The Contribution of Princess Pauline zur Lippe (1769–1820) to the Development of…",
+   "url": "https://doi.org/10.12775/spi.2026.3.001",
+   "summary": "Celem artykułu jest ukazanie sylwetki księżnej Pauline zur Lippe jako filantropki i reformatorki społecznej oraz analiza jej wkładu w rozwój opieki nad dziećmi w wieku przedszkolnym w pierwszej połowie XIX wieku. Przedmiot badań stanowią okoliczności powstania Zakładu Opieki nad Małymi Dziećmi w Detmold (Niemcy), jego organizacja, cele i zasady funkcjonowania, a także znaczenie dla rozwoju opieki nad małymi dziećmi pochodzącymi z ubogich środowisk oraz dla kształtowania się nowoczesnych form wychowania przedszkolnego. Artykuł powstał na podstawie analizy źródeł drukowanych oraz opracowań poświęconych działalności Pauline zur Lippe. Przedstawiono w nim krótki zarys życia księżnej ze…",
+   "date": "2026-09-28",
+   "source": "Studia Paedagogica Ignatiana",
+   "authors": "Małgorzata Stawiak-Ososińska",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Paulo e as epístolas"
    ]
   },
   {
