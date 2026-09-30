@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T22:02+00:00",
+ "updated": "2026-09-30T03:48+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -49,6 +49,7 @@
   "Ivy Enber Scientific Journal",
   "JURNAL ILUMINASI",
   "JURNALISTRENDI : JURNAL LINGUISTIK, SASTRA, DAN PENDIDIKAN",
+  "Journal for the History of Rhetoric",
   "Journal for the Study of Judaism",
   "Journal for the Study of the Historical Jesus",
   "Journal for the Study of the New Testament",
@@ -200,6 +201,19 @@
    "peer": false,
    "tags": [
     "Judaísmo do Segundo Templo"
+   ]
+  },
+  {
+   "title": "Christian amulets preserved Roman traditions of protection",
+   "url": "https://phys.org/news/2026-09-christian-amulets-roman-traditions.html",
+   "summary": "For centuries, the Romans turned to amulets to protect themselves or their surroundings. Research by Ph.D. candidate Patricia Kret shows that this tradition continued into the early days of Christianity.",
+   "date": "2026-09-29",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas"
    ]
   },
   {
@@ -5281,6 +5295,20 @@
    "tags": []
   },
   {
+   "title": "Augustine and Rhetoric: Argumentative Strategies in Early Christianity , edited by Adam Ployd and Rafał Toczko",
+   "url": "https://doi.org/10.5325/jhistrhetoric.29.2.0213",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Journal for the History of Rhetoric",
+   "authors": "Nathan R. Wagner",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Cristianismo primitivo"
+   ]
+  },
+  {
    "title_pt": "Artefato em foco: o prisma de Taylor",
    "summary_pt": "O ‘Taylor Prism’ está em exibição no Museu Britânico há 170 anos. Nomeado em homenagem ao Coronel R. Taylor, o diplomata britânico que o comprou na década de 1830, é um exemplo magistral da antiga escrita cuneiforme e artesanal assíria, com suas seis colunas bem inscritas com quase 40 cm de altura. Notável de se olhar, é ...",
    "title": "Artefact in Focus: The Taylor Prism",
@@ -7712,23 +7740,6 @@
     "Manuscritos do Mar Morto",
     "Antigo Testamento",
     "Crítica textual"
-   ]
-  },
-  {
-   "title_pt": "Novo blog sobre textos críticos do NT",
-   "summary_pt": "Greg Paulson e Katie Leggett têm um novo site no qual os leitores da ETC estarão interessados. Chama-se Critical Texts e é descrito como “o blog acadêmico pessoal do Dr. Gregory S. Paulson e da Dra. Os estudantes novos no assunto encontrarão links para alguns artigos úteis de outros sites que respondem a perguntas como “O que é a Kurzgefasste Liste?” ou “O que é o NTVMR?” e, o favorito de todos, “Qual é a contagem mais recente de manuscritos do NT?” (resposta: 5.711 em 2 dias atrás). Claro, já abordamos essa questão aqui antes. Greg também montou um ...",
-   "title": "New Blog on NT Critical Texts",
-   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/new-blog-on-nt-critical-texts.html",
-   "summary": "Greg Paulson and Katie Leggett have a new website that ETC readers will be interested in. It’s called Critical Texts and is described as “the personal academic blog of Dr. Gregory S. Paulson and Dr. Katie Leggett, offering a creative space for reflection on critical texts in the field of Greek New Testament textual criticism.” Students new to the subject will find links to some helpful articles from other sites answering question like “ What is the Kurzgefasste Liste? ,” or “ What is the NTVMR? ,” and, everyone’s favorite, “ What is the latest tally of NT manuscripts? ” (answer: 5,711 as of 2 days ago). Of course, we have addressed that question here before. Greg has also put together a…",
-   "date": "2026-04-02",
-   "source": "Evangelical Textual Criticism",
-   "category": "manuscritos",
-   "kind": "blog",
-   "peer": false,
-   "tags": [
-    "Novo Testamento",
-    "Crítica textual",
-    "Línguas antigas"
    ]
   }
  ]
