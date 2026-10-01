@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T22:04+00:00",
+ "updated": "2026-10-01T03:54+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -126,6 +126,20 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Meningeal inflammation (Serpens endocrania) and intrathoracic chronic disease in 1st century A.D. Roman Near-East (Qumran): From paleopathology to clinical practice",
+   "url": "https://doi.org/10.1016/j.idnow.2026.105352",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "Infectious Diseases Now",
+   "authors": "Emma Conlon, Philippe Charlier, Isabelle Huynh",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Manuscritos do Mar Morto"
+   ]
+  },
   {
    "title": "Slaughter and Human Sacrifice: Understanding Tales of the Hebrew Bible",
    "url": "https://ehrmanblog.org/slaughter-and-human-sacrifice-understanding-tales-in-the-hebrew-bible/",
@@ -3285,20 +3299,6 @@
    "peer": false,
    "tags": [
     "Livros e eventos"
-   ]
-  },
-  {
-   "title": "Meningeal inflammation (Serpens endocrania) and intrathoracic chronic disease in 1st century A.D. Roman Palestine (Qumran): From paleopathology to clinical practice",
-   "url": "https://doi.org/10.1016/j.idnow.2026.105352",
-   "summary": "",
-   "date": "2026-09-01",
-   "source": "Infectious Diseases Now",
-   "authors": "Emma Conlon, Philippe Charlier, Isabelle Huynh",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Manuscritos do Mar Morto"
    ]
   },
   {
@@ -6776,23 +6776,6 @@
    ]
   },
   {
-   "title_pt": "Um selo exclusivo em madrepérola do final da Idade do Ferro em Tel Ḥadid, Israel",
-   "title": "A unique mother-of-pearl stamp seal from Late Iron Age Tel Ḥadid, Israel",
-   "url": "https://doi.org/10.1080/00758914.2026.2663758",
-   "summary": "",
-   "date": "2026-05-29",
-   "source": "Levant",
-   "authors": "Ido Koch, Daria Leibin-Graiver, Daniella E. Bar-Yosef Mayer",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Epigrafia e inscrições",
-    "Escavações",
-    "Israel antigo"
-   ]
-  },
-  {
    "title_pt": "Resenha do livro: Allison Jr., Dale C.: Interpretando Jesus Interpretando Jesus. Por AllisonDale C. Jr. Eerdmans, 2025. Págs. ix + 521. $ 49,99 (hb).",
    "title": "Book Review: Allison Jr., Dale C.: Interpreting Jesus Interpreting Jesus. By AllisonDale C.Jr. Eerdmans, 2025. Pp. ix + 521. $49.99 (hb).",
    "url": "https://doi.org/10.1177/00405639261441420a",
@@ -7171,6 +7154,23 @@
     "Novo Testamento",
     "Paulo e as epístolas",
     "Cristianismo primitivo"
+   ]
+  },
+  {
+   "title_pt": "Um selo exclusivo em madrepérola do final da Idade do Ferro em Tel Ḥadid, Israel",
+   "title": "A unique mother-of-pearl stamp seal from Late Iron Age Tel Ḥadid, Israel",
+   "url": "https://doi.org/10.1080/00758914.2026.2663758",
+   "summary": "",
+   "date": "2026-05-04",
+   "source": "Levant",
+   "authors": "Ido Koch, Daria Leibin-Graiver, Daniella E. Bar-Yosef Mayer",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Epigrafia e inscrições",
+    "Escavações",
+    "Israel antigo"
    ]
   },
   {
@@ -7878,23 +7878,6 @@
    "kind": "periodico",
    "peer": true,
    "tags": []
-  },
-  {
-   "title_pt": "Tradução e interpretação de versículos selecionados do Salmo 91 com relação à sua variante de Qumran no pergaminho 11Q11",
-   "title": "Translation and Interpretation of Selected Verses of Psalm 91 with Regard to Its Qumran Variant in Scroll 11Q11",
-   "url": "https://doi.org/10.5507/sth.2025.015",
-   "summary": "",
-   "date": "2026-04-03",
-   "source": "Studia theologica",
-   "authors": "Karol Miroslav Švarc",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Manuscritos do Mar Morto",
-    "Antigo Testamento",
-    "Crítica textual"
-   ]
   }
  ]
 }
