@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T17:35+00:00",
+ "updated": "2026-10-02T22:02+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -136,6 +136,32 @@
    "kind": "revista",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Scottish Early Medieval Monastery Studied",
+   "url": "https://archaeology.org/news/2026/10/02/early-medieval-monastery-studied-in-scotland/",
+   "summary": "LISMORE, SCOTLAND—The Independent reports that traces of an early Christian monastery have been found on",
+   "date": "2026-10-02",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Cristianismo primitivo"
+   ]
+  },
+  {
+   "title": "S9E8 Why Was William Tyndale’s English Bible So Controversial?",
+   "url": "https://tyndalehouse.com/2026/10/02/s9e8-why-was-william-tyndales-english-bible-so-controversial/",
+   "summary": "Why was William Tyndale’s English Bible so controversial, and how radical was Tyndale within the English Reformation? Historian Karl Gunther explores Tyndale’s translation of the New Testament, the influence of Martin Luther, his disputes with Thomas More and George Joye, and the controversial translation choices that challenged traditional understandings of the Church and its authority. ...",
+   "date": "2026-10-02",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Novo Testamento"
+   ]
   },
   {
    "title": "Review of Stroumsa, Dynamics of monotheism in late antiquity",
