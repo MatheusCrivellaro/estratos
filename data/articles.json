@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T03:55+00:00",
+ "updated": "2026-10-02T12:03+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -126,6 +126,17 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Mining and Merchants in Ancient Arabia",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/mining-and-merchants-in-ancient-arabia/",
+   "summary": "Archaeological work at the site of Al-Ma’mala in Al-Aqiq Governorate, Al-Baha (Saudi Arabia) is beginning to reveal a substantial early Islamic settlement associated with mining,",
+   "date": "2026-10-02",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "Understanding the Good Samaritan Parable",
    "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/archaeologists-biblical-scholars-works/understanding-the-good-samaritan-parable/",
