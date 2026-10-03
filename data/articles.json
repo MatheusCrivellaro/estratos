@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T03:40+00:00",
+ "updated": "2026-10-03T11:17+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -127,6 +127,32 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Mroczek, Hidden Scrolls, Buried Bible (Yale)",
+   "url": "http://paleojudaica.blogspot.com/2026/10/mroczek-hidden-scrolls-buried-bible-yale.html",
+   "summary": "NEW BOOK FROM YALE UNIVERSITY PRESS:Hidden Scrolls, Buried Bibles How We Discover the Sacred Past by Eva Mroczek 224 Pages, 5.50 × 8.50 in Hardcover 9780300250213 Published: Tuesday, 25 Aug 2026 $35.00 eBook 9780300292350 Published: Tuesday, 25 Aug 2026 $35.00 Out of Stock eBook 9780300292343 Published: Tuesday, 25 Aug 2026 $35.00 Out of Stock Description From the discovery of the",
+   "date": "2026-10-03",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Did Judas Iscariot Actually Exist? Or Was He “Made Up”?",
+   "url": "https://ehrmanblog.org/did-judas-iscariot-actually-exist-or-was-he-made-up/",
+   "summary": "Over the years on the blog whenever I have posted something about Judas Iscariot (as in my last post), I've had readers ask me whether he was a real person or, as some folk have it, he was made up by Christian story tellers who wanted to explain how Jesus ended up in the hands",
+   "date": "2026-10-03",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
+  },
   {
    "title": "Thrown in a Late Roman Jail",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/thrown-in-a-late-roman-jail/",
@@ -265,6 +291,20 @@
    "peer": false,
    "tags": [
     "Antigo Testamento"
+   ]
+  },
+  {
+   "title": "Milik’s Contribution to the Study of the Qumran Calendar",
+   "url": "https://doi.org/10.1163/15685179-bja10086",
+   "summary": "This article reexamines Józef T. Milik’s contribution to the study of the Qumran calendrical texts, highlighting aspects of his work that have not received sufficient scholarly attention. Beyond his influential publications, Milik played a decisive role in shaping the textual and material foundations of calendrical research through his early readings, fragment sorting, and reconstruction of scrolls from Cave 4. The study focuses on three interrelated dimensions of his activity: his reconstruction of calendrical content and long-term cycles, his preliminary readings as preserved in the card concordance, and his material reconstructions documented in the Palestinian Archaeological Museum (…",
+   "date": "2026-10-01",
+   "source": "Dead Sea Discoveries",
+   "authors": "Eshbal Ratzon, Naomi Hadad",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Manuscritos do Mar Morto"
    ]
   },
   {
