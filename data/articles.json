@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T13:40+00:00",
+ "updated": "2026-10-06T04:43+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -175,6 +175,17 @@
    ]
   },
   {
+   "title": "News from ASOR’s President and Looking for Your Input",
+   "url": "https://www.asor.org/news/2026/10/pres-report?utm_source=rss&utm_medium=rss&utm_campaign=news-from-asors-president-and-looking-for-your-input",
+   "summary": "News from ASOR’s President and Looking for Your Input October 5, 2026 Dear All, As our profession grows and changes, one of my highest priorities as ASOR president is to",
+   "date": "2026-10-05",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "Modern forensics reveals human sacrifice in ancient Egypt's royal burials",
    "url": "https://phys.org/news/2026-10-modern-forensics-reveals-human-sacrifice.html",
    "summary": "Over 500 years before the building of the Great Pyramid in Egypt, First Dynasty kings were buried in a tomb surrounded by many burials of household officials and artisans—many of which seem to have taken place at the same time, a suspiciously high number of simultaneous deaths.",
@@ -185,6 +196,80 @@
    "peer": false,
    "tags": [
     "Antigo Testamento",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Golden Treasure Trove Discovered at Hippos",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/golden-treasure-trove-discovered-at-hippos/",
+   "summary": "The metal detector chirped as archaeological volunteer Edie Lipsman passed it by a large stone. Although no one knew in that moment what Lipsman had",
+   "date": "2026-10-05",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Early Judaism and the Beginnings of Christianity: Common Roots and the Parting of the Ways, by Markus Tiwald",
+   "url": "https://doi.org/10.1163/15700631-tat00061",
+   "summary": "",
+   "date": "2026-10-05",
+   "source": "Journal for the Study of Judaism",
+   "authors": "Peter J. Tomson",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
+   "title": "Ancient Egyptians sacrificed pharaohs' servants so they could continue to serve their king in the afterlife, new study finds",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptians-sacrificed-pharaohs-servants-so-they-could-continue-to-serve-their-king-in-the-afterlife-new-study-finds",
+   "summary": "The ancient Egyptians practiced human sacrifice around 5,000 years ago, a new study finds.",
+   "date": "2026-10-05",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Adjusting the Past",
+   "url": "https://www.ancientjewreview.com/read/2026/10/5/adjusting-the-past",
+   "summary": "Nicolas-André Monsiau, Aspasia Conversing with Socrates and Alcibiades (1801), Musée Pouchkine [ Wikimedia ]. This essay was part of a 2026 NAPS Conference Book Review Panel devoted to Things Unseen: Essays on Evidence, Knowledge, and the Late Ancient World by Ellen Muehlberger. Read the full forum here . As I started reading Ellen’s book, a viral meme from a few years ago popped into my head: PhD student, circa 2020: “Here’s a limited argument I made based on years of specialized research. Hope it’s Okay!” Philosopher dude, circa 1770: “Here are some Thoughts I had in the Bath. They constitute Universal & Self-Evident Laws of Nature. FIGHT ME!”[1] It’s the philosopher’s spirit that…",
+   "date": "2026-10-05",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Judaísmo do Segundo Templo",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Who Are the Nephilim?",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/who-are-the-nephilim/",
+   "summary": "Who are the Nephilim? From where do the “heroes of old, the men of renown” come?",
+   "date": "2026-10-04",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Mesopotamian Fellowship Report: Ella Egberts",
+   "url": "https://www.asor.org/news/2026/10/mesopotamian-fellowship-report-egberts?utm_source=rss&utm_medium=rss&utm_campaign=mesopotamian-fellowship-report-ella-egberts",
+   "summary": "In 2025, Ella Egberts received an ASOR Mesopotamian Fellowship to continue archaeological research in the Iraqi Western Desert. During the field season, Ella and her team identified eight new Paleolithic sites in the Shbicha region, including stratified lithic remains that may help establish the first absolute chronological framework for Paleolithic material from the region. Read her report here.",
+   "date": "2026-10-04",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
     "Egito e Mesopotâmia"
    ]
   },
@@ -213,6 +298,20 @@
    "tags": [
     "Jesus histórico",
     "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "The Hidden History of Jerusalem’s Upper Room",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/the-hidden-history-of-jerusalems-upper-room/",
+   "summary": "Just outside Zion Gate in Jerusalem’s Old City sits a small building considered by many Christians to be the location of Jesus’s Last Supper, and",
+   "date": "2026-10-03",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Jesus histórico"
    ]
   },
   {
