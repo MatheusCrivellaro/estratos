@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:52+00:00",
+ "updated": "2026-10-07T22:56+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -38,6 +38,7 @@
   "Frontiers in Environmental Archaeology",
   "Gnosis",
   "Hyperboreus",
+  "INTERNATIONAL JOURNAL OF RELIGIOUS AND CULTURAL PRACTICE",
   "Infectious Diseases Now",
   "International Journal of African Innovation and Multidisciplinary Research",
   "International Journal of Constitutional Law",
@@ -203,6 +204,38 @@
    "kind": "revista",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Continuity and Disruption: An Analytical Evaluation of Paul’s Dual Relationship With Second Temple Judaism",
+   "url": "https://doi.org/10.56201/ijrcp.vol.11.no7.2026.pg22.29",
+   "summary": "This paper examines the apostle Paul’s complex relationship with Second Temple Judaism, arguing that it is best understood through a framework of both continuity and disruption rather than simple rejection or complete identification. Older interpretations, influenced by post Reformation theological categories, frequently portrayed Paul as abandoning a legalistic Judaism of works in favour of a gospel of grace. The recovery of the diversity, theological coherence, and covenantal character of Second Temple Judaism, particularly through E. P. Sanders’s concept of “covenantal nomism,” has significantly challenged this traditional paradigm. Against this background, the study analyses the…",
+   "date": "2026-10-07",
+   "source": "INTERNATIONAL JOURNAL OF RELIGIOUS AND CULTURAL PRACTICE",
+   "authors": "Bolaji Olagoke",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Paulo e as epístolas",
+    "Judaísmo do Segundo Templo",
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "A Farewell to the New Perspective on Paul – The Start of the New Quest For Paul",
+   "url": "https://bibleinterp.arizona.edu/articles/farewell-new-perspective-paul-start-new-quest-paul",
+   "summary": "A Farewell to the New Perspective on Paul – The Start of the New Quest For Paul melliott1 Wed, 10/07/2026 - 09:32 The New Perspective on Paul is challenged for underestimating differences between Jewish and Pauline understandings of human agency. Paul’s contrast between “letter” and “Spirit” is interpreted as locating salvation and fulfillment of the law entirely in Christ and the Spirit rather than human ability. See also Paul and Judaism: An Anthropological Approach (2nd edition; CPH, 2026). By Timo Laato Senior Lecturer Lutheran School of Theology in Gothenburg October 2026 Introduction Pauline scholarship entered a novel, unprecedented phase in 1977 with the publication of E. P.…",
+   "date": "2026-10-07",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas",
+    "Interpretação e teologia",
+    "Livros e eventos"
+   ]
   },
   {
    "title": "What Color Was Tekhelet?",
@@ -8103,6 +8136,20 @@
    "kind": "periodico",
    "peer": true,
    "tags": []
+  },
+  {
+   "title": "Always too Much, and Never Enough? Nordic Laws and the Bible",
+   "url": "https://doi.org/10.1163/15685152-20262005",
+   "summary": "This article examines the complex relationship between the Bible and Nordic law, focusing on its evolving legal reception in increasingly secular societies. Once foundational to legal and social frameworks, the Bible’s role in Nordic law today is fragmented and context-dependent. Drawing on examples from hate speech law, religious community regulations, asylum cases, and protections for sacred materials, the article explores how the Bible operates as an object of veneration, a source of internal rules for religious communities, and a contested text in legal debates. Unlike the “liberal” or “cultural” Bible identified by scholars like Yvonne Sherwood, the “legal Bible” lacks coherence,…",
+   "date": "2026-04-27",
+   "source": "Biblical Interpretation",
+   "authors": "Helge Årsheim",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Interpretação e teologia"
+   ]
   },
   {
    "title_pt": "O uso de πυρόω na Septuaginta e seu valor para <i>Ester</i>, adição D 5",
