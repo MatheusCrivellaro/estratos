@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T13:03+00:00",
+ "updated": "2026-10-08T23:11+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -95,6 +95,7 @@
   "ScienceDaily - Arqueologia",
   "St. Tikhons' University Review",
   "Stephanos Peer reviewed multilanguage scientific journal",
+  "Studi Slavistici",
   "Studia Biblica Slovaca",
   "Studia Paedagogica Ignatiana",
   "Studia Universitatis Babeș-Bolyai Sacra Scripta",
@@ -126,6 +127,19 @@
  ],
  "articles": [
   {
+   "title": "What Happened to Cain in the Bible?",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/what-happened-to-cain-in-the-bible/",
+   "summary": "In the Book of Genesis, we are told about Cain’s birth, his violent act of fratricide and his subsequent exile. We learn that he married and had descendants, but the Bible is strangely mute about his death.",
+   "date": "2026-10-08",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
+   ]
+  },
+  {
    "title": "Was Mary Magdalene the Actual Founder of Christianity?",
    "url": "https://ehrmanblog.org/was-mary-magdalene-the-actual-founder-of-christianity/",
    "summary": "In my last post I talked a bit about the relationship of / competition between Peter and Mary in early Christian traditions. Peter, of course, has traditionally been seen as the “rock” on which Christ built his church, the very foundation of Christianity (Matt. 16:18 – “You are Peter (Greek: petros) and upon this rock",
@@ -137,6 +151,30 @@
    "tags": [
     "Cristianismo primitivo",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "The Enduring Symbolism of Doves",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/the-enduring-symbolism-of-doves/",
+   "summary": "Few symbols have a tradition as long and as rich as the dove. Read about what it represents and how its use has been shared, adapted and reinterpreted across cultures and millennia to suit changing belief systems.",
+   "date": "2026-10-08",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Ring with Lighthouse of Alexandria Image Recovered",
+   "url": "https://archaeology.org/news/2026/10/08/ring-with-lighthouse-of-alexandria-image-recovered/",
+   "summary": "ALEXANDRIA, EGYPT—According to a report in La Brújula Verde, a bronze signet ring engraved with",
+   "date": "2026-10-08",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
    ]
   },
   {
@@ -389,7 +427,7 @@
   {
    "title": "ECS Fall Brown Bag: Beyond the Tenure Track",
    "url": "https://www.asor.org/news/2026/10/ecs-fall-brown-bag?utm_source=rss&utm_medium=rss&utm_campaign=ecs-fall-brown-bag-beyond-the-tenure-track",
-   "summary": "Early Career Scholars Fall Brown Bag: Beyond the Tenure Track Panel Discussion: Beyond the Tenure Track Join ASOR’s Early Career Scholars on October 16, 2026 at 12:00pm ET via Zoom for",
+   "summary": "Early Career Scholars Fall Brown Bag: Beyond the Tenure Track Panel Discussion: Beyond the Tenure Track What does an archaeology career look like outside a traditional academic appointment? Join ASOR’s",
    "date": "2026-10-06",
    "source": "ASOR",
    "category": "arqueologia",
@@ -6038,6 +6076,21 @@
    "peer": true,
    "tags": [
     "Escavações"
+   ]
+  },
+  {
+   "title": "The Polish Translation of the Historia Trium Regum, from a Textual Criticism Perspective",
+   "url": "https://doi.org/10.36253/studi_slavis-19348",
+   "summary": "The anonymous Polish translation of Johannes of Hildesheim’s Historia Trium Regum, as handed down in a copy dated 1544, has received substantial attention. Scholars, mainly Polish, have focused their attention on the phonetic and orthographic peculiarities of the transmitting manuscript, and more generally on the place of the translation in the literary culture of Poland as the Middle Ages arrived at their delayed ending. However, there has been little concerted effort at comparing the translation with the Latin text, above all accounting for the possibilities of alteration in the handwritten transmission of the Latin, although it has been noted that without this ‘original’ text it can be…",
+   "date": "2026-07-02",
+   "source": "Studi Slavistici",
+   "authors": "Marcello Piacentini",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Crítica textual",
+    "Línguas antigas"
    ]
   },
   {
