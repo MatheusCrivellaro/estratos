@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:53+00:00",
+ "updated": "2026-10-09T22:34+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -79,6 +79,7 @@
   "Nouvelle revue théologique",
   "Nova Religio",
   "Novum Testamentum",
+  "Old Testament Essays",
   "Open Journal of Science, Philosophy & Theology (ISSN: 3105-3041)",
   "PLOS One",
   "PaleoJudaica",
@@ -94,6 +95,7 @@
   "Revue Sens",
   "Revue des deux Mondes",
   "ScienceDaily - Arqueologia",
+  "Speculum",
   "St. Tikhons' University Review",
   "Stephanos Peer reviewed multilanguage scientific journal",
   "Studi Slavistici",
@@ -196,6 +198,19 @@
    "tags": []
   },
   {
+   "title": "Duane A. Garrett, Psalms 1-72 (POTC)",
+   "url": "https://readingacts.com/2026/10/09/duane-a-garrett-psalms-1-72-potc/",
+   "summary": "How do I find Scripture interpreted rabbinic literature?",
+   "date": "2026-10-09",
+   "source": "Reading Acts",
+   "category": "teologia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
+   ]
+  },
+  {
    "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on submerged island in Egypt",
    "url": "https://www.livescience.com/archaeology/ancient-egyptians/bronze-ring-with-lighthouse-of-alexandria-engraving-discovered-at-palace-on-submerged-island-in-egypt",
    "summary": "A bronze ring that depicts the Lighthouse of Alexandria has been discovered underwater in the remains of an ancient palace.",
@@ -207,6 +222,39 @@
    "tags": [
     "Egito e Mesopotâmia"
    ]
+  },
+  {
+   "title": "Advancing Marine Archaeology",
+   "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/arch-tech/advancing-marine-archaeology/",
+   "summary": "The oceans and seas are the last great frontier for Near Eastern archaeology. Year after year, the Mediterranean Sea yields rich new data from prehistory",
+   "date": "2026-10-09",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "2026 Student Paper Award",
+   "url": "https://www.asor.org/news/2026/10/student-paper-award?utm_source=rss&utm_medium=rss&utm_campaign=2026-student-paper-award",
+   "summary": "ASOR is accepting applications for the 2026 Student Paper Award. The deadline is November 4, 2026.",
+   "date": "2026-10-09",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "2026 Nominees for ASOR Board Elections",
+   "url": "https://www.asor.org/news/2026/09/board-nominees?utm_source=rss&utm_medium=rss&utm_campaign=2026-nominees-for-asor-board-elections",
+   "summary": "2026 NOMINEES FOR ASOR BOARD ELECTIONS Trustee Nominations Committee has selected six highly qualified members to stand for election for four open positions on the Board of Trustees. The Board",
+   "date": "2026-10-09",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": []
   },
   {
    "title": "What Happened to Cain in the Bible?",
@@ -977,6 +1025,18 @@
     "Judaísmo do Segundo Templo",
     "Egito e Mesopotâmia"
    ]
+  },
+  {
+   "title": "Conversion and the Contest of Creeds in Early Medieval Christianity",
+   "url": "https://doi.org/10.1086/743241",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "Speculum",
+   "authors": "James Halverson",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "Cave Paintings May Have Been Part of Mesoamerican Writing System",
@@ -6271,19 +6331,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Front matter",
-   "url": "https://doi.org/10.3366/swc.2026.0549",
-   "summary": "",
-   "date": "2026-07-01",
-   "source": "Studies in World Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -7083,6 +7130,56 @@
    "tags": []
   },
   {
+   "title": "The Abrahamic Call through Canonical Criticism: Genesis 12:1-9 and the Theological Reorientation of Scripture",
+   "url": "https://doi.org/10.17159/2312-3621/2026/v39n1a2",
+   "summary": "This study carries out an exegetical-theological analysis of Gen 12:1-9 through the canonical approach, highlighting the final form of the pericope as the locus of revelation and theological meaning. The canonical approach studies biblical passages within their canonical setting, taking into consideration the nature of their assigned authority. The study critiques the limitations of historical-critical approaches and proposes the canonical approach as a complementary hermeneutic that underscores theological coherence, intertextual resonance, and ecclesial relevance. The article argues that when Gen 12:1-9 is read from a canonical perspective, it manifests a coherent theological trajectory…",
+   "date": "2026-06-09",
+   "source": "Old Testament Essays",
+   "authors": "Michael Seheri",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Novo Testamento",
+    "Liturgia e cânon",
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "Septuagint Production and Reception: Conceptualising the LXX as 'African'",
+   "url": "https://doi.org/10.17159/2312-3621/2026/v39n1a9",
+   "summary": "This article reflects on the question of how we might understand the Septuagint to be 'African' and why such a designation is significant. African biblical scholarship has borrowed from African American biblical scholarship an interest in the Bible in Africa and as African. The article focuses on notions of African place, African identity, African production and African reception. The article undertakes an in-depth analysis of ancient African production and reception of the Septuagint, before turning to contemporary African reception, with a particular emphasis on socially engaged reception. The article understands that in contemporary LXX textual criticism production is reception,…",
+   "date": "2026-06-09",
+   "source": "Old Testament Essays",
+   "authors": "Gerald West",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Crítica textual",
+    "Septuaginta",
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "A Second Temple Priestly Elijah Tradition in Malachi",
+   "url": "https://doi.org/10.17159/2312-3621/2026/v39n1a4",
+   "summary": "This article demonstrates that the figures of Phineas and Elijah are conflated within the Hebrew Bible. This conflation occurs via literary connections between portrayals of Elijah in Kings and Phineas in Numbers. The conflation is shown to be assumed by the book of Malachi and is considered important for understanding key texts within the book of Malachi. This conflation makes sense of the eschatological Elijah tradition found in the appendix of Malachi which is otherwise unprecedented within the Hebrew Bible. The resulting priestly Elijah via the conflation of the prophet with the priest Phineas is shown to have rhetorical power for the book of Malachi which castigates corrupt priests…",
+   "date": "2026-06-09",
+   "source": "Old Testament Essays",
+   "authors": "Matthew Montgomery",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo",
+    "Línguas antigas",
+    "Interpretação e teologia"
+   ]
+  },
+  {
    "title_pt": "Yerushalmi de Vidas e a reputação dos Tannaim",
    "summary_pt": "“Moulie revela um novo mundo de distinções entre a literatura Yerushalmi e a literatura Tannaítica. “",
    "title": "Vidas’ Yerushalmi and the Reputation of the Tannaim",
@@ -7556,6 +7653,19 @@
    "tags": [
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Matéria inicial",
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
