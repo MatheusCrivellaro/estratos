@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:31+00:00",
+ "updated": "2026-10-09T12:53+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -17,6 +17,7 @@
   "Athens Journal of History",
   "Australian Energy Producers Journal",
   "Babcock University Journal of History and International Studies (BUJOHIS)",
+  "Berliner Anwaltsblatt",
   "Bible & Interpretation",
   "Biblica et Patristica Thoruniensia",
   "Biblical Archaeology Society",
@@ -127,6 +128,87 @@
  ],
  "articles": [
   {
+   "title": "Where Christianity Started, And Why – Platinum Guest Post by Peter van Kan",
+   "url": "https://ehrmanblog.org/where-christianity-started-and-why-platinum-guest-post-by-peter-van-kan/",
+   "summary": "I am pleased to publish this Platinum post by Peter van Kan, in which he explores why Jesus would come to think he was the messiah, and makes the case that he is best understood as a Jewish mystic, largely misunderstood by the writers of the Gospels. Interesting thesis! What do you think? Feel",
+   "date": "2026-10-09",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Taylor Swift’s Babylon",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/taylor-swifts-babylon/",
+   "summary": "Taylor Swift released a new song called “Babylon” on her album The Life of a Showgirl: The Encore. This puts what is arguably the most",
+   "date": "2026-10-09",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Philo's apathetic theology",
+   "url": "http://paleojudaica.blogspot.com/2026/10/philos-apathetic-theology.html",
+   "summary": "THE BIBLE AND INTERPRETATION:Philo of Alexandria’s Theology and Soteriology: Tensions, Ambiguities, and the Experience of God’s Goodness and Mercy Philo of Alexandria combines Jewish scripture and Greek philosophy in a theology marked by tensions between divine transcendence and intimate human encounter. An apparently unknowable and impassible God also loves, shows mercy, and shares divine",
+   "date": "2026-10-09",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Judaísmo do Segundo Templo",
+    "Línguas antigas",
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "Old photos of late-antique church epitaphs from Shivta",
+   "url": "http://paleojudaica.blogspot.com/2026/10/old-photos-of-late-antique-church.html",
+   "summary": "GREEK FUNERARY EPIGRAPHY: Ancient Greek Inscriptions Reveal Secrets of Elite Byzantine Burials in Israel (Abdul Moeed, Greek Reporter).Ancient Greek inscriptions on grave markers are revealing how Byzantine burials reflected power and family ties at Shivta, a former Christian settlement in Israel’s Negev Desert. Two rediscovered photographs from a 1930s excavation show where tombs were located",
+   "date": "2026-10-09",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Epigrafia e inscrições",
+    "Escavações",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Nabel, \"Fake Prostration in Late Antique Literature and the Ambiguities of Domination\"",
+   "url": "http://paleojudaica.blogspot.com/2026/10/nabel-fake-prostration-in-late-antique.html",
+   "summary": "BIBLIOGRAPHIA IRANICA: Fake Prostration in Late Antique Literature and the Ambiguities of Domination. Notice of a New Article: Nabel, Jake. 2026. \"Fake Prostration in Late Antique Literature and the Ambiguities of Domination.\" Studies in Late Antiquity 10 (3). 265-293. Follow the link for the abstract and a link to the full text of the article. Yes, ancient Judaism is involved. Visit",
+   "date": "2026-10-09",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on submerged island in Egypt",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/bronze-ring-with-lighthouse-of-alexandria-engraving-discovered-at-palace-on-submerged-island-in-egypt",
+   "summary": "A bronze ring that depicts the Lighthouse of Alexandria has been discovered underwater in the remains of an ancient palace.",
+   "date": "2026-10-09",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
    "title": "What Happened to Cain in the Bible?",
    "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/what-happened-to-cain-in-the-bible/",
    "summary": "In the Book of Genesis, we are told about Cain’s birth, his violent act of fratricide and his subsequent exile. We learn that he married and had descendants, but the Bible is strangely mute about his death.",
@@ -188,6 +270,21 @@
    "peer": false,
    "tags": [
     "Línguas antigas",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Interview mit Pauline Schönbach",
+   "url": "https://doi.org/10.37307/j.2510-5116.2026.10.22",
+   "summary": "",
+   "date": "2026-10-08",
+   "source": "Berliner Anwaltsblatt",
+   "authors": "Angelique Semmler",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Paulo e as epístolas",
     "Livros e eventos"
    ]
   },
