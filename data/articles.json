@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:16+00:00",
+ "updated": "2026-10-12T14:37+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -37,6 +37,7 @@
   "Filozoficzne Aspekty Genezy",
   "Folia Orientalia",
   "Frontiers in Environmental Archaeology",
+  "GEM: Germanistica Euromediterrae",
   "Gnosis",
   "Hyperboreus",
   "INTERNATIONAL JOURNAL OF RELIGIOUS AND CULTURAL PRACTICE",
@@ -67,6 +68,7 @@
   "Journal of History Research",
   "Journal of Language, Culture, and Religion",
   "Journal of Mediterranean Archaeology",
+  "Judaica. Neue digitale Folge",
   "Khoa Học Công Giáo và Đời Sống",
   "Levant",
   "Live Science",
@@ -75,6 +77,7 @@
   "Madang: Journal of Contextual Theology",
   "Mediterranea, International Journal on the Transfer of Knowledge",
   "Modern Theology",
+  "NTT Journal for Theology and the Study of Religion",
   "Near Eastern Archaeology",
   "Nouvelle revue théologique",
   "Nova Religio",
@@ -129,6 +132,70 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "What Is the Bar-Kokhba Revolt?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/what-is-bar-kokhba-revolt/",
+   "summary": "In the early second century CE, the southern Levant contained a mixture of peoples, languages, and legal systems. Judeans, Nabataeans, Greeks, Samaritans, and Roman officials",
+   "date": "2026-10-12",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Review of Raja & Seland (eds.), Palmyra, the Roman empire, and the third century crisis",
+   "url": "http://paleojudaica.blogspot.com/2026/10/review-of-raja-seland-eds-palmyra-roman.html",
+   "summary": "BRYN MAYR CLASSICAL REVIEW: Palmyra, the Roman empire, and the third century crisis: zooming in and scaling up from the evidence.Rubina Raja, Eivind Heldaas Seland, Palmyra, the Roman empire, and the third century crisis: zooming in and scaling up from the evidence. Oriens et occidens, 46. Stuttgart: Franz Steiner Verlag, 2025. Pp. 323. ISBN 9783515140218. Review by Marco Ferrario, University",
+   "date": "2026-10-12",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Kacper Ziemba und Frederik Poulsen, Hg. <i>Judeans in the Land of the Nile: Papers on Achaemenid Egypt, Elephantine, and the Hebrew Bible Presented in Copenhagen, August 19–20, 2024</i>. Ägypten und Altes Testament 136, Zaphon 2026",
+   "url": "https://doi.org/10.36950/jndf.2026.20",
+   "summary": "",
+   "date": "2026-10-12",
+   "source": "Judaica. Neue digitale Folge",
+   "authors": "Stefan Bojowald",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Egito e Mesopotâmia",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Israel Museum: “Tiny Footprints: Childhood in the Ancient Land of Israel”",
+   "url": "http://paleojudaica.blogspot.com/2026/10/israel-museum-tiny-footprints-childhood.html",
+   "summary": "EXHIBITION: From birth to play, new exhibition explores childhood in ancient Israel. Israel Museum traces the lives of children through 500,000 years of artifacts: ‘What’s amazing about these toys is how similar they are to today’ (Zev Stub, Times of Israel).The exhibition brings together hundreds of artifacts from 11 institutions, tracing the lives of children in the Land of Israel and",
+   "date": "2026-10-12",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "A new section of Jerusalem's Lower Aqueduct uncovered",
+   "url": "http://paleojudaica.blogspot.com/2026/10/a-new-section-of-jerusalems-lower.html",
+   "summary": "ANCIENT INFRASTRUCTURE: 300-meter stretch of ancient aqueduct uncovered during planning for new Jerusalem neighborhood. (Zev Stub, Times of Israel).Archaeologists have uncovered a 300-meter (1,000-foot) stretch of a 2,000-year-old aqueduct that carried water from springs south of Bethlehem to Jerusalem’s Temple Mount, shedding new light on one of the ancient city’s most ambitious engineering",
+   "date": "2026-10-12",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém"
+   ]
+  },
   {
    "title": "Olanrewaju, The Compositional History of the Book of Kings (Mohr Siebeck)",
    "url": "http://paleojudaica.blogspot.com/2026/10/olanrewaju-compositional-history-of.html",
@@ -1014,6 +1081,21 @@
    "peer": false,
    "tags": [
     "Jesus histórico"
+   ]
+  },
+  {
+   "title": "The Modification of the Image of Job in 11Q10 and Its Implications for Qumran Studies",
+   "url": "https://doi.org/10.5117/ntt2026.2.003.luth",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "NTT Journal for Theology and the Study of Religion",
+   "authors": "Rebekka Luther",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Manuscritos do Mar Morto",
+    "Antigo Testamento"
    ]
   },
   {
@@ -6787,6 +6869,20 @@
    "tags": [
     "Antigo Testamento",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Jerusalem, nun weine – zu Walthers Kreuzlied L 76,22 Jerusalem, now weep – remarks on Walther’s crusade song L 76,22",
+   "url": "https://doi.org/10.15291/gem.5145",
+   "summary": "Eine rhetorische Analyse von L 76,22 zeigt, dass die im Oeuvre Walthers einmalige Apostrophe des personifizierten Jerusalem das entscheidende Alleinstellungsmerkmal des Textes ist. Die Stadt wird zum Weinen angesichts ihrer trostlosen Lage aufgefordert – Personifikation, Apostrophe und Allegorese machen sie zur Scharnierstelle zwischen Ich und Publikum und damit zu einem Katalysator der Kreuzzugsaufforderung, deren Ziel und Zweck in besonders kunstvoller, auf rhetorische Präsenzeffekte setzender Weise vor Augen geführt wird.",
+   "date": "2026-06-25",
+   "source": "GEM: Germanistica Euromediterrae",
+   "authors": "Stefan Seeber",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Jerusalém"
    ]
   },
   {
