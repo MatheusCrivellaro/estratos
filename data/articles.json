@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:31+00:00",
+ "updated": "2026-10-13T13:50+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -131,6 +131,73 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "What Did Herod’s Temple in Jerusalem Look Like?",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/temple-at-jerusalem/what-did-herods-temple-in-jerusalem-look-like/",
+   "summary": "Fifty years ago, leading Israeli scholar Michael Avi-Yonah constructed a now-iconic model of Herod’s Temple in Jerusalem. How accurate is it?",
+   "date": "2026-10-13",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém"
+   ]
+  },
+  {
+   "title": "The Stones of Herod’s Temple Reveal Temple Mount History",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/temple-at-jerusalem/the-stones-of-herods-temple-reveal-temple-mount-history/",
+   "summary": "Building and furnishing the Herodian Temple involved more than stone quarrying and laying, but the stones and foundations of Herod’s Temple can give us clues to Temple Mount history.",
+   "date": "2026-10-13",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém"
+   ]
+  },
+  {
+   "title": "On the Roman Sibylline Books",
+   "url": "http://paleojudaica.blogspot.com/2026/10/on-roman-sibylline-books.html",
+   "summary": "THE KIWI HELLENIST BLOG: Sibyls and Sibylline oracles. 2. The Sibylline books.The Sibylline books weren’t primarily books of predictions: they were instructions for rituals, which also mentioned predictions in passing. The idea seems to have been that, when required, priests might choose a ritual from the books, then perform that ritual, to ensure purity, or ward off evil. Some extracts were made",
+   "date": "2026-10-13",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Greek influence on Coptic",
+   "url": "http://paleojudaica.blogspot.com/2026/10/greek-influence-on-coptic.html",
+   "summary": "COPTIC WATCH: How Greek Shaped Coptic, Egypt’s Final Ancient Language (Abdul Moeed, Greek Reporter).A recent study examines how centuries of contact between Greek and Egypt’s native language shaped Coptic, the final stage of ancient Egyptian, influencing both its structure and vocabulary. In a study published in the Journal of Greek Linguistics, Sonja Dahlgren of the University of Helsinki",
+   "date": "2026-10-13",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Cristianismo primitivo",
+    "Egito e Mesopotâmia",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Forthcoming: Long, 40 Questions about Apocrypha and Pseudepigrapha (Kregel)",
+   "url": "http://paleojudaica.blogspot.com/2026/10/forthcoming-long-40-questions-about.html",
+   "summary": "READING ACTS: Book Announcement: 40 Questions about Apocrypha and Pseudepigrapha (Philip J. Long).Some regular readers of Reading Acts have noticed I have slowed down a bit this year. Here’s why: I have been writing a book on the Apocrypha and pseudepigrapha for Kregel’s 40 Questions series. The book is now finished, edited, (nearly) printed, and will be available mid-November. Kregel tells me",
+   "date": "2026-10-13",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Cristianismo primitivo",
+    "Epigrafia e inscrições",
+    "Livros e eventos"
+   ]
+  },
   {
    "title": "What Is the Bar-Kokhba Revolt?",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/what-is-bar-kokhba-revolt/",
@@ -1154,6 +1221,22 @@
    ]
   },
   {
+   "title": "Ritual Studies and the Study of the Hebrew Bible",
+   "url": "https://doi.org/10.1177/1476993x261420821",
+   "summary": "The interdisciplinary nature of ritual studies has drawn contributions from many fields, including biblical studies. This article offers a critical overview of scholarship that integrates ritual studies into the interpretation of the Hebrew Bible. It opens with a brief history of ritual studies, tracing developments from early myth and ritual theories to socio-functional, symbolic, and performative approaches. The central section examines how these models have been appropriated over the last two decades in interpretations of Hebrew Bible passages that describe, prescribe, or envision ritual practices. The article categorizes this scholarship, assesses its methodological strengths and…",
+   "date": "2026-10-01",
+   "source": "Currents in Biblical Research",
+   "authors": "Goran Zivkovic",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Crítica textual",
+    "Línguas antigas"
+   ]
+  },
+  {
    "title": "Primordial mythology in the ANE and in the Bible",
    "url": "http://paleojudaica.blogspot.com/2026/10/primordial-mythology-in-ane-and-in-bible.html",
    "summary": "PROF. SHAWNA DOLANSKY: Five Ancient Near Eastern Myths Behind the Bible’s Three Creation Accounts. (TheTorah.com).The two creation stories in Genesis (1 and 2–3), and the hidden creation account in Psalms and the Prophets, can be read without their ancient Near Eastern context. But to understand what the biblical authors are responding to, revising, and arguing against, we need to read them",
@@ -1258,6 +1341,19 @@
     "Liturgia e cânon",
     "Livros e eventos"
    ]
+  },
+  {
+   "title_pt": "Abreviações",
+   "title": "Abbreviations",
+   "url": "https://doi.org/10.1177/1476993x261496719",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "Currents in Biblical Research",
+   "authors": "",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "Slaughter and Human Sacrifice: Understanding Tales of the Hebrew Bible",
@@ -6525,6 +6621,19 @@
    ]
   },
   {
+   "title_pt": "Matéria inicial",
+   "title": "Front matter",
+   "url": "https://doi.org/10.3366/swc.2026.0549",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Studies in World Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -7863,19 +7972,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Frontmatter",
-   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
    "summary_pt": "O artigo examina a reinterpretação moderna de João Hus, realizada em diversas etapas por Lutero e seus seguidores. Originalmente condenado como herege e queimado na fogueira em 1415, o legado de Hus passou por uma reinterpretação significativa durante a Reforma. Como resultado, Hus foi estilizado de herege para profeta. O confronto de Martinho Lutero com as ideias de Hus, particularmente após a Disputa de Leipzig de 1519, marcou um ponto de viragem e levou Hus a ser homenageado como precursor e santo pelos protestantes. Do lado católico, por outro lado, foram feitas tentativas de desacreditar Lutero através do seu compromisso com Hus. Na década de 1530, Lutero e seus seguidores elevaram Hus…",
    "title": "From Heretic to Prophet: Two Milestones in the Early Modern Re-evaluation of John Hus (16th – Early 18th Century)",
@@ -7944,19 +8040,6 @@
     "Cristianismo primitivo",
     "Línguas antigas"
    ]
-  },
-  {
-   "title_pt": "Abreviações",
-   "title": "Abbreviations",
-   "url": "https://doi.org/10.1177/1476993x261460526",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Currents in Biblical Research",
-   "authors": "",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "9. Antigos Textos Judaicos (Incluindo os Manuscritos do Mar Morto)",
