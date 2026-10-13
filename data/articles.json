@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:50+00:00",
+ "updated": "2026-10-13T22:40+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -96,6 +96,7 @@
   "Religious Studies Review",
   "Revue Sens",
   "Revue des deux Mondes",
+  "Scandinavian Journal of the Old Testament",
   "ScienceDaily - Arqueologia",
   "Speculum",
   "St. Tikhons' University Review",
@@ -169,6 +170,22 @@
    "tags": []
   },
   {
+   "title": "Hasmonean Legitimacy Texts in the Hebrew Bible",
+   "url": "https://doi.org/10.1080/09018328.2026.2742841",
+   "summary": "",
+   "date": "2026-10-13",
+   "source": "Scandinavian Journal of the Old Testament",
+   "authors": "Israel Finkelstein",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo",
+    "Línguas antigas"
+   ]
+  },
+  {
    "title": "Greek influence on Coptic",
    "url": "http://paleojudaica.blogspot.com/2026/10/greek-influence-on-coptic.html",
    "summary": "COPTIC WATCH: How Greek Shaped Coptic, Egypt’s Final Ancient Language (Abdul Moeed, Greek Reporter).A recent study examines how centuries of contact between Greek and Egypt’s native language shaped Coptic, the final stage of ancient Egyptian, influencing both its structure and vocabulary. In a study published in the Journal of Greek Linguistics, Sonja Dahlgren of the University of Helsinki",
@@ -182,6 +199,17 @@
     "Egito e Mesopotâmia",
     "Línguas antigas"
    ]
+  },
+  {
+   "title": "Great News For the Blog! A Significant Milestone",
+   "url": "https://ehrmanblog.org/great-news-for-the-blog-a-significant-milestone/",
+   "summary": "I’ve got some exciting news about how we’re doing on the blog this year – with respect to funds raised, and in connection with a series of posts I did last year. The funds, as you’ll see below, are significant. To this point, in terms of the monies we’ve given to our charities, this is",
+   "date": "2026-10-13",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
   },
   {
    "title": "Forthcoming: Long, 40 Questions about Apocrypha and Pseudepigrapha (Kregel)",
@@ -1721,6 +1749,23 @@
    "peer": true,
    "tags": [
     "Antigo Testamento"
+   ]
+  },
+  {
+   "title": "Criticism, Crisis, and Krisis: Reading Questions for Critics of the Bible Today",
+   "url": "https://doi.org/10.1163/15685152-bja10086",
+   "summary": "Forty years since Elisabeth Schüssler Fiorenza’s 1987 SBL Presidential Address, we see a retreat from reading ideology and a recommendation to emphasize reading pleasure by a number of prominent scholars in the fields specifically mentioned by Schüssler Fiorenza to describe the interdisciplinary turn in biblical studies: “literary studies and philosophical hermeneutics.” After attributing this change to neoliberal influence and disillusionment about scholarship’s potential for social change, I propose that critics of the Bible today must recognize that (1) reading ideology brings pleasure; (2) acknowledge and address the present neoliberal reality; and (3) commit to connecting epistemology…",
+   "date": "2026-09-28",
+   "source": "Biblical Interpretation",
+   "authors": "Tat-siong Benny Liew",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Crítica textual",
+    "Judaísmo do Segundo Templo",
+    "Interpretação e teologia",
+    "Livros e eventos"
    ]
   },
   {
@@ -6621,19 +6666,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Front matter",
-   "url": "https://doi.org/10.3366/swc.2026.0549",
-   "summary": "",
-   "date": "2026-07-01",
-   "source": "Studies in World Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -7970,6 +8002,19 @@
    "tags": [
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Matéria inicial",
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
