@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T14:37+00:00",
+ "updated": "2026-10-13T00:31+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -36,7 +36,6 @@
   "FRONTIERS OF LAW JOURNAL",
   "Filozoficzne Aspekty Genezy",
   "Folia Orientalia",
-  "Frontiers in Environmental Archaeology",
   "GEM: Germanistica Euromediterrae",
   "Gnosis",
   "Hyperboreus",
@@ -135,7 +134,7 @@
   {
    "title": "What Is the Bar-Kokhba Revolt?",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/what-is-bar-kokhba-revolt/",
-   "summary": "In the early second century CE, the southern Levant contained a mixture of peoples, languages, and legal systems. Judeans, Nabataeans, Greeks, Samaritans, and Roman officials",
+   "summary": "In the early second century CE, the southern Levant was home to a diverse population of Judeans, Nabataeans, Greeks, Samaritans, and others, whose languages, customs,",
    "date": "2026-10-12",
    "source": "Biblical Archaeology Society",
    "category": "arqueologia",
@@ -184,6 +183,20 @@
    "tags": []
   },
   {
+   "title": "Initial Thoughts on the 2026 ‘Jubilee Edition’ of the RP Byzantine Text",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/10/initial-thoughts-on-2026-jubilee.html",
+   "summary": "According to the preface, the 2026 edition of Maurice Robinson and William Pierpont’s New Testament in the Original Text: Byzantine Textform constitutes the fourth RP edition and marks the 50th anniversary of Robinson’s collaboration with Pierpont—hence the “jubilee” edition. The increased appreciation for the Byz text by reasoned eclectics is described as “a previously unheard level of commendation” and is given as part of the justification for this new edition (v). What follows is a short review, mostly noting what’s new or different. Comparison of the RP 2005, 2026, and 2018. Physical aspects Unlike the 2018 revision, this edition is hardbound but without a dust jacket. The binding is…",
+   "date": "2026-10-12",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Crítica textual"
+   ]
+  },
+  {
    "title": "A new section of Jerusalem's Lower Aqueduct uncovered",
    "url": "http://paleojudaica.blogspot.com/2026/10/a-new-section-of-jerusalems-lower.html",
    "summary": "ANCIENT INFRASTRUCTURE: 300-meter stretch of ancient aqueduct uncovered during planning for new Jerusalem neighborhood. (Zev Stub, Times of Israel).Archaeologists have uncovered a 300-meter (1,000-foot) stretch of a 2,000-year-old aqueduct that carried water from springs south of Bethlehem to Jerusalem’s Temple Mount, shedding new light on one of the ancient city’s most ambitious engineering",
@@ -194,6 +207,21 @@
    "peer": false,
    "tags": [
     "Jerusalém"
+   ]
+  },
+  {
+   "title": "The Emmaus Trail",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/the-emmaus-trail/",
+   "summary": "In this post, Henri Gourinard, master tour guide and lecturer at the Polis Institute in Jerusalem, describes the competing views on the location of Emmaus,",
+   "date": "2026-10-11",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Crítica textual",
+    "Livros e eventos"
    ]
   },
   {
@@ -234,6 +262,20 @@
    "peer": false,
    "tags": [
     "Jesus histórico"
+   ]
+  },
+  {
+   "title": "The Destruction of Pompeii—God’s Revenge?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/the-destruction-of-pompeii-gods-revenge/",
+   "summary": "The eruption of Mt. Vesuvius destroyed the opulent vacation destinations of Roman elites in August 79 C.E.—almost exactly nine years after Roman troops destroyed the Temple in Jerusalem. Did this seem like more than mere coincidence to the ancients?",
+   "date": "2026-10-10",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Epigrafia e inscrições"
    ]
   },
   {
@@ -6483,19 +6525,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Front matter",
-   "url": "https://doi.org/10.3366/swc.2026.0549",
-   "summary": "",
-   "date": "2026-07-01",
-   "source": "Studies in World Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -7834,6 +7863,19 @@
    ]
   },
   {
+   "title_pt": "Matéria inicial",
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
    "summary_pt": "O artigo examina a reinterpretação moderna de João Hus, realizada em diversas etapas por Lutero e seus seguidores. Originalmente condenado como herege e queimado na fogueira em 1415, o legado de Hus passou por uma reinterpretação significativa durante a Reforma. Como resultado, Hus foi estilizado de herege para profeta. O confronto de Martinho Lutero com as ideias de Hus, particularmente após a Disputa de Leipzig de 1519, marcou um ponto de viragem e levou Hus a ser homenageado como precursor e santo pelos protestantes. Do lado católico, por outro lado, foram feitas tentativas de desacreditar Lutero através do seu compromisso com Hus. Na década de 1530, Lutero e seus seguidores elevaram Hus…",
    "title": "From Heretic to Prophet: Two Milestones in the Early Modern Re-evaluation of John Hus (16th – Early 18th Century)",
@@ -8915,22 +8957,6 @@
    "date": "2026-04-17",
    "source": "Biblical Interpretation",
    "authors": "Richard Pleijel",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Escavações"
-   ]
-  },
-  {
-   "title_pt": "Tecnologia de abate e adoção de metal no sul do Levante da Idade do Bronze: evidências SEM de Tell Aphek, Israel",
-   "summary_pt": "Pesquisas zooarqueológicas recentes sugerem que a transição das ferramentas de corte de pedra para as de metal no sul do Levante ocorreu durante ou após a Idade Média do Bronze e foi acompanhada por mudanças nas práticas de corte. No entanto, poucos conjuntos zooarqueológicos grandes e bem datados que abrangem a Idade do Bronze foram analisados ​​sistematicamente, limitando a nossa compreensão de quando e como ocorreu esta transição tecnológica. Este estudo investiga a evolução da tecnologia de abate usando dados zooarqueológicos recentemente analisados ​​da Idade do Bronze Tell Aphek (Antipatris), Israel. Tell Aphek, um assentamento urbano proeminente continuamente habitado desde o início da Idade do Bronze, é um local ideal…",
-   "title": "Butchering technology and metal adoption in the Bronze Age southern Levant: SEM evidence from Tell Aphek, Israel",
-   "url": "https://doi.org/10.3389/fearc.2026.1770900",
-   "summary": "Recent zooarchaeological research suggests that the transition from stone to metal butchering tools in the southern Levant occurred during or after the Middle Bronze Age and was accompanied by changes in butchering practices. However, few large and well-dated zooarchaeological assemblages that span the Bronze Ages have been systematically analyzed, limiting our understanding of when and how this technological transition occurred. This study investigates the evolution of butchering technology using newly analyzed zooarchaeological data from Bronze Age Tell Aphek (Antipatris), Israel. Tell Aphek, a prominent urban settlement continuously inhabited since the Early Bronze Age, is an ideal site…",
-   "date": "2026-04-15",
-   "source": "Frontiers in Environmental Archaeology",
-   "authors": "Jeremy A. Beller, Haskel J. Greenfield",
    "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
