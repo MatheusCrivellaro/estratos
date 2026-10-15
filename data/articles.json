@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:13+00:00",
+ "updated": "2026-10-15T16:39+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -31,6 +31,7 @@
   "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Currents in Biblical Research",
   "Dead Sea Discoveries",
+  "Digital Humanities in the Nordic and Baltic Countries Publications",
   "European Judaism",
   "Evangelical Textual Criticism",
   "FRONTIERS OF LAW JOURNAL",
@@ -41,6 +42,7 @@
   "Hyperboreus",
   "INTERNATIONAL JOURNAL OF RELIGIOUS AND CULTURAL PRACTICE",
   "Infectious Diseases Now",
+  "Integrated Biblical and Theological Studies",
   "International Journal of African Innovation and Multidisciplinary Research",
   "International Journal of Constitutional Law",
   "International Journal of Historical Archaeology",
@@ -134,6 +136,62 @@
  ],
  "articles": [
   {
+   "title": "Where Are the Hanging Gardens of Babylon?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/hanging-gardens/",
+   "summary": "Where are the Hanging Gardens of Babylon? Today, the exact locations of six of the seven ancient Wonders of the World are known. Yet, the",
+   "date": "2026-10-15",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Sifting Project to publish the Asayahu seal",
+   "url": "http://paleojudaica.blogspot.com/2026/10/sifting-project-to-publish-asayahu-seal.html",
+   "summary": "HEBREW EPIGRAPHY: Groundbreaking Temple Mount seal find to be published. Temple Mount Sifting Project faces a backlog, with tons of debris still awaiting examination (Dave Gordon, JNS).A study of a First Temple-period seal impression that may be connected to an official in the biblical account of King Josiah is expected to appear in the Israel Exploration Journal by the end of 2026, according to",
+   "date": "2026-10-15",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Epigrafia e inscrições",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Reimagining the Dead Sea Scrolls: A Position Paper",
+   "url": "https://doi.org/10.5617/dhnbpub.13100",
+   "summary": "The Dead Sea Scrolls are imagined as scrolls and cataloged as manuscripts but consist, for the most part, of scattered and minuscule fragments. In this article, we will propose a new physical object-based ontology that takes the smallest indivisible units, i.e., the physical fragments, as the point of departure. This is a new way of approaching the Dead Sea Scrolls, contrary to the current perspective where all the objects are dealt with as scrolls or parts of scrolls. By using knowledge graph, we will illustrate how the fragile and changing nature of the fragments -- a fundamental feature of these objects -- can be accounted for and visualised. These aspects are impossible to keep track…",
+   "date": "2026-10-15",
+   "source": "Digital Humanities in the Nordic and Baltic Countries Publications",
+   "authors": "Årstein Justnes, Hilda Deborah",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Manuscritos do Mar Morto",
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "Manuscript mythwashing mysteries",
+   "url": "http://paleojudaica.blogspot.com/2026/10/manuscript-mythwashing-mysteries.html",
+   "summary": "ANCIENT JEW REVIEW: Mythwashing and the Two Meanings of Mystery in Manuscript Discovery Stories (Eva Mroczek).Hidden Scrolls, Buried Bibles: How We Discover the Sacred Past. Yale University Press, 2026. ... The discovery story is a genre with conventional tropes: animal guides, abandoned caves, untrustworthy locals who know the way but threaten the discoveries, and a new world of ancient",
+   "date": "2026-10-15",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
    "title": "How Much Reward Do You Want? The Tiers of Heaven",
    "url": "https://ehrmanblog.org/the-widely-searated-levels-of-glory-in-heaven/",
    "summary": "I have become deeply interested in the question of whether Jesus thought that people should be considered equally and treated as equals, and that has led to my ponderings on Jesus’ view of the afterlife for those who are “saved.” Will everyone in the future kingdom of God be treated equally? That made me reflect",
@@ -145,6 +203,30 @@
    "tags": [
     "Jesus histórico",
     "Israel antigo"
+   ]
+  },
+  {
+   "title": "Alternative Facts: Domitian’s Persecution of Christians",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/domitian-persecution-of-christians/",
+   "summary": "“Alternative facts” and “fake news” are not just a contemporary phenomenon. On occasion ancient writers similarly tried to spin their version of the truth. One such claim was that Roman emperor Domitian was a great persecutor of Christians.",
+   "date": "2026-10-15",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "A New Quest For Paul? We'll see.",
+   "url": "http://paleojudaica.blogspot.com/2026/10/a-new-quest-for-paul-well-see.html",
+   "summary": "THE BIBLE AND INTERPRETATION:A Farewell to the New Perspective on Paul – The Start of the New Quest For Paul The New Perspective on Paul is challenged for underestimating differences between Jewish and Pauline understandings of human agency. Paul’s contrast between “letter” and “Spirit” is interpreted as locating salvation and fulfillment of the law entirely in Christ and the Spirit rather than",
+   "date": "2026-10-15",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas"
    ]
   },
   {
@@ -186,7 +268,7 @@
   },
   {
    "title": "FOA Webinar Panel: From Tunis to Tataouine",
-   "url": "https://www.asor.org/news/2026/10/webinar-tunisia?utm_source=rss&utm_medium=rss&utm_campaign=foa-webinar-panel-from-tunis-to-tataouine",
+   "url": "https://www.asor.org/news/2026/10/webinar-tunisia",
    "summary": "FOA Webinars - \"From Tunis to Tataouine: ASOR’s Cultural Heritage Partnerships in Tunisia\" on October 28, 2026 at 1pm ET.",
    "date": "2026-10-14",
    "source": "ASOR",
@@ -623,7 +705,7 @@
   },
   {
    "title": "2026 Student Paper Award",
-   "url": "https://www.asor.org/news/2026/10/student-paper-award?utm_source=rss&utm_medium=rss&utm_campaign=2026-student-paper-award",
+   "url": "https://www.asor.org/news/2026/10/student-paper-award",
    "summary": "ASOR is accepting applications for the 2026 Student Paper Award. The deadline is November 4, 2026.",
    "date": "2026-10-09",
    "source": "ASOR",
@@ -634,8 +716,8 @@
   },
   {
    "title": "2026 Nominees for ASOR Board Elections",
-   "url": "https://www.asor.org/news/2026/09/board-nominees?utm_source=rss&utm_medium=rss&utm_campaign=2026-nominees-for-asor-board-elections",
-   "summary": "2026 NOMINEES FOR ASOR BOARD ELECTIONS Trustee Nominations Committee has selected six highly qualified members to stand for election for four open positions on the Board of Trustees. The Board",
+   "url": "https://www.asor.org/news/2026/09/board-nominees",
+   "summary": "2026 NOMINEES FOR ASOR BOARD ELECTIONS Trustee Nominations Committee has selected six highly qualified members to stand for election for four open positions on the Board of Trustees. The Board sets the direction for ASOR and provides oversight for our …",
    "date": "2026-10-09",
    "source": "ASOR",
    "category": "arqueologia",
@@ -8440,6 +8522,18 @@
     "Línguas antigas",
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title": "Table of Content Vol. 1, No 1 (2025)",
+   "url": "https://doi.org/10.4102/ibts.v1i1.15",
+   "summary": "This Table of Contents reflects the print compilation of peer-reviewed articles published in the journal. Each article listed was originally published online under the journal’s open access model and remains individually accessible and citable. This compilation has been created solely for print distribution, reference, and archival purposes. No new research content is introduced. The publisher affirms that all articles included in this compilation have undergone the journal’s standard editorial and peer-review processes.",
+   "date": "2026-05-14",
+   "source": "Integrated Biblical and Theological Studies",
+   "authors": "Editorial Office",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Wilson, Lucas F. W. Em casa com o Holocausto: pós-memória, espaço doméstico e narrativas do Holocausto de segunda geração. Nova Brunswick: Rutgers University Press, 2025.",
