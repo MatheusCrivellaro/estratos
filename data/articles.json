@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:41+00:00",
+ "updated": "2026-10-15T03:16+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -129,6 +129,7 @@
   "Verbum et Ecclesia",
   "Women in Judaism: A Multidisciplinary e-Journal",
   "Zeitschrift für Antikes Christentum / Journal of Ancient Christianity",
+  "Învăţământ, Cercetare, Creaţie",
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
@@ -6237,6 +6238,20 @@
    ]
   },
   {
+   "title": "The Siren Painter’s Eponymous Vase and Etymological Aspects of the Septuagint",
+   "url": "https://doi.org/10.61801/icc.2026.1.27",
+   "summary": "The Siren Painter’s famous eponymous vase1 contains details of much interest to students of nautical equipment and ancient seafaring practices. The representation of Odysseus tied to his mast has received understandably more attention than the image on the reverse side of the vase with its fantastical winged symposiasts. The two images are clearly related but their relationship, we will suggest, may be as much verbal as mytho-psychological. In essence, this extended article sets out to show that the two vase paintings represent the artist’s attempt to express the full gamut of etymological possibilities inherent in the name ‘Sirens’. Our analysis is intended to enhance the reputation of…",
+   "date": "2026-07-21",
+   "source": "Învăţământ, Cercetare, Creaţie",
+   "authors": "Barney McCULLAGH",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Septuaginta"
+   ]
+  },
+  {
    "title_pt": "Da conexão da Septuaginta à rejeição massorética",
    "summary_pt": "Este artigo reavalia o conto grego de Susana, transmitido como um acréscimo a Daniel, comparando o grego antigo (OG) e Theodotion (θ′) com uma hipotética Vorlage semítica. Mostro que θ ′ revisa em grande parte a OG – intensificando a retórica e regularizando a sintaxe – exceto onde seu texto base divergiu. Argumento que os famosos trocadilhos arbóreos (“sob uma aroeira/carvalho…”) e a citação inicial do enquadramento são dispositivos secundários, provavelmente posteriores, talvez cristãos, que ligam Susanna a Bel e o Dragão. Localizo afinidades formais com Daniel 6, propondo que contos judiciais discretos foram posteriormente costurados. Situando Susana ao lado de Daniel 1 e 6, demonstro como temas de fidelidade,…",
    "title": "From Septuagint Connection to Masoretic Rejection",
@@ -6762,6 +6777,19 @@
    "tags": [
     "Novo Testamento"
    ]
+  },
+  {
+   "title_pt": "Matéria inicial",
+   "title": "Front matter",
+   "url": "https://doi.org/10.3366/swc.2026.0549",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Studies in World Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
@@ -8102,19 +8130,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Frontmatter",
-   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
    "summary_pt": "O artigo examina a reinterpretação moderna de João Hus, realizada em diversas etapas por Lutero e seus seguidores. Originalmente condenado como herege e queimado na fogueira em 1415, o legado de Hus passou por uma reinterpretação significativa durante a Reforma. Como resultado, Hus foi estilizado de herege para profeta. O confronto de Martinho Lutero com as ideias de Hus, particularmente após a Disputa de Leipzig de 1519, marcou um ponto de viragem e levou Hus a ser homenageado como precursor e santo pelos protestantes. Do lado católico, por outro lado, foram feitas tentativas de desacreditar Lutero através do seu compromisso com Hus. Na década de 1530, Lutero e seus seguidores elevaram Hus…",
    "title": "From Heretic to Prophet: Two Milestones in the Early Modern Re-evaluation of John Hus (16th – Early 18th Century)",
@@ -9159,34 +9174,6 @@
    "peer": true,
    "tags": [
     "Cristianismo primitivo",
-    "Escavações"
-   ]
-  },
-  {
-   "title": "Scripture and Secularism in Modern Scandinavia and Beyond",
-   "url": "https://doi.org/10.1163/15685152-20262001",
-   "summary": "The aim of this special issue is to advance research on biblical reception in Scandinavian contexts and to offer new insights into the intricate relationship between religiosity and secularity more broadly. This is done by engaging with theoretical questions concerning religion, secularity, and biblical reception in the modern world. In this introduction, we contextualize the special issue in relation to previous biblical scholarship on the relationship between “the Bible” and “the secular” as well as research on the Scandinavian conditions. In addition to contextualizing the special issue, we introduce its content and contributors. Ultimately, the introduction argues that the Scandinavian…",
-   "date": "2026-04-17",
-   "source": "Biblical Interpretation",
-   "authors": "Hanna Liljefors, Frida Mannerfelt",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Interpretação e teologia"
-   ]
-  },
-  {
-   "title": "Responding to Secularization: The Bible as Public Scripture in Late Postwar Sweden",
-   "url": "https://doi.org/10.1163/15685152-20262003",
-   "summary": "This article has two aims. The first is to survey historical-critical biblical scholarship as a form of response to experiences of secularization. I argue that especially in Western academia, the historical-critical method became the scientific response par préference to the perception that secularization was somehow threatening the position of the Bible in the public space. The second aim is to investigate how the historical-critical method eventually became the object of serious contention, thereby losing its authority as an epistemic foundation of the Bible as public scripture. The two aims are achieved through a case study on the production of a Swedish Bible translation in the early…",
-   "date": "2026-04-17",
-   "source": "Biblical Interpretation",
-   "authors": "Richard Pleijel",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
     "Escavações"
    ]
   }
