@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:33+00:00",
+ "updated": "2026-10-17T15:21+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -135,6 +135,19 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Cutino & Cerami (eds.), The Twelve Tribes of Israel (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/10/cutino-cerami-eds-twelve-tribes-of.html",
+   "summary": "NEW BOOK FROM BRILL:The Twelve Tribes of Israel Jewish-Christian Interpretations between Ruptures and Continuities (1st–5th centuries) Series: Jewish and Christian Perspectives Series, Volume: 44 Volume Editors: Michele Cutino and Calogero Cerami The theme of the twelve tribes of Israel is one of the key points for observing the continuity and discontinuity between Judaism and",
+   "date": "2026-10-17",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
   {
    "title": "A Head-Scratcher in the Sermon on the Mount: Who Gets Into the Kingdom?",
    "url": "https://ehrmanblog.org/a-head-scratcher-in-the-sermon-on-the-mount-who-gets-into-the-kingdom/",
@@ -7064,6 +7077,19 @@
    ]
   },
   {
+   "title_pt": "Matéria inicial",
+   "title": "Front matter",
+   "url": "https://doi.org/10.3366/swc.2026.0549",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Studies in World Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -8430,19 +8456,6 @@
    "tags": [
     "Interpretação e teologia"
    ]
-  },
-  {
-   "title_pt": "Matéria inicial",
-   "title": "Frontmatter",
-   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
