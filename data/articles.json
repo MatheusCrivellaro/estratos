@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:08+00:00",
+ "updated": "2026-10-18T10:47+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -135,6 +135,20 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "The Irony of Jesus as the King of the Coming Kingdom",
+   "url": "https://ehrmanblog.org/the-irony-of-jesus-as-the-king-of-the-coming-kingdom/",
+   "summary": "Jesus believed there would be levels of reward in the coming Kingdom of God, as I began to show in my previous post. Could there be any problems, though? Any unruliness? Any need for discipline and judgment for people who did something illicit or harmful? Could or would people sin in the Kingdom of God?",
+   "date": "2026-10-18",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Israel antigo"
+   ]
+  },
   {
    "title": "Polissemia dos vocábulos hebraicos relacionados com partes do corpo: peculiaridade do texto bíblico hebraico Polysemy of Hebrew words related to parts of the body: peculiarity of the Hebrew Bible text Polisemia de palabras hebreas…",
    "url": "https://doi.org/10.54260/eb.v42i153.1292",
@@ -1728,6 +1742,18 @@
     "Judaísmo do Segundo Templo",
     "Egito e Mesopotâmia"
    ]
+  },
+  {
+   "title": "Editorial Foreword",
+   "url": "https://doi.org/10.1177/1476993x261496165",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "Currents in Biblical Research",
+   "authors": "Ekaputra Tupamahu, Kelly J. Murphy, Catherine E. Bonesho",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "Conversion and the Contest of Creeds in Early Medieval Christianity",
