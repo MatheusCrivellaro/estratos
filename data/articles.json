@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:30+00:00",
+ "updated": "2026-10-18T03:08+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -32,6 +32,7 @@
   "Currents in Biblical Research",
   "Dead Sea Discoveries",
   "Digital Humanities in the Nordic and Baltic Countries Publications",
+  "Estudos Bíblicos",
   "European Judaism",
   "Evangelical Textual Criticism",
   "FRONTIERS OF LAW JOURNAL",
@@ -53,7 +54,6 @@
   "Interpretation: A Journal of Bible and Theology",
   "Iranian Studies",
   "Ivy Enber Scientific Journal",
-  "JURNALISTRENDI : JURNAL LINGUISTIK, SASTRA, DAN PENDIDIKAN",
   "Journal for the History of Rhetoric",
   "Journal for the Study of Judaism",
   "Journal for the Study of the Historical Jesus",
@@ -135,6 +135,21 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Polissemia dos vocábulos hebraicos relacionados com partes do corpo: peculiaridade do texto bíblico hebraico Polysemy of Hebrew words related to parts of the body: peculiarity of the Hebrew Bible text Polisemia de palabras hebreas…",
+   "url": "https://doi.org/10.54260/eb.v42i153.1292",
+   "summary": "Neste artigo será tratadá a natureza polissêmica de vários vocábulos do hebraico bíblico relacionados com partes do corpo. A seleção de alguns itens lexicográficos escolhida para este breve estudo aparece com bastante frequência ao longo do texto bíblico hebraico. Todavia, tais unidades lexicográficas apresentam variedade semântica em diversas passagens da Bíblia Hebraica, não podendo ser sempre traduzidas, especificamente, como componentes do corpo de humano ou de animal. O artigo apresentará os referidos vocábulos hebraicos e seus possíveis significados em diversos contextos do relato bíblico. Além do mais, tratará com tipos de versão bíblica, como tradução natural e tradução hiperliteral.",
+   "date": "2026-10-17",
+   "source": "Estudos Bíblicos",
+   "authors": "Edson de Faria Francisco",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
+   ]
+  },
   {
    "title": "Cutino & Cerami (eds.), The Twelve Tribes of Israel (Brill)",
    "url": "http://paleojudaica.blogspot.com/2026/10/cutino-cerami-eds-twelve-tribes-of.html",
@@ -7077,6 +7092,19 @@
    ]
   },
   {
+   "title_pt": "Matéria inicial",
+   "title": "Front matter",
+   "url": "https://doi.org/10.3366/swc.2026.0549",
+   "summary": "",
+   "date": "2026-07-01",
+   "source": "Studies in World Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -8445,19 +8473,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Frontmatter",
-   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
    "summary_pt": "O artigo examina a reinterpretação moderna de João Hus, realizada em diversas etapas por Lutero e seus seguidores. Originalmente condenado como herege e queimado na fogueira em 1415, o legado de Hus passou por uma reinterpretação significativa durante a Reforma. Como resultado, Hus foi estilizado de herege para profeta. O confronto de Martinho Lutero com as ideias de Hus, particularmente após a Disputa de Leipzig de 1519, marcou um ponto de viragem e levou Hus a ser homenageado como precursor e santo pelos protestantes. Do lado católico, por outro lado, foram feitas tentativas de desacreditar Lutero através do seu compromisso com Hus. Na década de 1530, Lutero e seus seguidores elevaram Hus…",
    "title": "From Heretic to Prophet: Two Milestones in the Early Modern Re-evaluation of John Hus (16th – Early 18th Century)",
@@ -9353,38 +9368,6 @@
    "tags": [
     "Jesus histórico",
     "Escavações"
-   ]
-  },
-  {
-   "title_pt": "Lanier no UBS6",
-   "summary_pt": "Em seu novo canal no YouTube, Greg Lanier postou uma longa análise de 45 minutos do UBS6. Ainda não assisti tudo, mas o que assisti foi profundo e completo. No geral, ele parece gostar, mas reconhece que não complementará a edição de NA da forma como fez no passado, dada a redução do aparato. Minha própria análise será publicada em Themelios e postarei aqui quando for lançada. Até então, assista ao vídeo de Lanier.",
-   "title": "Lanier on UBS6",
-   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/lanier-on-ubs6.html",
-   "summary": "Over on his new YouTube channel , Greg Lanier has posted a long, 45-minute review of UBS6. I haven’t watched it all yet, but what I did watch was in-depth and thorough. Overall, he seems to like it but recognizes that it will not supplement the NA edition the way it has in the past given the reduction in the apparatus. My own review is forthcoming in Themelios , and I’ll post it here when it's out. Until then, give Lanier’s video a watch.",
-   "date": "2026-04-20",
-   "source": "Evangelical Textual Criticism",
-   "category": "manuscritos",
-   "kind": "blog",
-   "peer": false,
-   "tags": [
-    "Livros e eventos"
-   ]
-  },
-  {
-   "title_pt": "Mudanças semânticas diacrônicas dos principais termos teológicos hebraicos em Oséias: um estudo comparativo das traduções da Bíblia em inglês e indonésio",
-   "summary_pt": "Este estudo examina a mudança semântica diacrônica em termos teológicos hebraicos selecionados no Livro de Oséias, que são escritos em traduções da Bíblia em inglês e indonésio em diferentes períodos de tempo. Embora a literatura existente examine frequentemente a mudança semântica dentro de tradições linguísticas únicas, a investigação comparativa entre diferentes contextos culturais e linguísticos permanece relativamente pouco explorada. Portanto, o objetivo principal deste estudo é investigar como o significado teológico evolui quando transposto para esses contextos culturais e temporais distintos. Empregando um design descritivo qualitativo baseado em semântica diacrônica e estudos de tradução, a pesquisa analisa cinco…",
-   "title": "Diachronic Semantic Shifts of Major Hebrew Theological Terms in Hosea: A Comparative Study of English and Indonesian Bible Translations",
-   "url": "https://doi.org/10.51673/jurnalistrendi.v11i1.2820",
-   "summary": "This study examines diachronic semantic change in selected Hebrew theological terms in the Book of Hosea which are written in English and Indonesian Bible translations across different time periods. Though existing literature often examines semantic change within single linguistic traditions, comparative research across different cultural and linguistic contexts remains relatively underexplored. Therefore, the primary objective of this study is to investigate how theological meaning evolves when transposed into these distinct cultural and temporal contexts. Employing a qualitative descriptive design grounded in diachronic semantics and translation studies, the research analyzes five key…",
-   "date": "2026-04-20",
-   "source": "JURNALISTRENDI : JURNAL LINGUISTIK, SASTRA, DAN PENDIDIKAN",
-   "authors": "Joshua Octavianus, Agustinus Hary Setyawan",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Línguas antigas",
-    "Interpretação e teologia"
    ]
   }
  ]
