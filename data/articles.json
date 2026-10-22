@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:29+00:00",
+ "updated": "2026-10-22T11:35+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -134,6 +134,61 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Was Jesus a Carpenter? The Surprisingly Thin Evidence.",
+   "url": "https://ehrmanblog.org/was-jesus-a-carpenter-the-surprisingly-thin-evidence/",
+   "summary": "Was Jesus a carpenter? Nearly everyone assumes he was – not just the two billion Christians but also the other billions who have ever thought or heard about it. And they have done so for 2000 years. As it turns out, the evidence for it is very thin. I just came to think seriously about",
+   "date": "2026-10-22",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
+  },
+  {
+   "title": "The Israelite Samaritan Torah app",
+   "url": "http://paleojudaica.blogspot.com/2026/10/the-israelite-samaritan-torah-app.html",
+   "summary": "THE AWOL BLOG: The Israelite Samaritan Torah. Yep, there's an app for that too. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-10-22",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Israel antigo"
+   ]
+  },
+  {
+   "title": "On the Bar Kokhba Revolt",
+   "url": "http://paleojudaica.blogspot.com/2026/10/on-bar-kokhba-revolt.html",
+   "summary": "BIBLE HISTORY DAILY: What Is the Bar-Kokhba Revolt? Judah’s other great revolt against Rome (Lauren K. McCormick).Rome put down one Jewish uprising in Judea that lasted from 66 to 74 CE, called the First Jewish Revolt. It culminated in the burning of the Jerusalem Temple by the then-general (future emperor) Titus. Afterward, tensions over taxation, sacrifice, and imperial policy still plagued the",
+   "date": "2026-10-22",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Israel antigo"
+   ]
+  },
+  {
+   "title": "God of justice and mercy or mercy and justice?",
+   "url": "http://paleojudaica.blogspot.com/2026/10/god-of-justice-and-mercy-or-mercy-and.html",
+   "summary": "PROF. RABBI HERBERT BASSER: YHWH and Elohim: One God, Different Attributes (TheTorah.com).Why does Elohim, and not YHWH, create the world? Philo and the rabbis—though in opposite directions—each read the two names as two divine attributes, one beneficent and one that judges. The kabbalists see these as the sefirot דין Judgment and חסד Lovingkindness—while Ramchal further unites them as two colors",
+   "date": "2026-10-22",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo"
+   ]
+  },
   {
    "title": "Wallace reviews ECM Revelation in JETS",
    "url": "https://evangelicaltextualcriticism.blogspot.com/2026/10/wallace-reviews-ecm-revelation-in-jets.html",
@@ -7429,19 +7484,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Front matter",
-   "url": "https://doi.org/10.3366/swc.2026.0549",
-   "summary": "",
-   "date": "2026-07-01",
-   "source": "Studies in World Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -8808,6 +8850,19 @@
    "tags": [
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Matéria inicial",
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
