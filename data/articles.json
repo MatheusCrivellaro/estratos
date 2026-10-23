@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:33+00:00",
+ "updated": "2026-10-23T11:31+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -53,7 +53,9 @@
   "International Journal of Systematic Theology",
   "Interpretation: A Journal of Bible and Theology",
   "Iranian Studies",
+  "Irish Theological Quarterly",
   "Ivy Enber Scientific Journal",
+  "Jewish Quarterly Review",
   "Journal for the History of Rhetoric",
   "Journal for the Study of Judaism",
   "Journal for the Study of the Historical Jesus",
@@ -134,6 +136,73 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Why aren't Torah scrolls vocalized?",
+   "url": "http://paleojudaica.blogspot.com/2026/10/why-arent-torah-scrolls-vocalized.html",
+   "summary": "DR. ELIAV GROSSMAN: Why Don’t Torah Scrolls Have Vowels? And why do the letters have crowns? (TheTorah.com).At that precarious moment in the history of rabbinic authority and Jewish textuality, certain rabbis sought to maintain a distinction between the Torah scroll and a codex, protecting the Torah scroll as the privileged ritual object of liturgical reading.A deep dive into the background of",
+   "date": "2026-10-23",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Crítica textual",
+    "Liturgia e cânon"
+   ]
+  },
+  {
+   "title": "Tel Shikmona National Park now open to the public",
+   "url": "http://paleojudaica.blogspot.com/2026/10/tel-shikmona-national-park-now-open-to.html",
+   "summary": "RENOVATED AND REOPENED: Ancient coastal site in Haifa reopens after 3 million shekel restoration. (Ynet News).Tel Shikmona National Park, home to 3,500 years of archaeological history and remnants of an ancient purple dye industry, welcomes visitors again after a two-year renovation that added walking paths, restored ruins and improved public accessPaleoJudaica posts on the archaeological finds",
+   "date": "2026-10-23",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Escavações"
+   ]
+  },
+  {
+   "title": "Ramesses the Great—and the Missing Exodus",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/ramesses-great-and-missing-exodus/",
+   "summary": "Ramses and the Pharaohs’ Gold, now at NEON at Battersea Power Station in London, opened earlier this year. The international exhibition features some 180 ancient",
+   "date": "2026-10-23",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Next Platinum Lecture on November 14th",
+   "url": "https://ehrmanblog.org/next-platinum-lecture-on-november-14th/",
+   "summary": "Platinum members, as you know, one of the benefits of your subscription is a quarterly lecture by Bart followed by a Q&A. These lectures provide an opportunity to dig deeper into a particular topic and offer an opportunity to ask your questions to Bart directly. mark your calendars for our next Platinum lecture, which is",
+   "date": "2026-10-23",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "\"10 Important Biblical Archaeological Finds\"",
+   "url": "http://paleojudaica.blogspot.com/2026/10/10-important-biblical-archaeological.html",
+   "summary": "LISTICLE: 10 Important Biblical Archaeological Finds (J.D. Cohen, Aish.com). This is a good list. You can find more on most of these items in PaleoJudaica posts. See the blog search engine. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-10-23",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "Was Jesus a Carpenter? The Surprisingly Thin Evidence.",
    "url": "https://ehrmanblog.org/was-jesus-a-carpenter-the-surprisingly-thin-evidence/",
@@ -239,6 +308,93 @@
     "Antigo Testamento",
     "Judaísmo do Segundo Templo"
    ]
+  },
+  {
+   "title": "Book Review: The Oxford Handbook of Textual Criticism of the Bible CrawfordS. W.WassermanT. (2025). The Oxford Handbook of Textual Criticism of the Bible. Oxford University Press. xix + 712 pp. Price £115.00 (hbk). ISBN 9780197581315.",
+   "url": "https://doi.org/10.1177/00211400261490620a",
+   "summary": "",
+   "date": "2026-10-22",
+   "source": "Irish Theological Quarterly",
+   "authors": "Jeremy Corley",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Crítica textual",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Book Review: The Letters of St. Patrick & Early Patrician Literature FreemanP. (2025). The Letters of St. Patrick & Early Patrician Literature. Library of Early Christianity 6. Catholic University of America Press. xxxvi + 187 pp. Price…",
+   "url": "https://doi.org/10.1177/00211400261490620j",
+   "summary": "",
+   "date": "2026-10-22",
+   "source": "Irish Theological Quarterly",
+   "authors": "J.-Michel Reaux Colvin",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Cristianismo primitivo",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Book Review: New Testament Ethics. Revisiting The Moral Vision of the New Testament HuntC.MooreN. J.MurrayT. J. (2026). New Testament Ethics. Revisiting The Moral Vision of the New Testament. Eerdmans. xvi+340 pp. Price £32.99. ISBN…",
+   "url": "https://doi.org/10.1177/00211400261490620g",
+   "summary": "",
+   "date": "2026-10-22",
+   "source": "Irish Theological Quarterly",
+   "authors": "Kevin O’Gorman",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Book Review: Conceiving Heroic Christianity in Early Medieval England PedersenD. G. (2026). Conceiving Heroic Christianity in Early Medieval England. De Gruyter. 179 pp. Price £96.50 (hbk). ISBN 9781501526640.",
+   "url": "https://doi.org/10.1177/00211400261490620k",
+   "summary": "",
+   "date": "2026-10-22",
+   "source": "Irish Theological Quarterly",
+   "authors": "Francis Young",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Book Review: At the Feet of Jesus: A Guide to Encountering Jesus in the Gospels HindmarshB.HindmarshC. (2025). At the Feet of Jesus: A Guide to Encountering Jesus in the Gospels. Intervarsity Press. x, 104 pp. Price $27.99 CAD. ISBN…",
+   "url": "https://doi.org/10.1177/00211400261490620e",
+   "summary": "",
+   "date": "2026-10-22",
+   "source": "Irish Theological Quarterly",
+   "authors": "Devon Throness",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "“Better That They Not Know the Law”",
+   "url": "https://doi.org/10.1163/15700631-bja10126",
+   "summary": "This paper identifies a heretofore undiscovered parallel between 2 Baruch and a rabbinic passage presenting what is generally understood as a rabbinic legal teaching, more specifically a legal principle. By closely analyzing the passages in both texts, it will demonstrate further connections between the two corpora. Furthermore, reading the passages in 2 Baruch and rabbinic literature in light of one another will both offer novel ways of reading both passages and shed light on the diachronic trajectory of the principle within rabbinic literature.",
+   "date": "2026-10-21",
+   "source": "Journal for the Study of Judaism",
+   "authors": "Shlomo Zuckier",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "Wallace reviews ECM Revelation in JETS",
@@ -5403,6 +5559,20 @@
    ]
   },
   {
+   "title": "Relocating Joseph: Evidence for a Second Temple Period Aspiration to Rebury Joseph in the Cave of Machpelah",
+   "url": "https://doi.org/10.1353/jqr.2026.a1004448",
+   "summary": "This article presents a reconstruction of a Second Temple aspiration to transfer the tomb of Joseph from his burial site in Shechem, as recorded in the Bible (Josh 24.32), to the traditional burial site Abraham, Isaac, and Jacob in the Cave of Machpelah. In the main section of this article, I reconstruct this relocation through an analysis of Joseph’s burial narrative in the Jewish Antiquities of Josephus, supplemented by an examination of other sources ( Testaments of the Twelve Patriarchs and rabbinic literature). In the final section, I identify the roots of this burial tradition in an ancient biblical polemic over the burial place of Jacob between the two centers of Shechem and Hebron.",
+   "date": "2026-09-01",
+   "source": "Jewish Quarterly Review",
+   "authors": "Daphne Baratz",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Judaísmo do Segundo Templo"
+   ]
+  },
+  {
    "title_pt": "Lendo os Evangelhos com Eusébio",
    "summary_pt": "Os símbolos dos quatro evangelistas no topo de um cânon eusébio altamente decorado no Livro de Kells (f. 2r). Trinity College Dublin Nunca lemos sozinhos. Como todos os leitores, vivemos dentro dos nossos próprios contextos históricos e culturais. Lemos como parte de comunidades e somos estimulados (muitas vezes sem perceber) por uma série de hábitos de leitura. As ferramentas que usamos também moldam nossa leitura. Recursos como comentários e notas de bíblias de estudo orientam nosso",
    "title": "Reading the Gospels with Eusebius",
@@ -7535,19 +7705,6 @@
    ]
   },
   {
-   "title_pt": "Matéria inicial",
-   "title": "Front matter",
-   "url": "https://doi.org/10.3366/swc.2026.0549",
-   "summary": "",
-   "date": "2026-07-01",
-   "source": "Studies in World Christianity",
-   "authors": "",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade",
    "summary_pt": "Da Ordem Cósmica ao Amor Salvador: A Transformação da Providência Divina na Antiguidade melliott1 Qua, 01/07/2026 - 10:09 A antiga providência divina surgiu da busca pela ordem cósmica. Os pensadores gregos, de Homero aos estóicos, ligaram o propósito humano e a justiça a um universo governado racionalmente, mas viam o cuidado divino como a expressão natural da perfeição, em vez do amor livre. O Cristianismo adoptou e transformou a providência, fundamentando-a na vontade amorosa de Deus para a salvação do mundo e abrindo uma nova forma de enfrentar o problema do mal. Veja também A Ideia da Providência Divina no Pensamento Antigo (Peter Lang, 2026). Por Tomasz Stępień Cardeal Stefan Wyszyński Universidade do Departamento de Varsóvia…",
    "title": "From Cosmic Order to Saving Love: The Transformation of Divine Providence in Antiquity",
@@ -8914,6 +9071,19 @@
    "tags": [
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Matéria inicial",
+   "title": "Frontmatter",
+   "url": "https://doi.org/10.1515/jemc-2026-frontmatter1",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "De herege a profeta: dois marcos na reavaliação moderna de John Hus (século XVI - início do século XVIII)",
