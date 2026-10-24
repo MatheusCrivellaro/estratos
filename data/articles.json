@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:30+00:00",
+ "updated": "2026-10-24T03:31+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -40,7 +40,6 @@
   "Folia Orientalia",
   "GEM: Germanistica Euromediterrae",
   "Gnosis",
-  "Hyperboreus",
   "INTERNATIONAL JOURNAL OF RELIGIOUS AND CULTURAL PRACTICE",
   "Infectious Diseases Now",
   "Integrated Biblical and Theological Studies",
@@ -191,6 +190,17 @@
     "Novo Testamento",
     "Livros e eventos"
    ]
+  },
+  {
+   "title": "Christina Applegate misdiagnosis: Why can MS be difficult to diagnose?",
+   "url": "https://www.livescience.com/health/immune-system/christina-applegate-misdiagnosis-why-can-ms-be-difficult-to-diagnose",
+   "summary": "MS advocate Christina Applegate recently announced that her MS diagnosis was incorrect, based on new test results. Why can the disease be difficult to identify?",
+   "date": "2026-10-23",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": []
   },
   {
    "title": "\"10 Important Biblical Archaeological Finds\"",
@@ -8889,6 +8899,21 @@
    ]
   },
   {
+   "title": "Trends in Recent Esther Scholarship (2000-2025)",
+   "url": "https://doi.org/10.1177/1476993x261428475",
+   "summary": "The book of Esther persists in the margins of biblical scholarship. By all estimations, Esther is a ‘strange’ book of the Bible. It features a beautiful female orphan who hides her Jewish identity and marries the Gentile king of Persia. Wine, sex, and violence figure prominently, yet the book neglects mention of God, Torah, or Temple. The book of Esther has long puzzled and beguiled its interpreters over the centuries. Recent biblical scholarship underscores how the book tends to modern questions, including those concerning sexuality, gender, ethnicity, identity, class, power, and the use of violence. Following a significant expansion in Esther research along these lines, this essay traces…",
+   "date": "2026-06-01",
+   "source": "Currents in Biblical Research",
+   "authors": "Rosy Kandathil",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
    "title_pt": "Rumo a uma nova compreensão da imagem de Deus em Gênesis 1:26-27: Uma análise das construções do verbo ברא na Bíblia Hebraica",
    "summary_pt": "O artigo contraria a suposição comum de que ברא (Qal) com o sujeito Deus significa “criar” e a tradução comum da humanidade sendo “criada à imagem de Deus” em Gênesis 1:26-27. Vários estudiosos expressaram dúvidas sobre a compreensão de ברא como “criar” e concluíram que ברא poderia ser melhor compreendido em termos de separação ou divisão. O presente artigo baseia-se nestes argumentos, ampliando-os com uma análise de todas as construções verbais de ברא (Qal) na Bíblia Hebraica, e depois propõe uma nova leitura de Gn 1:26-27 com base nesta análise.",
    "title": "Towards a New Understanding of the Image of God in Genesis 1:26-27: An Analysis of the Constructions of the Verb ברא in the Hebrew Bible",
@@ -9895,24 +9920,6 @@
    "peer": true,
    "tags": [
     "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "O uso de πυρόω na Septuaginta e seu valor para <i>Ester</i>, adição D 5",
-   "summary_pt": "Uma análise cuidadosa da semântica e da sintaxe do verbo πυρόω na Septuaginta ajuda a identificar um elemento de semelhança linguística até então não reconhecido entre a Adição D a Ester e 3 Macabeus (livros originalmente escritos em grego ab initio, isto é, sem Vorlage semita). Esta semelhança, nomeadamente o uso metafórico de πυροῦμαι (passivo) diretamente predicado da pessoa que experimenta uma emoção intensa, seguido por um dativo que denota o gatilho do fogo “dentro”, deve ser adicionado às características que apoiam a hipótese de que a Adição D a Ester, como muito provavelmente também as Adições B e E, foi originalmente escrita no que os estudos da Septuaginta chamam de “grego composicional”.",
-   "title": "The Use of πυρόω in the Septuagint, and its Value for <i>Esther</i>, Addition D 5",
-   "url": "https://doi.org/10.36950/hyperboreus.v32p1a05",
-   "summary": "A careful analysis of the semantics and syntax of the verb πυρόω in the Septuagint helps to identify a hitherto unrecognised element of linguistic similarity between Addition D to Esther and 3 Maccabees (books originally written in Greek ab initio, that is, without a semitic Vorlage). This similarity, namely the metaphorical use of πυροῦμαι (passive) directly predicated of the person experiencing an intense emotion, followed by a dative denoting the trigger of fire ‘within’, should be added to those features supporting the hypothesis that Addition D to Esther, like most probably also Additions B and E, was originally written in what Septuagintal studies call “compositional Greek”.",
-   "date": "2026-04-26",
-   "source": "Hyperboreus",
-   "authors": "Lucia Prauscello",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Septuaginta",
-    "Judaísmo do Segundo Templo",
-    "Línguas antigas"
    ]
   }
  ]
