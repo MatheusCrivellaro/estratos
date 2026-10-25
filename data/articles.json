@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:42+00:00",
+ "updated": "2026-10-25T03:24+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -5698,6 +5698,18 @@
    ]
   },
   {
+   "title": "From the Editor",
+   "url": "https://doi.org/10.1177/0142064x261468055",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Concurso de legendas outono de 2026",
    "summary_pt": "Escreva uma legenda para este desenho animado, baseado em Atos 14:11–12, e envie-o para nosso Concurso de Legendas.",
    "title": "Fall 2026 Caption Contest",
@@ -7639,6 +7651,20 @@
    "date": "2026-07-07",
    "source": "Qadum: Journal of Excavation Reports from Israel",
    "authors": "Aviva Bouchenino",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Escavações"
+   ]
+  },
+  {
+   "title": "Khirbat Jābir: A Late Byzantine Bathhouse, an Early Islamic Building and Ottoman-Period Remains / ח'ירבת ג'אבר: בית מרחץ משלהי התקופה הביזנטית, מבנה מהתקופה האסלאמית הקדומה ושרידים מהתקופה העות'מאנית",
+   "url": "https://doi.org/10.70967/3078-8528.1077",
+   "summary": "Excavations at Khirbat Jābir in Zikhron Ya‘akov revealed three strata (III–I). The earliest Stratum III yielded a well-preserved bathhouse dated to the late Byzantine period (sixth–seventh centuries CE), likely a public complex lavishly decorated with marble elements, which served a small, well-established community comprising several households in the area. In Stratum II, dated to the beginning of the Early Islamic period, the bathhouse was converted into a manor house or a farmhouse. Its plan was slightly altered with the construction of new walls, and its rooms were paved with stones robbed from the original phase of the bathhouse. The latest Stratum I, dated to the Ottoman period,…",
+   "date": "2026-07-07",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Orit Segal",
    "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
@@ -9902,51 +9928,6 @@
     "Línguas antigas",
     "Interpretação e teologia",
     "Livros e eventos"
-   ]
-  },
-  {
-   "title_pt": "Karme Qatif: uma vila do período do Segundo Templo na Shephelah da Judéia",
-   "summary_pt": "Três temporadas de escavações de resgate realizadas em Karme Qatif revelaram uma villa do período do Segundo Templo. A villa era composta por quatro alas: um pátio central; uma ala residencial oeste; uma ala leste contendo um balneário; e uma ala norte, que provavelmente incluía a entrada da villa. Os achados do edifício incluem alguns vasos de cerâmica feitos localmente, atribuídos ao período romano, juntamente com tubos de cerâmica usados ​​para transportar água para o balneário. Vários complexos de esconderijos, vasos de calcário macio, moedas da época da Revolta de Bar Kokhba e um miqveh descoberto nas proximidades da villa podem sugerir que os seus habitantes eram de origem judaica. A vila parece ter…",
-   "title": "Karme Qatif: A Villa from the Second Temple Period in the Judean Shephelah / כרמי קטיף: וילה משלהי ימי בית שני בשפלת יהודה",
-   "url": "https://doi.org/10.70967/3078-8528.1068",
-   "summary": "Three seasons of salvage excavations conducted at Karme Qatif uncovered a villa from the Second Temple period. The villa comprised four wings: a central courtyard; a western residential wing; an eastern wing containing a bathhouse; and a northern wing, which probably included the entrance to the villa. Finds from the building include a few locally made pottery vessels attributed to the Roman period, along with ceramic pipes used to convey water to the bathhouse. Several hiding complexes, soft limestone vessels, coins from the time of the Bar Kokhba Revolt and a miqveh uncovered in the vicinity of the villa may suggest that its inhabitants were of Jewish origin. The villa appears to have…",
-   "date": "2026-04-27",
-   "source": "Qadum: Journal of Excavation Reports from Israel",
-   "authors": "Daniel Varga, Yigal Israel",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Judaísmo do Segundo Templo",
-    "Epigrafia e inscrições",
-    "Escavações"
-   ]
-  },
-  {
-   "title_pt": "Do editor",
-   "title": "From the Editor",
-   "url": "https://doi.org/10.1177/0142064x261436245",
-   "summary": "",
-   "date": "2026-04-27",
-   "source": "Journal for the Study of the New Testament",
-   "authors": "Olegs Andrejevs",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
-   "title": "Always too Much, and Never Enough? Nordic Laws and the Bible",
-   "url": "https://doi.org/10.1163/15685152-20262005",
-   "summary": "This article examines the complex relationship between the Bible and Nordic law, focusing on its evolving legal reception in increasingly secular societies. Once foundational to legal and social frameworks, the Bible’s role in Nordic law today is fragmented and context-dependent. Drawing on examples from hate speech law, religious community regulations, asylum cases, and protections for sacred materials, the article explores how the Bible operates as an object of veneration, a source of internal rules for religious communities, and a contested text in legal debates. Unlike the “liberal” or “cultural” Bible identified by scholars like Yvonne Sherwood, the “legal Bible” lacks coherence,…",
-   "date": "2026-04-27",
-   "source": "Biblical Interpretation",
-   "authors": "Helge Årsheim",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Interpretação e teologia"
    ]
   }
  ]
