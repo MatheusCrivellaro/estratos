@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T03:24+00:00",
+ "updated": "2026-10-25T11:11+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -135,6 +135,19 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Casting Doubt on Jesus as the Carpenter…",
+   "url": "https://ehrmanblog.org/casting-doubt-on-jesus-as-the-carpenter/",
+   "summary": "As a late teenager deeply committed to Christianity and invested in debate – making arguments, evaluating evidence, convincing skeptical judges – I was naturally drawn to Christian “apologetics,” the attempt to demonstrate the truth claims of Christianity based not on faith but on proof. And so, like others in that boat at the time, and",
+   "date": "2026-10-25",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
+  },
   {
    "title": "What’s Wrong with Being a Carpenter??",
    "url": "https://ehrmanblog.org/whats-wrong-with-being-a-carpenter/",
