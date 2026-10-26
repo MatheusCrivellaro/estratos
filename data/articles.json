@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:45+00:00",
+ "updated": "2026-10-26T22:51+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -62,6 +62,7 @@
   "Journal for the Study of the Old Testament",
   "Journal of Ancient Judaism",
   "Journal of Bible & classical languages and literature",
+  "Journal of Biblical Literature",
   "Journal of Early Christian Studies",
   "Journal of Early Modern Christianity",
   "Journal of Early Modern History",
@@ -131,6 +132,7 @@
   "Verbum Vitae",
   "Verbum et Ecclesia",
   "Women in Judaism: A Multidisciplinary e-Journal",
+  "Word & Image",
   "Zeitschrift für Antikes Christentum / Journal of Ancient Christianity",
   "Învăţământ, Cercetare, Creaţie",
   "Богословский сборник Тамбовской духовной семинарии"
@@ -213,6 +215,17 @@
    "source": "Biblical Archaeology Society",
    "category": "arqueologia",
    "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "ASOR-ISAC Teacher Workshop: Bring Archaeology to your Classroom",
+   "url": "https://www.asor.org/news/2026/10/am26-teacher-workshop",
+   "summary": "ASOR-ISAC Teacher Workshop: Bring Archaeology to your Classroom Join the American Society of Overseas Research (ASOR) and the Institute for the Study of Ancient Cultures (ISAC) for a hands-on workshop created for K–12 educators on November 21, 2026 at 10:00am at …",
+   "date": "2026-10-26",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
    "peer": false,
    "tags": []
   },
@@ -5642,6 +5655,18 @@
    "tags": []
   },
   {
+   "title": "“Male Malaise” and Feminist Encouragement in Biblical Studies",
+   "url": "https://doi.org/10.15699/jbl.1453.2026.9",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal of Biblical Literature",
+   "authors": "Susanne Scholz",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Poder e Humanidade (Waxmann)",
    "summary_pt": "THE AWOL BLOG: Virtus et Humanitas: Unindo Virtudes e Valores da Paideia Greco-Romana, Judaica e Cristã. Aviso de um novo livro publicado pela Waxman Publishers:Gabriella Gelardini, Kåre S. Fuglseth, Per Jarle Bekken (Hrsg.) Virtus et Humanitas: Bridging Virtues and Values ​​of Greco-Roman, Jewish, and Christian Paideia 2026, Religious Diversity and Education in Europe, Band 48,",
    "title": "Virtus et Humanitas (Waxmann)",
@@ -5698,6 +5723,18 @@
    "category": "arqueologia",
    "kind": "revista",
    "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Rethinking Masculinity in Biblical Scholarship: Feminist, Womanist, Queer, and Postcolonial Perspectives",
+   "url": "https://doi.org/10.15699/jbl.1453.2026.10",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal of Biblical Literature",
+   "authors": "Alice Yafeh-Deigh",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
    "tags": []
   },
   {
@@ -5936,6 +5973,18 @@
     "Antigo Testamento",
     "Livros e eventos"
    ]
+  },
+  {
+   "title": "Biblical Masculinity Studies, Feminism, and the Global Antigender Movement",
+   "url": "https://doi.org/10.15699/jbl.1453.2026.14",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal of Biblical Literature",
+   "authors": "Colleen M. Conway",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "A. Siouville’s Pseudo-Clémentines and Critical French Scholarship on Early Christianity in the Modernist Crisis: Notes on an Unpublished Letter",
@@ -7793,6 +7842,18 @@
    "tags": [
     "Escavações"
    ]
+  },
+  {
+   "title": "Between the Bible and contemporary art: the Dead Sea as moral landscape",
+   "url": "https://doi.org/10.1080/02666286.2026.2643942",
+   "summary": "",
+   "date": "2026-07-03",
+   "source": "Word & Image",
+   "authors": "Pnina Arad",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "The Polish Translation of the Historia Trium Regum, from a Textual Criticism Perspective",
