@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:55+00:00",
+ "updated": "2026-10-26T03:22+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -2189,6 +2189,21 @@
    "peer": false,
    "tags": [
     "Novo Testamento"
+   ]
+  },
+  {
+   "title": "Revisiting the Mostly Aged Virgins of Lake Mareotis: Queer Potentiality in Philo’s De Vita Contemplativa",
+   "url": "https://doi.org/10.1163/15685152-bja10087",
+   "summary": "This study revisits Philo’s Therapeutrides, demonstrating that they belong in the genealogy of queer representation because they do not conform to culturally dominant gender expectations. Philo’s treatise describes a collective that rejected the pronatalist script of his day, queered the regular rhythms of Jewish life with their radical devotion to study and piety, and performed temporal drag in their communal gatherings. In justifying their way of life, Philo de-essentialises connections between femininity and childbearing, as well as between masculinity, philosophy, and priesthood, thereby queering the dominant gender expectations of his day and his own corpus. Further, we see in the…",
+   "date": "2026-10-02",
+   "source": "Biblical Interpretation",
+   "authors": "Chontel Syfox",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Crítica textual",
+    "Judaísmo do Segundo Templo"
    ]
   },
   {
@@ -9937,24 +9952,6 @@
    "kind": "periodico",
    "peer": true,
    "tags": []
-  },
-  {
-   "title_pt": "Revisão do UBS6 em Themelios",
-   "summary_pt": "A última edição da Themelios é uma edição especial dedicada a D.A. Carson e a influente série NSBT que ele editou por três décadas. A maior parte da questão é abordada pelos principais autores da série que resumem e refletem sobre seus volumes. Se você nunca ouviu falar da série NSBT, esta seria uma ótima maneira de começar. Mas este não é um blog sobre teologia bíblica, então vamos guardar isso para outro lugar. Em vez disso, esta postagem do blog é para alertá-lo sobre minha análise do UBS6, que também está nesta edição. Sou grato aos editores que me permitiram ir um pouco mais longe do que a típica crítica de Themelios. Aqui está a introdução Publicado pela primeira vez em 1966, o Novo Testamento Grego da UBS completa 60 anos neste…",
-   "title": "Review of UBS6 in Themelios",
-   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/04/review-of-ubs6-in-themelios.html",
-   "summary": "The latest issue of Themelios is a special issue dedicated to D.A. Carson and the influential NSBT series he edited for three decades. The bulk of the issue is taken up by key authors from the series who summarize and reflect on their volumes. If you’ve never heard of the NSBT series, this would be a great way into it. But this is not a blog about biblical theology so we’ll save that for another place. Instead, this blog post is to alert you to my review of UBS6 that is also in this issue. I am thankful to the editors who let me go a little longer than the typical Themelios review. Here’s the introduction First published in 1966, the UBS Greek New Testament hits its 60th birthday this…",
-   "date": "2026-04-28",
-   "source": "Evangelical Textual Criticism",
-   "category": "manuscritos",
-   "kind": "blog",
-   "peer": false,
-   "tags": [
-    "Novo Testamento",
-    "Línguas antigas",
-    "Interpretação e teologia",
-    "Livros e eventos"
-   ]
   }
  ]
 }
