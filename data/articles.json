@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:22+00:00",
+ "updated": "2026-10-26T12:45+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -71,6 +71,7 @@
   "Journal of Language, Culture, and Religion",
   "Journal of Mediterranean Archaeology",
   "Judaica. Neue digitale Folge",
+  "Karanos. Bulletin of Ancient Macedonian Studies",
   "Khoa Học Công Giáo và Đời Sống",
   "Levant",
   "Live Science",
@@ -135,6 +136,86 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Who was God talking to at creation and why?",
+   "url": "http://paleojudaica.blogspot.com/2026/10/who-was-god-talking-to-at-creation-and.html",
+   "summary": "WHO IS \"US?\" The Role of Angels in the Creation of Humankind (\"Staff Editors,\" TheTorah.com).“Let us make humankind” (Genesis 1:26)—whom is God addressing? Across Judaism, Christianity, and Islam, some interpreters have identified God’s audience as the angels but have assigned them strikingly different roles in humanity’s creation: collaborators, creators, or critics who question the wisdom of",
+   "date": "2026-10-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
+   ]
+  },
+  {
+   "title": "When Alexander Did Not Visit Jerusalem in 332-331 BCE Cuando Alejandro No visitó Jerusalem en 332-331 a.C.",
+   "url": "https://doi.org/10.5565/rev/karanos.157",
+   "summary": "The famous legend of Alexander the Great’s respectful visit to Jerusalem represents the positive relationship between Hellenistic kings and the Jewish people. We can prove that this event never happened. The question becomes how and why the story developed. The tale concludes with the invitation to the Jews to enlist in his army, and their acceptance illustrates the loyalty of Jewish soldiers in Alexander’s armies and those of his successors, the Seleukids and the Ptolemies, for over a century and a half.",
+   "date": "2026-10-26",
+   "source": "Karanos. Bulletin of Ancient Macedonian Studies",
+   "authors": "Benjamin Scolnic",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Jerusalém",
+    "Antigo Testamento"
+   ]
+  },
+  {
+   "title": "Review of Eisenstock, The Talmud Chronicles",
+   "url": "http://paleojudaica.blogspot.com/2026/10/review-of-eisenstock-talmud-chronicles.html",
+   "summary": "BOOK REVIEW : ‘Extra, extra!’ New book brings ancient Talmudic texts to life for readers of all ages - review The Talmud Chronicles: Bringing Talmudic Events to Life covers significant historical events from around 100-200 CE and breathes life into characters from the Talmud (Marion Fischel, Jerusalem Post).TALMUD CHRONICLES: BRINGING TALMUDIC EVENTS TO LIFE By Zalman Eisenstock Urim Publications",
+   "date": "2026-10-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Antigo Testamento",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Nicosia, Excerpting History in the Syriac World (open access, De Gruyter/Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/10/nicosia-excerpting-history-in-syriac.html",
+   "summary": "THE AWOL BLOG: Excerpting History in the Syriac World: The Miaphysite Collections (6th–10th c.).Excerpting History in the Syriac World: The Miaphysite Collections (6th–10th c.) Giorgia Nicosia Volume 119 | Millennium-Studien / Millennium Studies, 2026 De Gruyter/BrillCross-file under Syriac Watch. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-10-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Cristianismo primitivo"
+   ]
+  },
+  {
+   "title": "Archaeologists may have just found the world's oldest shipwreck",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
+   "summary": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues about an ancient trading network that may have connected distant Mediterranean civilizations. Researchers believe the ship may have crashed against rocks during a storm while transporting valuable goods such as oil, wine, or tree resin.",
+   "date": "2026-10-26",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "All Roads Lead to Byzantium?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-rome/all-roads-lead-to-byzantium/",
+   "summary": "Have you ever thought deeply about maps? They depict real geographic places and thus appear objective, but they are ultimately representations, often embedded with the",
+   "date": "2026-10-26",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "Rapp, Early Christian Georgian Literature (CUP)",
    "url": "http://paleojudaica.blogspot.com/2026/10/rapp-early-christian-georgian.html",
