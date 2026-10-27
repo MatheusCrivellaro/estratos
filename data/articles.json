@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:04+00:00",
+ "updated": "2026-10-27T17:54+00:00",
  "sources": [
   "'Atiqot",
   "ACTS Theological Journal",
@@ -139,6 +139,34 @@
  ],
  "articles": [
   {
+   "title": "Why is ancient Greek pronunciation important?",
+   "url": "http://paleojudaica.blogspot.com/2026/10/why-is-ancient-greek-pronunciation.html",
+   "summary": "THE OTTC BLOG: Reconstructed Koine Pronunciation (Drew Longacre).What does a question of Greek language learning pedagogy have to do with OT textual criticism? More than you might think, actually. ... Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-10-27",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "On the Sibylline Oracles",
+   "url": "http://paleojudaica.blogspot.com/2026/10/on-sibylline-oracles.html",
+   "summary": "THE KIWI HELLENIST BLOG: Sibyls and Sibylline oracles. 3. The Sibylline oracles.The Sibylline oracles are closer imitations. These are a group of eleven poems and eight fragments, mostly Jewish, with an assortment of Christian additions, in Greek hexameter verse. They range in date from the 2nd century BCE to the 7th century CE. Several of the poems list off dynasties of kings and emperors,",
+   "date": "2026-10-27",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
+   ]
+  },
+  {
    "title": "Did Mark Make Up the Idea Jesus Was a Carpenter?",
    "url": "https://ehrmanblog.org/did-mark-make-up-the-idea-jesus-was-a-carpenter/",
    "summary": "If Jesus was not a carpenter – I have my doubts – can we think of a reason Mark may have wanted to say he was (Mark 6:3).? I’ve never seen this discussed before, but I can indeed imagine a reason. Recall the setting. In the opening chapters of Mark, Jesus has been preaching, healing,",
@@ -153,11 +181,36 @@
    ]
   },
   {
+   "title": "Biggerstaff, De-Marginalizing Prophetic Suprahuman Knowledge (2022 PhD thesis)",
+   "url": "http://paleojudaica.blogspot.com/2026/10/biggerstaff-de-marginalizing-prophetic.html",
+   "summary": "THE AWOL BLOG: De-Marginalizing Prophetic Suprahuman Knowledge.De-Marginalizing Prophetic Suprahuman Knowledge Biggerstaff, Michael Doctor of Philosophy, The Ohio State University, 2022, Near Eastern Languages and Cultures ... Prior to the nineteenth century, exegetes never understood prophetic claims of suprahuman knowledge as subordinate to issues of social justice and repentance. ... Visit",
+   "date": "2026-10-27",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo"
+   ]
+  },
+  {
    "title": "A psychologist explains his theory for why orcas are attacking boats",
    "url": "https://www.livescience.com/animals/orcas/this-psychologist-has-a-new-theory-for-why-orcas-keep-attacking-boats",
    "summary": "Live Science spoke with comparative psychologist Christian Frings to discuss a new theory for why orcas are attacking yachts.",
    "date": "2026-10-27",
    "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "1.9-million-year-old discovery rewrites the story of human evolution",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
+   "summary": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly as old as the famous Dmanisi site in Georgia, placing both among the earliest known human settlements outside Africa.",
+   "date": "2026-10-27",
+   "source": "ScienceDaily - Arqueologia",
    "category": "ciencia",
    "kind": "noticia",
    "peer": false,
@@ -565,6 +618,18 @@
     "Jesus histórico",
     "Livros e eventos"
    ]
+  },
+  {
+   "title": "Acknowledgement to reviewers",
+   "url": "https://doi.org/10.4102/ibts.v2i1.25",
+   "summary": "",
+   "date": "2026-10-22",
+   "source": "Integrated Biblical and Theological Studies",
+   "authors": "Editorial Office",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "“Better That They Not Know the Law”",
@@ -5823,6 +5888,18 @@
    "tags": [
     "Livros e eventos"
    ]
+  },
+  {
+   "title": "Masculinity Studies in Biblical Scholarship: Feminist, Womanist, and Queer Assessments",
+   "url": "https://doi.org/10.15699/jbl.1453.2026.8",
+   "summary": "",
+   "date": "2026-09-01",
+   "source": "Journal of Biblical Literature",
+   "authors": "",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Logos Livro Gratuito do Mês: Graham A. Cole, Envolvendo-se com o Espírito Santo",
