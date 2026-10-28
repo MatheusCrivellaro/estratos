@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T04:13+00:00",
+ "updated": "2026-10-28T12:39+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -135,6 +135,87 @@
  ],
  "articles": [
   {
+   "title": "The Real Search for Noah’s Ark",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/real-search-for-noahs-ark/",
+   "summary": "The story of Noah’s Ark (Genesis 6–9) has captured audiences from antiquity to the present, driven by fascinations with the Flood, the salvation of life",
+   "date": "2026-10-28",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
+   ]
+  },
+  {
+   "title": "The Best Forgery Story of Modern Times (IMHO)",
+   "url": "https://ehrmanblog.org/the-best-forgery-story-of-modern-times-imho/",
+   "summary": "When people today tell me, or want to know if, Jesus travelled to India in his youth to learn the “wisdom of the East” or to Egypt to learn how to do “magic,” or any other rather exorbitant claim for a lower-class peasant born and raised in a small rural Jewish village, I tell them",
+   "date": "2026-10-28",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Escavações",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Tell Qasile",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/tell-qasile/",
+   "summary": "At the outskirts of modern-day Tel Aviv, the archaeological site of Tell Qasile remains a silent witness to an ancient society from the days of",
+   "date": "2026-10-28",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Escavações"
+   ]
+  },
+  {
+   "title": "Reviews of two books on Hellenistic kingship",
+   "url": "http://paleojudaica.blogspot.com/2026/10/reviews-of-two-books-on-hellenistic.html",
+   "summary": "BRYN MAYR CLASSICAL REVIEW: Alexander’s successors and the creation of Hellenistic kingship.Holton, John. Alexander’s successors and the creation of Hellenistic kingship. London: Bloomsbury Academic, 2025. Pp. 232. ISBN 9781350399020. Holton, John. Royal traditions and the consolidation of power by Alexander’s successors. London: Bloomsbury Academic, 2025. Pp. 232. ISBN 9781350399112. Review by",
+   "date": "2026-10-28",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
+   "title": "Malta's catacombs are now a European Heritage Site",
+   "url": "http://paleojudaica.blogspot.com/2026/10/maltas-catacombs-are-now-european.html",
+   "summary": "FUNERARY EPIGRAPHY: Malta’s Ancient Catacombs Become Country’s First European Heritage Site (Iuliia Tore, RusTourismNews).St Paul’s Catacombs in Rabat have become the first site in Malta to receive the European Heritage Label, recognising an ancient underground burial complex where Jewish, pagan and Christian communities left evidence of their shared history over more than a thousand years. The",
+   "date": "2026-10-28",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas",
+    "Epigrafia e inscrições"
+   ]
+  },
+  {
+   "title": "Did God judge Sodom justly?",
+   "url": "http://paleojudaica.blogspot.com/2026/10/did-god-judge-sodom-justly.html",
+   "summary": "PROF. GÁBOR BALÁS: Sodom’s Collective Punishment—Shall the Judge of All the Earth Not Do Justice? (TheTorah.com).Abraham challenges God’s plan to destroy Sodom with two distinct arguments: the innocent must not suffer alongside the guilty, and a righteous minority should suffice to spare an entire city. Why does Abraham stop at ten innocents? Can collective punishment ever be just? The Rabbis",
+   "date": "2026-10-28",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento"
+   ]
+  },
+  {
    "title": "Why is ancient Greek pronunciation important?",
    "url": "http://paleojudaica.blogspot.com/2026/10/why-is-ancient-greek-pronunciation.html",
    "summary": "THE OTTC BLOG: Reconstructed Koine Pronunciation (Drew Longacre).What does a question of Greek language learning pedagogy have to do with OT textual criticism? More than you might think, actually. ... Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
@@ -146,6 +227,22 @@
    "tags": [
     "Crítica textual",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Teaching the Historical Jesus: Can We Drop the Quests Already?",
+   "url": "https://doi.org/10.1163/17455197-bja10066",
+   "summary": "This article offers a critical reflection on the teaching of the historical Jesus in undergraduate theological education, with particular attention to the continued pedagogical use of the so-called “Quests for the Historical Jesus.” Writing from a Nordic theological context, the author reflects on developing and teaching a bachelor-level New Testament course within a Lutheran educational framework shaped by historical-critical methods and increasing methodological plurality. The article examines how introductory textbooks commonly present historical Jesus research through the narrative of the Three Quests. The author questions whether this historiographical framework remains pedagogically…",
+   "date": "2026-10-27",
+   "source": "Journal for the Study of the Historical Jesus",
+   "authors": "Anna Rebecca Solevåg",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico",
+    "Interpretação e teologia"
    ]
   },
   {
