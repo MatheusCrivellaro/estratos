@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:48+00:00",
+ "updated": "2026-10-29T23:01+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -133,6 +133,17 @@
  ],
  "articles": [
   {
+   "title": "The Golden Calf",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/the-golden-calf/",
+   "summary": "When Moses was on Mt. Sinai, the people asked Aaron to make a god to lead them. He had them make the Golden Calf, then seemingly blatantly lied to Moses. What does this signify",
+   "date": "2026-10-29",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "Shih-En Kuo, The Golden Calf Narrative in the Book of the Twelve (Gorgias)",
    "url": "http://paleojudaica.blogspot.com/2026/10/shih-en-kuo-golden-calf-narrative-in.html",
    "summary": "NEW BOOK FROM GORGIAS PRESS:THE GOLDEN CALF NARRATIVE IN THE BOOK OF THE TWELVE Inner-Biblical Allusions to Exodus 34:6–7 By Shih-En Kuo Publisher: Gorgias Press LLC Availability: In stock SKU (ISBN): 978-1-4632-5020-1 Formats * Hardback (In Print) ISBN 978-1-4632-5020-1 eBook PDF (In Print) ISBN 978-1-4632-5021-8 on Gorgias Mobile App (Glassboxx) Publication Status: In Print Series:",
@@ -157,6 +168,21 @@
    "peer": false,
    "tags": [
     "Jerusalém"
+   ]
+  },
+  {
+   "title": "Ebedmelech—A Remarkable Figure in Jerusalem’s Final Days",
+   "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/ebedmelech/",
+   "summary": "Ebedmelech, a Judahite official whom the Bible identifies as a Cushite,1 makes a brief but command appearance in the Book of Jeremiah during the horrifying",
+   "date": "2026-10-29",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Antigo Testamento",
+    "Israel antigo"
    ]
   },
   {
@@ -188,6 +214,30 @@
     "Línguas antigas",
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title": "A call for help in Denver",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/10/a-call-for-help-in-denver.html",
+   "summary": "Faithful readers, we are fast approaching the SBL meeting in Denver. Normally, this would entail a happy announcement about our annual blog dinner. Unfortunately, we have had great difficulty in securing a place to have it. We reached out to several churches with no luck. We checked on several restaurants too. One wanted $7,000 just to reserve the space. Obviously we cannot do that. We are hoping not to have to cancel this year, but the situation is dire. So, we are posting here in the hope that one of our readers in Denver may have a lead on a venue that could host our annual dinner gathering. We are looking for a space that could hold 50-60 people. We can handle the dinner side, but we…",
+   "date": "2026-10-29",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
+   "summary": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools, the tooth belonged to a straight-tusked elephant, one of the largest land mammals of the Ice Age.",
+   "date": "2026-10-29",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": []
   },
   {
    "title": "The Real Search for Noah’s Ark",
@@ -2818,6 +2868,19 @@
    ]
   },
   {
+   "title_pt": "Abreviações",
+   "title": "Abbreviations",
+   "url": "https://doi.org/10.1177/1476993x261496719",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "Currents in Biblical Research",
+   "authors": "",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title": "Slaughter and Human Sacrifice: Understanding Tales of the Hebrew Bible",
    "url": "https://ehrmanblog.org/slaughter-and-human-sacrifice-understanding-tales-in-the-hebrew-bible/",
    "summary": "When I was a kid we celebrated the “Battle of Jericho” when “the walls come a’tumblin’ down” as a great victory of God that shows how he will bring victory to those who are faithful to him. I don’t think we thought for a moment what it must have been like for the people in",
@@ -3951,21 +4014,6 @@
    "tags": [
     "Israel antigo",
     "Egito e Mesopotâmia"
-   ]
-  },
-  {
-   "title": "A Textual Commentary on the Greek New Testament: A Companion to the Sixth Edition of the United Bible Societies’ Greek New Testament. By H A G Houghton",
-   "url": "https://doi.org/10.1093/jts/flag072",
-   "summary": "",
-   "date": "2026-09-22",
-   "source": "The Journal of Theological Studies",
-   "authors": "Peter J Gurry",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Línguas antigas"
    ]
   },
   {
@@ -5436,21 +5484,6 @@
    ]
   },
   {
-   "title_pt": "As Epístolas de João: Origens, Autoria, Propósito. Por Hugo Méndez",
-   "title": "The Epistles of John: Origins, Authorship, Purpose. By Hugo Méndez",
-   "url": "https://doi.org/10.1093/jts/flag076",
-   "summary": "",
-   "date": "2026-09-07",
-   "source": "The Journal of Theological Studies",
-   "authors": "M David Litwa",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento"
-   ]
-  },
-  {
    "title_pt": "Tenney, realidade administrativa e aparato de escribas no período da Babilônia Média ... (Brill)",
    "summary_pt": "NOVO LIVRO DE BRILL: Realidade Administrativa e Aparelho de Escriba no Período da Babilônia Média, com Série de Textos de Acompanhamento: Monografias Semíticas de Harvard, Volume: 67 Autor: Jonathan S. Tenney Este livro fornece edições de 325 textos acadianos, reconstrói aspectos do processo de registro político e apresenta evidências de intertextualidade jurídica, epistolar e administrativa em",
    "title": "Tenney, Administrative Reality and Scribal Apparatus in the Middle Babylonian Period ... (Brill)",
@@ -6323,22 +6356,6 @@
     "Antigo Testamento",
     "Crítica textual",
     "Judaísmo do Segundo Templo"
-   ]
-  },
-  {
-   "title_pt": "Crítica Textual do Novo Testamento para o Século 21: Um Guia Prático. Por Charles L. Quarles",
-   "title": "New Testament Textual Criticism for the 21st Century: A Practical Guide. By Charles L. Quarles",
-   "url": "https://doi.org/10.1093/jts/flag074",
-   "summary": "",
-   "date": "2026-08-31",
-   "source": "The Journal of Theological Studies",
-   "authors": "John C P Smith",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Crítica textual"
    ]
   },
   {
@@ -9694,19 +9711,6 @@
    ]
   },
   {
-   "title_pt": "Abreviações",
-   "title": "Abbreviations",
-   "url": "https://doi.org/10.1177/1476993x261460526",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Currents in Biblical Research",
-   "authors": "",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "9. Antigos Textos Judaicos (Incluindo os Manuscritos do Mar Morto)",
    "title": "9. Early Jewish Texts (Including the Dead Sea Scrolls)",
    "url": "https://doi.org/10.1177/03090892261438575",
@@ -9819,6 +9823,21 @@
    ]
   },
   {
+   "title_pt": "As Epístolas de João: Origens, Autoria, Propósito. Por Hugo Méndez",
+   "title": "The Epistles of John: Origins, Authorship, Purpose. By Hugo Méndez",
+   "url": "https://doi.org/10.1093/jts/flag076",
+   "summary": "",
+   "date": "2026-05-20",
+   "source": "The Journal of Theological Studies",
+   "authors": "M David Litwa",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
    "title_pt": "Lendo Jeremias 29:4–7 com Corpos Multipostos",
    "summary_pt": "Lendo Jeremias 29:4-7 dialogicamente, este estudo situa a passagem na encruzilhada da multivocalidade textual-histórica do livro, das conversas intertextuais e das experiências contemporâneas de pertencimento multilocalizado. Afirma que os modelos comuns de exílio-retorno – presumindo uma pátria e restauração linear – são perturbados por uma ética do tempo presente de habitar o lugar que une memória, ruptura e responsabilidade. Enquadrando a multivocalidade como um princípio hermenêutico e a multilocalização como uma lente exegética, o artigo coloca em primeiro plano os leitores contemporâneos e multilocados como agentes que praticam uma ética interpretativa – reconhecendo a presença divina em locais fragmentados e momentâneos e…",
    "title": "Reading Jeremiah 29:4–7 with Multiplaced Bodies",
@@ -9836,6 +9855,22 @@
    ]
   },
   {
+   "title_pt": "Crítica Textual do Novo Testamento para o Século 21: Um Guia Prático. Por Charles L. Quarles",
+   "title": "New Testament Textual Criticism for the 21st Century: A Practical Guide. By Charles L. Quarles",
+   "url": "https://doi.org/10.1093/jts/flag074",
+   "summary": "",
+   "date": "2026-05-20",
+   "source": "The Journal of Theological Studies",
+   "authors": "John C P Smith",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Crítica textual"
+   ]
+  },
+  {
    "title_pt": "Comparando a cristologia paulina nas cartas controversas e indiscutíveis",
    "summary_pt": "Uma das principais questões nos debates sobre a autenticidade das cartas aos Colossenses e aos Efésios é a sua elevada cristologia em comparação com as indiscutíveis cartas paulinas, especialmente conforme retratado em Colossenses 1:15-20 e Efésios 1:20-23. Nesta contribuição, a principal questão colocada é se a cristologia no material indiscutível corresponde à do material contestado e, em caso afirmativo, como ela influencia aspectos dos debates sobre autenticidade. Implicações intradisciplinares e/ou interdisciplinares: Isto é feito comparando o conteúdo cristológico de Colossenses 1:15-20 e Efésios 1:20-23 com as principais passagens cristológicas nas indiscutíveis cartas paulinas,…",
    "title": "Comparing Pauline christology in the disputed and undisputed letters",
@@ -9850,6 +9885,21 @@
    "tags": [
     "Paulo e as epístolas",
     "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "A Textual Commentary on the Greek New Testament: A Companion to the Sixth Edition of the United Bible Societies’ Greek New Testament. By H. A. G. Houghton",
+   "url": "https://doi.org/10.1093/jts/flag072",
+   "summary": "",
+   "date": "2026-05-20",
+   "source": "The Journal of Theological Studies",
+   "authors": "Peter J Gurry",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Línguas antigas"
    ]
   },
   {
