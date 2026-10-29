@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:51+00:00",
+ "updated": "2026-10-29T04:37+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -115,12 +115,10 @@
   "The Bart Ehrman Blog",
   "The Bible Translator",
   "The Expository Times",
-  "The French Review",
   "The Journal of Hebrew Scriptures",
   "The Journal of Theological Studies",
   "The Southern Journal of Philosophy",
   "Theological Studies",
-  "Theology",
   "Theology and the World",
   "Theology in Scotland",
   "Trio",
@@ -10119,67 +10117,6 @@
     "Epigrafia e inscrições",
     "Escavações",
     "Israel antigo"
-   ]
-  },
-  {
-   "title_pt": "Uma ponte sobre o Sena, de Pauline Dreyfus (resenha)",
-   "title": "Un pont sur la Seine par Pauline Dreyfus (review)",
-   "url": "https://doi.org/10.1353/tfr.2026.a990142",
-   "summary": "",
-   "date": "2026-05-01",
-   "source": "The French Review",
-   "authors": "",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Paulo e as epístolas"
-   ]
-  },
-  {
-   "title_pt": "Assembléias Sociotécnicas e Afetos Bíblicos: Uma Resposta às Escrituras e ao Secularismo na Escandinávia Moderna e Além",
-   "summary_pt": "Com base nos artigos desta edição especial e na estrutura de assemblages bíblicos de Hannah M. Strømmen, este artigo sugere duas direções principais para pesquisas futuras sobre histórias culturais e de recepção da Bíblia. Primeiro, defende uma investigação mais profunda das dimensões sociotécnicas. No âmbito das assembleias bíblicas, as tecnologias não devem ser entendidas simplesmente como ferramentas utilizadas por actores humanos, mas como assembleias de agentes humanos e não humanos incorporados em assembleias maiores, interagindo com outros agentes para moldar significados culturais e organizações sociais de poder. Em segundo lugar, exige maior atenção aos efeitos bíblicos. Analisando Bíblias exclusivamente como discursivas…",
-   "title": "Sociotechnical Assemblages and Biblical Affects: A Response to Scripture and Secularism in Modern Scandinavia and Beyond",
-   "url": "https://doi.org/10.1163/15685152-20262007",
-   "summary": "Building on the articles in this special issue and Hannah M. Strømmen’s biblical assemblages framework, this article suggests two key directions for future research on cultural and reception histories of Bible. First, it advocates for deeper investigation into socio-technical dimensions. Within the framework of biblical assemblages, technologies should not be understood simply as tools used by human actors but as assemblages of human and non-human agents embedded within larger assemblages, interacting with other agents to shape cultural meanings and social organizations of power. Second, it calls for increased attention to biblical affects. Analyzing Bibles exclusively as discursive…",
-   "date": "2026-05-01",
-   "source": "Biblical Interpretation",
-   "authors": "Timothy Beal",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "Procurando Raízes: Percepções de Secularidade e Assembléias Bíblicas no Debate Público de 1957–58 sobre a Ordenação de Mulheres na Suécia",
-   "summary_pt": "Este artigo pretende ‘cavar as raízes’ do emaranhado entre a secularidade e a Bíblia na Suécia. Ao empregar os conceitos de “religião” e “assemblages bíblicos”, este estudo identifica e analisa a interação entre as percepções da secularidade e da Bíblia no debate público sobre a ordenação de mulheres na Igreja da Suécia (CofS) na década de 1950 – uma década crucial no processo de secularização da sociedade sueca. Identifica três diferentes percepções da secularidade, todas ligadas principalmente, mas não exclusivamente, a um determinado conjunto bíblico, e analisa como essas visões da secularidade e da Bíblia se desenvolvem em contraste entre si, contrastes que são reforçados por…",
-   "title": "Digging for Roots: Perceptions of Secularity and Biblical Assemblages in the 1957–58 Public Debate on Women’s Ordination in Sweden",
-   "url": "https://doi.org/10.1163/15685152-20262002",
-   "summary": "This article aims to ‘dig for the roots’ of the entanglement between secularity and the Bible in Sweden. By employing the concepts “religionization” and “biblical assemblages,” this study identifies and analyzes the interplay between perceptions of secularity and the Bible in the public debate on women’s ordination in the Church of Sweden (CofS) in the 1950s – a crucial decade in the secularization process of Swedish society. It identifies three different perceptions of secularity, all linked primarily, but not exclusively, to a certain biblical assemblage, and analyzes how these views of secularity and the Bible develop in contrast to each other, contrasts that are enhanced by…",
-   "date": "2026-05-01",
-   "source": "Biblical Interpretation",
-   "authors": "Frida Mannerfelt",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
-   "title_pt": "Cornelis Bennema, Imitação no Cristianismo Primitivo: Mimese e Formação Ética-Religiosa BennemaCornelis, Imitação no Cristianismo Primitivo: Mimese e Formação Ética-Religiosa (Grand Rapids MI: Eerdmans, 2025); xviii + 446 pp.:…",
-   "title": "Cornelis Bennema, Imitation in Early Christianity: Mimesis and Religious-Ethical Formation BennemaCornelis, Imitation in Early Christianity: Mimesis and Religious-Ethical Formation (Grand Rapids MI: Eerdmans, 2025); xviii + 446 pp.:…",
-   "url": "https://doi.org/10.1177/0040571x261448089c",
-   "summary": "",
-   "date": "2026-05-01",
-   "source": "Theology",
-   "authors": "Stephen C. Barton",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Cristianismo primitivo",
-    "Livros e eventos"
    ]
   }
  ]
