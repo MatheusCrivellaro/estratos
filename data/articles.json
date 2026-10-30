@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T04:39+00:00",
+ "updated": "2026-10-30T12:41+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -132,6 +132,19 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Uusimäki, Women, Travel and Transformation from the Bible to Bar-Kokhba (Routledge)",
+   "url": "http://paleojudaica.blogspot.com/2026/10/uusimaki-women-travel-and.html",
+   "summary": "NEW BOOK FROM ROUTLEDGE:Women, Travel and Transformation from the Bible to Bar-Kokhba By Elisa Uusimäki Copyright 2027 Open Access content is available for this title Hardback £137.59 ISBN 9781041139744 350 Pages Published September 18, 2026 by Routledge Description This book provides a novel, cultural-historical perspective on travel in the ancient world by exploring a wide",
+   "date": "2026-10-30",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
   {
    "title": "The Golden Calf",
    "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/the-golden-calf/",
@@ -5499,6 +5512,21 @@
    ]
   },
   {
+   "title_pt": "As Epístolas de João: Origens, Autoria, Propósito. Por Hugo Méndez",
+   "title": "The Epistles of John: Origins, Authorship, Purpose. By Hugo Méndez",
+   "url": "https://doi.org/10.1093/jts/flag076",
+   "summary": "",
+   "date": "2026-09-07",
+   "source": "The Journal of Theological Studies",
+   "authors": "M David Litwa",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
    "title_pt": "Tenney, realidade administrativa e aparato de escribas no período da Babilônia Média ... (Brill)",
    "summary_pt": "NOVO LIVRO DE BRILL: Realidade Administrativa e Aparelho de Escriba no Período da Babilônia Média, com Série de Textos de Acompanhamento: Monografias Semíticas de Harvard, Volume: 67 Autor: Jonathan S. Tenney Este livro fornece edições de 325 textos acadianos, reconstrói aspectos do processo de registro político e apresenta evidências de intertextualidade jurídica, epistolar e administrativa em",
    "title": "Tenney, Administrative Reality and Scribal Apparatus in the Middle Babylonian Period ... (Brill)",
@@ -6371,6 +6399,22 @@
     "Antigo Testamento",
     "Crítica textual",
     "Judaísmo do Segundo Templo"
+   ]
+  },
+  {
+   "title_pt": "Crítica Textual do Novo Testamento para o Século 21: Um Guia Prático. Por Charles L. Quarles",
+   "title": "New Testament Textual Criticism for the 21st Century: A Practical Guide. By Charles L. Quarles",
+   "url": "https://doi.org/10.1093/jts/flag074",
+   "summary": "",
+   "date": "2026-08-31",
+   "source": "The Journal of Theological Studies",
+   "authors": "John C P Smith",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Crítica textual"
    ]
   },
   {
@@ -9838,21 +9882,6 @@
    ]
   },
   {
-   "title_pt": "As Epístolas de João: Origens, Autoria, Propósito. Por Hugo Méndez",
-   "title": "The Epistles of John: Origins, Authorship, Purpose. By Hugo Méndez",
-   "url": "https://doi.org/10.1093/jts/flag076",
-   "summary": "",
-   "date": "2026-05-20",
-   "source": "The Journal of Theological Studies",
-   "authors": "M David Litwa",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento"
-   ]
-  },
-  {
    "title_pt": "Lendo Jeremias 29:4–7 com Corpos Multipostos",
    "summary_pt": "Lendo Jeremias 29:4-7 dialogicamente, este estudo situa a passagem na encruzilhada da multivocalidade textual-histórica do livro, das conversas intertextuais e das experiências contemporâneas de pertencimento multilocalizado. Afirma que os modelos comuns de exílio-retorno – presumindo uma pátria e restauração linear – são perturbados por uma ética do tempo presente de habitar o lugar que une memória, ruptura e responsabilidade. Enquadrando a multivocalidade como um princípio hermenêutico e a multilocalização como uma lente exegética, o artigo coloca em primeiro plano os leitores contemporâneos e multilocados como agentes que praticam uma ética interpretativa – reconhecendo a presença divina em locais fragmentados e momentâneos e…",
    "title": "Reading Jeremiah 29:4–7 with Multiplaced Bodies",
@@ -9867,22 +9896,6 @@
    "tags": [
     "Antigo Testamento",
     "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "Crítica Textual do Novo Testamento para o Século 21: Um Guia Prático. Por Charles L. Quarles",
-   "title": "New Testament Textual Criticism for the 21st Century: A Practical Guide. By Charles L. Quarles",
-   "url": "https://doi.org/10.1093/jts/flag074",
-   "summary": "",
-   "date": "2026-05-20",
-   "source": "The Journal of Theological Studies",
-   "authors": "John C P Smith",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Crítica textual"
    ]
   },
   {
