@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:41+00:00",
+ "updated": "2026-10-30T18:33+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -114,6 +114,7 @@
   "Textus",
   "The Bart Ehrman Blog",
   "The Bible Translator",
+  "The Biblical Annals",
   "The Expository Times",
   "The Journal of Hebrew Scriptures",
   "The Journal of Theological Studies",
@@ -142,6 +143,48 @@
    "kind": "blog",
    "peer": false,
    "tags": [
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "S9E12 Why do we have so many English Bibles? Unpacking modern English Bible translation",
+   "url": "https://tyndalehouse.com/2026/10/30/s9e12-why-do-we-have-so-many-english-bibles-unpacking-modern-english-bible-translation/",
+   "summary": "In this final episode celebrating the 500th anniversary of William Tyndale’s 1526 New Testament, Tony Watkins speaks with Dr Peter J. Williams, Principal of Tyndale House Cambridge, about the history, development, and future of English Bible translation. There's a Youtube video here!I'm fine with Youtube cookies Together they trace the story of the English Bible ...",
+   "date": "2026-10-30",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
+   "title": "Public Trials in the Letter of James",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/public-trials-in-letter-of-james/",
+   "summary": "The Letter of James is one of the most overlooked books in the New Testament. With its unique outlook, style, and social justice message, it",
+   "date": "2026-10-30",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
+   "title": "Craig L. Blomberg, Jesus the Purifier: John's Gospel and the Fourth Quest for the Historical Jesus (Grand Rapids, Michigan: Baker Academic 2023)",
+   "url": "https://doi.org/10.31743/ba.20774",
+   "summary": "Book review: Craig L. Blomberg, Jesus the Purifier: John’s Gospel and the Fourth Quest for the Historical Jesus (Grand Rapids, MI: Baker Academic 2023). Pp. xx + 394 (E-book). 35,62 USD. ISBN 978-1-4934-3996-6.",
+   "date": "2026-10-30",
+   "source": "The Biblical Annals",
+   "authors": "Stanisław Sadowski",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico",
     "Livros e eventos"
    ]
   },
