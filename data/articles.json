@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:23+00:00",
+ "updated": "2026-10-31T21:35+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -61,6 +61,7 @@
   "Journal of Ancient Judaism",
   "Journal of Bible & classical languages and literature",
   "Journal of Biblical Literature",
+  "Journal of Biblical Text Research",
   "Journal of Early Christian Studies",
   "Journal of Early Modern Christianity",
   "Journal of Early Modern History",
@@ -133,6 +134,20 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Textual Criticism and Translation Proposal for Zephaniah 3:9-10",
+   "url": "https://doi.org/10.28977/jbtr.2026.10.59.7",
+   "summary": "",
+   "date": "2026-10-31",
+   "source": "Journal of Biblical Text Research",
+   "authors": "Joon-Hyuk Lee",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
   {
    "title": "Milco (ed), Beall Festschrift (Gorgias)",
    "url": "http://paleojudaica.blogspot.com/2026/10/milco-ed-beall-festschrift-gorgias.html",
