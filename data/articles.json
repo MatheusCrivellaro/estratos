@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:35+00:00",
+ "updated": "2026-11-01T04:31+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -65,7 +65,6 @@
   "Journal of Early Christian Studies",
   "Journal of Early Modern Christianity",
   "Journal of Early Modern History",
-  "Journal of Eastern Christian Studies",
   "Journal of Field Archaeology",
   "Journal of History Research",
   "Journal of Language, Culture, and Religion",
@@ -73,7 +72,6 @@
   "Judaica. Neue digitale Folge",
   "Karanos. Bulletin of Ancient Macedonian Studies",
   "Khoa Học Công Giáo và Đời Sống",
-  "Levant",
   "Live Science",
   "Logos et Praxis",
   "MELUS: Multi-Ethnic Literature of the United States",
@@ -134,6 +132,20 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Editorial: Yale-Edinburgh Conference in São Paulo: Christianity, Democracy and Nationalism",
+   "url": "https://doi.org/10.3366/swc.2026.0563",
+   "summary": "",
+   "date": "2026-11-01",
+   "source": "Studies in World Christianity",
+   "authors": "Pedro Feitoza",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
   {
    "title": "Textual Criticism and Translation Proposal for Zephaniah 3:9-10",
    "url": "https://doi.org/10.28977/jbtr.2026.10.59.7",
@@ -10279,57 +10291,6 @@
    "tags": [
     "Epigrafia e inscrições",
     "Escavações"
-   ]
-  },
-  {
-   "title_pt": "‘A mais bela e gloriosa tarefa dos homens instruídos’",
-   "summary_pt": "“A mais bela e gloriosa tarefa dos homens cultos” – esta pode ser a melhor descrição de crítica textual que já encontrei. É do senador romano do século VI, escritor cristão e monge Cassiodoro. Em seu livro Instituições de Aprendizagem Divina e Secular, ele tem uma seção inteira sobre a importância da correção dos manuscritos bíblicos como parte do estudo adequado da Bíblia. Esdras em Amiatinus (fonte) Ele encerra sua seção sobre as três maneiras pelas quais as Escrituras foram divididas (por Jerônimo, Agostinho e a LXX) dizendo: \"Agora nos resta dizer como devemos corrigir os erros dos escribas nas Sagradas Escrituras. De que adianta ler muitos textos e não saber o que...",
-   "title": "‘The Most Beautiful and Glorious Task of Learned Men’",
-   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/05/the-most-beautiful-and-glorious-task-of.html",
-   "summary": "“The most beautiful and glorious task of learned men” — that may be the best description of textual criticism I’ve ever come across. It’s from the sixth-century Roman senator, Christian writer, and monk Cassiodorus. In his book Institutions of Divine and Secular Learning , he has an entire section on the importance of correcting biblical manuscripts as part of the proper study of the Bible. Ezra in Amiatinus ( source ) He closes his section on the three ways the Scriptures have been divided (by Jerome, Augustine, and the LXX) by saying, “Now it remains for us to say how we ought to correct scribal errors in Holy Scripture. What use is it to read through many texts and not to know what…",
-   "date": "2026-05-04",
-   "source": "Evangelical Textual Criticism",
-   "category": "manuscritos",
-   "kind": "blog",
-   "peer": false,
-   "tags": [
-    "Crítica textual",
-    "Septuaginta",
-    "Cristianismo primitivo"
-   ]
-  },
-  {
-   "title_pt": "Andreas Juckel e Inetje Parlevliet-Flesseman, O Novo Testamento em Siríaco: Versão Peshitṭa, vol. iii, As Epístolas Paulinas. Piscataway, NJ: Gorgias Press, 2023, clxviii–349 pp.",
-   "title": "Andreas Juckel and Inetje Parlevliet-Flesseman, The New Testament in Syriac: Peshitṭa Version, vol. iii, The Pauline Epistles. Piscataway, NJ: Gorgias Press, 2023, clxviii–349 pp. isbn 978-1-4632-4479-8 (hb).",
-   "url": "https://doi.org/10.1163/17831520-2026xx03",
-   "summary": "",
-   "date": "2026-05-04",
-   "source": "Journal of Eastern Christian Studies",
-   "authors": "Piotr Jutkiewicz",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Novo Testamento",
-    "Paulo e as epístolas",
-    "Cristianismo primitivo"
-   ]
-  },
-  {
-   "title_pt": "Um selo exclusivo em madrepérola do final da Idade do Ferro em Tel Ḥadid, Israel",
-   "title": "A unique mother-of-pearl stamp seal from Late Iron Age Tel Ḥadid, Israel",
-   "url": "https://doi.org/10.1080/00758914.2026.2663758",
-   "summary": "",
-   "date": "2026-05-04",
-   "source": "Levant",
-   "authors": "Ido Koch, Daria Leibin-Graiver, Daniella E. Bar-Yosef Mayer",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Epigrafia e inscrições",
-    "Escavações",
-    "Israel antigo"
    ]
   }
  ]
