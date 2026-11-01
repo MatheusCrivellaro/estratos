@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:13+00:00",
+ "updated": "2026-11-01T22:19+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -133,6 +133,21 @@
  ],
  "articles": [
   {
+   "title": "The Bible of Edessa: Ezekiel (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/the-bible-of-edessa-ezekiel-brill.html",
+   "summary": "NEW BOOK FROM BRILL:The Bible of Edessa: Ezekiel Series: The Bible of Edessa: An Annotated Translation of the Syriac Peshitta, Volume: 2 Editors / Translators: Jerome A. Lund, Godwin Mushayabasa, and Herculaas F. van Rooy Authoritative, Based on the Best Syriac Text, and Fully Annotated This extensively annotated translation offers an accessible introduction to the Peshitta of Ezekiel. It",
+   "date": "2026-11-01",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Cristianismo primitivo",
+    "Livros e eventos"
+   ]
+  },
+  {
    "title": "Editorial: Yale-Edinburgh Conference in São Paulo: Christianity, Democracy and Nationalism",
    "url": "https://doi.org/10.3366/swc.2026.0563",
    "summary": "",
@@ -158,6 +173,32 @@
    "tags": [
     "Novo Testamento",
     "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+   "summary": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middle East, rather than East Africa, may have been the cradle of modern ape evolution.",
+   "date": "2026-11-01",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "2,700-year-old mummy head yields first molecular evidence linking aloe to Egyptian embalming",
+   "url": "https://phys.org/news/2026-10-year-mummy-yields-molecular-evidence.html",
+   "summary": "What materials did ancient Egyptians use to preserve the dead, and how can their composition still be investigated thousands of years later? An interdisciplinary team at Marburg University has combined modern natural product analysis with Egyptology and the history of pharmacy to investigate these questions.",
+   "date": "2026-11-01",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
    ]
   },
   {
