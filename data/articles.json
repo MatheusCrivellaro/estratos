@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:16+00:00",
+ "updated": "2026-11-03T01:06+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -210,6 +210,19 @@
    ]
   },
   {
+   "title": "Buried for 2,600 years beneath Nile mud, a massive ancient Egyptian complex was just found — from space",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/buried-for-2-600-years-beneath-nile-mud-a-massive-ancient-egyptian-complex-was-just-found-from-space",
+   "summary": "Satellite radar and underground electrical scans have revealed a 2,600-year-old structure at Buto, one of ancient Egypt's most sacred cities. The real surprise wasn't the walls — but what was underneath them.",
+   "date": "2026-11-02",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
    "title": "A Forest Fortress Reopens in Israel",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/a-forest-fortress-reopens-in-israel/",
    "summary": "The Israel Antiquities Authority announced in a press release that the Gal’on Fortress has officially been opened to the public. This mid-12th century BCE structure",
@@ -325,6 +338,22 @@
    "peer": true,
    "tags": [
     "Crítica textual"
+   ]
+  },
+  {
+   "title": "Necromancy in the Hebrew Bible and Its Ancient near Eastern Context: Composition, Ritual Knowledge, and Religious Authority",
+   "url": "https://doi.org/10.3390/rel17111285",
+   "summary": "Necromancy is consistently condemned in the received form of the Hebrew Bible, yet the same corpus preserves ritual knowledge and conceptual frameworks that are difficult to reconcile with the idea that consultation of the dead was always foreign to Israelite religion. This article re-examines necromantic practices diachronically and comparatively, distinguishing necromancy from the broader care and veneration of the dead and assessing the archaeological evidence for continued relations with deceased kin. Particular attention is given to Deuteronomy 18:9–14 and 1 Samuel 28 as literary witnesses to changing strategies of religious authorization. The comparison with West Semitic and wider…",
+   "date": "2026-10-31",
+   "source": "Religions",
+   "authors": "David Villar Vegas",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Israel antigo",
+    "Línguas antigas"
    ]
   },
   {
@@ -1163,6 +1192,17 @@
    "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
+   "tags": []
+  },
+  {
+   "title": "2026 ASOR Annual Meeting App",
+   "url": "https://www.asor.org/2026/10/am26-app",
+   "summary": "THE ANNUAL MEETING APP 2026 ASOR Annual Meeting The 2026 ASOR Annual Meeting is supported by a dedicated mobile app, hosted by Whova, for participants attending in Chicago and remotely. The app provides the complete academic program, speaker and exhibitor …",
+   "date": "2026-10-22",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
+   "peer": false,
    "tags": []
   },
   {
@@ -10447,22 +10487,6 @@
     "Antigo Testamento",
     "Novo Testamento",
     "Jesus histórico"
-   ]
-  },
-  {
-   "title_pt": "Selecionando palavras para um juiz pouco receptivo",
-   "summary_pt": "Este artigo examina como a teoria da metáfora cognitiva pode iluminar a interação entre convencionalidade e criatividade nos Manuscritos do Mar Morto, concentrando-se numa metáfora impressionante em 4Q424 que conceptualiza falar com um juiz não receptivo como separar palavras no vento errado. Embora os estudos de metáforas cognitivas tenham impactado muitas áreas das humanidades, o seu potencial para a investigação dos Pergaminhos permanece largamente inexplorado. Ao situar 4Q424 numa tradição mais ampla que associa a joeiração ao julgamento, a análise mostra como o texto ativa estruturas conceituais familiares para garantir a inteligibilidade, ao mesmo tempo que as remodela criativamente para aumentar a força retórica. Com base em insights de…",
-   "title": "Winnowing Words to an Unreceptive Judge",
-   "url": "https://doi.org/10.1163/15685179-bja10080",
-   "summary": "This article examines how cognitive metaphor theory can illuminate the interplay between conventionality and creativity in the Dead Sea Scrolls, focusing on a striking metaphor in 4Q424 that conceptualizes speaking to an unreceptive judge as winnowing words in the wrong wind. Although cognitive metaphor studies have impacted many areas of the humanities, their potential for Scrolls research remains largely untapped. By situating 4Q424 within a broader tradition that associates winnowing with judgment, the analysis shows how the text activates familiar conceptual structures to ensure intelligibility while creatively reshaping them to heighten rhetorical force. Drawing on insights from…",
-   "date": "2026-05-06",
-   "source": "Dead Sea Discoveries",
-   "authors": "Danilo Verde",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Manuscritos do Mar Morto"
    ]
   }
  ]
