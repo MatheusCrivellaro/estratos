@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:34+00:00",
+ "updated": "2026-11-04T05:14+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -136,6 +136,20 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Who killed British archaeologist James Starkey? Archival records shed light on an 88-year-old mystery",
+   "url": "https://phys.org/news/2026-11-british-archaeologist-james-starkey-archival.html",
+   "summary": "Eighty-eight years after pioneering British archaeologist Starkey was shot dead while traveling from the ancient city of Lachish to Jerusalem, researchers say they have uncovered compelling new evidence explaining who was behind his murder—and why he was targeted.",
+   "date": "2026-11-04",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Israel antigo"
+   ]
+  },
   {
    "title": "The marginalia found in millions of Arabic manuscripts could reshape our understanding of Islamic history",
    "url": "https://phys.org/news/2026-11-marginalia-millions-arabic-manuscripts-reshape.html",
@@ -10725,24 +10739,6 @@
    "kind": "periodico",
    "peer": true,
    "tags": [
-    "Jesus histórico"
-   ]
-  },
-  {
-   "title_pt": "O Jesus histórico e a política de interpretação: continuando a aprender com Elisabeth Schüssler Fiorenza",
-   "summary_pt": "O artigo primeiro resume e embeleza a crítica de Schüssler Fiorenza às construções científicas e sócio-científicas do Jesus histórico que surgiram na década de 1990. Em seguida, resume investigações anteriores sobre movimentos populares contemporâneos à missão e movimento de Jesus e investigações sobre as diferentes histórias regionais da Palestina que tornaram o contexto histórico mais complicado do que tinha sido reconhecido. Finalmente, explora várias maneiras pelas quais os insights de Schüssler Fiorenza foram proféticos ao antecipar reconhecimentos importantes de novas possibilidades na reconstrução do Jesus-em-interação histórico, apreciando a importância da memória nos Evangelhos como…",
-   "title": "The Historical Jesus and the Politics of Interpretation: Continuing to Learn from Elisabeth Schüssler Fiorenza",
-   "url": "https://doi.org/10.1163/17455197-bja10057",
-   "summary": "The article first summarizes and embellishes Schüssler Fiorenza’s criticism of scientific and social-scientific constructions of the historical Jesus that surged in the 1990s. It then summarizes earlier investigations of popular movements contemporary with Jesus’ mission and movement and investigations of the different regional histories of Palestine that made the historical context more complicated than had been recognized. Finally, it explores several ways that Schüssler Fiorenza’s insights were prophetic in anticipating important recognitions of new possibilities in the reconstruction of the historical Jesus-in-interaction by appreciating the importance of memory in the Gospels as…",
-   "date": "2026-05-07",
-   "source": "Journal for the Study of the Historical Jesus",
-   "authors": "Richard Horsley",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Novo Testamento",
     "Jesus histórico"
    ]
   }
