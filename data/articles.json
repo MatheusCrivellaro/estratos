@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:30+00:00",
+ "updated": "2026-11-04T23:54+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -210,6 +210,17 @@
    "source": "Biblical Archaeology Society",
    "category": "arqueologia",
    "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "ALERT: Fraudulent E-mails, Calls, and Phishing Scams",
+   "url": "https://www.asor.org/news/2026/11/scam-alert",
+   "summary": "ALERT: Fraudulent E-mails, Calls, and Phishing Scams Be Aware of Common Scams Many organizations, including ASOR, are being targeted by fraudulent groups and individuals that mine for contact information to use in phishing scams, fake hotel reservations and mailing lists, …",
+   "date": "2026-11-04",
+   "source": "ASOR",
+   "category": "arqueologia",
+   "kind": "instituicao",
    "peer": false,
    "tags": []
   },
