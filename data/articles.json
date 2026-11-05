@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:31+00:00",
+ "updated": "2026-11-05T14:40+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -137,6 +137,53 @@
  ],
  "articles": [
   {
+   "title": "Teenager finds Bronze Age Egyptian amulet at Tel Gezer",
+   "url": "http://paleojudaica.blogspot.com/2026/11/teenager-finds-bronze-age-egyptian.html",
+   "summary": "ANCIENT ICONOGRAPHY: US teen discovers 3,300-year-old Egyptian amulet during Israel tour. 17-year-old Shiloh Attoun spots the small scarab-shaped seal while visiting Tel Gezer National Park with his class (Zev Stub, Times of Israel).Shiloh Attoun, a student on the Jewish National Fund-USA’s Muss High School in Israel study-abroad program, was visiting Tel Gezer National Park in the Judean",
+   "date": "2026-11-05",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Epigrafia e inscrições",
+    "Escavações",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Greek-style Tetradrachms excavated in Israel are mostly from Athens",
+   "url": "http://paleojudaica.blogspot.com/2026/11/greek-style-tetradrachms-excavated-in.html",
+   "summary": "NUMISMATICS: 2,400-Year-Old Greek Coins Found in Israel Reveal Surprising Links to Ancient Athens (Abdul Moeed, Greek Reporter).The origins of ancient Greek coins found in Israel are clearer after a new study traced much of their silver to Athens and territories it once controlled. Researchers say many of the coins, long suspected of being local copies, were likely genuine Athenian currency",
+   "date": "2026-11-05",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Septuaginta",
+    "Epigrafia e inscrições",
+    "Escavações",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Expecting the End? Was Mark Written in Aramaic? And Was a Key Verse Added to John?",
+   "url": "https://ehrmanblog.org/expecting-the-end-was-mark-written-in-aramaic-and-was-a-key-verse-added-to-john/",
+   "summary": "I've received some heavy-duty questions recently, on diverse but interesting issues. Don't some Christians today seem to share Jesus' view of the coming end? Was the Gospel of Mark composed in Aramaic rather than Greek? And did a scribe insert what is now John 16:15 into the Gospel, so that it originally didn't have it?",
+   "date": "2026-11-05",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico",
+    "Crítica textual",
+    "Línguas antigas"
+   ]
+  },
+  {
    "title": "Who killed British archaeologist James Starkey? Archival records shed light on an 88-year-old mystery",
    "url": "https://phys.org/news/2026-11-british-archaeologist-james-starkey-archival.html",
    "summary": "Eighty-eight years after pioneering British archaeologist Starkey was shot dead while traveling from the ancient city of Lachish to Jerusalem, researchers say they have uncovered compelling new evidence explaining who was behind his murder—and why he was targeted.",
@@ -173,6 +220,21 @@
    "kind": "revista",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "Jesus’s Gestures of Writing in John 7:53–8:11: A Means Without End",
+   "url": "https://doi.org/10.1163/15685152-20263030",
+   "summary": "Jesus’s gesture of writing in John 7:53–8:11 has been interpreted as an invitation to decipher its meaning literally or symbolically. Some symbolic interpretations emphasize that Jesus surpasses the Mosaic law by writing on the ground. This article offers a performative interpretation of the Pericope Adulterae that challenges these symbolic readings. Drawing on Giorgio Agamben’s theory of gesture, it argues that the act of writing carries its own meaning. This understanding of gesture counters anti-Jewish tendencies in interpreting the Pericope Adulterae . Rather than becoming the author of a new law, Jesus is challenged as a teacher of the law. By interrupting the direct link between…",
+   "date": "2026-11-04",
+   "source": "Biblical Interpretation",
+   "authors": "Clarissa Breu",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico"
+   ]
   },
   {
    "title": "Carthago excavanda est",
@@ -3561,6 +3623,19 @@
     "Liturgia e cânon",
     "Livros e eventos"
    ]
+  },
+  {
+   "title_pt": "Abreviações",
+   "title": "Abbreviations",
+   "url": "https://doi.org/10.1177/1476993x261496719",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "Currents in Biblical Research",
+   "authors": "",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "Slaughter and Human Sacrifice: Understanding Tales of the Hebrew Bible",
@@ -10464,19 +10539,6 @@
     "Cristianismo primitivo",
     "Línguas antigas"
    ]
-  },
-  {
-   "title_pt": "Abreviações",
-   "title": "Abbreviations",
-   "url": "https://doi.org/10.1177/1476993x261460526",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Currents in Biblical Research",
-   "authors": "",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "9. Antigos Textos Judaicos (Incluindo os Manuscritos do Mar Morto)",
