@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:54+00:00",
+ "updated": "2026-11-05T05:31+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -3561,19 +3561,6 @@
     "Liturgia e cânon",
     "Livros e eventos"
    ]
-  },
-  {
-   "title_pt": "Abreviações",
-   "title": "Abbreviations",
-   "url": "https://doi.org/10.1177/1476993x261496719",
-   "summary": "",
-   "date": "2026-10-01",
-   "source": "Currents in Biblical Research",
-   "authors": "",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title": "Slaughter and Human Sacrifice: Understanding Tales of the Hebrew Bible",
@@ -10477,6 +10464,19 @@
     "Cristianismo primitivo",
     "Línguas antigas"
    ]
+  },
+  {
+   "title_pt": "Abreviações",
+   "title": "Abbreviations",
+   "url": "https://doi.org/10.1177/1476993x261460526",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Currents in Biblical Research",
+   "authors": "",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "9. Antigos Textos Judaicos (Incluindo os Manuscritos do Mar Morto)",
