@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:59+00:00",
+ "updated": "2026-11-07T13:07+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -136,6 +136,17 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Changing Times and the Question of Relevance",
+   "url": "https://ehrmanblog.org/changing-times-and-the-question-of-relevance/",
+   "summary": "If you knew for a fact that the world was going to end on March 1, how would that affect your behavior? It’s worth thinking about. Not only because, well, hey: maybe it will! But also because that kind of thinking can help us decide how we should behave even if the world takes a",
+   "date": "2026-11-07",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "The Testimonium Flavianum in the news",
    "url": "http://paleojudaica.blogspot.com/2026/11/the-testimonium-flavianum-in-news.html",
