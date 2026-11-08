@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:42+00:00",
+ "updated": "2026-11-08T13:27+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -135,6 +135,19 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Outdated Religion and Modern Life",
+   "url": "https://ehrmanblog.org/the-irrelevance-of-jesus-teaching/",
+   "summary": "Can Jesus’ teachings on wealth and what to do with it have any relevance for a world that does not share his underlying assumptions/views/beliefs about religion and economics? That question is not relevant only for the uber-rich in our world (name your names; some of them, of course, claim to be ardent followers of Jesus),",
+   "date": "2026-11-08",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
+  },
   {
    "title": "Changing Times and the Question of Relevance",
    "url": "https://ehrmanblog.org/changing-times-and-the-question-of-relevance/",
