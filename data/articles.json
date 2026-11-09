@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:23+00:00",
+ "updated": "2026-11-09T04:56+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -23,6 +23,7 @@
   "Biblical Theology Bulletin: Journal of Bible and Culture",
   "Bio-grafía",
   "Bulletin for Biblical Research",
+  "CARAKA: Jurnal Teologi Biblika dan Praktika",
   "COMMUNIO VIATORUM",
   "Comenius: Acta Facultatis Iuridicae Universitatis Comenianae",
   "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
@@ -53,7 +54,6 @@
   "Iranian Studies",
   "Irish Theological Quarterly",
   "Israel Hayom - Arqueologia",
-  "Ivy Enber Scientific Journal",
   "Jewish Quarterly Review",
   "Journal for the History of Rhetoric",
   "Journal for the Study of Judaism",
@@ -146,6 +146,20 @@
    "peer": false,
    "tags": [
     "Jesus histórico"
+   ]
+  },
+  {
+   "title": "KEMURNIAN YANG BERJEJARING",
+   "url": "https://doi.org/10.46348/car.v7i2.532",
+   "summary": "Qumran masih kerap dipahami secara biner, baik sebagai kantong asketis yang benar-benar terisolasi, atau sebagai pemukiman yang tertanam dalam jaringan ekonomi dan transportasi regional. Melalui ketegangan ini, lantas bagaimana suatu sistem pemukiman dapat secara serentak menjaga batas kemurnian yang ketat dan menunjukkan keterlibatan sosial yang terukur dengan lingkungannya? Penelitian kualitatif berbasis studi pustaka ini menjawab masalah tersebut melalui kajian historis-kritis atas literatur arkeologis mengenai Khirbet Qumran dan Gulungan Laut Mati, dibaca melalui teori sosiologis sektarianisme Eyal Regev, yang mengklasifikasikan Qumran sebagai sekte introversionist yang menunjukkan…",
+   "date": "2026-11-08",
+   "source": "CARAKA: Jurnal Teologi Biblika dan Praktika",
+   "authors": "Daniel Saputra Simanjuntak",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Manuscritos do Mar Morto"
    ]
   },
   {
@@ -11043,39 +11057,6 @@
    "tags": [
     "Manuscritos do Mar Morto",
     "Judaísmo do Segundo Templo"
-   ]
-  },
-  {
-   "title_pt": "O perigoso negócio da interpretação bíblica",
-   "summary_pt": "Um relato pessoal sobre a chegada à consciência feminista como estudiosa bíblica e o impacto do trabalho de Elisabeth Schüssler Fiorenza. Em diálogo com Jesus e a Política de Interpretação, o artigo trata de questões como a natureza contextual da interpretação bíblica, a inadequação das abordagens “Jesus-e-mulheres”, os perigos do antijudaísmo e as consequências políticas e éticas de tentar recriar Jesus como um indivíduo carismático único, em vez de investigar as pessoas históricas que fizeram parte do seu movimento emancipatório da basileia.",
-   "title": "The Dangerous Business of Biblical Interpretation",
-   "url": "https://doi.org/10.1163/17455197-bja10060",
-   "summary": "A personal account of a coming to feminist consciousness as a biblical scholar and the impact of the work of Elisabeth Schüssler Fiorenza. In dialogue with Jesus and the Politics of Interpretation , the article deals with questions such as the contextual nature of biblical interpretation, the inadequacy of ‘Jesus-and-women’ approaches, the dangers of anti-Judaism, and the political and ethical consequences of seeking to recreate Jesus as a unique charismatic individual rather than investigate the historical people who were part of his emancipatory basileia movement.",
-   "date": "2026-05-12",
-   "source": "Journal for the Study of the Historical Jesus",
-   "authors": "Barbara E. Reid",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Jesus histórico"
-   ]
-  },
-  {
-   "title_pt": "A formação do caráter ético na antiguidade: Qumran, Jesus e a dinâmica psicológica da virtude",
-   "summary_pt": "O artigo analisa a formação do caráter ético ao comparar os Manuscritos do Mar Morto com as Bem-aventuranças de Jesus, focando especialmente na psicologia da virtude. Sob a ótica psicológica, as Bem-aventuranças funcionam como um guia para a autorregulação emocional e a integração da personalidade, onde virtudes como a mansidão promovem estabilidade interna frente a conflitos. Diferente do legalismo externo, a proposta de Jesus desloca a ética para a intenção e a saúde mental, sugerindo uma psicopedagogia que visa o florescimento humano. Em suma, o texto conclui que essa espiritualidade antiga, ainda que sempre atual, antecipa conceitos modernos de maturidade moral, transformando a…",
-   "title": "A formação do caráter ético na antiguidade: Qumran, Jesus e a dinâmica psicológica da virtude",
-   "url": "https://doi.org/10.57108/iesj.2026.6-1.11",
-   "summary": "O artigo analisa a formação do caráter ético ao comparar os Manuscritos do Mar Morto com as Bem-aventuranças de Jesus, focando especialmente na psicologia da virtude. Sob a ótica psicológica, as Bem-aventuranças funcionam como um guia para a autorregulação emocional e a integração da personalidade, onde virtudes como a mansidão promovem estabilidade interna frente a conflitos. Diferente do legalismo externo, a proposta de Jesus desloca a ética para a intenção e a saúde mental, sugerindo uma psicopedagogia que visa o florescimento humano. Em suma, o texto conclui que essa espiritualidade antiga, ainda que sempre atual, antecipa conceitos modernos de maturidade moral, transformando a…",
-   "date": "2026-05-12",
-   "source": "Ivy Enber Scientific Journal",
-   "authors": "Richarde Barbosa Guerra",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Manuscritos do Mar Morto",
-    "Jesus histórico"
    ]
   }
  ]
