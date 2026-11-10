@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:55+00:00",
+ "updated": "2026-11-10T15:00+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -134,6 +134,69 @@
  ],
  "articles": [
   {
+   "title": "Restoration of the Beit Alfa synagogue mosaic",
+   "url": "http://paleojudaica.blogspot.com/2026/11/restoration-of-beit-alfa-synagogue.html",
+   "summary": "DECORATIVE ART: Preserving an ancient mosaic: Israeli specialists gather to conserve 1,500-year-old synagogue floor. Beit Alfa’s ancient synagogue was built during the Byzantine period, at the end of the fifth century CE, approximately 1,500 years ago. The mosaic floor was discovered in 1928 (Miriam Sela-Eitam, Jerusalem Post).About 20 Israel Nature and Parks Authority (INPA) conservation",
+   "date": "2026-11-10",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Liturgia e cânon"
+   ]
+  },
+  {
+   "title": "Machaerus: Beyond the Beheading of John the Baptist",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/machaerus-beyond-the-beheading-of-john-the-baptist/",
+   "summary": "According to the Gospels, Herod Antipas had John the Baptist imprisoned and killed at the request of the beautiful Salome. Josephus locates the event at Machaerus. The archaeological finds paint a clear picture of this magnificent site’s colorful but bloody history.",
+   "date": "2026-11-10",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Judaísmo do Segundo Templo"
+   ]
+  },
+  {
+   "title": "Egyptian cats meant for the gods led harsh lives, extensive museum collection reveals",
+   "url": "https://phys.org/news/2026-11-egyptian-cats-meant-gods-harsh.html",
+   "summary": "More than 2,000 years ago, Egyptians offered cats to the gods. Now, a new study published in the Journal of Archaeological Science suggests that even cats destined for the gods did not necessarily live pampered lives.",
+   "date": "2026-11-10",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Advice About Money From a Different Universe",
+   "url": "https://ehrmanblog.org/advice-about-money-from-a-different-universe/",
+   "summary": "It should be dead easy to realize that guidelines for how to live and behave from one time and place may have almost no relevance to those living at other times elsewhere. For ancient sailors it may have made perfect sense that “Thou shalt not sail after dark” – when there were no such things",
+   "date": "2026-11-10",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "A Biblical Spice Rack",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/bible-herbs-spices/",
+   "summary": "The brevity of life is compared to the delicate bloom of the caper in one of the Bible’s many references to fragrant and edible plants. Enjoy a glimpse of some of these plants.",
+   "date": "2026-11-10",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
    "title": "World’s Oldest Cosmogony",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/worlds-oldest-cosmogony/",
    "summary": "The Ain Samiya goblet has been an enigma since it was first discovered in 1970, near the West Bank city of Nablus. Now, a study",
@@ -184,6 +247,20 @@
    "tags": [
     "Crítica textual",
     "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Deep Learning Methods for Analyzing the Composition of the Hodayot Collection 1QHa",
+   "url": "https://doi.org/10.1163/15685179-bja10088",
+   "summary": "The partition of the 1QH a into distinct blocks of hymns—Teacher Hymns and Community Hymns—has been a long-standing consensus, supported by the 4Q copies. Many scholars accepted a block of Teacher hymns in 1QH a columns 10–16, with enveloping, transition material in cols. 9, 17–20. Yet the uniformity of the TH block has been doubted due to the presence of CH material and a possible Maskil redaction across the various blocks. In addition, the uniformity of the Community Hymns was also doubted. In this study we implement cutting-edge computerized methods from the field of Natural Language Processing ( NLP ) to examine the partition of 1QH a . The clustering method we have developed does…",
+   "date": "2026-11-09",
+   "source": "Dead Sea Discoveries",
+   "authors": "Jonathan Ben-Dov, Yonatan Lourie, Roded Sharan",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Liturgia e cânon"
    ]
   },
   {
