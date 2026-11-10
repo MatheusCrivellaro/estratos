@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:46+00:00",
+ "updated": "2026-11-10T01:55+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -25,7 +25,6 @@
   "Bulletin for Biblical Research",
   "CARAKA: Jurnal Teologi Biblika dan Praktika",
   "COMMUNIO VIATORUM",
-  "Comenius: Acta Facultatis Iuridicae Universitatis Comenianae",
   "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Currents in Biblical Research",
   "Dead Sea Discoveries",
@@ -128,7 +127,6 @@
   "Tyndale House",
   "Verbum Vitae",
   "Verbum et Ecclesia",
-  "Women in Judaism: A Multidisciplinary e-Journal",
   "Word & Image",
   "Zeitschrift für Antikes Christentum / Journal of Ancient Christianity",
   "Învăţământ, Cercetare, Creaţie",
@@ -162,6 +160,33 @@
    ]
   },
   {
+   "title": "New Issue of the TC Journal Celebrating 30 Years!",
+   "url": "https://evangelicaltextualcriticism.blogspot.com/2026/11/new-issue-of-tc-journal-celelbrating-30.html",
+   "summary": "Volume 31 of TC: A Journal of Biblical Textual Criticism for which I am general editor since 2019 has been published. It is packed with seven articles and four notes (reviews will be added later). The journal celebrates its 30-year anniversary – hooray! – so I open the issue with an editorial \"The TC Journal at Thirty: From Web Experiment to Scholarly Infrastructure in Biblical Textual Criticism\" in which I reflect on the history and future of the journal – everything is open access as always.",
+   "date": "2026-11-09",
+   "source": "Evangelical Textual Criticism",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "Inscribed Blocks Record Egyptian Official’s Biography",
+   "url": "https://archaeology.org/news/2026/11/09/inscribed-blocks-record-egyptian-officials-biography/",
+   "summary": "SAQQARA, EGYPT—One of the world’s earliest known autobiographies was written on the walls of the",
+   "date": "2026-11-09",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
    "title": "Coptic manuscripts exhibited in Manchester",
    "url": "http://paleojudaica.blogspot.com/2026/11/coptic-manuscripts-exhibited-in.html",
    "summary": "EXHIBITION: John Rylands Library takes centuries-old Coptic treasures into the heart of the community. More than 400 Coptic Christians examine manuscripts at a Stockport church in rare opportunity to connect with their cultural and religious heritage (University of Manchester).The University of Manchester’s John Rylands Library has taken a selection of its historic Coptic and Ethiopian",
@@ -188,6 +213,20 @@
    "tags": [
     "Antigo Testamento",
     "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Archaeologists Uncover Original Floor of Nubia’s Largest Medieval Cathedral",
+   "url": "https://archaeology.org/news/2026/11/09/archaeologists-uncover-original-floor-of-nubias-largest-medieval-cathedral/",
+   "summary": "WARSAW, POLAND—Excavations within the medieval Great Church of Jesus in northern Sudan’s Old Dongola uncovered",
+   "date": "2026-11-09",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Escavações"
    ]
   },
   {
@@ -9310,6 +9349,19 @@
    ]
   },
   {
+   "title": "The James Ossuary Yet Again",
+   "url": "https://bibleinterp.arizona.edu/articles/ossuary_again",
+   "summary": "The James Ossuary Yet Again markos101 Wed, 1 Jul 2026 - 15:27 Meyers, Eric M. The James Ossuary Yet Again . The Bible and Interpretation ( https://bibleinterp.arizona.edu ). July 2003 When a supposedly important artifact comes to light in an unusual way and its provenance is unknown or its owner refuses to share information about it, scholars, journalists, religious leaders, and publishers should be wary. By Eric M. Meyers Professor of Judaic Studies Duke University, Department of Religion July 2003 The arrest of Oded Golan on July 23rd by the Israeli police on suspicion of forging antiquities, among them the Jehoash Temple inscription and the so-called “James” ossuary (see Ha’aretz ,…",
+   "date": "2026-07-01",
+   "source": "Bible & Interpretation",
+   "category": "historia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Epigrafia e inscrições"
+   ]
+  },
+  {
    "title_pt": "A influência da Bíblia na fundação americana",
    "summary_pt": "Uma representação da oração no primeiro Congresso Continental. A Bíblia teve um papel proeminente no pensamento e nas práticas políticas dos patriotas americanos que, no último terço do século XVIII, lutaram e garantiram a independência da Grã-Bretanha e estabeleceram novas repúblicas constitucionais nos seus respectivos estados e nação. Afinal, era o livro mais acessível, confiável e venerado do mundo.",
    "title": "The Bible’s Influence on the American Founding",
@@ -11089,55 +11141,6 @@
    "kind": "periodico",
    "peer": true,
    "tags": []
-  },
-  {
-   "title_pt": "Wilson, Lucas F. W. Em casa com o Holocausto: pós-memória, espaço doméstico e narrativas do Holocausto de segunda geração. Nova Brunswick: Rutgers University Press, 2025.",
-   "summary_pt": "Resenha do livro",
-   "title": "Wilson, Lucas F. W. At Home with the Holocaust: Postmemory, Domestic Space, and Second-Generation Holocaust Narratives. New Brunswick: Rutgers University Press, 2025.",
-   "url": "https://doi.org/10.33137/wij.v21i2.47563",
-   "summary": "Book Review",
-   "date": "2026-05-13",
-   "source": "Women in Judaism: A Multidisciplinary e-Journal",
-   "authors": "Anna Marie Anderson",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Livros e eventos"
-   ]
-  },
-  {
-   "title": "Why is the Old Testament (and New Testament) not really a testament?",
-   "url": "https://doi.org/10.46282/afi.2026.1.06",
-   "summary": "The title New (and Old) Testament is commonly used in the English-speaking world to denote the corpus of biblical books that form the key source for the teaching of one of the most widespread religions in the world, Christianity. However, the first part of the book, as the source for the second part, is central to another world religion, Judaism, which is the cornerstone for the emergence and subsequent development of Christian teaching. The issue of terminology for the designation of these books is not relevant for the source religion (Judaism), but is somewhat crucial for the understanding and interpretation of the Scripture in the Christian theology. Just as it is not right to divide…",
-   "date": "2026-05-13",
-   "source": "Comenius: Acta Facultatis Iuridicae Universitatis Comenianae",
-   "authors": "Valéria Terézia Dančiaková",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Novo Testamento",
-    "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "Realeza contestada na Judéia helenística tardia",
-   "summary_pt": "Este artigo explora concepções locais de realeza na Judéia durante o período helenístico tardio por meio de um texto poético encontrado em Qumran que se refere ao “Rei Jônatas” (4Q448). Embora os estudiosos geralmente identifiquem esta figura como um governante hasmoneu, a posição do texto em relação à dinastia e ao seu cargo real permanece debatida. Para lançar nova luz sobre esta questão, o artigo analisa o texto em relação à poesia encomiástica tradicionalmente associada a ambientes cortês. Comparando-o com passagens poéticas em 1 Macabeus, argumenta que o texto do Rei Jônatas participou da reinterpretação interna da realeza, moldando papéis de elite dentro da Judéia Hasmoneu. Este estudo oferece, portanto, uma revisão…",
-   "title": "Contested Kingship in Late Hellenistic Judea",
-   "url": "https://doi.org/10.1163/15700631-bja10117",
-   "summary": "This article explores local conceptions of kingship in Judea during the late Hellenistic period through a poetic text found at Qumran that refers to “King Jonathan” (4Q448). While scholars generally identify this figure as a Hasmonean ruler, the text’s stance toward the dynasty and its royal office remains debated. To shed new light on this question, the article analyzes the text in relation to encomiastic poetry traditionally associated with courtly settings. Comparing it with poetic passages in 1 Maccabees, it argues that the King Jonathan text participated in the internal reinterpretation of kingship, shaping elite roles within Hasmonean Judea. This study thus offers a revised…",
-   "date": "2026-05-13",
-   "source": "Journal for the Study of Judaism",
-   "authors": "Rotem Avneri Meir",
-   "category": "manuscritos",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Manuscritos do Mar Morto",
-    "Judaísmo do Segundo Templo"
-   ]
   }
  ]
 }
