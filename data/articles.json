@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T06:33+00:00",
+ "updated": "2026-11-12T15:24+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -133,6 +133,86 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "What Was the Star of Bethlehem?",
+   "url": "https://www.biblicalarchaeology.org/daily/what-was-the-star-of-bethlehem/",
+   "summary": "For the past 2,000 years, people have wondered about the identity and nature of the Star of Bethlehem. And for hundreds of years, some of",
+   "date": "2026-11-12",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Top Ten Discoveries Related to the Book of Ezekiel",
+   "url": "http://paleojudaica.blogspot.com/2026/11/top-ten-discoveries-related-to-book-of.html",
+   "summary": "BIBLE ARCHAEOLOGY REPORT: Top Ten Discoveries Related to the Book of Ezekiel (Bryan Windle). HT the Bible Places Blog.Ezekiel prophesied during the period of the Babylonian exile of Judah. Since he dated his prophecies, we know he ministered from roughly 593 BC (his first prophecy; 1:1) to 571 BC (his last chronologically; 29:17–21). Thus, his entire recorded ministry occurred during the reign of",
+   "date": "2026-11-12",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Israel antigo",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Questions About the Trinity, the Incarnation, and the Star of Bethlehem",
+   "url": "https://ehrmanblog.org/questions-about-the-trinity-the-incarnation-and-the-star-of-bethlehem/",
+   "summary": "Here are some more of the many intriguing queries I have recently received from inquiring minds inside the heads of Blog readers! QUESTION: On Friday evening, I was at Wheaton College for a presentation by Ayaan Hirsi Ali (famous Muslim apostate and public intellectual) and Darrel Bock of Dallas Theological Seminary. He quoted a",
+   "date": "2026-11-12",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "Progress in machine reading of Ge'ez manuscripts",
+   "url": "http://paleojudaica.blogspot.com/2026/11/progress-in-machine-reading-of-geez.html",
+   "summary": "ETHIOPIC WATCH: Deep Learning Model Achieves 93.52% Accuracy in Ancient Ge’ez Manuscript Recognition (Bioengineer).Researchers from Ethiopia have developed a deep convolutional neural network capable of recognizing characters in ancient Ethiopic Ge’ez manuscripts with an accuracy of 93.52%. Published in the journal Discover Imaging in May 2025, the study addresses the critical need to digitize",
+   "date": "2026-11-12",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "Prof. Robert H. Eisenman (1937-2026)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/prof-robert-h-eisenman-1937-2026.html",
+   "summary": "SAD NEWS: Robert H. Eisenman. OBITUARY (Orange County Register).Our beloved Robert Herschel Eisenman passed away at home with his family by his side on Friday, October 23rd, in Fountain Valley, California, and was buried on Tuesday, October 27th, on the Mount of Olives in Jerusalem next to his great-grandfather. He was 89 years old. Prof. Eisenman worked on the Dead Sea Scrolls and he",
+   "date": "2026-11-12",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Manuscritos do Mar Morto",
+    "Jerusalém"
+   ]
+  },
+  {
+   "title": "Is the “Brother of Jesus” Inscription on the James Ossuary a Forgery?",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/is-the-brother-of-jesus-inscription-on-the-james-ossuary-a-forgery/",
+   "summary": "Although the famous “brother of Jesus” inscription on the so-called James Ossuary has been authenticated by two world-class paleographers, not everyone is convinced that the inscription is authentic.",
+   "date": "2026-11-12",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Epigrafia e inscrições"
+   ]
+  },
   {
    "title": "Unpacking Paul’s New Testament Letters",
    "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/bible-interpretation/unpacking-pauls-new-testament-letters/",
