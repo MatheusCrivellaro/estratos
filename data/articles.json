@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:18+00:00",
+ "updated": "2026-11-12T00:49+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -22,6 +22,7 @@
   "Biblical Interpretation",
   "Biblical Theology Bulletin: Journal of Bible and Culture",
   "Bio-grafía",
+  "Buildings",
   "Bulletin for Biblical Research",
   "CARAKA: Jurnal Teologi Biblika dan Praktika",
   "COMMUNIO VIATORUM",
@@ -158,6 +159,48 @@
    "tags": [
     "Antigo Testamento",
     "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Symbolic clay figurines change our understanding of the prehistoric Middle East",
+   "url": "https://phys.org/news/2026-11-clay-figurines-prehistoric-middle-east.html",
+   "summary": "Newly discovered artifacts are evidence of the earliest known example of a tradition of making clay figurines in the Middle East—and challenge long-held beliefs about when and how clay began to be used for symbolic purposes in the region, according to a study published in PLOS One by Laurent Davin from The Hebrew University of Jerusalem, Israel, and colleagues.",
+   "date": "2026-11-11",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Jerusalém",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Space and Worshipping: Space Syntax Analyses of a Mosque, a Basilica, a Buddhist Temple, and a Hindu Temple",
+   "url": "https://doi.org/10.3390/buildings16224506",
+   "summary": "Religious buildings represent spatial environments where belief systems, worship practices, and social interactions are supported by spatial configurations. This study aims to examine the relationship between spatial configuration and worship practices in four religious buildings situated within four distinct religious and cultural traditions—Sunni Islam, Roman Catholic Christianity, Tibetan Buddhism, and Balinese Hinduism—represented by the Emir Abdelkader Mosque, Sagrada Família Basilica, Jokhang Temple, and Besakih Temple. The research focuses on how the spatial organisation and the location of functions respond to or support specific ritual requirements and forms of worship. Ritual…",
+   "date": "2026-11-11",
+   "source": "Buildings",
+   "authors": "Adel Sekhri, Akkelies van Nes",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Liturgia e cânon"
+   ]
+  },
+  {
+   "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
+   "summary": "Ancient manuscripts, including the 1,000-year-old York Gospels, have revealed traces of a deadly sheep virus whose history stretches back more than 3,700 years. Scientists discovered that the virus has remained remarkably unchanged for millennia, turning historic parchment into an unexpected record of ancient disease outbreaks.",
+   "date": "2026-11-11",
+   "source": "ScienceDaily - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Crítica textual"
    ]
   },
   {
