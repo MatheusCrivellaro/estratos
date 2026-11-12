@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:24+00:00",
+ "updated": "2026-11-12T23:58+00:00",
  "sources": [
   "'Atiqot",
   "ASOR",
@@ -94,6 +94,7 @@
   "Pharos Journal of Theology",
   "Phys.org - Arqueologia",
   "Qadum: Journal of Excavation Reports from Israel",
+  "RELACult - Revista Latino-Americana de Estudos em Cultura e Sociedade",
   "Reading Acts",
   "Religion Compass",
   "Religions",
@@ -211,6 +212,33 @@
    "tags": [
     "Jesus histórico",
     "Epigrafia e inscrições"
+   ]
+  },
+  {
+   "title": "Fired Clay Fragments Offer Hints to Development of Near Eastern Pottery",
+   "url": "https://archaeology.org/news/2026/11/12/fired-clay-fragments-offer-hints-to-development-of-near-eastern-pottery/",
+   "summary": "ISTANBUL, TURKEY—According to a report in La Brújula Verde, 46 fragments of fired clay unearthed",
+   "date": "2026-11-12",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Escavações"
+   ]
+  },
+  {
+   "title": "CAROLINA MARIA DE JESUS: INTERSECCIONALIDADE, DECOLONIALIDADE E ESCREVIVÊNCIA. CAROLINA MARIA DE JESUS: INTERSECTIONALITY, DECOLONIALITY AND ESCREVIVÊNCIA. CAROLINA MARIA DE JESUS: INTERSECCIONALIDAD, DECOLONIALIDAD Y ESCREVIVENCIA.…",
+   "url": "https://doi.org/10.23899/6wtys467",
+   "summary": "Este artigo analisa a obra Quarto de despejo: diário de uma favelada, de Carolina Maria de Jesus, a partir de uma perspectiva interseccional, decolonial e do conceito de escrevivência. A afirmação “eu sou uma despejada” é tomada como chave interpretativa para compreender as múltiplas dimensões da marginalização vivida por mulheres negras no Brasil urbano do pós-abolição. A narrativa de Carolina explicita a articulação entre raça, gênero e classe, denunciando a lógica de descarte humano que confina corpos negros femininos às margens da cidade e da cidadania. Ao converter sua experiência em escrita, a autora inscreve um contra-arquivo que tensiona a história oficial e propõe outras formas de…",
+   "date": "2026-11-12",
+   "source": "RELACult - Revista Latino-Americana de Estudos em Cultura e Sociedade",
+   "authors": "Alidéa Santos Aflitos",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Jesus histórico"
    ]
   },
   {
@@ -523,7 +551,7 @@
   {
    "title": "Citizenship in the Hebrew Bible",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/citizenship-in-the-hebrew-bible/",
-   "summary": "When thinking of the origins of democracy, as many are doing after election day, most point to ancient Greece. Greece indeed formalized processes and ideals",
+   "summary": "When thinking of the origins of democracy, as many in America are doing after election day, most point to ancient Greece. Greece indeed formalized processes",
    "date": "2026-11-09",
    "source": "Biblical Archaeology Society",
    "category": "arqueologia",
