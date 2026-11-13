@@ -1,7 +1,6 @@
 {
- "updated": "2026-11-12T23:58+00:00",
+ "updated": "2026-11-13T05:31+00:00",
  "sources": [
-  "'Atiqot",
   "ASOR",
   "African Journal of Religious and Theological Studies",
   "Al-Adyan: Journal of Religious Studies",
@@ -561,6 +560,18 @@
     "Antigo Testamento",
     "Línguas antigas"
    ]
+  },
+  {
+   "title": "Biblical Sarcasm (Yeah, Right!)",
+   "url": "https://doi.org/10.1177/20516770261499623",
+   "summary": "Sarcasm has been defined as a form of verbal irony where something positive is said, but the actual meaning is negative and mocking. Because sarcasm is largely indicated by a speaker’s intonation, it may not be easily recognized in written form. However, there are indications of sarcasm in written material, primarily quotation or reference to another’s thinking or utterance, incongruity between what is said and what is meant, and hyperformality. This paper tries to identify many of those indications and demonstrates their presence and use in the Bible. It also offers suggestions for translating biblical sarcasm and argues that it is important to use sarcasm in a translation when the target…",
+   "date": "2026-11-09",
+   "source": "The Bible Translator",
+   "authors": "Glenn Machlan",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title": "Archaeologists Uncover Original Floor of Nubia’s Largest Medieval Cathedral",
@@ -11395,50 +11406,6 @@
    "tags": [
     "Paulo e as epístolas",
     "Livros e eventos"
-   ]
-  },
-  {
-   "title_pt": "Duas cavernas funerárias do período do Segundo Templo em Abu Ṭor, Jerusalém",
-   "title": "Two Second-Temple-Period Burial Caves in Abu Ṭor, Jerusalem",
-   "url": "https://doi.org/10.70967/2948-040x.2480",
-   "summary": "",
-   "date": "2026-05-16",
-   "source": "'Atiqot",
-   "authors": "Amit Re’em",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Jerusalém"
-   ]
-  },
-  {
-   "title": "A Salvage Excavation at Mazor, Site 3",
-   "url": "https://doi.org/10.70967/2948-040x.2456",
-   "summary": "",
-   "date": "2026-05-16",
-   "source": "'Atiqot",
-   "authors": "Vladimir Zbenovich",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Escavações"
-   ]
-  },
-  {
-   "title": "A Hebrew Seal from Jaffa and the Hebrew Script in the Post-First Temple Period",
-   "url": "https://doi.org/10.70967/2948-040x.2470",
-   "summary": "",
-   "date": "2026-05-16",
-   "source": "'Atiqot",
-   "authors": "Martin Peilstöcker, Benjamin Sass",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Epigrafia e inscrições",
-    "Línguas antigas"
    ]
   }
  ]
