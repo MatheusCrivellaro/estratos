@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:42+00:00",
+ "updated": "2026-11-14T00:03+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -63,6 +63,7 @@
   "Journal of Bible & classical languages and literature",
   "Journal of Biblical Literature",
   "Journal of Biblical Text Research",
+  "Journal of Childhood and Religion",
   "Journal of Early Christian Studies",
   "Journal of Early Modern Christianity",
   "Journal of Early Modern History",
@@ -145,6 +146,19 @@
    "tags": []
   },
   {
+   "title": "New Approaches to Ancient Texts: Rethinking Textual Criticism with Peter Montoro IV",
+   "url": "https://tyndalehouse.com/2026/11/13/new-approaches-to-ancient-texts-rethinking-textual-criticism-with-peter-montoro-iv/",
+   "summary": "Recorded in front of our first live audience! How do we know the Bible we read today reflects what was originally written? In this episode, Peter Montoro shares his journey from growing up in a Christian home to pursuing a PhD in textual criticism at the University of Birmingham. Along the way, he discovered that ...",
+   "date": "2026-11-13",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
    "title": "Jesus and the Trolley Problem – Platinum Post by Douglas Wadeson MD",
    "url": "https://ehrmanblog.org/jesus-and-the-trolley-problem-platinum-post-by-douglas-wadeson-md/",
    "summary": "I'm pleased to post this new Platinum Post by Platinum member Douglas Wadeson for all you other Platinums. This one's a bit of a brain teaser. Good luck working it out. And may you never have to in practice! ****************************** In philosophy a standard thought experiment is the ‘Trolley Problem.’ There are variations, but the",
@@ -169,6 +183,19 @@
    "peer": false,
    "tags": [
     "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "Health of Mummified Egyptian Cats Evaluated",
+   "url": "https://archaeology.org/news/2026/11/13/health-of-mummified-egyptian-cats-evaluated/",
+   "summary": "VIENNA, AUSTRIA—Zooarchaeologist Wim Van Neer of the Royal Belgian Institute of Natural Sciences and his",
+   "date": "2026-11-13",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
    ]
   },
   {
@@ -208,6 +235,37 @@
    "tags": [
     "Manuscritos do Mar Morto",
     "Crítica textual"
+   ]
+  },
+  {
+   "title": "Children’s Rights and Parents’ Duties: A Textual Approach between the New Testament and the Qurʾan",
+   "url": "https://doi.org/10.65045/001c.173587",
+   "summary": "This article places Christian Scripture—with the New Testament as its focal text, read together with the Hebrew Bible that Christians receive as canonical—and the Qurʾan in comparative conversation on the rights of children and the corresponding duties of parents. Reading each scripture through its authoritative interpretive traditions—classical Sunnī and Twelver Shīʿī exegesis and ḥadīth on the Muslim side (Ṭabarī, Rāzī, Ibn Kathīr, Ṭūsī, Ṭabrisī, Kulaynī, the twentieth-century Ṭabāṭabāʾī, and Ghazālī’s literature of ādāb), and patristic, medieval, and Reformation sources on the Christian side (Clement, Chrysostom, Augustine, Aquinas, Calvin, Menno Simons)—the study identifies five…",
+   "date": "2026-11-13",
+   "source": "Journal of Childhood and Religion",
+   "authors": "Mohammed Salim Hattab",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Novo Testamento",
+    "Cristianismo primitivo",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "Carolina Maria de Jesus: interseccionalidade, decolonialidade e escrevivência Carolina Maria de Jesus: intersectionality, decoloniality and escrevivência Carolina Maria de Jesus: interseccionalidad, decolonialidad y escrevivencia Carolina…",
+   "url": "https://doi.org/10.23899/6wtys467",
+   "summary": "Este artigo analisa a obra Quarto de despejo: diário de uma favelada, de Carolina Maria de Jesus, a partir de uma perspectiva interseccional, decolonial e do conceito de escrevivência. A afirmação “eu sou uma despejada” é tomada como chave interpretativa para compreender as múltiplas dimensões da marginalização vivida por mulheres negras no Brasil urbano do pós-abolição. A narrativa de Carolina explicita a articulação entre raça, gênero e classe, denunciando a lógica de descarte humano que confina corpos negros femininos às margens da cidade e da cidadania. Ao converter sua experiência em escrita, a autora inscreve um contra-arquivo que tensiona a história oficial e propõe outras formas de…",
+   "date": "2026-11-13",
+   "source": "RELACult - Revista Latino-Americana de Estudos em Cultura e Sociedade",
+   "authors": "Alidéa Santos Aflitos, Cláudia Pons Cardoso",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Jesus histórico"
    ]
   },
   {
@@ -315,20 +373,6 @@
    "peer": false,
    "tags": [
     "Escavações"
-   ]
-  },
-  {
-   "title": "CAROLINA MARIA DE JESUS: INTERSECCIONALIDADE, DECOLONIALIDADE E ESCREVIVÊNCIA. CAROLINA MARIA DE JESUS: INTERSECTIONALITY, DECOLONIALITY AND ESCREVIVÊNCIA. CAROLINA MARIA DE JESUS: INTERSECCIONALIDAD, DECOLONIALIDAD Y ESCREVIVENCIA.…",
-   "url": "https://doi.org/10.23899/6wtys467",
-   "summary": "Este artigo analisa a obra Quarto de despejo: diário de uma favelada, de Carolina Maria de Jesus, a partir de uma perspectiva interseccional, decolonial e do conceito de escrevivência. A afirmação “eu sou uma despejada” é tomada como chave interpretativa para compreender as múltiplas dimensões da marginalização vivida por mulheres negras no Brasil urbano do pós-abolição. A narrativa de Carolina explicita a articulação entre raça, gênero e classe, denunciando a lógica de descarte humano que confina corpos negros femininos às margens da cidade e da cidadania. Ao converter sua experiência em escrita, a autora inscreve um contra-arquivo que tensiona a história oficial e propõe outras formas de…",
-   "date": "2026-11-12",
-   "source": "RELACult - Revista Latino-Americana de Estudos em Cultura e Sociedade",
-   "authors": "Alidéa Santos Aflitos",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Jesus histórico"
    ]
   },
   {
