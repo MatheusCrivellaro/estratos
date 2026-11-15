@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:16+00:00",
+ "updated": "2026-11-15T14:14+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -134,6 +134,73 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "How did Cleopatra really die?",
+   "url": "https://www.livescience.com/archaeology/ancient-egyptians/how-did-cleopatra-really-die",
+   "summary": "Ancient writers couldn't agree on how Egypt's last queen took her own life, and the famous snakebite story may owe more to her enemies than to the facts.",
+   "date": "2026-11-15",
+   "source": "Live Science",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Danley, Constructing Temple Spaces in the Gospel of John (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/danley-constructing-temple-spaces-in.html",
+   "summary": "NEW BOOK FROM BRILL:Constructing Temple Spaces in the Gospel of John Purity, Participation, and God's Covenantal Presence Series: Biblical Interpretation Series, Volume: 242 Author: Rachel L. Danley This study examines the complexity of temple imagery and how it structures spaces in early Judaism and John’s Gospel by integrating modern metaphor and spatial theory with traditional",
+   "date": "2026-11-15",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "‘Akko, Ne’ot Yam: The Glass Finds",
+   "url": "https://doi.org/10.70967/3078-8528.1087",
+   "summary": "This article presents a glass assemblage of approximately forty artifacts recovered during earth-moving activities at a cemetery in ‘Akko. The assemblage spans the Hellenistic period to the second century CE and includes both early, distinctive objects and Roman-period vessels. The earliest finds comprise an ‘eye’ bead dating to the fourth–third centuries BCE, fragments of cast bowls decorated with external grooves and a small object interpreted as a possible gaming piece or inlay. The assemblage is dominated by Roman-period blown cosmetic bottles, including examples of the candlestick type, dating to the first and second centuries CE. Of particular significance is a rare cobalt-blue cast…",
+   "date": "2026-11-14",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Natalya Katsnelson",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
+   "title": "‘Akko, Ne’ot Yam: Amphora Stamps and Fragments",
+   "url": "https://doi.org/10.70967/3078-8528.1086",
+   "summary": "This report presents three stamped and eighteen unstamped amphora fragments recovered from the excavation at the Ne’ot Yam neighborhood in ‘Akko. The finds date from the mid-Hellenistic to the mid-Roman periods.",
+   "date": "2026-11-14",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Gerald Finkielsztejn",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Escavações"
+   ]
+  },
+  {
+   "title": "‘Akko, Ne’ot Yam: A Cemetery from the Hellenistic–Early Roman Periods / עכו, נאות ים: בית קברות מהתקופות ההלניסטית–הרומית הקדומה",
+   "url": "https://doi.org/10.70967/3078-8528.1085",
+   "summary": "A salvage excavation in southern ‘Akko uncovered 72 graves, which were part of an extensive cemetery previously excavated north and west of Tel ‘Akko. The graves uncovered in the current excavation include 46 pit graves covered with large, carefully dressed stone slabs; 22 pit graves cut into the ground and lined with medium-sized fieldstones, then covered with stone cairns; and four coffins—two ceramic and two hard-limestone coffins. As the graves were not excavated, it is difficult to determine whether a chronological relationship exists between the different grave types and their orientations. The finds, recovered from soil accumulations above and between the graves, consist mainly of…",
+   "date": "2026-11-14",
+   "source": "Qadum: Journal of Excavation Reports from Israel",
+   "authors": "Rina Avner, Yuval Gur, Adnan Zidan",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Escavações"
+   ]
+  },
   {
    "title": "He Said It But He Didn’t Mean It. An Intriguing Interpretation of Jesus’ Teachings",
    "url": "https://ehrmanblog.org/he-said-it-but-he-didnt-mean-it-an-intriguing-interpretation-of-jesus-teachings/",
