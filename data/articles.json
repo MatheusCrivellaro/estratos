@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:15+00:00",
+ "updated": "2026-11-16T15:29+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -135,6 +135,66 @@
  ],
  "articles": [
   {
+   "title": "The Latin Josephus Project 3.0",
+   "url": "http://paleojudaica.blogspot.com/2026/11/the-latin-josephus-project-30.html",
+   "summary": "PROJECT UPDATE: Introducing the Latin Josephus Project 3.0. Texts, translations, and new tools for studying Josephus and his reception in the Latin Middle Ages.The Latin Josephus Project is pleased to announce the release of version 3.0 of its digital research platform, available freely at latinjosephus.org. For more than a thousand years, the writings of the first-century Jewish historian",
+   "date": "2026-11-16",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Judaísmo do Segundo Templo",
+    "Línguas antigas",
+    "Interpretação e teologia"
+   ]
+  },
+  {
+   "title": "Someone Who Took Jesus Literally: Anthony, “The Father of Monasticism”",
+   "url": "https://ehrmanblog.org/someone-who-took-jesus-literally-anthony-the-father-of-monasticism/",
+   "summary": "In my previous post I talked about how most early Christians did not take Jesus seriously, or at least literally, when he indicated that those who were rich should give their wealth to the poor if they wanted to enter the kingdom of heaven. Clement of Alexandria, as I showed, directly said that Jesus didn’t",
+   "date": "2026-11-16",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico",
+    "Cristianismo primitivo",
+    "Israel antigo"
+   ]
+  },
+  {
+   "title": "Ross, Ruth: A Handbook on the Greek Text (Baylor)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/ross-ruth-handbook-on-greek-text-baylor.html",
+   "summary": "WILLIAM A. ROSS: NOW AVAILABLE: BAYLOR HANDBOOK ON GREEK RUTH.Back in April I announced that my new book, Ruth: A Handbook on the Greek Text, was coming to press soon. Well, it is now available from Baylor University Press as the latest volume in the Baylor Handbook on the Septuagint series (BHLXX). My author copies have arrived, and they look sharp! Congratulations to Prof. Ross. Follow",
+   "date": "2026-11-16",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Septuaginta",
+    "Línguas antigas",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Leningrad Codex TEI",
+   "url": "http://paleojudaica.blogspot.com/2026/11/leningrad-codex-tei.html",
+   "summary": "THE AWOL BLOG: Leningrad Codex TEI. An open-access digital edition of the Leningrad Codex. For PaleoJudaica posts on the Leningrad Codex, the oldest complete copy of the Hebrew Bible and the textual basis for Biblia Hebraica Stuttgartensia, start here and follow the links. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-11-16",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Crítica textual",
+    "Línguas antigas"
+   ]
+  },
+  {
    "title": "Healed but Unheard: Structural Silence and Intersectional Erasure in Mark’s Exorcism Narratives",
    "url": "https://doi.org/10.1163/15685152-bja10088",
    "summary": "This study examines the ways in which intersectional oppression manifests within the exorcism narratives of the Gospel of Mark. To this end, it employs narrative criticism to analyze the narrative spaces and speech acts assigned to each figure within the text. Drawing on Michal Beth Dinkler’s narrative theory of silence, Judith Butler’s theory of performativity, Doreen Massey’s spatial theory, and Elisabeth Schüssler Fiorenza’s concept of kyriarchal structural oppression, the study traces the processes through which these figures are rendered subaltern. By identifying the girl child as occupying the lowest position within this hierarchy of oppression, the study exposes the structural…",
@@ -161,6 +221,59 @@
    "tags": [
     "Antigo Testamento",
     "Crítica textual"
+   ]
+  },
+  {
+   "title": "Counting Paul",
+   "url": "https://www.ancientjewreview.com/read/2026/10/6/counting-paul",
+   "summary": "As news headlines are flooded with promotions and promises about “AI,” it is hard not to hear assertions that putatively “scientific” algorithms will finally resolve core questions in the humanities.",
+   "date": "2026-11-16",
+   "source": "Ancient Jew Review",
+   "category": "historia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas"
+   ]
+  },
+  {
+   "title": "Canaanite Folk Worship at Megiddo",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/canaanite-folk-worship-at-megiddo/",
+   "summary": "Conducting salvage excavations at the ancient site of Megiddo—famously known as Armageddon in the New Testament’s Book of Revelation—archaeologists with the Israel Antiquities Authority (IAA)",
+   "date": "2026-11-16",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Escavações",
+    "Israel antigo",
+    "Liturgia e cânon"
+   ]
+  },
+  {
+   "title": "Bethlehem’s Ancient Pipe Organ Sounds Again",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/post-biblical-period/bethlehems-ancient-pipe-organ-sounds-again/",
+   "summary": "David Catalunya (right) and Koos van de Linde inspect pipes from Bethlehem’s medieval organ. Click on the image to hear what the organ may have",
+   "date": "2026-11-16",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Who Is Jethro, Priest of Midian?",
+   "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/who-is-jethro-priest-of-midian/",
+   "summary": "The Bible introduces Jethro, who is also called Reuel, as a non-Israelite, a priest of Midian, and the father of seven daughters who are shepherdesses",
+   "date": "2026-11-15",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Israel antigo"
    ]
   },
   {
@@ -228,6 +341,19 @@
    "peer": true,
    "tags": [
     "Escavações"
+   ]
+  },
+  {
+   "title": "Who Were the Galatians in the Bible?",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/who-were-the-galatians-in-the-bible/",
+   "summary": "Galatia refers to a region in north central Turkey; Ankara, the capital of modern Turkey, was once a major Galatian city (Ancyra). The name of Galatia is derived from the 20,000 Gauls who settled in the region in 278 B.C.E. More than two centuries later, in 25 B.C.E., the area became a Roman province and was extended to the south. In Paul’s day, the new province included the regions of Pisidia, Phrygia, and Lycaonia. Scholars often refer to these new, southern regions as “south Galatia” and to geographic Galatia as “north Galatia.”",
+   "date": "2026-11-14",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Paulo e as epístolas"
    ]
   },
   {
@@ -3360,22 +3486,6 @@
    "kind": "blog",
    "peer": false,
    "tags": []
-  },
-  {
-   "title": "Hasmonean Legitimacy Texts in the Hebrew Bible",
-   "url": "https://doi.org/10.1080/09018328.2026.2742841",
-   "summary": "",
-   "date": "2026-10-13",
-   "source": "Scandinavian Journal of the Old Testament",
-   "authors": "Israel Finkelstein",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Antigo Testamento",
-    "Judaísmo do Segundo Templo",
-    "Línguas antigas"
-   ]
   },
   {
    "title": "Greek influence on Coptic",
@@ -9916,6 +10026,22 @@
    "peer": true,
    "tags": [
     "Escavações"
+   ]
+  },
+  {
+   "title": "Hasmonean Legitimacy Texts in the Hebrew Bible",
+   "url": "https://doi.org/10.1080/09018328.2026.2742841",
+   "summary": "",
+   "date": "2026-07-03",
+   "source": "Scandinavian Journal of the Old Testament",
+   "authors": "Israel Finkelstein",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo",
+    "Línguas antigas"
    ]
   },
   {
