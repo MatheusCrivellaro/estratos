@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:20+00:00",
+ "updated": "2026-11-16T05:15+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -134,6 +134,35 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Healed but Unheard: Structural Silence and Intersectional Erasure in Mark’s Exorcism Narratives",
+   "url": "https://doi.org/10.1163/15685152-bja10088",
+   "summary": "This study examines the ways in which intersectional oppression manifests within the exorcism narratives of the Gospel of Mark. To this end, it employs narrative criticism to analyze the narrative spaces and speech acts assigned to each figure within the text. Drawing on Michal Beth Dinkler’s narrative theory of silence, Judith Butler’s theory of performativity, Doreen Massey’s spatial theory, and Elisabeth Schüssler Fiorenza’s concept of kyriarchal structural oppression, the study traces the processes through which these figures are rendered subaltern. By identifying the girl child as occupying the lowest position within this hierarchy of oppression, the study exposes the structural…",
+   "date": "2026-11-16",
+   "source": "Biblical Interpretation",
+   "authors": "Myonghwa Cho",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
+   "title": "Escaping Her Grasp: Joseph, Potiphar’s Wife, and the Interruption of Violence",
+   "url": "https://doi.org/10.1163/15685152-20263026",
+   "summary": "This paper is inspired by the representation of Joseph’s encounter with Potiphar’s wife in the Vienna Genesis, a sixth-century illuminated manuscript, which depicts Joseph as a servus currens , a “running slave,” a figure well-known from Roman comedy. I take that representation as an invitation to recontextualize the story within a history of slaving. In particular, I read the story of Joseph’s escape from Potiphar’s wife in tandem with the story of Hagar’s escape from the abusive Sarai. My analysis both draws on and critiques Judith Butler’s argument in “When Gesture Becomes Event.” Butler proposes that in certain performative contexts, gesture can be a mode of disjunctive action with the…",
+   "date": "2026-11-16",
+   "source": "Biblical Interpretation",
+   "authors": "Jennifer A. Glancy",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Crítica textual"
+   ]
+  },
   {
    "title": "How did Cleopatra really die?",
    "url": "https://www.livescience.com/archaeology/ancient-egyptians/how-did-cleopatra-really-die",
@@ -11634,22 +11663,6 @@
    "tags": [
     "Paulo e as epístolas",
     "Interpretação e teologia"
-   ]
-  },
-  {
-   "title_pt": "Jason Borges, Vida Cristã na Cidade Greco-Romana",
-   "summary_pt": "Qual é um bom livro para estudar as viagens missionárias de Paulo? Uma revisão de Jornadas do Apóstolo Paulo (Lexham 2019).",
-   "title": "Jason Borges, Christian Life in the Greco-Roman City",
-   "url": "https://readingacts.com/2026/05/19/jason-borges-christian-life-in-the-greco-roman-city/",
-   "summary": "What is a good book for studying Paul's missionary journeys? A review of Journeys of the Apostle Paul (Lexham 2019).",
-   "date": "2026-05-19",
-   "source": "Reading Acts",
-   "category": "teologia",
-   "kind": "blog",
-   "peer": false,
-   "tags": [
-    "Paulo e as epístolas",
-    "Livros e eventos"
    ]
   }
  ]
