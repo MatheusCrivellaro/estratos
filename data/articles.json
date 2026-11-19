@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:32+00:00",
+ "updated": "2026-11-19T16:03+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -8,6 +8,7 @@
   "Ancient Jew Review",
   "Annals of Social Sciences & Management Studies",
   "Archaeology Magazine",
+  "Archimag",
   "Archiving Conference",
   "Arquivo Maaravi: Revista Digital de Estudos Judaicos da UFMG",
   "Asian Theatre Journal",
@@ -133,6 +134,90 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Who Is the Queen of Sheba in the Bible?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/who-is-the-queen-of-sheba-in-the-bible/",
+   "summary": "The meeting of King Solomon and the Queen of Sheba is described in the Bible. Bringing exquisite gifts, the Queen of Sheba came from an exotic land—but where exactly?",
+   "date": "2026-11-19",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Israel antigo"
+   ]
+  },
+  {
+   "title": "Who Is Balaam Son of Beor? Part One",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/hebrew-bible/balaam-part-one/",
+   "summary": "Balaam son of Beor is one of the most enigmatic figures in the Hebrew Bible, and one of the earliest to be referenced outside the",
+   "date": "2026-11-19",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "S11 E1: ‘Did Isaiah predict Jesus? What do the Old Testament prophecies about the Messiah mean?",
+   "url": "https://tyndalehouse.com/2026/11/19/s11-e1-did-isaiah-predict-jesus-what-do-the-old-testament-prophecies-about-the-messiah-mean/",
+   "summary": "As we look ahead to Christmas, we turn to the Old Testament promises that shaped Israel’s hope for a Messiah and discover how they find their fulfilment in Jesus. In the first of this two-part discussion on messianic prophecy, James and Tony explore some of Isaiah’s most important prophecies about the Messiah, including the ‘shoot ...",
+   "date": "2026-11-19",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Phoenician/Punic latest in Malta",
+   "url": "http://paleojudaica.blogspot.com/2026/11/phoenicianpunic-latest-in-malta.html",
+   "summary": "PHOENICIAN/PUNIC WATCH: a couple of stories on Phoenician and Punic archaeology in Malta are worth flagging. New exhibition explores millennia of encounters and worship at Tas-Silġ. A new exhibition at the National Museum of Archaeology in Valletta offers an unprecedented look at Tas-Silġ, the archaeological site with the longest continuous use in Malta (Malta Today).A new exhibition at the",
+   "date": "2026-11-19",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Liturgia e cânon"
+   ]
+  },
+  {
+   "title": "More Syriac manuscripts excavated at Turfan",
+   "url": "http://paleojudaica.blogspot.com/2026/12/more-syriac-manuscripts-excavated-at.html",
+   "summary": "SYRIAC WATCH: Archaeologists Shed New Light on the History of the Assyrian Church in (Syriac Press, rpt. AINA).Urumqi, Xijiang, China -- Archaeological discoveries in northwestern China have once again brought attention to the historical presence of the Church of the East in Asia, following recent excavations in the Turpan region of Xinjiang, which uncovered religious documents and manuscripts",
+   "date": "2026-11-19",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Cristianismo primitivo",
+    "Escavações",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Interview with Jonathan Klawans",
+   "url": "http://paleojudaica.blogspot.com/2026/11/interview-with-jonathan-klawans.html",
+   "summary": "BOSTON UNIVERSITY PRESS RELEASE: In a new book titled, Biblical Forgery and Academic Authentication: Persisting Patterns of Guile and Gullibility, BU researcher examines the role scholars have played in legitimizing biblical forgeries.In his new book, Biblical Forgery and Academic Authentication: Persisting Patterns of Guile and Gullibility (Oxford University Press, 2026), Jonathan Klawans,",
+   "date": "2026-11-19",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
   {
    "title": "The Woman and the Goose",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/the-woman-and-the-goose/",
@@ -1887,6 +1972,20 @@
     "Cristianismo primitivo",
     "Liturgia e cânon",
     "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Pauline Rostaingt, apôtre de l’information fiable et éthique",
+   "url": "https://doi.org/10.3917/arma.399.0043",
+   "summary": "",
+   "date": "2026-11-02",
+   "source": "Archimag",
+   "authors": "Bruno Texier",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Paulo e as epístolas"
    ]
   },
   {
@@ -8364,21 +8463,6 @@
    ]
   },
   {
-   "title_pt": "Editorial",
-   "title": "Editorial",
-   "url": "https://doi.org/10.3167/ej.2026.590201",
-   "summary": "It is a privilege to welcome as guest editor of this issue Dr Cornelia Wilhelm, Professor of Jewish History and Culture at the Historical Seminar of Ludwig-Maximilians Universität-München. Our collaboration goes back to a conference organised by Tobias Grill and Dr Wilhelm in Tutzing, Germany, in October 2009. The theme was ‘German Rabbis Abroad’, and they gave the introductory lecture on ‘German Rabbis Abroad as Cultural Agents?’ I contributed a paper on ‘Rabbi Dr Werner Van der Zyl and the Creation of Leo Baeck College. The German Rabbinate Abroad: Transferring German Jewish Modernity Into the World?’ The organisers agreed to edit the proceedings of the conference for publication in this…",
-   "date": "2026-09-01",
-   "source": "European Judaism",
-   "authors": "Jonathan Magonet",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Livros e eventos"
-   ]
-  },
-  {
    "title_pt": "Cidade dos Deuses: A Nova Jerusalém da Revelação de João no Cristianismo Primitivo, por Nathan Betz (revisão)",
    "title": "City of Gods: The New Jerusalem of John’s Revelation in Early Christianity by Nathan Betz (review)",
    "url": "https://doi.org/10.1353/earl.2026.a997493",
@@ -9508,6 +9592,19 @@
    "tags": []
   },
   {
+   "title_pt": "Editorial",
+   "title": "Editorial",
+   "url": "https://doi.org/10.1177/0142064x261462469",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "J. Andrew Doole, Kyu Seop Kim",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Colaboradores",
    "title": "Contributors",
    "url": "https://doi.org/10.1177/0142064x261462466",
@@ -9561,7 +9658,7 @@
    "date": "2026-07-31",
    "source": "Journal of Bible & classical languages and literature",
    "authors": "Minsu Oh",
-   "category": "historia",
+   "category": "manuscritos",
    "kind": "periodico",
    "peer": true,
    "tags": [
