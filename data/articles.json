@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:47+00:00",
+ "updated": "2026-11-19T06:32+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -127,7 +127,6 @@
   "Trio",
   "Tyndale House",
   "Verbum Vitae",
-  "Verbum et Ecclesia",
   "Word & Image",
   "Zeitschrift für Antikes Christentum / Journal of Ancient Christianity",
   "Învăţământ, Cercetare, Creaţie",
@@ -8294,19 +8293,6 @@
    ]
   },
   {
-   "title_pt": "Introdução",
-   "title": "Introduction",
-   "url": "https://doi.org/10.3167/ej.2026.590202",
-   "summary": "From 20–22 May 2025, the research project ‘Trials and Transmissions: Mapping the Legacy of the German Refugee Rabbinate’ of LMU München and the Jüdisches Museum Franken in Fürth invited a group of experts to a workshop to gain a larger global and comparative perspective on the cultural transfers, the discussions, constructions, deconstructions and uses of their ‘Jewish heritage’ by refugee rabbis who had left Germany during the Nazi period and beyond. The event was generously supported by the Hanns-Seidel-Stiftung in Munich, the Münchner Universitätsgesellschaft , the Bavarian-American Academy and the Wissenschaftliche Arbeitsgemeinschaft der Leo-Baeck-Institute in Deutschland and was…",
-   "date": "2026-09-01",
-   "source": "European Judaism",
-   "authors": "Cornelia Wilhelm",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Como o Dr. Rabino Bradley Shavit Artson mudou de ideia?",
    "summary_pt": "SIMPÓSIO: MUDEI DE IDEIA: Quando parei de ver a Bíblia apenas como boa, ela melhorou (Dr. Rabino Bradley Shavit Artson, TheTorah.com). Por volta do meio da escola rabínica, à medida que me aprofundava no Tanakh e na lei rabínica, e tinha acesso tanto à academia moderna quanto ao parshanut tradicional, continuei encontrando passagens impossíveis de domesticar. Neste ponto, minha estratégia original começou a",
    "title": "How did Dr. Rabbi Bradley Shavit Artson change his mind?",
@@ -11737,7 +11723,7 @@
    "date": "2026-06-01",
    "source": "Religious Studies Review",
    "authors": "Thomas M. Miller",
-   "category": "historia",
+   "category": "manuscritos",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -11795,6 +11781,19 @@
     "Novo Testamento",
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Introdução",
+   "title": "Introduction",
+   "url": "https://doi.org/10.1515/jemc-2026-3002",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Marta Quatrale",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Imagem, Religião e Rebelião: Uso e Ausência da Arte Combativa na Catalunha Moderna",
@@ -11985,23 +11984,6 @@
    "tags": [
     "Jesus histórico",
     "Livros e eventos"
-   ]
-  },
-  {
-   "title_pt": "As implicações ecológico-teológicas da narrativa da criação na tradição paulina",
-   "summary_pt": "Este estudo investiga o significado teológico da criação em todo o corpus paulino, examinando passagens-chave nas quais a criação, a vida e os seres criados são explicitamente abordados (por exemplo, Rm 1:20; 8:19-22; 11:36; 14; 1 Cor 8:6; 10:26; 15:20-28, 35-49; Col 1:15-20; Ef. 1:20–23; Argumenta que, embora Paulo não apresente uma doutrina sistemática da criação, suas cartas exibem uma estrutura narrativa coerente que integra criação, redenção e consumação escatológica. Dentro desta narrativa, a criação é consistentemente retratada como participando ao lado da humanidade tanto no sofrimento presente como na transformação futura, formando assim uma comunidade partilhada de destino.…",
-   "title": "The ecological–theological implications of the narrative of creation in the Pauline tradition",
-   "url": "https://doi.org/10.4102/ve.v47i1.3879",
-   "summary": "This study investigates the theological significance of creation across the Pauline corpus, examining key passages in which creation, life, and created beings are explicitly addressed (e.g. Rm 1:20; 8:19–22; 11:36; 14; 1 Cor 8:6; 10:26; 15:20–28, 35–49; Col 1:15–20; Eph 1:20–23; 3:9; 4:6). It argues that, although Paul does not present a systematic doctrine of creation, his letters exhibit a coherent narrative framework that integrates creation, redemption and eschatological consummation. Within this narrative, creation is consistently portrayed as participating alongside humanity in both present suffering and future transformation, thereby forming a shared community of destiny.…",
-   "date": "2026-05-22",
-   "source": "Verbum et Ecclesia",
-   "authors": "Seo-Jun Kim",
-   "category": "teologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Paulo e as epístolas",
-    "Interpretação e teologia"
    ]
   }
  ]
