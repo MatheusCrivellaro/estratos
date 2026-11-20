@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:10+00:00",
+ "updated": "2026-11-20T15:46+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -134,6 +134,72 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "SBL/AAR 2026",
+   "url": "http://paleojudaica.blogspot.com/2026/11/sblaar-2026.html",
+   "summary": "SAFE TRAVELS to all those heading to Denver for the joint annual meeting of the Society of Biblical Literature and the American Academy of Religion. I am not attending this year. James McGrath is, and if you are looking for him, he has a post: Where To Find Me at #SBLAAR26. Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-11-20",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Groningen university upholds DSS work with Israel",
+   "url": "http://paleojudaica.blogspot.com/2026/11/groningen-university-upholds-dss-work.html",
+   "summary": "ARCHAEOLOGY AND POLITICS: Groningen university continues Dead Sea Scrolls work with Israel (Dutch News).The University of Groningen (RUG) is set to continue a research collaboration into the Dead Sea Scrolls with Israeli researchers, despite protests over the provenance of the scrolls and an appeal from 18 of its own professors, broadcaster NOS reported. ... In a statement on November 11, the [",
+   "date": "2026-11-20",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Manuscritos do Mar Morto"
+   ]
+  },
+  {
+   "title": "Dershowitz, The Valediction of Moses (interactive second edition)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/dershowitz-valediction-of-moses.html",
+   "summary": "THE AWOL BLOG: Idan Dershowitz, The Valediction of Moses: A Critical Synoptic Edition with Commentary. For those not familiar with it, \"Valediction of Moses\" is another term for the much-debated Shapira scroll fragments. The scroll has generally, even conclusively, been regarded as a nineteenth-century forgery. But for the reopening of the discussion in 2021, see here. Then follow the links",
+   "date": "2026-11-20",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento"
+   ]
+  },
+  {
+   "title": "Colossal Ramesses II Statues Surface",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/colossal-ramesses-ii-statues-surface/",
+   "summary": "In the village of Behbeit al-Higara in Egypt’s Nile Delta, a local man reported finding an inscribed stone block on his property. Egypt’s Supreme Council",
+   "date": "2026-11-20",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Church of St. Stephen’s Mosaic Masterpiece",
+   "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-sites/church-saint-stephen-mosaic-masterpiece/",
+   "summary": "Visitors to Southern Israel can now admire one of the most elaborate Byzantine mosaics ever discovered in the country. Soon after it was unearthed in",
+   "date": "2026-11-20",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Escavações"
+   ]
+  },
   {
    "title": "Who Is the Queen of Sheba in the Bible?",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/who-is-the-queen-of-sheba-in-the-bible/",
@@ -296,6 +362,23 @@
    "tags": [
     "Jerusalém",
     "Epigrafia e inscrições"
+   ]
+  },
+  {
+   "title": "No More Secondary Readings!",
+   "url": "https://doi.org/10.1163/2589255x-bja10064",
+   "summary": "For a long time, textual criticism of the Hebrew Bible relied on poor-quality editions of the Syriac version (Peshitta). The Leiden edition was intended to solve this problem, but it still presents difficulties: being a diplomatic edition (based on the Codex Ambrosianus of the 7th century CE ) with a critical apparatus, it forces the scholar to perform an exercise of textual criticism choosing between variants (for which he or she is not always prepared) or relying on the lectio reproduced in the body of the edition. Current editions of the Hebrew Bible, such as BHQ , HUBP or HBCE still use secondary readings as witnesses of the original Syriac version. This article presents several…",
+   "date": "2026-11-18",
+   "source": "Textus",
+   "authors": "Ignacio Carbajosa",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Crítica textual",
+    "Cristianismo primitivo",
+    "Línguas antigas"
    ]
   },
   {
