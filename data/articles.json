@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:42+00:00",
+ "updated": "2026-11-22T05:39+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -77,6 +77,7 @@
   "Khoa Học Công Giáo và Đời Sống",
   "Live Science",
   "Logos et Praxis",
+  "M/C Journal",
   "MELUS: Multi-Ethnic Literature of the United States",
   "Madang: Journal of Contextual Theology",
   "Mediterranea, International Journal on the Transfer of Knowledge",
@@ -134,6 +135,33 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Who Would Invent the Story of Women Finding the Empty Tomb?",
+   "url": "https://ehrmanblog.org/was-the-story-of-women-finding-the-empty-tomb-invented/",
+   "summary": "If the stories about disciples of Jesus claiming (and believing) they had seen Jesus alive after his death probably go back to historical events (some of them did claim/believe that) as I argued in the previous post, what about the story of women finding the empty tomb? I thought some readers might soon be asking",
+   "date": "2026-11-21",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Pauline Hanson",
+   "url": "https://doi.org/10.5204/mcj.3334",
+   "summary": "Hanson and the Political Conditions of Familiarity Political commentary often treats the extreme as located outside a stable and moderate democratic mainstream. Pauline Hanson’s career unsettles this distinction. Frequently characterised as divisive and beyond respectable political consensus, Hanson has nevertheless remained familiar and legible within Australian political culture for three decades. This article understands the boundary between the fringe and the mainstream as contested and politically produced. The extreme names discourse that dehumanises particular groups, narrows the terms of belonging or frames equal citizenship as a threat (Carter 157–82). Yet the designation can also…",
+   "date": "2026-11-21",
+   "source": "M/C Journal",
+   "authors": "Jo Coghlan, Thomas Donohue",
+   "category": "teologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Paulo e as epístolas"
+   ]
+  },
   {
    "title": "Chazon, Words of the Luminaries (Brill)",
    "url": "http://paleojudaica.blogspot.com/2026/11/chazon-words-of-luminaries-brill.html",
