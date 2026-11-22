@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:39+00:00",
+ "updated": "2026-11-22T14:56+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -135,6 +135,19 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Inowlocki, Ancient Apologetics and the Bibliographic Imagination (CUP, open access)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/inowlocki-ancient-apologetics-and.html",
+   "summary": "NEW (SHORT) BOOK FROM CAMBRIDGE UNIVERSITY PRESS:Ancient Apologetics and the Bibliographic Imagination Series: Elements in Early Christian Literature Author: Sabrina Inowlocki, Australian Catholic University Published: November 2026 Availability: Available Format: Paperback ISBN: 9781009481755 £18.00 GBP Paperback £55.00 GBP Hardback £18.00 USD [Sic] Description Ancient",
+   "date": "2026-11-22",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Cristianismo primitivo"
+   ]
+  },
   {
    "title": "Who Would Invent the Story of Women Finding the Empty Tomb?",
    "url": "https://ehrmanblog.org/was-the-story-of-women-finding-the-empty-tomb-invented/",
@@ -10045,7 +10058,7 @@
    "date": "2026-07-25",
    "source": "African Journal of Religious and Theological Studies",
    "authors": "Paul-Kolade Tubi, Ibrahim Joel, Zankawon Mercy Dauji-Ekpu",
-   "category": "arqueologia",
+   "category": "manuscritos",
    "kind": "periodico",
    "peer": true,
    "tags": [
