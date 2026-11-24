@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:08+00:00",
+ "updated": "2026-11-24T04:45+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -214,6 +214,20 @@
    "kind": "revista",
    "peer": false,
    "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Discovery of curse ritual in trash dump surprises Egyptologist: 'It must have been widespread in ancient Egypt'",
+   "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+   "summary": "The discovery of 40 charred papyrus fragments at a temple in the ancient city of Thebes is changing researchers' understanding of one of ancient Egypt's most famous curse rituals. The fragments show that the ritual was probably far more widespread and commonplace than previously believed.",
+   "date": "2026-11-23",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
     "Egito e Mesopotâmia"
    ]
   },
@@ -12056,7 +12070,7 @@
    "date": "2026-06-01",
    "source": "Religions",
    "authors": "Jonathan S. Greer",
-   "category": "teologia",
+   "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
