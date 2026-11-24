@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:45+00:00",
+ "updated": "2026-11-24T17:56+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -135,6 +135,91 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Whatever Happened in the Alleged Discovery of a First-Century Manuscript of Mark?",
+   "url": "https://ehrmanblog.org/whatever-happened-in-the-alleged-discovery-of-a-first-century-manuscript-of-mark/",
+   "summary": "I try not to re-publish a blog post from just 2-3 years ago, but in this case I'm making an exception. After posting my debate with Dan Wallace yesterday, I realized a lot of people who weren't on the blog back when more information was released (and even a lot who were!) wouldn't recall how",
+   "date": "2026-11-24",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "The Egyptian Journey of Jeremiah in the Bible",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-egypt/the-egyptian-journey-of-jeremiah-in-the-bible/",
+   "summary": "When the biblical prophet Jeremiah decided to leave Judah and spend the rest of his life in Egyptian exile (Jeremiah 43), it must have been",
+   "date": "2026-11-24",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Israel antigo",
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Ross and Lanier, Israel’s Scriptures in the New Testament (Hendrickson)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/ross-and-lanier-israels-scriptures-in.html",
+   "summary": "WILLIAM A. ROSS: BOOK ANNOUNCEMENT: ISRAEL’S SCRIPTURES IN THE NEW TESTAMENT (HENDRICKSON).I’m significantly late getting this up here, but I’m excited to announce a new book that came out this spring with Hendrickson: Israel’s Scriptures in the New Testament: A Critical Synopsis (here). This is another project with my friend and frequent collaborator Greg Lanier (RTS Orlando). Greg and I have",
+   "date": "2026-11-24",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Nongbri books on sale",
+   "url": "http://paleojudaica.blogspot.com/2026/11/nongbri-books-on-sale.html",
+   "summary": "VARIANT READINGS: Books on Sale (Brent Nongbri).Just a bit of shameless self-promotion: For readers in the US and Canada, the paperback editions of my books are on sale for 40% off at Yale University Press from 23 November until 13 December.For you, special deal! Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-11-24",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "Management controversy over the (tradtional) Tomb or Ezra",
+   "url": "http://paleojudaica.blogspot.com/2026/11/management-controversy-over-tradtional.html",
+   "summary": "ADMINISTRATION DISPUTE: Jewish bid for control of Ezra the Scribe's tomb sparks Shiite opposition in Iraq. A Jewish property committee in Iraq has filed suit to obtain ownership and management of the ancient shrine in Maysan province; local officials back its current Shiite administrators, while a former lawmaker fears claims to other religious sites (Lior Ben Ari, Ynet News). It's been a",
+   "date": "2026-11-24",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual"
+   ]
+  },
+  {
+   "title": "10 Things to Know About the Assyrian Empire",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/10-things-to-know-about-the-assyrian-empire/",
+   "summary": "The Assyrians referenced in the Hebrew Bible were a mighty force that exerted power over much of the Near East, including Israel and Judah, in the ninth through seventh centuries B.C.E.",
+   "date": "2026-11-24",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Israel antigo",
+    "Egito e Mesopotâmia",
+    "Línguas antigas"
+   ]
+  },
   {
    "title": "The Leipzig Akkadian Dictionary",
    "url": "http://paleojudaica.blogspot.com/2026/11/the-leipzig-akkadian-dictionary.html",
@@ -12070,7 +12155,7 @@
    "date": "2026-06-01",
    "source": "Religions",
    "authors": "Jonathan S. Greer",
-   "category": "arqueologia",
+   "category": "teologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
