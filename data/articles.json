@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:44+00:00",
+ "updated": "2026-11-26T02:31+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -146,6 +146,20 @@
    "peer": false,
    "tags": [
     "Manuscritos do Mar Morto"
+   ]
+  },
+  {
+   "title": "Ptolemaic Foundation Unearthed in Alexandria",
+   "url": "https://archaeology.org/news/2026/11/25/ptolemaic-foundation-unearthed-in-alexandria/",
+   "summary": "ALEXANDRIA, EGYPT—Ahram Online reports that a foundation made of limestone blocks, a tunnel, and a",
+   "date": "2026-11-25",
+   "source": "Archaeology Magazine",
+   "category": "ciencia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Escavações",
+    "Egito e Mesopotâmia"
    ]
   },
   {
@@ -12554,22 +12568,6 @@
    "kind": "periodico",
    "peer": true,
    "tags": [
-    "Livros e eventos"
-   ]
-  },
-  {
-   "title_pt": "S10E3 À imagem de Deus - Gênesis capítulo 2 (Gênesis capítulo 1-9 Mergulho profundo, parte três)",
-   "summary_pt": "Bem-vindo de volta à série de podcasts da Tyndale House sobre Gênesis 1 a 9. Nos episódios 1 e 2, abrimos a série explorando toda a profundidade do capítulo 1 de Gênesis, no qual Deus criou os céus e a terra, e como eles se diferenciam dos antigos mitos de criação do Oriente Próximo. Neste terceiro episódio,...",
-   "title": "S10E3 In the image of God – Genesis chapter 2 (Genesis chapter 1-9 Deep Dive, Part Three)",
-   "url": "https://tyndalehouse.com/2026/05/29/s10e3-in-the-image-of-god-genesis-chapter-3-genesis-chapter-1-9-deep-dive-part-three/",
-   "summary": "Welcome back to the Tyndale House podcast series on Genesis 1 – 9. In episodes 1 and 2, we opened the series by exploring the full depth of Genesis chapter 1 in which God created the heavens and the earth, and how it stands apart from ancient Near Eastern creation myths. In this third episode, ...",
-   "date": "2026-05-29",
-   "source": "Tyndale House",
-   "category": "manuscritos",
-   "kind": "instituicao",
-   "peer": false,
-   "tags": [
-    "Antigo Testamento",
     "Livros e eventos"
    ]
   }
