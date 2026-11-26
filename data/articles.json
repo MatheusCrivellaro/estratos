@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:31+00:00",
+ "updated": "2026-11-26T17:18+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -26,12 +26,14 @@
   "Bulletin for Biblical Research",
   "CARAKA: Jurnal Teologi Biblika dan Praktika",
   "COMMUNIO VIATORUM",
+  "Claroscuro. Revista del Centro de Estudios sobre Diversidad Cultural",
   "Coram Mundo: Jurnal Teologi dan Pendidikan Agama Kristen",
   "Currents in Biblical Research",
   "Dead Sea Discoveries",
   "Digital Humanities in the Nordic and Baltic Countries Publications",
   "Estudos Bíblicos",
   "European Judaism",
+  "Evangelical Quarterly",
   "Evangelical Textual Criticism",
   "FRONTIERS OF LAW JOURNAL",
   "Filozoficzne Aspekty Genezy",
@@ -136,6 +138,57 @@
  ],
  "articles": [
   {
+   "title": "Thanksgiving!",
+   "url": "http://paleojudaica.blogspot.com/2026/11/thanksgiving.html",
+   "summary": "HAPPY AMERICAN THANKSGIVING to all those celebrating! Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-11-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Ritmeyer proposes a location for the lost Ark",
+   "url": "http://paleojudaica.blogspot.com/2026/11/ritmeyer-proposes-location-for-lost-ark.html",
+   "summary": "LEEN RITMEYER thinks he knows where the Ark of the Covenant is hidden: Beth-horon. A place of caves. (HT Todd Bolen at the Bible Places blog).Our research has enabled us able to focus on a valley that was approximately 8 km (5 miles) wide between Lower Beth-horon and Kiriyat Yearim as a possible location of the hiding place of the Ark of the Covenant. Or perhaps we could zoom in to that hill",
+   "date": "2026-11-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Review of Szántó, The Jews of Ptolemaic Egypt",
+   "url": "http://paleojudaica.blogspot.com/2026/11/review-of-szanto-jews-of-ptolemaic-egypt.html",
+   "summary": "BRYN MAYR CLASSICAL REVIEW: The Jews of Ptolemaic Egypt: the history of a diaspora community in light of the papyri.Zsuzsanna Szántó, The Jews of Ptolemaic Egypt: the history of a diaspora community in light of the papyri. Berlin: De Gruyter, 2024. Pp. xiv, 293. ISBN 9783111425047. Review by Patrick Sänger, Universität Münster. saengerp@uni-muenster.de Zsuzsanna Szántó’s book offers a",
+   "date": "2026-11-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Egito e Mesopotâmia",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "2026 report on the Coptic Magical Formularies Project",
+   "url": "http://paleojudaica.blogspot.com/2026/11/2026-report-on-coptic-magical.html",
+   "summary": "THE COPTIC MAGICAL PAPYRI BLOG: 2026 Review: Continuing the Coptic Magical Formularies Project. They have been busy! Visit PaleoJudaica daily for the latest news on ancient Judaism and the biblical world.",
+   "date": "2026-11-26",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Crítica textual",
+    "Cristianismo primitivo"
+   ]
+  },
+  {
    "title": "Rediscovering the Dead Sea Scrolls",
    "url": "https://www.biblicalarchaeology.org/reviews/rediscovering-the-dead-sea-scrolls/",
    "summary": "Lost Words and Forgotten Worlds: Rediscovering the Dead Sea Scrolls By Andrew Perrin (Bellingham: Lexham Press, 2025), 348 pp., 66 figs. (color & b/w photos,",
@@ -217,6 +270,21 @@
    ]
   },
   {
+   "title": "Ezekiel Traditions in the Second Temple Period: 4QWords of Ezekiel in Its Broader Context, by Anna Shirav Hamernik",
+   "url": "https://doi.org/10.1163/15700631-tat00063",
+   "summary": "",
+   "date": "2026-11-25",
+   "source": "Journal for the Study of Judaism",
+   "authors": "Corrine Carvalho",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo"
+   ]
+  },
+  {
    "title": "Almond-Stuffed Laughs",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/bar-test-kitchen/almond-stuffed-laughs/",
    "summary": "The ability to laugh and find humor in most any situation is something that has connected people across time, including the Romans, who often played",
@@ -270,6 +338,20 @@
    "tags": [
     "Novo Testamento",
     "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Reseña Porter, Benjamin W. (2025) Against Moab. Interrogating the Archaeology of Iron Age Jordan. Elements in the Archaeology of Ancient Israel. Cambridge: Cambridge University Press and Assessment Review Porter, Benjamin W. (2025)…",
+   "url": "https://doi.org/10.35305/cl.vi25.208",
+   "summary": "Review Porter, Benjamin W. (2025) Against Moab. Interrogating the Archaeology of Iron Age Jordan. Elements in the Archaeology of Ancient Israel. Cambridge: Cambridge University Press and Assessment. 98 páginas. ISBNs: 9781009547840 (Hardback), 9781009334945 (Paperback), 9781009334952 (OC) ISSNs: 2754-3013 (online), 2754-3005 (print)",
+   "date": "2026-11-24",
+   "source": "Claroscuro. Revista del Centro de Estudios sobre Diversidad Cultural",
+   "authors": "Perla Silvana Rodríguez",
+   "category": "arqueologia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Israel antigo"
    ]
   },
   {
@@ -408,6 +490,20 @@
    "tags": [
     "Crítica textual",
     "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Christian Life in the Greco-Roman City: The Civic and Architectural Contexts of Early Christianity, by Jason Borges",
+   "url": "https://doi.org/10.1163/27725472-09703004",
+   "summary": "",
+   "date": "2026-11-23",
+   "source": "Evangelical Quarterly",
+   "authors": "Karen Fulton",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Cristianismo primitivo"
    ]
   },
   {
@@ -11626,7 +11722,7 @@
    "date": "2026-06-22",
    "source": "Biblical Interpretation",
    "authors": "Ekaterina E. Kozlova",
-   "category": "teologia",
+   "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -12232,7 +12328,7 @@
    "date": "2026-06-01",
    "source": "Religions",
    "authors": "Jonathan S. Greer",
-   "category": "teologia",
+   "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
