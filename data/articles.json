@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:18+00:00",
+ "updated": "2026-11-27T02:29+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -11722,7 +11722,7 @@
    "date": "2026-06-22",
    "source": "Biblical Interpretation",
    "authors": "Ekaterina E. Kozlova",
-   "category": "arqueologia",
+   "category": "teologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -12328,7 +12328,7 @@
    "date": "2026-06-01",
    "source": "Religions",
    "authors": "Jonathan S. Greer",
-   "category": "arqueologia",
+   "category": "teologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -12650,21 +12650,6 @@
    "peer": true,
    "tags": [
     "Manuscritos do Mar Morto"
-   ]
-  },
-  {
-   "title_pt": "Resenha de livro: Metáforas Bíblicas: Explicando Metáforas Bíblicas Obscurecidas na Tradução, Kenneth McElhanon McElhanonKenneth, Metáforas Bíblicas: Explicando Metáforas Bíblicas Obscurecidas na Tradução. Publicado pelo autor, 2025. xix +…",
-   "title": "Book Review: Biblical Metaphors: Explaining Biblical Metaphors Obscured in Translation , Kenneth McElhanon McElhanonKenneth, Biblical Metaphors: Explaining Biblical Metaphors Obscured in Translation. Published by the author, 2025. xix +…",
-   "url": "https://doi.org/10.1177/20516770261448072",
-   "summary": "",
-   "date": "2026-05-30",
-   "source": "The Bible Translator",
-   "authors": "Bronwen Cleaver",
-   "category": "arqueologia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Livros e eventos"
    ]
   }
  ]
