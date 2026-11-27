@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:29+00:00",
+ "updated": "2026-11-27T17:04+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -97,6 +97,7 @@
   "Perspectiva",
   "Pharos Journal of Theology",
   "Phys.org - Arqueologia",
+  "Pneuma",
   "Qadum: Journal of Excavation Reports from Israel",
   "RELACult - Revista Latino-Americana de Estudos em Cultura e Sociedade",
   "Reading Acts",
@@ -137,6 +138,108 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "Where Aristotle Taught Alexander",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/where-aristotle-taught-alexander/",
+   "summary": "The royal gymnasium at Mieza in northern Greece is, according to Greece’s Minister of Culture Lina Mendoni, “one of the most important monuments of Macedonian antiquity.”",
+   "date": "2026-11-27",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Ozuyener, Born in Secrecy―Maaminim: The Practical Kabbalah of Shabbatai Sevi (Monkfish)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/ozuyener-born-in-secrecymaaminim.html",
+   "summary": "NEW BOOK FROM MONKFISH BOOK PUBLISHING:Born in Secrecy―Maaminim: The Practical Kabbalah of Shabbatai Sevi by Uluc Ozuyener (Author) Format: Paperback This book tells the story of the Sabbatean descendants who continued to carry the spark of faith in the enigmatic Shabbatai Sevi (1626-76), not in public, but behind closed doors, through gestures, rituals, and coded language. This is the story",
+   "date": "2026-11-27",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Mapping Troy’s Luwian Context",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-near-eastern-world/mapping-troys-luwian-context/",
+   "summary": "For some, the first thing the name “Troy” brings to mind is the 2004 Brad Pitt film, if not the ancient Homeric epic, the Iliad,",
+   "date": "2026-11-27",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
+  {
+   "title": "Doubled verbs in biblical Hebrew",
+   "url": "http://paleojudaica.blogspot.com/2026/11/doubled-verbs-in-biblical-hebrew.html",
+   "summary": "PHILOLOGY: Why Say It Twice? Double Verbs in Biblical Speech (Prof. W. Randall Garr, TheTorah.com).When YHWH tells Moses that whoever works on Shabbat shall be put to death, he doubles the verb; when Moses relays the law to the people, he uses a single verb. In Eden, YHWH warns the man that he will “die, yes, die,” the woman repeats the warning as “lest you die,” without repeating the verb, and",
+   "date": "2026-11-27",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Judaísmo do Segundo Templo",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "CFP: \"Do not even shake hands with them!\" (workshop on (im)purity)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/cfp-do-not-even-shake-hands-with-them.html",
+   "summary": "BIBLIOGRAPHIA IRANICA: Do not even shake hands with them!.Call for Papers We invite 20-minute papers investigating how Judaic, Christian (especially Greek and oriental Christianities), Islamic, Manichaean, and Zoroastrian sources used (im)purity discourses and ideas to demarcate and separate themselves from others – either other religions or other confessions. We particularly welcome papers",
+   "date": "2026-11-27",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Línguas antigas",
+    "Livros e eventos"
+   ]
+  },
+  {
+   "title": "Beeswax and pine link crocodile mummies made centuries apart at one Egyptian site",
+   "url": "https://phys.org/news/2026-11-beeswax-link-crocodile-mummies-centuries.html",
+   "summary": "In a practice spanning centuries, ancient Egyptians mummified thousands of crocodiles they associated with Sobek, a god linked to the Nile, fertility and royal power. In one unique example, embalmers from the middle of the 1st millennium BC at Kom Ombo in southern Egypt mounted more than 25 hatchlings on reeds along the back and neck of a crocodile nearly 4 meters (13 feet) long. The arrangement may echo the way young crocodiles ride on their mother's back.",
+   "date": "2026-11-27",
+   "source": "Phys.org - Arqueologia",
+   "category": "ciencia",
+   "kind": "noticia",
+   "peer": false,
+   "tags": [
+    "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "When Was the Bible Written?",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/when-was-the-bible-written/",
+   "summary": "Also known as the Old Testament, the Hebrew Bible was composed over a long span of time. Numerous opinions exist as to when the earliest",
+   "date": "2026-11-26",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": [
+    "Antigo Testamento",
+    "Línguas antigas"
+   ]
+  },
+  {
+   "title": "The Samaritan Schism",
+   "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/the-samaritan-schism/",
+   "summary": "In part two of his study on schisms in Jewish history, Lawrence H. Schiffman examines the Samaritan schism.",
+   "date": "2026-11-26",
+   "source": "Biblical Archaeology Society",
+   "category": "arqueologia",
+   "kind": "revista",
+   "peer": false,
+   "tags": []
+  },
   {
    "title": "Thanksgiving!",
    "url": "http://paleojudaica.blogspot.com/2026/11/thanksgiving.html",
@@ -213,6 +316,23 @@
    "tags": [
     "Escavações",
     "Egito e Mesopotâmia"
+   ]
+  },
+  {
+   "title": "Participatory Ontology and the Holy Spirit",
+   "url": "https://doi.org/10.1163/15700747-bja10169",
+   "summary": "This study offers a philosophical and historical analysis of participatory ontology of the Holy Spirit in selected early African Christian sources and its significance for contemporary Pentecostal spirituality. Drawing on sources associated with Alexandria and Carthage, including Tertullian, Cyprian, Athanasius, Augustine, and Perpetua, it argues that divine presence is presented as immediate, communicable, and transformative. The study relates this participatory ontology to contemporary Pentecostal spirituality while distinguishing historical context, institutional form, and theological development. It examines prophecy, healing, exorcism, visionary testimony, prayer, tongues, and…",
+   "date": "2026-11-25",
+   "source": "Pneuma",
+   "authors": "Jonas B.A. Martinson",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": [
+    "Judaísmo do Segundo Templo",
+    "Cristianismo primitivo",
+    "Liturgia e cânon",
+    "Interpretação e teologia"
    ]
   },
   {
@@ -11722,7 +11842,7 @@
    "date": "2026-06-22",
    "source": "Biblical Interpretation",
    "authors": "Ekaterina E. Kozlova",
-   "category": "teologia",
+   "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -12328,7 +12448,7 @@
    "date": "2026-06-01",
    "source": "Religions",
    "authors": "Jonathan S. Greer",
-   "category": "teologia",
+   "category": "arqueologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
