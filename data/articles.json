@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:03+00:00",
+ "updated": "2026-11-28T16:01+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -138,6 +138,34 @@
   "Богословский сборник Тамбовской духовной семинарии"
  ],
  "articles": [
+  {
+   "title": "The Historical Jesus, Eyewitnesses, and UFO Abductions",
+   "url": "https://ehrmanblog.org/the-historical-jesus-eyewitnesses-and-ufo-abductions/",
+   "summary": "I will be having (or, by the time you’re reading this, I will have had) a public debate with Australian New Testament scholar Mike Bird on the question “Are The Gospels Based on Eyewitness Testimony,” as part of our first annual Biblical Studies Symposium (which I refer to as the B.S. Symposium), part of my",
+   "date": "2026-11-28",
+   "source": "The Bart Ehrman Blog",
+   "category": "historia",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Jesus histórico"
+   ]
+  },
+  {
+   "title": "Kotansky Festschrift (Brill)",
+   "url": "http://paleojudaica.blogspot.com/2026/11/kotansky-festschrift-brill.html",
+   "summary": "NEW BOOK FROM BRILL:Divine Power in Human Hands Essays on Ancient Magic and Religion for Roy D. Kotansky Series: Religions in the Graeco-Roman World, Volume: 203 Volume Editors: Clare Rothschild and Robert Matthew Calhoun This volume honors a pioneer in the field of magical studies, Roy D. Kotansky, with nineteen essays inspired by his remarkable research produced over the past five",
+   "date": "2026-11-28",
+   "source": "PaleoJudaica",
+   "category": "manuscritos",
+   "kind": "blog",
+   "peer": false,
+   "tags": [
+    "Novo Testamento",
+    "Livros e eventos"
+   ]
+  },
   {
    "title": "Where Aristotle Taught Alexander",
    "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/where-aristotle-taught-alexander/",
@@ -5775,6 +5803,19 @@
    ]
   },
   {
+   "title_pt": "Introdução",
+   "title": "Introduction",
+   "url": "https://doi.org/10.1163/15685179-bja10087",
+   "summary": "",
+   "date": "2026-10-01",
+   "source": "Dead Sea Discoveries",
+   "authors": "Matthew Goff, Elisa Uusimäki",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title": "Editorial Foreword",
    "url": "https://doi.org/10.1177/1476993x261496165",
    "summary": "",
@@ -9210,21 +9251,6 @@
    ]
   },
   {
-   "title_pt": "Editorial",
-   "title": "Editorial",
-   "url": "https://doi.org/10.3167/ej.2026.590201",
-   "summary": "It is a privilege to welcome as guest editor of this issue Dr Cornelia Wilhelm, Professor of Jewish History and Culture at the Historical Seminar of Ludwig-Maximilians Universität-München. Our collaboration goes back to a conference organised by Tobias Grill and Dr Wilhelm in Tutzing, Germany, in October 2009. The theme was ‘German Rabbis Abroad’, and they gave the introductory lecture on ‘German Rabbis Abroad as Cultural Agents?’ I contributed a paper on ‘Rabbi Dr Werner Van der Zyl and the Creation of Leo Baeck College. The German Rabbinate Abroad: Transferring German Jewish Modernity Into the World?’ The organisers agreed to edit the proceedings of the conference for publication in this…",
-   "date": "2026-09-01",
-   "source": "European Judaism",
-   "authors": "Jonathan Magonet",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": [
-    "Livros e eventos"
-   ]
-  },
-  {
    "title_pt": "Cidade dos Deuses: A Nova Jerusalém da Revelação de João no Cristianismo Primitivo, por Nathan Betz (revisão)",
    "title": "City of Gods: The New Jerusalem of John’s Revelation in Early Christianity by Nathan Betz (review)",
    "url": "https://doi.org/10.1353/earl.2026.a997493",
@@ -10354,6 +10380,19 @@
    "tags": []
   },
   {
+   "title_pt": "Editorial",
+   "title": "Editorial",
+   "url": "https://doi.org/10.1177/0142064x261462469",
+   "summary": "",
+   "date": "2026-08-01",
+   "source": "Journal for the Study of the New Testament",
+   "authors": "J. Andrew Doole, Kyu Seop Kim",
+   "category": "manuscritos",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
+  },
+  {
    "title_pt": "Colaboradores",
    "title": "Contributors",
    "url": "https://doi.org/10.1177/0142064x261462466",
@@ -10407,7 +10446,7 @@
    "date": "2026-07-31",
    "source": "Journal of Bible & classical languages and literature",
    "authors": "Minsu Oh",
-   "category": "historia",
+   "category": "manuscritos",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -11842,7 +11881,7 @@
    "date": "2026-06-22",
    "source": "Biblical Interpretation",
    "authors": "Ekaterina E. Kozlova",
-   "category": "arqueologia",
+   "category": "teologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -12448,7 +12487,7 @@
    "date": "2026-06-01",
    "source": "Religions",
    "authors": "Jonathan S. Greer",
-   "category": "arqueologia",
+   "category": "teologia",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -12610,19 +12649,6 @@
     "Novo Testamento",
     "Interpretação e teologia"
    ]
-  },
-  {
-   "title_pt": "Introdução",
-   "title": "Introduction",
-   "url": "https://doi.org/10.1515/jemc-2026-3002",
-   "summary": "",
-   "date": "2026-06-01",
-   "source": "Journal of Early Modern Christianity",
-   "authors": "Marta Quatrale",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
   },
   {
    "title_pt": "Imagem, Religião e Rebelião: Uso e Ausência da Arte Combativa na Catalunha Moderna",
