@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:04+00:00",
+ "updated": "2026-11-28T02:03+00:00",
  "sources": [
   "ASOR",
   "African Journal of Religious and Theological Studies",
@@ -148,6 +148,19 @@
    "kind": "revista",
    "peer": false,
    "tags": []
+  },
+  {
+   "title": "S11 E2: Messianic prophecies pt 2 – How Do the Genealogies of the Bible Point to Jesus?",
+   "url": "https://tyndalehouse.com/2026/11/27/s11-e2-messianic-prophecies-pt-2-how-do-the-genealogies-of-the-bible-point-to-jesus/",
+   "summary": "What can biblical genealogies teach us about the promised Messiah? In this episode, we explore how the family lines recorded in Scripture reveal God’s deliberate plan unfolding across generations, ultimately leading to Jesus. In this episode: Genealogies as evidence of God’s plan The genealogies of Scripture are far more than historical records. They trace the ...",
+   "date": "2026-11-27",
+   "source": "Tyndale House",
+   "category": "manuscritos",
+   "kind": "instituicao",
+   "peer": false,
+   "tags": [
+    "Jesus histórico"
+   ]
   },
   {
    "title": "Ozuyener, Born in Secrecy―Maaminim: The Practical Kabbalah of Shabbatai Sevi (Monkfish)",
@@ -9126,19 +9139,6 @@
    ]
   },
   {
-   "title_pt": "Introdução",
-   "title": "Introduction",
-   "url": "https://doi.org/10.3167/ej.2026.590202",
-   "summary": "From 20–22 May 2025, the research project ‘Trials and Transmissions: Mapping the Legacy of the German Refugee Rabbinate’ of LMU München and the Jüdisches Museum Franken in Fürth invited a group of experts to a workshop to gain a larger global and comparative perspective on the cultural transfers, the discussions, constructions, deconstructions and uses of their ‘Jewish heritage’ by refugee rabbis who had left Germany during the Nazi period and beyond. The event was generously supported by the Hanns-Seidel-Stiftung in Munich, the Münchner Universitätsgesellschaft , the Bavarian-American Academy and the Wissenschaftliche Arbeitsgemeinschaft der Leo-Baeck-Institute in Deutschland and was…",
-   "date": "2026-09-01",
-   "source": "European Judaism",
-   "authors": "Cornelia Wilhelm",
-   "category": "historia",
-   "kind": "periodico",
-   "peer": true,
-   "tags": []
-  },
-  {
    "title_pt": "Como o Dr. Rabino Bradley Shavit Artson mudou de ideia?",
    "summary_pt": "SIMPÓSIO: MUDEI DE IDEIA: Quando parei de ver a Bíblia apenas como boa, ela melhorou (Dr. Rabino Bradley Shavit Artson, TheTorah.com). Por volta do meio da escola rabínica, à medida que me aprofundava no Tanakh e na lei rabínica, e tinha acesso tanto à academia moderna quanto ao parshanut tradicional, continuei encontrando passagens impossíveis de domesticar. Neste ponto, minha estratégia original começou a",
    "title": "How did Dr. Rabbi Bradley Shavit Artson change his mind?",
@@ -12552,7 +12552,7 @@
    "date": "2026-06-01",
    "source": "Religious Studies Review",
    "authors": "Thomas M. Miller",
-   "category": "historia",
+   "category": "manuscritos",
    "kind": "periodico",
    "peer": true,
    "tags": [
@@ -12610,6 +12610,19 @@
     "Novo Testamento",
     "Interpretação e teologia"
    ]
+  },
+  {
+   "title_pt": "Introdução",
+   "title": "Introduction",
+   "url": "https://doi.org/10.1515/jemc-2026-3002",
+   "summary": "",
+   "date": "2026-06-01",
+   "source": "Journal of Early Modern Christianity",
+   "authors": "Marta Quatrale",
+   "category": "historia",
+   "kind": "periodico",
+   "peer": true,
+   "tags": []
   },
   {
    "title_pt": "Imagem, Religião e Rebelião: Uso e Ausência da Arte Combativa na Catalunha Moderna",
